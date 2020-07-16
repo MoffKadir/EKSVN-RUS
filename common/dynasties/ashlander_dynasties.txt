@@ -1,0 +1,770 @@
+#Ashlander Range: 150000-159999
+
+150001 = {
+	name="Вабдас"
+	culture = ashlander
+}
+150002 = {
+	name="Алму"
+	culture = ashlander
+}
+150003 = {
+	name="Ман-Илу"
+	culture = ashlander
+}
+150004 = {
+	name="Мантити"
+	culture = ashlander
+}
+150005 = {
+	name="Йахаз"
+	culture = ashlander
+}
+150006 = {
+	name="Зайнсубани"
+	culture = ashlander
+}
+150007 = {
+	name="Зама-Разур"
+	culture = ashlander
+}
+150008 = {
+	name="Абалькала"
+	culture = ashlander
+}
+150009 = {
+	name="Абельмавия"
+	culture = ashlander
+}
+150010 = {
+	name="Аддарари"
+	culture = ashlander
+}
+150011 = {
+	name="Аддарибантес"
+	culture = ashlander
+}
+150012 = {
+	name="Аддиниби"
+	culture = ashlander
+}
+150013 = {
+	name="Аддунипу"
+	culture = ashlander
+}
+150014 = {
+	name="Адидшина"
+	culture = ashlander
+}
+150015 = {
+	name="Адур-Дэн"
+	culture = ashlander
+}
+150016 = {
+	name="Ахалкалун"
+	culture = ashlander
+}
+150017 = {
+	name="Аханидиран"
+	culture = ashlander
+}
+150018 = {
+	name="Акин"
+	culture = ashlander
+}
+150019 = {
+	name="Анурнадаи"
+	culture = ashlander
+}
+150020 = {
+	name="Ашалкималлит"
+	culture = ashlander
+}
+150021 = {
+	name="Ашананапал"
+	culture = ashlander
+}
+150022 = {
+	name="Ашапаладдон"
+	culture = ashlander
+}
+150023 = {
+	name="Ашарапли"
+	culture = ashlander
+}
+150024 = {
+	name="Ашар-Дад"
+	culture = ashlander
+}
+150025 = {
+	name="Ашар-Дон"
+	culture = ashlander
+}
+150026 = {
+	name="Ашарналит"
+	culture = ashlander
+}
+150027 = {
+	name="Ашибаэль"
+	culture = ashlander
+}
+150028 = {
+	name="Аши-Иддан"
+	culture = ashlander
+}
+150029 = {
+	name="Аширбиби"
+	culture = ashlander
+}
+150030 = {
+	name="Ашишпалирдан"
+	culture = ashlander
+}
+150031 = {
+	name="Ашумаллит"
+	culture = ashlander
+}
+150032 = {
+	name="Ашумми-Аммус"
+	culture = ashlander
+}
+150033 = {
+	name="Ашунбаби"
+	culture = ashlander
+}
+150034 = {
+	name="Ашун-Идантус"
+	culture = ashlander
+}
+150035 = {
+	name="Ашурнасаддас"
+	culture = ashlander
+}
+150036 = {
+	name="Ашусширари"
+	culture = ashlander
+}
+150037 = {
+	name="Ассалатаммис"
+	culture = ashlander
+}
+150038 = {
+	name="Ассаннабалит"
+	culture = ashlander
+}
+150039 = {
+	name="Ассантиналит"
+	culture = ashlander
+}
+150040 = {
+	name="Ассаплит"
+	culture = ashlander
+}
+150041 = {
+	name="Ассарбебериб"
+	culture = ashlander
+}
+150042 = {
+	name="Ассардарайнат"
+	culture = ashlander
+}
+150043 = {
+	name="Ассардидариан"
+	culture = ashlander
+}
+150044 = {
+	name="Ассарнибани"
+	culture = ashlander
+}
+150045 = {
+	name="Ассарнуридан"
+	culture = ashlander
+}
+150046 = {
+	name="Ашшаррапанат"
+	culture = ashlander
+}
+150047 = {
+	name="Ассарримисун"
+	culture = ashlander
+}
+150048 = {
+	name="Ассаттадаишах"
+	culture = ashlander
+}
+150049 = {
+	name="Ассебириддан"
+	culture = ashlander
+}
+150050 = {
+	name="Ассемус"
+	culture = ashlander
+}
+150051 = {
+	name="Ассербассалит"
+	culture = ashlander
+}
+150052 = {
+	name="Ассерумуза"
+	culture = ashlander
+}
+150053 = {
+	name="Ассантиналит"
+	culture = ashlander
+}
+150054 = {
+	name="Ассинаби"
+	culture = ashlander
+}
+150055 = {
+	name="Ассинташиран"
+	culture = ashlander
+}
+150056 = {
+	name="Ассирнарари"
+	culture = ashlander
+}
+150057 = {
+	name="Ассониришпал"
+	culture = ashlander
+}
+150058 = {
+	name="Ашшудираплит"
+	culture = ashlander
+}
+150059 = {
+	name="Ашшудниламат"
+	culture = ashlander
+}
+150060 = {
+	name="Ассуллинбануд"
+	culture = ashlander
+}
+150061 = {
+	name="Ассуманаллит"
+	culture = ashlander
+}
+150062 = {
+	name="Ашшунбаханамму"
+	culture = ashlander
+}
+150063 = {
+	name="Ассунудаднуд"
+	culture = ashlander
+}
+150064 = {
+	name="Ассурнарайран"
+	culture = ashlander
+}
+150065 = {
+	name="Ашшурнипилу"
+	culture = ashlander
+}
+150066 = {
+	name="Ашшурнуманит"
+	culture = ashlander
+}
+150067 = {
+	name="Ашшурнумаусур"
+	culture = ashlander
+}
+150068 = {
+	name="Ассутладайнаб"
+	culture = ashlander
+}
+150069 = {
+	name="Ассултанипал"
+	culture = ashlander
+}
+150070 = {
+	name="Атинзабия"
+	culture = ashlander
+}
+150071 = {
+	name="Баэль"
+	culture = ashlander
+}
+150072 = {
+	name="Бенамамат"
+	culture = ashlander
+}
+150073 = {
+	name="Чодала"
+	culture = ashlander
+}
+150074 = {
+	name="Дарирнаддунумм"
+	culture = ashlander
+}
+150075 = {
+	name="Динадад"
+	culture = ashlander
+}
+150076 = {
+	name="Дуднебисун"
+	culture = ashlander
+}
+150077 = {
+	name="Дун-Аххе"
+	culture = ashlander
+}
+150078 = {
+	name="Дунсамси"
+	culture = ashlander
+}
+150079 = {
+	name="Эларрапал"
+	culture = ashlander
+}
+150080 = {
+	name="Энтурнабелул"
+	culture = ashlander
+}
+150081 = {
+	name="Эрайшах" 
+	culture = ashlander
+}
+150082 = {
+	name="Эрамареллаку"
+	culture = ashlander
+}
+150083 = {
+	name="Эрарбадон"
+	culture = ashlander
+}
+150084 = {
+	name="Эрушара"
+	culture = ashlander
+}
+150085 = {
+	name="Эсатлибаллит"
+	culture = ashlander
+}
+150086 = {
+	name="Эсуранат"
+	culture = ashlander
+}
+150087 = {
+	name="Эшурнадарпал"
+	culture = ashlander
+}
+150088 = {
+	name="Гиладрен"
+	culture = ashlander
+}
+150089 = {
+	name="Гилу"
+	culture = ashlander
+}
+150090 = {
+	name="Наиннабиби"
+	culture = ashlander
+}
+150091 = {
+	name="Хайнтерари"
+	culture = ashlander
+}
+150092 = {
+	name="Хайршашиши"
+	culture = ashlander
+}
+150093 = {
+	name="Хэйршумусса"
+	culture = ashlander
+}
+150094 = {
+	name="Хансар"
+	culture = ashlander
+}
+150095 = {
+	name="Илабаэль"
+	culture = ashlander
+}
+150096 = {
+	name="Илат-Пал"
+	culture = ashlander
+}
+150097 = {
+	name="Илурнубишпал"
+	culture = ashlander
+}
+150098 = {
+	name="Каушад"
+	culture = ashlander
+}
+150099 = {
+	name="Каушмаману"
+	culture = ashlander
+}
+150100 = {
+	name="Каушминипу"
+	culture = ashlander
+}
+150101 = {
+	name="Кил"
+	culture = ashlander
+}
+150102 = {
+	name="Куммиммидан"
+	culture = ashlander
+}
+150103 = {
+	name="Кунтарнамму"
+	culture = ashlander
+}
+150104 = {
+	name="Кутебани"
+	culture = ashlander
+}
+150105 = {
+	name="Лалансур"
+	culture = ashlander
+}
+150106 = {
+	name="Ласамси"
+	culture = ashlander
+}
+150107 = {
+	name="Ласербиллахемми"
+	culture = ashlander
+}
+150108 = {
+	name="Меса"
+	culture = ashlander
+}
+150109 = {
+	name="Мэссабиби"
+	culture = ashlander
+}
+150110 = {
+	name="Малииран"
+	culture = ashlander
+}
+150111 = {
+	name="Мальман-Амму"
+	culture = ashlander
+}
+150112 = {
+	name="Маннаналит"
+	culture = ashlander
+}
+150113 = {
+	name="Манташпи"
+	culture = ashlander
+}
+150114 = {
+	name="Масситисан"
+	culture = ashlander
+}
+150115 = {
+	name="Матлубериб"
+	culture = ashlander
+}
+150116 = {
+	name="Мибишанит"
+	culture = ashlander
+}
+150117 = {
+	name="Миратрерненум"
+	culture = ashlander
+}
+150118 = {
+	name="Мирпал"
+	culture = ashlander
+}
+150119 = {
+	name="Миршамамму"
+	culture = ashlander
+}
+150120 = {
+	name="Муддумумму"
+	culture = ashlander
+}
+150121 = {
+	name="Нерендус"
+	culture = ashlander
+}
+150122 = {
+	name="Ниладон"
+	culture = ashlander
+}
+150123 = {
+	name="Одимабешер"
+	culture = ashlander
+}
+150124 = {
+	name="Одайн-Аххе"
+	culture = ashlander
+}
+150125 = {
+	name="Одирнапал"
+	culture = ashlander
+}
+150126 = {
+	name="Пансамси"
+	culture = ashlander
+}
+150127 = {
+	name="Пудашара"
+	culture = ashlander
+}
+150128 = {
+	name="Пунтумисун"
+	culture = ashlander
+}
+150129 = {
+	name="Раданзур"
+	culture = ashlander
+}
+150130 = {
+	name="Ранарбатус"
+	culture = ashlander
+}
+150131 = {
+	name="Рапли"
+	culture = ashlander
+}
+150132 = {
+	name="Саддарнуран"
+	culture = ashlander
+}
+150133 = {
+	name="Сахарнаттурапли"
+	culture = ashlander
+}
+150134 = {
+	name="Саладнуис"
+	culture = ashlander
+}
+150135 = {
+	name="Салкатанат"
+	culture = ashlander
+}
+150136 = {
+	name="Сальву"
+	culture = ashlander
+}
+150137 = {
+	name="Самма"
+	culture = ashlander
+}
+150138 = {
+	name="Саммаламус"
+	culture = ashlander
+}
+150139 = {
+	name="Самси"
+	culture = ashlander
+}
+150140 = {
+	name="Санаммассур"
+	culture = ashlander
+}
+150141 = {
+	name="Сантуматус"
+	culture = ashlander
+}
+150142 = {
+	name="Зехабани"
+	culture = ashlander
+}
+150143 = {
+	name="Селитбаэль"
+	culture = ashlander
+}
+150144 = {
+	name="Селкин-Адда"
+	culture = ashlander
+}
+150145 = {
+	name="Сенатбаэль"
+	culture = ashlander
+}
+150146 = {
+	name="Сердимапал"
+	culture = ashlander
+}
+150147 = {
+	name="Серимилк"
+	culture = ashlander
+}
+150148 = {
+	name="Сершуррапал"
+	culture = ashlander
+}
+150149 = {
+	name="Шаларнетус"
+	culture = ashlander
+}
+150150 = {
+	name="Шамирбазур"
+	culture = ashlander
+}
+150151 = {
+	name="Шэнд"
+	culture = ashlander
+}
+150152 = {
+	name="Шашипал"
+	culture = ashlander
+}
+150153 = {
+	name="Шашмассамси"
+	culture = ashlander
+}
+150154 = {
+	name="Шиланзур"
+	culture = ashlander
+}
+150155 = {
+	name="Шиммабадас"
+	culture = ashlander
+}
+150156 = {
+	name="Шин-Илу"
+	culture = ashlander
+}
+150157 = {
+	name="Шинирбаэль"
+	culture = ashlander
+}
+150158 = {
+	name="Шишара"
+	culture = ashlander
+}
+150159 = {
+	name="Сиддурнанит"
+	culture = ashlander
+}
+150160 = {
+	name="Соббинисун"
+	culture = ashlander
+}
+150161 = {
+	name="Собдишапал"
+	culture = ashlander
+}
+150162 = {
+	name="Соннерралит"
+	culture = ashlander
+}
+150163 = {
+	name="Субаддамаэль"
+	culture = ashlander
+}
+150164 = {
+	name="Тансумиран"
+	culture = ashlander
+}
+150165 = {
+	name="Тибашипал"
+	culture = ashlander
+}
+150166 = {
+	name="Тиммириран"
+	culture = ashlander
+}
+150167 = {
+	name="Тимзар-Дадисун"
+	culture = ashlander
+}
+150168 = {
+	name="Удуднабия"
+	culture = ashlander
+}
+150169 = {
+	name="Уланнанит"
+	culture = ashlander
+}
+150170 = {
+	name="Уларшанентус"
+	culture = ashlander
+}
+150171 = {
+	name="Улирбаби"
+	culture = ashlander
+}
+150172 = {
+	name="Уршан-Адайран"
+	culture = ashlander
+}
+150173 = {
+	name="Уршуммарнамус"
+	culture = ashlander
+}
+150174 = {
+	name="Уршумуса"
+	culture = ashlander
+}
+150175 = {
+	name="Варнан-Адда"
+	culture = ashlander
+}
+150176 = {
+	name="Йансурнумму"
+	culture = ashlander
+}
+150177 = {
+	name="Йанумибаал"
+	culture = ashlander
+}
+150178 = {
+	name="Йасалмибаал"
+	culture = ashlander
+}
+150179 = {
+	name="Йассабисури"
+	culture = ashlander
+}
+150180 = {
+	name="Йентимилал"
+	culture = ashlander
+}
+150181 = {
+	name="Йессур-Дизадон"
+	culture = ashlander
+}
+150182 = {
+	name="Забамат"
+	culture = ashlander
+}
+150183 = {
+	name="Забинатус"
+	culture = ashlander
+}
+150184 = {
+	name="Заинаб"
+	culture = ashlander
+}
+150185 = {
+	name="Зайнташара"
+	culture = ashlander
+}
+150186 = {
+	name="Зансатанит"
+	culture = ashlander
+}
+150187 = {
+	name="Зеба-Адад"
+	culture = ashlander
+}
+150188 = {
+	name="Зельма-Алит"
+	culture = ashlander
+}
+150189 = {
+	name="Зенамму"
+	culture = ashlander
+}
+150190 = {
+	name="Уршилаку"
+	culture = ashlander
+}
+150191 = {
+	name="Эрабенимсун"
+	culture = ashlander
+}
+150192 = {
+	name="Ахеммуза"
+	culture = ashlander
+}

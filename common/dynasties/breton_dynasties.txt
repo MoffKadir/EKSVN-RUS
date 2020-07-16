@@ -1,0 +1,2445 @@
+#Breton Range: 90000-99999
+
+90000 = {
+	name="Аквес"
+	culture=breton
+}
+
+90001 = {
+	name="Адманд"
+	culture=breton
+}
+
+90002 = {
+	name="Адрард"
+	culture=breton
+}
+
+90003 = {
+	name="Адрогниз"
+	culture=breton
+}
+
+90004 = {
+	name="Этелред"
+	culture=breton
+}
+
+90005 = {
+	name="Вайтли"
+	culture=breton
+}
+
+90006 = {
+	name="Алуэтт"
+	culture=breton
+}
+
+90007 = {
+	name="Амеди"
+	culture=breton
+}
+
+90008 = {
+	name="Амелион"
+	culture=breton
+}
+
+90009 = {
+	name="Анкуа"
+	culture=breton
+}
+
+90010 = {
+	name="Арик"
+	culture=breton
+}
+
+90011 = {
+	name="Арне"
+	culture=breton
+}
+
+90012 = {
+	name="Арте"
+	culture=breton
+}
+
+90013 = {
+	name="Ашкрофт"
+	culture=breton
+}
+
+90014 = {
+	name="Ашфилд"
+	culture=breton
+}
+
+90015 = {
+	name="Ашфорд"
+	culture=breton
+}
+
+90016 = {
+	name="Ашхам"
+	culture=breton
+}
+
+90017 = {
+	name="Ашхарт"
+	culture=breton
+}
+
+90018 = {
+	name="Ашхаус"
+	culture=breton
+}
+
+90019 = {
+	name="Ашинг"
+	culture=breton
+}
+
+90020 = {
+	name="Ашслей"
+	culture=breton
+}
+
+90021 = {
+	name="Ашсли"
+	culture=breton
+}
+
+90022 = {
+	name="Ашсмит"
+	culture=breton
+}
+
+90023 = {
+	name="Ашстон"
+	culture=breton
+}
+
+90024 = {
+	name="Аштон"
+	culture=breton
+}
+
+90025 = {
+	name="Ашвинг"
+	culture=breton
+}
+
+90026 = {
+	name="Аулин"
+	culture=breton
+}
+
+90027 = {
+	name="Омили"
+	culture=breton
+}
+
+90028 = {
+	name="Аурели"
+	culture=breton
+}
+
+90029 = {
+	name="Аурили"
+	culture=breton
+}
+
+90030 = {
+	name="Ормин"
+	culture=breton
+}
+
+90031 = {
+	name="Бантьен"
+	culture=breton
+}
+
+90032 = {
+	name="Беаник"
+	culture=breton
+}
+
+90033 = {
+	name="Бошан"
+	culture=breton
+}
+
+90034 = {
+	name="Бофорт"
+	culture=breton
+}
+
+90035 = {
+	name="Белетт"
+	culture=breton
+}
+
+90036 = {
+	name="Белламонт"
+	culture=breton
+}
+
+90037 = {
+	name="Белюэль"
+	culture=breton
+}
+
+90038 = {
+	name="Берен"
+	culture=breton
+}
+
+90039 = {
+	name="Биэлль"
+	culture=breton
+}
+
+90040 = {
+	name="Биенне"
+	culture=breton
+}
+
+90041 = {
+	name="Бирлес"
+	culture=breton
+}
+
+90042 = {
+	name="Бинкал"
+	culture=breton
+}
+
+90043 = {
+	name="Бириан"
+	culture=breton
+}
+
+90044 = {
+	name="Блэкли"
+	culture=breton
+}
+
+90045 = {
+	name="Муаль"
+	culture=breton
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 13
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+90046 = {
+	name="Бранк"
+	culture=breton
+}
+
+90047 = {
+	name="Бриджетт"
+	culture=breton
+}
+
+90048 = {
+	name="Брод"
+	culture=breton
+}
+
+90049 = {
+	name="Бролес"
+	culture=breton
+}
+
+90050 = {
+	name="Бролус"
+	culture=breton
+}
+
+90051 = {
+	name="Бруйант"
+	culture=breton
+}
+
+90052 = {
+	name="Брутия"
+	culture=breton
+}
+
+90053 = {
+	name="Букингкрофт"
+	culture=breton
+}
+
+90054 = {
+	name="Букингфилд"
+	culture=breton
+}
+
+90055 = {
+	name="Букингфорд"
+	culture=breton
+}
+
+90056 = {
+	name="Букингхам"
+	culture=breton
+}
+
+90057 = {
+	name="Букингхарт"
+	culture=breton
+}
+
+90058 = {
+	name="Букингхаус"
+	culture=breton
+}
+
+90059 = {
+	name="Букингинг"
+	culture=breton
+}
+
+90060 = {
+	name="Букингслей"
+	culture=breton
+}
+
+90061 = {
+	name="Букингсли"
+	culture=breton
+}
+
+90062 = {
+	name="Букингсмит"
+	culture=breton
+}
+
+90063 = {
+	name="Букингстон"
+	culture=breton
+}
+
+90064 = {
+	name="Букингтон"
+	culture=breton
+}
+
+90065 = {
+	name="Букингвинг"
+	culture=breton
+}
+
+90066 = {
+	name="Канн"
+	culture=breton
+}
+
+90067 = {
+	name="Кариа"
+	culture=breton
+}
+
+90068 = {
+	name="Каристиана"
+	culture=breton
+}
+
+90069 = {
+	name="Чаннита"
+	culture=breton
+}
+
+90070 = {
+	name="Хараскель"
+	culture=breton
+}
+
+90071 = {
+	name="Чарин"
+	culture=breton
+}
+
+90072 = {
+	name="Хридитте"
+	culture=breton
+}
+
+90073 = {
+	name="Сиенн"
+	culture=breton
+}
+
+90074 = {
+	name="Копперкрофт"
+	culture=breton
+}
+
+90075 = {
+	name="Копперфилд"
+	culture=breton
+}
+
+90076 = {
+	name="Копперфорд"
+	culture=breton
+}
+
+90077 = {
+	name="Копперхам"
+	culture=breton
+}
+
+90078 = {
+	name="Копперхарт"
+	culture=breton
+}
+
+90079 = {
+	name="Копперхаус"
+	culture=breton
+}
+
+90080 = {
+	name="Копперинг"
+	culture=breton
+}
+
+90081 = {
+	name="Копперслей"
+	culture=breton
+}
+
+90082 = {
+	name="Копперсли"
+	culture=breton
+}
+
+90083 = {
+	name="Копперсмит"
+	culture=breton
+}
+
+90084 = {
+	name="Копперстон"
+	culture=breton
+}
+
+90085 = {
+	name="Коппертон"
+	culture=breton
+}
+
+90086 = {
+	name="Коппервинг"
+	culture=breton
+}
+
+90087 = {
+	name="Коржин"
+	culture=breton
+}
+
+90088 = {
+	name="Даломакс"
+	culture=breton
+}
+
+90089 = {
+	name="Дениль"
+	culture=breton
+}
+
+90090 = {
+	name="Дезель"
+	culture=breton
+}
+
+90091 = {
+	name="Диэль"
+	culture=breton
+}
+
+90092 = {
+	name="Долбанитте"
+	culture=breton
+}
+
+90093 = {
+	name="Драконис"
+	culture=breton
+}
+
+90094 = {
+	name="Дюфон"
+	culture=breton
+}
+
+90095 = {
+	name="Тамрит"
+	culture=breton
+}
+
+90096 = {
+	name="Элберт"
+	culture=breton
+}
+
+90097 = {
+	name="Энке"
+	culture=breton
+}
+
+90098 = {
+	name="Эндел"
+	culture=breton
+}
+
+90099 = {
+	name="Эндре"
+	culture=breton
+}
+
+90100 = {
+	name="Эфайн"
+	culture=breton
+}
+
+90101 = {
+	name="Эрели"
+	culture=breton
+}
+
+90102 = {
+	name="Эргалла"
+	culture=breton
+}
+
+90103 = {
+	name="Эрвин"
+	culture=breton
+}
+
+90104 = {
+	name="Фанис"
+	culture=breton
+}
+
+90105 = {
+	name="Фанриен"
+	culture=breton
+}
+
+90106 = {
+	name="Фарр"
+	culture=breton
+}
+
+90107 = {
+	name="Фестиниус"
+	culture=breton
+}
+
+90108 = {
+	name="Фралини"
+	culture=breton
+}
+
+90109 = {
+	name="Фралмотон"
+	culture=breton
+}
+
+90110 = {
+	name="Франс"
+	culture=breton
+}
+
+90111 = {
+	name="Франсорик"
+	culture=breton
+}
+
+90112 = {
+	name="Френк"
+	culture=breton
+}
+
+90113 = {
+	name="Фрернис"
+	culture=breton
+}
+
+90114 = {
+	name="Фрей"
+	culture=breton
+}
+
+90115 = {
+	name="Гаеркрофт"
+	culture=breton
+}
+
+90116 = {
+	name="Гаерфилд"
+	culture=breton
+}
+
+90117 = {
+	name="Гаерфорд"
+	culture=breton
+}
+
+90118 = {
+	name="Гаерхам"
+	culture=breton
+}
+
+90119 = {
+	name="Гаерхарт"
+	culture=breton
+}
+
+90120 = {
+	name="Гаерхаус"
+	culture=breton
+}
+
+90121 = {
+	name="Гаеринг"
+	culture=breton
+}
+
+90122 = {
+	name="Гаерслей"
+	culture=breton
+}
+
+90123 = {
+	name="Гаерсли"
+	culture=breton
+}
+
+90124 = {
+	name="Гаерсмит"
+	culture=breton
+}
+
+90125 = {
+	name="Гаерстон"
+	culture=breton
+}
+
+90126 = {
+	name="Гаертон"
+	culture=breton
+}
+
+90127 = {
+	name="Гаервинг"
+	culture=breton
+}
+
+90128 = {
+	name="Галена"
+	culture=breton
+}
+
+90129 = {
+	name="Гальен"
+	culture=breton
+}
+
+90130 = {
+	name="Гейн"
+	culture=breton
+}
+
+90131 = {
+	name="Гавей"
+	culture=breton
+}
+
+90132 = {
+	name="Гелес"
+	culture=breton
+}
+
+90133 = {
+	name="Гемайн"
+	culture=breton
+}
+
+90134 = {
+	name="Гемейн"
+	culture=breton
+}
+
+90135 = {
+	name="Гене"
+	culture=breton
+}
+
+90136 = {
+	name="Генис"
+	culture=breton
+}
+
+90137 = {
+	name="Жеонет"
+	culture=breton
+}
+
+90138 = {
+	name="Геонтин"
+	culture=breton
+}
+
+90139 = {
+	name="Жеорик"
+	culture=breton
+}
+
+90140 = {
+	name="Гернанд"
+	culture=breton
+}
+
+90141 = {
+	name="Гернис"
+	culture=breton
+}
+
+90142 = {
+	name="Гестор"
+	culture=breton
+}
+
+90143 = {
+	name="Гевес"
+	culture=breton
+}
+
+90144 = {
+	name="Джиель"
+	culture=breton
+}
+
+90145 = {
+	name="Голдвин"
+	culture=breton
+}
+
+90146 = {
+	name="Гонелд"
+	culture=breton
+}
+
+90147 = {
+	name="Гринкрофт"
+	culture=breton
+}
+
+90148 = {
+	name="Гринфилд"
+	culture=breton
+}
+
+90149 = {
+	name="Гринфорд"
+	culture=breton
+}
+
+90150 = {
+	name="Гринхам"
+	culture=breton
+}
+
+90151 = {
+	name="Гринхарт"
+	culture=breton
+}
+
+90152 = {
+	name="Гринхаус"
+	culture=breton
+}
+
+90153 = {
+	name="Грининг"
+	culture=breton
+}
+
+90154 = {
+	name="Гринслей"
+	culture=breton
+}
+
+90155 = {
+	name="Гринсли"
+	culture=breton
+}
+
+90156 = {
+	name="Гринсми"
+	culture=breton
+}
+
+90157 = {
+	name="Гринстон"
+	culture=breton
+}
+
+90158 = {
+	name="Гринтон"
+	culture=breton
+}
+
+90159 = {
+	name="Гринвинг"
+	culture=breton
+}
+
+90160 = {
+	name="Гевен"
+	culture=breton
+}
+
+90161 = {
+	name="Гулитт"
+	culture=breton
+}
+
+90162 = {
+	name="Гастиен"
+	culture=breton
+}
+
+90163 = {
+	name="Хоккрофт"
+	culture=breton
+}
+
+90164 = {
+	name="Хокфилд"
+	culture=breton
+}
+
+90165 = {
+	name="Хокфорд"
+	culture=breton
+}
+
+90166 = {
+	name="Хокхам"
+	culture=breton
+}
+
+90167 = {
+	name="Хокхарт"
+	culture=breton
+}
+
+90168 = {
+	name="Хокхаус"
+	culture=breton
+}
+
+90169 = {
+	name="Хокинг"
+	culture=breton
+}
+
+90170 = {
+	name="Хокслей"
+	culture=breton
+}
+
+90171 = {
+	name="Хоксли"
+	culture=breton
+}
+
+90172 = {
+	name="Хоксмит"
+	culture=breton
+}
+
+90173 = {
+	name="Хокстон"
+	culture=breton
+}
+
+90174 = {
+	name="Хоктон"
+	culture=breton
+}
+
+90175 = {
+	name="Хоквинг"
+	culture=breton
+}
+
+90176 = {
+	name="Харткрофт"
+	culture=breton
+}
+
+90177 = {
+	name="Хартфилд"
+	culture=breton
+}
+
+90178 = {
+	name="Хартфорд"
+	culture=breton
+}
+
+90179 = {
+	name="Хартхам"
+	culture=breton
+}
+
+90180 = {
+	name="Хартхарт"
+	culture=breton
+}
+
+90181 = {
+	name="Хартхаус"
+	culture=breton
+}
+
+90182 = {
+	name="Хартинг"
+	culture=breton
+}
+
+90183 = {
+	name="Хартслей"
+	culture=breton
+}
+
+90184 = {
+	name="Хартсли"
+	culture=breton
+}
+
+90185 = {
+	name="Хартсмит"
+	culture=breton
+}
+
+90186 = {
+	name="Хартстон"
+	culture=breton
+}
+
+90187 = {
+	name="Харттон"
+	culture=breton
+}
+
+90188 = {
+	name="Хартвинг"
+	culture=breton
+}
+
+90189 = {
+	name="Херрик"
+	culture=breton
+}
+
+90190 = {
+	name="Ходж"
+	culture=breton
+}
+
+90191 = {
+	name="Хатч"
+	culture=breton
+}
+
+90192 = {
+	name="Ильден"
+	culture=breton
+}
+
+90193 = {
+	name="Имбел"
+	culture=breton
+}
+
+90194 = {
+	name="Джасталь"
+	culture=breton
+}
+
+90195 = {
+	name="Женар"
+	culture=breton
+}
+
+90196 = {
+	name="Джинни"
+	culture=breton
+}
+
+90197 = {
+	name="Джелин"
+	culture=breton
+}
+
+90198 = {
+	name="Джемейн"
+	culture=breton
+}
+
+90199 = {
+	name="Дженд"
+	culture=breton
+}
+
+90200 = {
+	name="Дженсерик"
+	culture=breton
+}
+
+90201 = {
+	name="Джес"
+	culture=breton
+}
+
+90202 = {
+	name="Джодойн"
+	culture=breton
+}
+
+90203 = {
+	name="Джольванне"
+	culture=breton
+}
+
+90204 = {
+	name="Жондрель"
+	culture=breton
+}
+
+90205 = {
+	name="Джуиллен"
+	culture=breton
+}
+
+90206 = {
+	name="Джулаланье"
+	culture=breton
+}
+
+90207 = {
+	name="Журар"
+	culture=breton
+}
+
+90208 = {
+	name="Касловин"
+	culture=breton
+}
+
+90209 = {
+	name="Кингкрофт"
+	culture=breton
+}
+
+90210 = {
+	name="Кингфилд"
+	culture=breton
+}
+
+90211 = {
+	name="Кингфорд"
+	culture=breton
+}
+
+90212 = {
+	name="Кингхам"
+	culture=breton
+}
+
+90213 = {
+	name="Кингхарт"
+	culture=breton
+}
+
+90214 = {
+	name="Кингхаус"
+	culture=breton
+}
+
+90215 = {
+	name="Кингинг"
+	culture=breton
+}
+
+90216 = {
+	name="Кингслей"
+	culture=breton
+}
+
+90217 = {
+	name="Кингсли"
+	culture=breton
+}
+
+90218 = {
+	name="Кингсмит"
+	culture=breton
+}
+
+90219 = {
+	name="Кингстон"
+	culture=breton
+}
+
+90220 = {
+	name="Кингтон"
+	culture=breton
+}
+
+90221 = {
+	name="Кингвинг"
+	culture=breton
+}
+
+90222 = {
+	name="Кирбата"
+	culture=breton
+}
+
+90223 = {
+	name="Лябуш"
+	culture=breton
+}
+
+90224 = {
+	name="Лашанс"
+	culture=breton
+}
+
+90225 = {
+	name="Лалипп"
+	culture=breton
+}
+
+90226 = {
+	name="Ляруш"
+	culture=breton
+}
+
+90227 = {
+	name="Лол"
+	culture=breton
+}
+
+90228 = {
+	name="Леланд"
+	culture=breton
+}
+
+90229 = {
+	name="Леллес"
+	culture=breton
+}
+
+90230 = {
+	name="Лемонд"
+	culture=breton
+}
+
+90231 = {
+	name="Гарднер"
+	culture=breton
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 7
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+90232 = {
+	name="Леориан"
+	culture=breton
+}
+
+90233 = {
+	name="Летруш"
+	culture=breton
+}
+
+90234 = {
+	name="Лимакс"
+	culture=breton
+}
+
+90235 = {
+	name="Лиоре"
+	culture=breton
+}
+
+90236 = {
+	name="Лирик"
+	culture=breton
+}
+
+90237 = {
+	name="Лирриан"
+	culture=breton
+}
+
+90238 = {
+	name="Литт"
+	culture=breton
+}
+
+90239 = {
+	name="Лок"
+	culture=breton
+}
+
+90240 = {
+	name="Лотар"
+	culture=breton
+}
+
+90241 = {
+	name="Лузеф"
+	culture=breton
+}
+
+90242 = {
+	name="Лилвив"
+	culture=breton
+}
+
+90243 = {
+	name="Маборель"
+	culture=breton
+}
+
+90244 = {
+	name="Мациль"
+	culture=breton
+}
+
+90245 = {
+	name="Мадач"
+	culture=breton
+}
+
+90246 = {
+	name="Магиус"
+	culture=breton
+}
+
+90247 = {
+	name="Малейн"
+	culture=breton
+}
+
+90248 = {
+	name="Меллори"
+	culture=breton
+}
+
+90249 = {
+	name="Манетт"
+	culture=breton
+}
+
+90250 = {
+	name="Манис"
+	culture=breton
+}
+
+90251 = {
+	name="Манник"
+	culture=breton
+}
+
+90252 = {
+	name="Маран"
+	culture=breton
+}
+
+90253 = {
+	name="Маренс"
+	culture=breton
+}
+
+90254 = {
+	name="Марик"
+	culture=breton
+}
+
+90255 = {
+	name="Мари"
+	culture=breton
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 34
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+90256 = {
+	name="Марквардт"
+	culture=breton
+}
+
+90257 = {
+	name="Масолауд"
+	culture=breton
+}
+
+90258 = {
+	name="Масориан"
+	culture=breton
+}
+
+90259 = {
+	name="Мастеркрофт"
+	culture=breton
+}
+
+90260 = {
+	name="Мастерфилд"
+	culture=breton
+}
+
+90261 = {
+	name="Мастерфорд"
+	culture=breton
+}
+
+90262 = {
+	name="Мастерхам"
+	culture=breton
+}
+
+90263 = {
+	name="Мастерхарт"
+	culture=breton
+}
+
+90264 = {
+	name="Мастерхаус"
+	culture=breton
+}
+
+90265 = {
+	name="Мастеринг"
+	culture=breton
+}
+
+90266 = {
+	name="Мастерслей"
+	culture=breton
+}
+
+90267 = {
+	name="Мастерсли"
+	culture=breton
+}
+
+90268 = {
+	name="Мастерсмит"
+	culture=breton
+}
+
+90269 = {
+	name="Мастерстон"
+	culture=breton
+}
+
+90270 = {
+	name="Мастертон"
+	culture=breton
+}
+
+90271 = {
+	name="Мастервинг"
+	culture=breton
+}
+
+90272 = {
+	name="Мастьен"
+	culture=breton
+}
+
+90273 = {
+	name="Мастон"
+	culture=breton
+}
+
+90274 = {
+	name="Матрейнас"
+	culture=breton
+}
+
+90275 = {
+	name="Дорелл"
+	culture=breton
+}
+
+90276 = {
+	name="Маулини"
+	culture=breton
+}
+
+90277 = {
+	name="Маурард"
+	culture=breton
+}
+
+90278 = {
+	name="Мели"
+	culture=breton
+}
+
+90279 = {
+	name="Мин"
+	culture=breton
+}
+
+90280 = {
+	name="Меркард"
+	culture=breton
+}
+
+90281 = {
+	name="Мериан"
+	culture=breton
+}
+
+90282 = {
+	name="Мерик"
+	culture=breton
+}
+
+90283 = {
+	name="Меровальд"
+	culture=breton
+}
+
+90284 = {
+	name="Метрик"
+	culture=breton
+}
+
+90285 = {
+	name="Милиэлле"
+	culture=breton
+}
+
+90286 = {
+	name="Милван"
+	culture=breton
+}
+
+90287 = {
+	name="Мон"
+	culture=breton
+}
+
+90288 = {
+	name="Мона"
+	culture=breton
+}
+
+90289 = {
+	name="Моне"
+	culture=breton
+}
+
+90290 = {
+	name="Мониэль"
+	culture=breton
+}
+
+90291 = {
+	name="Монтроз"
+	culture=breton
+}
+
+90292 = {
+	name="Муркрофт"
+	culture=breton
+}
+
+90293 = {
+	name="Мурфильд"
+	culture=breton
+}
+
+90294 = {
+	name="Мурфорд"
+	culture=breton
+}
+
+90295 = {
+	name="Мурхам"
+	culture=breton
+}
+
+90296 = {
+	name="Мурхарт"
+	culture=breton
+}
+
+90297 = {
+	name="Мурхаус"
+	culture=breton
+}
+
+90298 = {
+	name="Муринг"
+	culture=breton
+}
+
+90299 = {
+	name="Мурслей"
+	culture=breton
+}
+
+90300 = {
+	name="Мурсли"
+	culture=breton
+}
+
+90301 = {
+	name="Мурсмит"
+	culture=breton
+}
+
+90302 = {
+	name="Мурстон"
+	culture=breton
+}
+
+90303 = {
+	name="Муртон"
+	culture=breton
+}
+
+90304 = {
+	name="Мурвинг"
+	culture=breton
+}
+
+90305 = {
+	name="Морнардл"
+	culture=breton
+}
+
+90306 = {
+	name="Моррард"
+	culture=breton
+}
+
+90307 = {
+	name="Мотьер"
+	culture=breton
+}
+
+90308 = {
+	name="Натан"
+	culture=breton
+}
+
+90309 = {
+	name="Нермарк"
+	culture=breton
+}
+
+90310 = {
+	name="Нестал"
+	culture=breton
+}
+
+90311 = {
+	name="Нин"
+	culture=breton
+}
+
+90312 = {
+	name="Норсвод"
+	culture=breton
+}
+
+90313 = {
+	name="Нитт"
+	culture=breton
+}
+
+90314 = {
+	name="Огес"
+	culture=breton
+}
+
+90315 = {
+	name="Онис"
+	culture=breton
+}
+
+90316 = {
+	name="Оттус"
+	culture=breton
+}
+
+90317 = {
+	name="Палиэлль"
+	culture=breton
+}
+
+90318 = {
+	name="Паноит"
+	culture=breton
+}
+
+90319 = {
+	name="Пенелис"
+	culture=breton
+}
+
+90320 = {
+	name="Перрик"
+	culture=breton
+}
+
+90321 = {
+	name="Петит"
+	culture=breton
+}
+
+90322 = {
+	name="Финкель"
+	culture=breton
+}
+
+90323 = {
+	name="Филулани"
+	culture=breton
+}
+
+90324 = {
+	name="Фирриэнель"
+	culture=breton
+}
+
+90325 = {
+	name="Пиррейн"
+	culture=breton
+}
+
+90326 = {
+	name="Рейн"
+	culture=breton
+}
+
+90327 = {
+	name="Рарнис"
+	culture=breton
+}
+
+90328 = {
+	name="Рено"
+	culture=breton
+}
+
+90329 = {
+	name="Ренуа"
+	culture=breton
+}
+
+90330 = {
+	name="Ретене"
+	culture=breton
+}
+
+90331 = {
+	name="Ретьен"
+	culture=breton
+}
+
+90332 = {
+	name="Риэлль"
+	culture=breton
+}
+
+90333 = {
+	name="Рирн"
+	culture=breton
+}
+
+90334 = {
+	name="Рискель"
+	culture=breton
+}
+
+90335 = {
+	name="Ролен"
+	culture=breton
+}
+
+90336 = {
+	name="Ролстон"
+	culture=breton
+}
+
+90337 = {
+	name="Росторард"
+	culture=breton
+}
+
+90338 = {
+	name="Сан"
+	culture=breton
+}
+
+90339 = {
+	name="Сель"
+	culture=breton
+}
+
+90340 = {
+	name="Селон"
+	culture=breton
+}
+
+90341 = {
+	name="Сетт"
+	culture=breton
+}
+
+90342 = {
+	name="Сидрей"
+	culture=breton
+}
+
+90343 = {
+	name="Синтав"
+	culture=breton
+}
+
+90344 = {
+	name="Синтив"
+	culture=breton
+}
+
+90345 = {
+	name="Стедрин"
+	culture=breton
+}
+
+90346 = {
+	name="Стегин"
+	culture=breton
+}
+
+90347 = {
+	name="Стентор"
+	culture=breton
+}
+
+90348 = {
+	name="Стиве"
+	culture=breton
+}
+
+90349 = {
+	name="Стойн"
+	culture=breton
+}
+
+90350 = {
+	name="Страуд"
+	culture=breton
+}
+
+90351 = {
+	name="Сурили"
+	culture=breton
+}
+
+90352 = {
+	name="Сильбенитт"
+	culture=breton
+}
+
+90353 = {
+	name="Таилас"
+	culture=breton
+}
+
+90354 = {
+	name="Тьерри"
+	culture=breton
+}
+
+90355 = {
+	name="Тилвальд"
+	culture=breton
+}
+
+90356 = {
+	name="Травен"
+	culture=breton
+}
+
+90357 = {
+	name="Туссо"
+	culture=breton
+}
+
+90358 = {
+	name="Вальтиери"
+	culture=breton
+}
+
+90359 = {
+	name="Ванн"
+	culture=breton
+}
+
+90360 = {
+	name="Вант"
+	culture=breton
+}
+
+90361 = {
+	name="Вотрин"
+	culture=breton
+}
+
+90362 = {
+	name="Велэн"
+	culture=breton
+}
+
+90363 = {
+	name="Ветт"
+	culture=breton
+}
+
+90364 = {
+	name="Виернис"
+	culture=breton
+}
+
+90365 = {
+	name="Виралайн"
+	culture=breton
+}
+
+90366 = {
+	name="Виран"
+	culture=breton
+}
+
+90367 = {
+	name="Вирмаулиз"
+	culture=breton
+}
+
+90368 = {
+	name="Виккрофт"
+	culture=breton
+}
+
+90369 = {
+	name="Викфилд"
+	culture=breton
+}
+
+90370 = {
+	name="Викфорд"
+	culture=breton
+}
+
+90371 = {
+	name="Викхам"
+	culture=breton
+}
+
+90372 = {
+	name="Викхарт"
+	culture=breton
+}
+
+90373 = {
+	name="Викхаус"
+	culture=breton
+}
+
+90374 = {
+	name="Викин"
+	culture=breton
+}
+
+90375 = {
+	name="Викслей"
+	culture=breton
+}
+
+90376 = {
+	name="Виксли"
+	culture=breton
+}
+
+90377 = {
+	name="Виксмит"
+	culture=breton
+}
+
+90378 = {
+	name="Викстон"
+	culture=breton
+}
+
+90379 = {
+	name="Виктон"
+	culture=breton
+}
+
+90380 = {
+	name="Виквинг"
+	culture=breton
+}
+
+90381 = {
+	name="Вирич"
+	culture=breton
+}
+
+90382 = {
+	name="Вудкрофт"
+	culture=breton
+}
+
+90383 = {
+	name="Вудфилд"
+	culture=breton
+}
+
+90384 = {
+	name="Вудфорд"
+	culture=breton
+}
+
+90385 = {
+	name="Вудхам"
+	culture=breton
+}
+
+90386 = {
+	name="Вудхарт"
+	culture=breton
+}
+
+90387 = {
+	name="Вудхаус"
+	culture=breton
+}
+
+90388 = {
+	name="Вудинг"
+	culture=breton
+}
+
+90389 = {
+	name="Вудслей"
+	culture=breton
+}
+
+90390 = {
+	name="Вудсли"
+	culture=breton
+}
+
+90391 = {
+	name="Вудсмит"
+	culture=breton
+}
+
+90392 = {
+	name="Вудстон"
+	culture=breton
+}
+
+90393 = {
+	name="Вудтон"
+	culture=breton
+}
+
+90394 = {
+	name="Вудвинг"
+	culture=breton
+}
+
+90395 = {
+	name="Йамкрофт"
+	culture=breton
+}
+
+90396 = {
+	name="Йамфилд"
+	culture=breton
+}
+
+90397 = {
+	name="Йамфорд"
+	culture=breton
+}
+
+90398 = {
+	name="Йамхам"
+	culture=breton
+}
+
+90399 = {
+	name="Йамхарт"
+	culture=breton
+}
+
+90400 = {
+	name="Йамхаус"
+	culture=breton
+}
+
+90401 = {
+	name="Йаминг"
+	culture=breton
+}
+
+90402 = {
+	name="Йамслей"
+	culture=breton
+}
+
+90403 = {
+	name="Йамсли"
+	culture=breton
+}
+
+90404 = {
+	name="Йамсмит"
+	culture=breton
+}
+
+90405 = {
+	name="Йамстон"
+	culture=breton
+}
+
+90406 = {
+	name="Йамтон"
+	culture=breton
+}
+
+90407 = {
+	name="Йамвинг"
+	culture=breton
+}
+
+90408 = {
+	name="Искиэль"
+	culture=breton
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 10
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+90409 = {
+	name="Ивиэнн"
+	culture=breton
+}
+90410 = {
+	name = "Ленколиа"
+	culture = breton
+}
+90411 = {
+	name = "Хорли"
+	culture = breton
+}
+90412 = {
+	name = "Камберленд"
+	culture = breton
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 8
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90413 = {
+	name = "Викланд"
+	culture = breton
+}
+90414 = {
+	name = "Воделанд"
+	culture = breton
+}
+90415 = {
+	name = "Мурланд"
+	culture = breton
+}
+90416 = {
+	name = "Крофтланд"
+	culture = breton
+}
+90417 = {
+	name = "Гарленд"
+	culture = breton
+}
+90418 = {
+	name = "Йеоленд"
+	culture = breton
+}
+90419 = {
+	name = "Олдленд"
+	culture = breton
+}
+90420 = {
+	name = "Нортланд"
+	culture = breton
+}
+90421 = {
+	name = "Лариат"
+	culture = breton
+}
+90422 = {
+	name = "Тарн"
+	culture = nibenean
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 11
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90423 = {
+	name = "Вудборн"
+	culture = breton
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 9
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90424 = {
+	name = "Джарт"
+	culture = breton
+}
+90425 = {
+	name = "Кобурн"
+	culture = breton
+}
+90426 = {
+	name = "Баггльдонф"
+	culture = breton
+}
+90427 = {
+	name = "Вифллингтон"
+	culture = breton
+}
+90428 = {
+	name = "Сметворфи"
+	culture = breton
+}
+90429 = {
+	name = "Скеффингтон"
+	culture = breton
+}
+90430 = {
+	name = "Лонглит"
+	culture = breton
+}
+90431 = {
+	name = "из Вэйреста"
+	culture = breton
+}
+90432 = {
+	name = "Перси"
+	culture = breton
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 12
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90433 = {
+	name = "Гимар"
+	culture = breton
+}
+90434 = {
+	name = "Лоурд"
+	culture = breton
+}
+90435 = {
+	name = "Энтьер"
+	culture = breton
+}
+90436 = {
+	name = "Сноу"
+	culture = breton
+}
+
+90437 = {
+	name = "Обиньи"
+	culture = breton
+}
+90438 = {
+	name = "Драварол"
+	culture = breton
+}
+90439 = {
+	name = "Делейн"
+	culture = breton
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 32
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+90440 = {
+	name = "из Залива Илиак"
+	culture = breton
+}
+90441 = {
+	name = "Кошам"
+	culture = breton
+}
+
+90442 = {
+	name = "Бранкет"
+	culture = breton
+}
+
+90443 = {
+	name="Мол"
+	culture=breton
+}
+
+90444 = {
+	name="Идвульф"
+	culture=breton
+}
+
+90445 = {
+	name="Монклер"
+	culture=breton
+}
+
+90446 = {
+	name="Рейвенвотч"
+	culture=breton
+}
+
+90447 = {
+	name="Готье"
+	culture=breton
+}
+
+90448 = {
+	name = "Вюиттон"
+	culture = breton
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 28
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+90449 = {
+	name = "Кубитт"
+	culture = breton
+	used_for_random=no
+}
+90450 = {
+	name = "Саммерс"
+	culture = breton
+	used_for_random=no
+}
+90451 = {
+	name = "Саларт"
+	culture = breton
+}
+90452 ={
+	name = "Жардинер"
+	culture = breton
+}
+90453 ={
+	name = "Жардинер"
+	culture = breton
+}
+90454 ={
+	name = "Менайер"
+	culture = breton
+}
+90455 ={
+	name = "Эрдвир"
+	culture = breton
+}
+90456 ={
+	name = "Гардвир"
+	culture = breton
+}
+90457 ={
+	name = "Фенвир"
+	culture = breton
+}
+90458 ={
+	name = "Хардвир"
+	culture = breton
+}
+90459 ={
+	name = "Амаэтвир"
+	culture = breton
+}
+90460 ={
+	name = "Кледдитвир"
+	culture = breton
+}
+90461 ={
+	name = "Гарклей"
+	culture = breton
+}
+90462 ={
+	name = "Виен"
+	culture = breton
+}
+90463 ={
+	name = "Монтани"
+	culture = breton
+}
+90464 ={
+	name = "Дагвер"
+	culture = breton
+}
+
+90465 = {
+	name = "Винир"
+	culture = breton
+}
+
+90466 = {
+	name = "Ренир"
+	culture = breton
+}
+
+90467 = {
+	name = "Гай Мард"
+	culture = breton
+}
+
+90468 = {
+	name = "Флаудис"
+	culture = breton
+}
+
+90469 = {
+	name = "Тровойс"
+	culture = breton
+}
+
+90470 = {
+	name = "Кларк"
+	culture = breton
+	used_for_random = no
+}
+90471 = {
+	name = "Гаррити"
+	culture = breton
+	used_for_random = no
+}
+90472 = {
+	name = "Соваж"
+	culture = breton
+}

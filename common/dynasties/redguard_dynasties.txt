@@ -1,0 +1,2149 @@
+# Redguard Range: 40000-69999 | Crown: 40000-49999 | Forebear: 50000-59999 | Yokudan: 60000-69999
+
+# Forebear
+50000 = {
+	name = "Акамар"
+	culture = forebear
+}
+50001 = {
+	name = "Акатис"
+	culture = forebear
+}
+50002 = {
+	name = "Акехон"
+	culture = forebear
+}
+50003 = {
+	name = "Акетар"
+	culture = forebear
+}
+50004 = {
+	name = "Акилен"
+	culture = forebear
+}
+50005 = {
+	name = "Акитик"
+	culture = forebear
+}
+50006 = {
+	name = "Акивон"
+	culture = forebear
+}
+50007 = {
+	name = "Акуилл"
+	culture = forebear
+}
+50008 = {
+	name = "Амаилл"
+	culture = forebear
+}
+50009 = {
+	name = "Амиан"
+	culture = forebear
+}
+50010 = {
+	name = "Америк"
+	culture = forebear
+}
+50011 = {
+	name = "Амиаки"
+	culture = forebear
+}
+50012 = {
+	name = "Амикан"
+	culture = forebear
+}
+50013 = {
+	name = "Амихон"
+	culture = forebear
+}
+50014 = {
+	name = "Амоал"
+	culture = forebear
+}
+50015 = {
+	name = "Амили"
+	culture = forebear
+}
+50016 = {
+	name = "Араин"
+	culture = forebear
+}
+50017 = {
+	name = "Аризада"
+	culture = forebear
+}
+50018 = {
+	name = "Арурен"
+	culture = forebear
+}
+50019 = {
+	name = "Арурик"
+	culture = forebear
+}
+50020 = {
+	name = "Арузада"
+	culture = forebear
+}
+50021 = {
+	name = "Аринуин"
+	culture = forebear
+}
+50022 = {
+	name = "Ателан"
+	culture = forebear
+}
+50023 = {
+	name = "Атизо"
+	culture = forebear
+}
+50024 = {
+	name = "Атодиус"
+	culture = forebear
+}
+50025 = {
+	name = "Атухон"
+	culture = forebear
+}
+50026 = {
+	name = "Атулет"
+	culture = forebear
+}
+50027 = {
+	name = "Атиаки"
+	culture = forebear
+}
+50028 = {
+	name = "Атитар"
+	culture = forebear
+}
+50029 = {
+	name = "Азамар"
+	culture = forebear
+}
+50030 = {
+	name = "Азанвир"
+	culture = forebear
+}
+50031 = {
+	name = "Азетал"
+	culture = forebear
+}
+50032 = {
+	name = "Азолен"
+	culture = forebear
+}
+50033 = {
+	name = "Азонуин"
+	culture = forebear
+}
+50034 = {
+	name = "Азовон"
+	culture = forebear
+}
+50035 = {
+	name = "Азухон"
+	culture = forebear
+}
+50036 = {
+	name = "Азиро"
+	culture = forebear
+}
+50037 = {
+	name = "Бреналан"
+	culture = forebear
+}
+50038 = {
+	name = "Бреневон"
+	culture = forebear
+}
+50039 = {
+	name = "Брениаки"
+	culture = forebear
+}
+50040 = {
+	name = "Бренисан"
+	culture = forebear
+}
+50041 = {
+	name = "Брениден"
+	culture = forebear
+}
+50042 = {
+	name = "Бренирок"
+	culture = forebear
+}
+50043 = {
+	name = "Бренитар"
+	culture = forebear
+}
+50044 = {
+	name = "Бреноадал"
+	culture = forebear
+}
+50045 = {
+	name = "Брениадал"
+	culture = forebear
+}
+50046 = {
+	name = "Бренинуин"
+	culture = forebear
+}
+50047 = {
+	name = "Кираин"
+	culture = forebear
+}
+50048 = {
+	name = "Сиреилл"
+	culture = forebear
+}
+50049 = {
+	name = "Сиремар"
+	culture = forebear
+}
+50050 = {
+	name = "Циризо"
+	culture = forebear
+}
+50051 = {
+	name = "Сирозада"
+	culture = forebear
+}
+50052 = {
+	name = "Койафиз"
+	culture = forebear
+}
+50053 = {
+	name = "Койасан"
+	culture = forebear
+}
+50054 = {
+	name = "Койехон"
+	culture = forebear
+}
+50055 = {
+	name = "Кураки"
+	culture = forebear
+}
+50056 = {
+	name = "Кураин"
+	culture = forebear
+}
+50057 = {
+	name = "Куресан"
+	culture = forebear
+}
+50058 = {
+	name = "Куретар"
+	culture = forebear
+}
+50059 = {
+	name = "Курилан"
+	culture = forebear
+}
+50060 = {
+	name = "Курирок"
+	culture = forebear
+}
+50061 = {
+	name = "Карун"
+	culture = forebear
+}
+50062 = {
+	name = "Киден"
+	culture = forebear
+}
+50063 = {
+	name = "Куине"
+	culture = forebear
+}
+50064 = {
+	name = "Киолен"
+	culture = forebear
+}
+50065 = {
+	name = "Китик"
+	culture = forebear
+}
+50066 = {
+	name = "Дараф"
+	culture = forebear
+}
+50067 = {
+	name = "Дарал"
+	culture = forebear
+}
+50068 = {
+	name = "Дарамар"
+	culture = forebear
+}
+50069 = {
+	name = "Дарарок"
+	culture = forebear
+}
+50070 = {
+	name = "Дариаки"
+	culture = forebear
+}
+50071 = {
+	name = "Дарирен"
+	culture = forebear
+}
+50072 = {
+	name = "Дарисан"
+	culture = forebear
+}
+50073 = {
+	name = "Даротик"
+	culture = forebear
+}
+50074 = {
+	name = "Даруден"
+	culture = forebear
+}
+50075 = {
+	name = "Демеон"
+	culture = forebear
+}
+50076 = {
+	name = "Деморен"
+	culture = forebear
+}
+50077 = {
+	name = "Демурен"
+	culture = forebear
+}
+50078 = {
+	name = "Дорасек"
+	culture = forebear
+}
+50079 = {
+	name = "Дореаф"
+	culture = forebear
+}
+50080 = {
+	name = "Дорекан"
+	culture = forebear
+}
+50081 = {
+	name = "Дореимда"
+	culture = forebear
+}
+50082 = {
+	name = "Дориадал"
+	culture = forebear
+}
+50083 = {
+	name = "Дориаф"
+	culture = forebear
+}
+50084 = {
+	name = "Доририк"
+	culture = forebear
+}
+50085 = {
+	name = "Доризада"
+	culture = forebear
+}
+50086 = {
+	name = "Дороаки"
+	culture = forebear
+}
+50087 = {
+	name = "Дорохон"
+	culture = forebear
+}
+50088 = {
+	name = "Дорукан"
+	culture = forebear
+}
+50089 = {
+	name = "Энатар"
+	culture = forebear
+}
+50090 = {
+	name = "Эниан"
+	culture = forebear
+}
+50091 = {
+	name = "Энузада"
+	culture = forebear
+}
+50092 = {
+	name = "Хилакан"
+	culture = forebear
+}
+50093 = {
+	name = "Хилахон"
+	culture = forebear
+}
+50094 = {
+	name = "Хилатик"
+	culture = forebear
+}
+50095 = {
+	name = "Хилесан"
+	culture = forebear
+}
+50096 = {
+	name = "Хилолан"
+	culture = forebear
+}
+50097 = {
+	name = "Хилотар"
+	culture = forebear
+}
+50098 = {
+	name = "Хандинг"
+	culture = forebear
+}
+50099 = {
+	name = "Хегат"
+	culture = forebear
+}
+50100 = {
+	name = "Элинхир"
+	culture = forebear
+}
+50101 = {
+	name = "Исаден"
+	culture = forebear
+}
+50102 = {
+	name = "Исаимда"
+	culture = forebear
+}
+50103 = {
+	name = "Исазо"
+	culture = forebear
+}
+50104 = {
+	name = "Исехон"
+	culture = forebear
+}
+50105 = {
+	name = "Иселан"
+	culture = forebear
+}
+50106 = {
+	name = "Исерок"
+	culture = forebear
+}
+50107 = {
+	name = "Исеван"
+	culture = forebear
+}
+50108 = {
+	name = "Исилен"
+	culture = forebear
+}
+50109 = {
+	name = "Исизада"
+	culture = forebear
+}
+50110 = {
+	name = "Исоден"
+	culture = forebear
+}
+50111 = {
+	name = "Исулен"
+	culture = forebear
+}
+50112 = {
+	name = "Джагадал"
+	culture = forebear
+}
+50113 = {
+	name = "Джагидиус"
+	culture = forebear
+}
+50114 = {
+	name = "Джагорен"
+	culture = forebear
+}
+50115 = {
+	name = "Джагорик"
+	culture = forebear
+}
+50116 = {
+	name = "Джагуилл"
+	culture = forebear
+}
+50117 = {
+	name = "Джагутар"
+	culture = forebear
+}
+50118 = {
+	name = "Джавенуин"
+	culture = forebear
+}
+50119 = {
+	name = "Джаваиф"
+	culture = forebear
+}
+50120 = {
+	name = "Джавитар"
+	culture = forebear
+}
+50121 = {
+	name = "Джавотик"
+	culture = forebear
+}
+50122 = {
+	name = "Джавиал"
+	culture = forebear
+}
+50123 = {
+	name = "Ланаф"
+	culture = forebear
+}
+50124 = {
+	name = "Ланахон"
+	culture = forebear
+}
+50125 = {
+	name = "Ланемар"
+	culture = forebear
+}
+50126 = {
+	name = "Ланенуин"
+	culture = forebear
+}
+50127 = {
+	name = "Ланиаф"
+	culture = forebear
+}
+50128 = {
+	name = "Ланитик"
+	culture = forebear
+}
+50129 = {
+	name = "Лоулет"
+	culture = forebear
+}
+50130 = {
+	name = "Лоуилл"
+	culture = forebear
+}
+50131 = {
+	name = "Нанерен"
+	culture = forebear
+}
+50132 = {
+	name = "Нанетик"
+	culture = forebear
+}
+50133 = {
+	name = "Наниден"
+	culture = forebear
+}
+50134 = {
+	name = "Нанорен"
+	culture = forebear
+}
+50135 = {
+	name = "Нанилет"
+	culture = forebear
+}
+50136 = {
+	name = "Нанирен"
+	culture = forebear
+}
+50137 = {
+	name = "Нисаимда"
+	culture = forebear
+}
+50138 = {
+	name = "Нисасан"
+	culture = forebear
+}
+50139 = {
+	name = "Нисаван"
+	culture = forebear
+}
+50140 = {
+	name = "Нисирен"
+	culture = forebear
+}
+50141 = {
+	name = "Нисиун"
+	culture = forebear
+}
+50142 = {
+	name = "Нисотал"
+	culture = forebear
+}
+50143 = {
+	name = "Нисурик"
+	culture = forebear
+}
+50144 = {
+	name = "Нисиеан"
+	culture = forebear
+}
+50145 = {
+	name = "Нисиене"
+	culture = forebear
+}
+50146 = {
+	name = "Ориекан"
+	culture = forebear
+}
+50147 = {
+	name = "Ориенет"
+	culture = forebear
+}
+50148 = {
+	name = "Орили"
+	culture = forebear
+}
+50149 = {
+	name = "Ориотар"
+	culture = forebear
+}
+50150 = {
+	name = "Оритар"
+	culture = forebear
+}
+50151 = {
+	name = "Ориуанвир"
+	culture = forebear
+}
+50152 = {
+	name = "Ориукан"
+	culture = forebear
+}
+50153 = {
+	name = "Ориутал"
+	culture = forebear
+}
+50154 = {
+	name = "Овесан"
+	culture = forebear
+}
+50155 = {
+	name = "Овиал"
+	culture = forebear
+}
+50156 = {
+	name = "Овилен"
+	culture = forebear
+}
+50157 = {
+	name = "Овукан"
+	culture = forebear
+}
+50158 = {
+	name = "Овирен"
+	culture = forebear
+}
+50159 = {
+	name = "Финафиз"
+	culture = forebear
+}
+50160 = {
+	name = "Финерик"
+	culture = forebear
+}
+50161 = {
+	name = "Финитик"
+	culture = forebear
+}
+50162 = {
+	name = "Финуал"
+	culture = forebear
+}
+50163 = {
+	name = "Финухон"
+	culture = forebear
+}
+50164 = {
+	name = "Финивон"
+	culture = forebear
+}
+50165 = {
+	name = "Праехон"
+	culture = forebear
+}
+50166 = {
+	name = "Праене"
+	culture = forebear
+}
+50167 = {
+	name = "Прайрок"
+	culture = forebear
+}
+50168 = {
+	name = "Прален"
+	culture = forebear
+}
+50169 = {
+	name = "Праонет"
+	culture = forebear
+}
+50170 = {
+	name = "Прарен"
+	culture = forebear
+}
+50171 = {
+	name = "Прарик"
+	culture = forebear
+}
+50172 = {
+	name = "Прауимда"
+	culture = forebear
+}
+50173 = {
+	name = "Праулен"
+	culture = forebear
+}
+50174 = {
+	name = "Прайфиз"
+	culture = forebear
+}
+50175 = {
+	name = "Пиехон"
+	culture = forebear
+}
+50176 = {
+	name = "Пиелет"
+	culture = forebear
+}
+50177 = {
+	name = "Пиетар"
+	culture = forebear
+}
+50178 = {
+	name = "Пуйван"
+	culture = forebear
+}
+50179 = {
+	name = "Реланвир"
+	culture = forebear
+}
+50180 = {
+	name = "Релианвир"
+	culture = forebear
+}
+50181 = {
+	name = "Релоанвир"
+	culture = forebear
+}
+50182 = {
+	name = "Релурок"
+	culture = forebear
+}
+50183 = {
+	name = "Рейлен"
+	culture = forebear
+}
+50184 = {
+	name = "Рейван"
+	culture = forebear
+}
+50185 = {
+	name = "Рейзада"
+	culture = forebear
+}
+50186 = {
+	name = "Раозо"
+	culture = forebear
+}
+50187 = {
+	name = "Рауеан"
+	culture = forebear
+}
+50188 = {
+	name = "Расаки"
+	culture = forebear
+}
+50189 = {
+	name = "Раситис"
+	culture = forebear
+}
+50190 = {
+	name = "Расунуин"
+	culture = forebear
+}
+50191 = {
+	name = "Расувон"
+	culture = forebear
+}
+50192 = {
+	name = "Расиаф"
+	culture = forebear
+}
+50193 = {
+	name = "Расиеан"
+	culture = forebear
+}
+50194 = {
+	name = "Расиен"
+	culture = forebear
+}
+50195 = {
+	name = "Шаелан"
+	culture = forebear
+}
+50196 = {
+	name = "Шаерен"
+	culture = forebear
+}
+50197 = {
+	name = "Шаф"
+	culture = forebear
+}
+50198 = {
+	name = "Шайин"
+	culture = forebear
+}
+50199 = {
+	name = "Шаохон"
+	culture = forebear
+}
+50200 = {
+	name = "Шаозада"
+	culture = forebear
+}
+50201 = {
+	name = "Шауанвир"
+	culture = forebear
+}
+50202 = {
+	name = "Шаурен"
+	culture = forebear
+}
+50203 = {
+	name = "Стадал"
+	culture = forebear
+}
+50204 = {
+	name = "Стадиус"
+	culture = forebear
+}
+50205 = {
+	name = "Стайанвир"
+	culture = forebear
+}
+50206 = {
+	name = "Стейли"
+	culture = forebear
+}
+50207 = {
+	name = "Стаулен"
+	culture = forebear
+}
+50208 = {
+	name = "Стайнет"
+	culture = forebear
+}
+50209 = {
+	name = "Фаеал"
+	culture = forebear
+}
+50210 = {
+	name = "Фаекан"
+	culture = forebear
+}
+50211 = {
+	name = "Фаели"
+	culture = forebear
+}
+50212 = {
+	name = "Таолан"
+	culture = forebear
+}
+50213 = {
+	name = "Таотик"
+	culture = forebear
+}
+50214 = {
+	name = "Таусан"
+	culture = forebear
+}
+50215 = {
+	name = "Тайвон"
+	culture = forebear
+}
+50216 = {
+	name = "Тайзада"
+	culture = forebear
+}
+50217 = {
+	name = "Тоаймда"
+	culture = forebear
+}
+50218 = {
+	name = "Тоеадал"
+	culture = forebear
+}
+50219 = {
+	name = "Тоеден"
+	culture = forebear
+}
+50220 = {
+	name = "Тоеимда"
+	culture = forebear
+}
+50221 = {
+	name = "Фоелет"
+	culture = forebear
+}
+50222 = {
+	name = "Фойаки"
+	culture = forebear
+}
+50223 = {
+	name = "Фойин"
+	culture = forebear
+}
+50224 = {
+	name = "Фоули"
+	culture = forebear
+}
+50225 = {
+	name = "Траки"
+	culture = forebear
+}
+50226 = {
+	name = "Траекан"
+	culture = forebear
+}
+50227 = {
+	name = "Траевон"
+	culture = forebear
+}
+50228 = {
+	name = "Траутик"
+	culture = forebear
+}
+50229 = {
+	name = "Трайфиз"
+	culture = forebear
+}
+50230 = {
+	name = "Воелан"
+	culture = forebear
+}
+50231 = {
+	name = "Воерен"
+	culture = forebear
+}
+50232 = {
+	name = "Войдиус"
+	culture = forebear
+}
+50233 = {
+	name = "Воилан"
+	culture = forebear
+}
+50234 = {
+	name = "Войзик"
+	culture = forebear
+}
+50235 = {
+	name = "из Хаммерфелла"
+	culture = forebear
+}
+50236 = {
+	name = "Сахан"
+	culture = forebear
+}
+50237 = {
+	name = "Рахал"
+	culture = forebear
+}
+50238 = {
+	name = "Зил-Тактал"
+	culture = forebear
+}
+50239 = {
+	name = "Расгад"
+	culture = forebear
+}
+50240 = {
+	name = "Куретар аль-Хаф"
+	culture = forebear
+}
+50241 = {
+	name = "Рукад"
+	culture = forebear
+}
+50242 = {
+	name = "Малья"
+	culture = forebear
+}
+50243 = {
+	name = "Сенду"
+	culture = forebear
+}
+50244 = {
+	name = "Мирел"
+	culture = forebear
+}
+50245 = {
+	name = "Морел"
+	culture = forebear
+}
+50246 = {
+	name = "Насир"
+	culture = forebear
+}
+
+# Crown
+40000 = {
+	name = "Акаен"
+	culture = crown
+}
+40001 = {
+	name = "Акафиз"
+	culture = crown
+}
+40002 = {
+	name = "Акасек"
+	culture = crown
+}
+40003 = {
+	name = "Акелен"
+	culture = crown
+}
+40004 = {
+	name = "Акиаф"
+	culture = crown
+}
+40005 = {
+	name = "Акикан"
+	culture = crown
+}
+40006 = {
+	name = "Акихон"
+	culture = crown
+}
+40007 = {
+	name = "Акоаф"
+	culture = crown
+}
+40008 = {
+	name = "Акитик"
+	culture = crown
+}
+40009 = {
+	name = "Амотик"
+	culture = crown
+}
+40010 = {
+	name = "Аралет"
+	culture = crown
+}
+40011 = {
+	name = "Аревон"
+	culture = crown
+}
+40012 = {
+	name = "Ариал"
+	culture = crown
+}
+40013 = {
+	name = "Арианвир"
+	culture = crown
+}
+40014 = {
+	name = "Ариен"
+	culture = crown
+}
+40015 = {
+	name = "Аризо"
+	culture = crown
+}
+40016 = {
+	name = "Атесан"
+	culture = crown
+}
+40017 = {
+	name = "Атезада"
+	culture = crown
+}
+40018 = {
+	name = "Атиал"
+	culture = crown
+}
+40019 = {
+	name = "Азеал"
+	culture = crown
+}
+40020 = {
+	name = "Азиан"
+	culture = crown
+}
+40021 = {
+	name = "Азисан"
+	culture = crown
+}
+40022 = {
+	name = "Азорок"
+	culture = crown
+}
+40023 = {
+	name = "Бренехон"
+	culture = crown
+}
+40024 = {
+	name = "Бренеилл"
+	culture = crown
+}
+40025 = {
+	name = "Бренезада"
+	culture = crown
+}
+40026 = {
+	name = "Бренизада"
+	culture = crown
+}
+40027 = {
+	name = "Бреноаки"
+	culture = crown
+}
+40028 = {
+	name = "Бренозада"
+	culture = crown
+}
+40029 = {
+	name = "Бренианвир"
+	culture = crown
+}
+40030 = {
+	name = "Бренивон"
+	culture = crown
+}
+40031 = {
+	name = "Кирадиус"
+	culture = crown
+}
+40032 = {
+	name = "Кираф"
+	culture = crown
+}
+40033 = {
+	name = "Киририк"
+	culture = crown
+}
+40034 = {
+	name = "Кируин"
+	culture = crown
+}
+40035 = {
+	name = "Койанвир"
+	culture = crown
+}
+40036 = {
+	name = "Койасек"
+	culture = crown
+}
+40037 = {
+	name = "Койеилл"
+	culture = crown
+}
+40038 = {
+	name = "Койерик"
+	culture = crown
+}
+40039 = {
+	name = "Койиадал"
+	culture = crown
+}
+40040 = {
+	name = "Коиотал"
+	culture = crown
+}
+40041 = {
+	name = "Кураене"
+	culture = crown
+}
+40042 = {
+	name = "Курезо"
+	culture = crown
+}
+40043 = {
+	name = "Курурик"
+	culture = crown
+}
+40044 = {
+	name = "Курилен"
+	culture = crown
+}
+40045 = {
+	name = "Киалан"
+	culture = crown
+}
+40046 = {
+	name = "Куили"
+	culture = crown
+}
+40047 = {
+	name = "Киуден"
+	culture = crown
+}
+40048 = {
+	name = "Дариене"
+	culture = crown
+}
+40049 = {
+	name = "Даролет"
+	culture = crown
+}
+40050 = {
+	name = "Даронуин"
+	culture = crown
+}
+40051 = {
+	name = "Дарисан"
+	culture = crown
+}
+40052 = {
+	name = "Даритис"
+	culture = crown
+}
+40053 = {
+	name = "Даривон"
+	culture = crown
+}
+40054 = {
+	name = "Демаден"
+	culture = crown
+}
+40055 = {
+	name = "Демерен"
+	culture = crown
+}
+40056 = {
+	name = "Демизада"
+	culture = crown
+}
+40057 = {
+	name = "Демулет"
+	culture = crown
+}
+40058 = {
+	name = "Демитал"
+	culture = crown
+}
+40059 = {
+	name = "Дораилл"
+	culture = crown
+}
+40060 = {
+	name = "Доранет"
+	culture = crown
+}
+40061 = {
+	name = "Нохима"
+	culture = crown
+}
+40062 = {
+	name = "Дорине"
+	culture = crown
+}
+40063 = {
+	name = "Дорилл"
+	culture = crown
+}
+40064 = {
+	name = "Дориван"
+	culture = crown
+}
+40065 = {
+	name = "Дориун"
+	culture = crown
+}
+40066 = {
+	name = "Дороал"
+	culture = crown
+}
+40067 = {
+	name = "Дородиус"
+	culture = crown
+}
+40068 = {
+	name = "Доронет"
+	culture = crown
+}
+40069 = {
+	name = "Дорумар"
+	culture = crown
+}
+40070 = {
+	name = "Доруаф"
+	culture = crown
+}
+40071 = {
+	name = "Энерок"
+	culture = crown
+}
+40072 = {
+	name = "Энетар"
+	culture = crown
+}
+40073 = {
+	name = "Энеин"
+	culture = crown
+}
+40074 = {
+	name = "Энитал"
+	culture = crown
+}
+40075 = {
+	name = "Энитис"
+	culture = crown
+}
+40076 = {
+	name = "Энизо"
+	culture = crown
+}
+40077 = {
+	name = "Энотар"
+	culture = crown
+}
+40078 = {
+	name = "Энусек"
+	culture = crown
+}
+40079 = {
+	name = "Энуван"
+	culture = crown
+}
+40080 = {
+	name = "Хилазада"
+	culture = crown
+}
+40081 = {
+	name = "Хилеилл"
+	culture = crown
+}
+40082 = {
+	name = "Хилиен"
+	culture = crown
+}
+40083 = {
+	name = "Хилитик"
+	culture = crown
+}
+40084 = {
+	name = "Исатик"
+	culture = crown
+}
+40085 = {
+	name = "Исоилл"
+	culture = crown
+}
+40086 = {
+	name = "Исизо"
+	culture = crown
+}
+40087 = {
+	name = "Джагеилл"
+	culture = crown
+}
+40088 = {
+	name = "Джагеин"
+	culture = crown
+}
+40089 = {
+	name = "Джагилан"
+	culture = crown
+}
+40090 = {
+	name = "Джагидиус"
+	culture = crown
+}
+40091 = {
+	name = "Джавафиз"
+	culture = crown
+}
+40092 = {
+	name = "Джаватис"
+	culture = crown
+}
+40093 = {
+	name = "Джавазо"
+	culture = crown
+}
+40094 = {
+	name = "Джавеадал"
+	culture = crown
+}
+40095 = {
+	name = "Джавесек"
+	culture = crown
+}
+40096 = {
+	name = "Джависек"
+	culture = crown
+}
+40097 = {
+	name = "Джавоеан"
+	culture = crown
+}
+40098 = {
+	name = "Джавитал"
+	culture = crown
+}
+40099 = {
+	name = "Ланалет"
+	culture = crown
+}
+40100 = {
+	name = "Ланаван"
+	culture = crown
+}
+40101 = {
+	name = "Ланаин"
+	culture = crown
+}
+40102 = {
+	name = "Ланелан"
+	culture = crown
+}
+40103 = {
+	name = "Ланелет"
+	culture = crown
+}
+40104 = {
+	name = "Ланилл"
+	culture = crown
+}
+40105 = {
+	name = "Ланитал"
+	culture = crown
+}
+40106 = {
+	name = "Ланирок"
+	culture = crown
+}
+40107 = {
+	name = "Лоарен"
+	culture = crown
+}
+40108 = {
+	name = "Лоехон"
+	culture = crown
+}
+40109 = {
+	name = "Лоетал"
+	culture = crown
+}
+40110 = {
+	name = "Лоеин"
+	culture = crown
+}
+40111 = {
+	name = "Лувон"
+	culture = crown
+}
+40112 = {
+	name = "Лойтик"
+	culture = crown
+}
+40113 = {
+	name = "Нанаимда"
+	culture = crown
+}
+40114 = {
+	name = "Нананет"
+	culture = crown
+}
+40115 = {
+	name = "Нанарен"
+	culture = crown
+}
+40116 = {
+	name = "Нанели"
+	culture = crown
+}
+40117 = {
+	name = "Нанетал"
+	culture = crown
+}
+40118 = {
+	name = "Нанирок"
+	culture = crown
+}
+40119 = {
+	name = "Наноилл"
+	culture = crown
+}
+40120 = {
+	name = "Нанозада"
+	culture = crown
+}
+40121 = {
+	name = "Нануфиз"
+	culture = crown
+}
+40122 = {
+	name = "Нанусан"
+	culture = crown
+}
+40123 = {
+	name = "Нанили"
+	culture = crown
+}
+40124 = {
+	name = "Нанирик"
+	culture = crown
+}
+40125 = {
+	name = "Нисеван"
+	culture = crown
+}
+40126 = {
+	name = "Нисихон"
+	culture = crown
+}
+40127 = {
+	name = "Нисоимда"
+	culture = crown
+}
+40128 = {
+	name = "Нисуван"
+	culture = crown
+}
+40129 = {
+	name = "Орианет"
+	culture = crown
+}
+40130 = {
+	name = "Ориасек"
+	culture = crown
+}
+40131 = {
+	name = "Ориден"
+	culture = crown
+}
+40132 = {
+	name = "Ориезо"
+	culture = crown
+}
+40133 = {
+	name = "Ориоден"
+	culture = crown
+}
+40134 = {
+	name = "Орирок"
+	culture = crown
+}
+40135 = {
+	name = "Овелен"
+	culture = crown
+}
+40136 = {
+	name = "Оветик"
+	culture = crown
+}
+40137 = {
+	name = "Овиен"
+	culture = crown
+}
+40138 = {
+	name = "Овонуин"
+	culture = crown
+}
+40139 = {
+	name = "Ововон"
+	culture = crown
+}
+40140 = {
+	name = "Овуимда"
+	culture = crown
+}
+40141 = {
+	name = "Овувон"
+	culture = crown
+}
+40142 = {
+	name = "Овирок"
+	culture = crown
+}
+40143 = {
+	name = "Финанет"
+	culture = crown
+}
+40144 = {
+	name = "Финорок"
+	culture = crown
+}
+40145 = {
+	name = "Финовон"
+	culture = crown
+}
+40146 = {
+	name = "Финуадал"
+	culture = crown
+}
+40147 = {
+	name = "Финутик"
+	culture = crown
+}
+40148 = {
+	name = "Финиадал"
+	culture = crown
+}
+40149 = {
+	name = "Финили"
+	culture = crown
+}
+40150 = {
+	name = "Прадиус"
+	culture = crown
+}
+40151 = {
+	name = "Прайдиус"
+	culture = crown
+}
+40152 = {
+	name = "Прайнуин"
+	culture = crown
+}
+40153 = {
+	name = "Прайтик"
+	culture = crown
+}
+40154 = {
+	name = "Прайин"
+	culture = crown
+}
+40155 = {
+	name = "Праймар"
+	culture = crown
+}
+40156 = {
+	name = "Пианет"
+	culture = crown
+}
+40157 = {
+	name = "Пиаван"
+	culture = crown
+}
+40158 = {
+	name = "Пиесан"
+	culture = crown
+}
+40159 = {
+	name = "Пийсек"
+	culture = crown
+}
+40160 = {
+	name = "Пиомар"
+	culture = crown
+}
+40161 = {
+	name = "Пиотис"
+	culture = crown
+}
+40162 = {
+	name = "Пиозо"
+	culture = crown
+}
+40163 = {
+	name = "Пиуфиз"
+	culture = crown
+}
+40164 = {
+	name = "Пиусан"
+	culture = crown
+}
+40165 = {
+	name = "Пуван"
+	culture = crown
+}
+40166 = {
+	name = "Релирок"
+	culture = crown
+}
+40167 = {
+	name = "Релован"
+	culture = crown
+}
+40168 = {
+	name = "Релидиус"
+	culture = crown
+}
+40169 = {
+	name = "Рейлл"
+	culture = crown
+}
+40170 = {
+	name = "Реин"
+	culture = crown
+}
+40171 = {
+	name = "Раф"
+	culture = crown
+}
+40172 = {
+	name = "Раимда"
+	culture = crown
+}
+40173 = {
+	name = "Раирен"
+	culture = crown
+}
+40174 = {
+	name = "Раивон"
+	culture = crown
+}
+40175 = {
+	name = "Рали"
+	culture = crown
+}
+40176 = {
+	name = "Раонвир"
+	culture = crown
+}
+40177 = {
+	name = "Русарик"
+	culture = crown
+}
+40178 = {
+	name = "Русенет"
+	culture = crown
+}
+40179 = {
+	name = "Русесан"
+	culture = crown
+}
+40180 = {
+	name = "Русетис"
+	culture = crown
+}
+40181 = {
+	name = "Русикан"
+	culture = crown
+}
+40182 = {
+	name = "Русофиз"
+	culture = crown
+}
+40183 = {
+	name = "Русуаф"
+	culture = crown
+}
+40184 = {
+	name = "Русурик"
+	culture = crown
+}
+40185 = {
+	name = "Русилен"
+	culture = crown
+}
+40186 = {
+	name = "Шаехон"
+	culture = crown
+}
+40187 = {
+	name = "Шаелет"
+	culture = crown
+}
+40188 = {
+	name = "Шаенуин"
+	culture = crown
+}
+40189 = {
+	name = "Шаеин"
+	culture = crown
+}
+40190 = {
+	name = "Шаиадал"
+	culture = crown
+}
+40191 = {
+	name = "Шален"
+	culture = crown
+}
+40192 = {
+	name = "Шаунет"
+	culture = crown
+}
+40193 = {
+	name = "Шайлан"
+	culture = crown
+}
+40194 = {
+	name = "Шайлет"
+	culture = crown
+}
+40195 = {
+	name = "Шаин"
+	culture = crown
+}
+40196 = {
+	name = "Стаевон"
+	culture = crown
+}
+40197 = {
+	name = "Стаймар"
+	culture = crown
+}
+40198 = {
+	name = "Стайрик"
+	culture = crown
+}
+40199 = {
+	name = "Стал"
+	culture = crown
+}
+40200 = {
+	name = "Стаоилл"
+	culture = crown
+}
+40201 = {
+	name = "Стаоли"
+	culture = crown
+}
+40202 = {
+	name = "Стаурен"
+	culture = crown
+}
+40203 = {
+	name = "Фаедиус"
+	culture = crown
+}
+40204 = {
+	name = "Фаерик"
+	culture = crown
+}
+40205 = {
+	name = "Фаетис"
+	culture = crown
+}
+40206 = {
+	name = "Файнет"
+	culture = crown
+}
+40207 = {
+	name = "Фанвир"
+	culture = crown
+}
+40208 = {
+	name = "Фаоанвир"
+	culture = crown
+}
+40209 = {
+	name = "Фаолен"
+	culture = crown
+}
+40210 = {
+	name = "Фарик"
+	culture = crown
+}
+40211 = {
+	name = "Файтик"
+	culture = crown
+}
+40212 = {
+	name = "Фазо"
+	culture = crown
+}
+40213 = {
+	name = "Фойаф"
+	culture = crown
+}
+40214 = {
+	name = "Фурен"
+	culture = crown
+}
+40215 = {
+	name = "Фусан"
+	culture = crown
+}
+40216 = {
+	name = "Футик"
+	culture = crown
+}
+40217 = {
+	name = "Фудиус"
+	culture = crown
+}
+40218 = {
+	name = "Фуеан"
+	culture = crown
+}
+40219 = {
+	name = "Фойеан"
+	culture = crown
+}
+40220 = {
+	name = "Траеаки"
+	culture = crown
+}
+40221 = {
+	name = "Трайлен"
+	culture = crown
+}
+40222 = {
+	name = "Тралан"
+	culture = crown
+}
+40223 = {
+	name = "Трайлен"
+	culture = crown
+}
+40224 = {
+	name = "Трайван"
+	culture = crown
+}
+40225 = {
+	name = "Военуин"
+	culture = crown
+}
+40226 = {
+	name = "Воетал"
+	culture = crown
+}
+40227 = {
+	name = "Войал"
+	culture = crown
+}
+40228 = {
+	name = "Вуеан"
+	culture = crown
+}
+40229 = {
+	name = "Войрен"
+	culture = crown
+}
+40230 = {
+	name = "ат-Асвала"
+	culture = crown
+}
+
+40231 = {
+	name = "Алонид"
+	culture = crown
+}
+
+40232 = {
+	name = "Акатис-Сант"
+	culture = crown
+}
+40233 = {
+	name = "аль-Абдир"
+	culture = crown
+}
+40234 = {
+	name = "ат-Абах"
+	culture = crown
+}
+40235 = {
+	name = "К'Елмар"
+	culture = crown
+}
+40236 = {
+	name = "Рууз"
+	culture = crown
+}
+40237 = {
+	name = "Раджида"
+	culture = crown
+}
+40238 = {
+	name = "Талоет"
+	culture = crown
+}
+40239 = {
+	name = "Стиктал"
+	culture = crown
+}
+40240 = {
+	name = "Исизо"
+	culture = crown
+}
+
+# Yokudan
+60000 = {
+	name = "Лейтар"
+	culture = yokudan
+}
+60001 = {
+	name = "Хунран"
+	culture = yokudan
+}
+60002 = {
+	name = "Сусур"
+	culture = yokudan
+}
+60003 = {
+	name = "Надинг"
+	culture = yokudan
+}
+60004 = {
+	name = "Хунхак"
+	culture = yokudan
+}
+60005 = {
+	name = "Ас'сур"
+	culture = yokudan
+}
+60006 = {
+	name = "Хун-динг"
+	culture = yokudan
+}
+60007 = {
+	name = "Хун'тар"
+	culture = yokudan
+}
+60008 = {
+	name = "Хунсул"
+	culture = yokudan
+}
+60009 = {
+	name = "Су-сур"
+	culture = yokudan
+}
+60010 = {
+	name = "Ма'ран"
+	culture = yokudan
+}
+60011 = {
+	name = "На'тар"
+	culture = yokudan
+}
+60012 = {
+	name = "Сасур"
+	culture = yokudan
+}
+60013 = {
+	name = "На'сур"
+	culture = yokudan
+}
+60014 = {
+	name = "Ассул"
+	culture = yokudan
+}
+60015 = {
+	name = "Ас'ран"
+	culture = yokudan
+}
+60016 = {
+	name = "На-ану"
+	culture = yokudan
+}
+60017 = {
+	name = "Сутар"
+	culture = yokudan
+}
+60018 = {
+	name = "Су'динг"
+	culture = yokudan
+}
+60019 = {
+	name = "Лейану"
+	culture = yokudan
+}
+60020 = {
+	name = "Лейхак"
+	culture = yokudan
+}
+60021 = {
+	name = "Лей-сул"
+	culture = yokudan
+}
+60022 = {
+	name = "Натар"
+	culture = yokudan
+}
+60023 = {
+	name = "Хун'таф"
+	culture = yokudan
+}
+60024 = {
+	name = "На-но"
+	culture = yokudan
+}
+60025 = {
+	name = "Ма'но"
+	culture = yokudan
+}
+60026 = {
+	name = "Нален"
+	culture = yokudan
+}
+60027 = {
+	name = "На'арк"
+	culture = yokudan
+}
+60028 = {
+	name = "Ма-таф"
+	culture = yokudan
+}
+60029 = {
+	name = "Суарк"
+	culture = yokudan
+}
+60030 = {
+	name = "Лей'лен"
+	culture = yokudan
+}
+60031 = {
+	name = "Ас'таф"
+	culture = yokudan
+}
+60032 = {
+	name = "Хунно"
+	culture = yokudan
+}
+60033 = {
+	name = "Сутаф"
+	culture = yokudan
+}
+60034 = {
+	name = "Суно"
+	culture = yokudan
+}
+60035 = {
+	name = "Хун'лен"
+	culture = yokudan
+}
+60036 = {
+	name = "Филлоцид"
+	culture = yokudan
+}
+60037 = {
+	name = "Джилани"
+	culture = yokudan
+}
+60038 = {
+	name = "Сеснит"
+	culture = yokudan
+}
+60039 = {
+	name = "Торн"
+	culture = yokudan
+}
+60040 = {
+	name = "Сора"
+	culture = yokudan
+}
+60041 = {
+	name = "Ятте"
+	culture = yokudan
+}
+60042 = {
+	name = "Расфа"
+	culture = yokudan
+}
+60043 = {
+	name = "Анка"
+	culture = yokudan
+}
+60044 = {
+	name = "аль-Раван"
+	culture = yokudan
+}
+60045 = {
+	name = "Ту'вха"
+	culture = yokudan
+}
+60046 = {
+	name = "Ас'мони"
+	culture = yokudan
+}

@@ -1,0 +1,206 @@
+# Atmoran Range: 320000-329999
+
+320000 = {
+	name = "Корзина Ненависти"
+	culture = atmoran
+}
+320001 = {
+	name = "Деревянные Руки"
+	culture = atmoran
+}
+320002 = {
+	name = "Зиморожденный"
+	culture = atmoran
+}
+320003 = {
+	name = "Громовой Щит"
+	culture = atmoran
+}
+320004 = {
+	name = "Ледяная Корона"
+	culture = atmoran
+}
+320005 = {
+	name = "Изъеденный Эхом"
+	culture = atmoran
+}
+320006 = {
+	name = "Пол-Шкатулки"
+	culture = atmoran
+}
+320007 = {
+	name = "Сплоченный Принцем"
+	culture = atmoran
+}
+320008 = {
+	name = "Вдовий Бивень"
+	culture = atmoran
+}
+320009 = {
+	name = "Песнь Щита"
+	culture = atmoran
+}
+320010 = {
+	name = "Снежный Тотем"
+	culture = atmoran
+}
+320011 = {
+	name = "Грозный Кулак"
+	culture = atmoran
+}
+320012 = {
+	name = "Лисьи Ноги"
+	culture = atmoran
+}
+320013 = {
+	name = "Черный Клык"
+	culture = atmoran
+}
+320014 = {
+	name = "Кровавый Тотем"
+	culture = atmoran
+}
+320015 = {
+	name = "Медвежий Ум"
+	culture = atmoran
+}
+320016 = {
+	name = "Четыре Рта"
+	culture = atmoran
+}
+320017 = {
+	name = "Волчий Клык"
+	culture = atmoran
+}
+320018 = {
+	name = "Короб Бороды"
+	culture = atmoran
+}
+320019 = {
+	name = "Сломленный Эхом"
+	culture = atmoran
+}
+320020 = {
+	name = "Первопроходец"
+	culture = atmoran
+}
+320021 = {
+	name = "Ледяное Клеймо"
+	culture = atmoran
+}
+320022 = {
+	name = "Полурожденный"
+	culture = atmoran
+}
+320023 = {
+	name = "Гладкое Сердце"
+	culture = atmoran
+}
+320024 = {
+	name = "Драккар Бороды"
+	culture = atmoran
+}
+320025 = {
+	name = "Лесной Мех"
+	culture = atmoran
+}
+320026 = {
+	name = "Большая Борода"
+	culture = atmoran
+}
+320027 = {
+	name = "Серые Жилы"
+	culture = atmoran
+}
+320028 = {
+	name = "Белая Кровь"
+	culture = atmoran
+}
+320029 = {
+	name = "Мохнатый Творец"
+	culture = atmoran
+}
+320030 = {
+	name = "Проклятый Носитель"
+	culture = atmoran
+}
+320031 = {
+	name = "Красная Грива"
+	culture = atmoran
+}
+320032 = {
+	name = "Медвежий Щит"
+	culture = atmoran
+}
+320033 = {
+	name = "Жена Льда"
+	culture = atmoran
+}
+320034 = {
+	name = "Кровавая Грива"
+	culture = atmoran
+}
+320035 = {
+	name = "Серые Руки"
+	culture = atmoran
+}
+320036 = {
+	name = "Ранняя Хитрость"
+	culture = atmoran
+}
+320037 = {
+	name = "Огненный Волк"
+	culture = atmoran
+}
+320038 = {
+	name = "Янтарная Собака"
+	culture = atmoran
+}
+320039 = {
+	name = "Огненные Волосы"
+	culture = atmoran
+}
+320040 = {
+	name = "Лисий Курган"
+	culture = atmoran
+}
+320041 = {
+	name = "Солёное-Море"
+	culture = atmoran
+}
+320042 = {
+	name = "Солёная Волна"
+	culture = atmoran
+}
+320043 = {
+	name = "Одно Ухо"
+	culture = atmoran
+}
+320044 = {
+	name = "Акулий зуб"
+	culture = atmoran
+}
+320045 = {
+	name = "Хирон"
+	culture = atmoran
+}
+320046 = {
+	name = "Трижды-Обманутый"
+	culture = atmoran
+}
+320047 = {
+	name = "Сорванные ветром"
+	culture = atmoran
+}
+320048 = {
+	name = "Островорожденный"
+	culture = atmoran
+}
+320049 = {
+	name = "Иней"
+	culture = atmoran
+}
+320050 = {
+	name = "Бочкодел"
+	culture = atmoran
+}

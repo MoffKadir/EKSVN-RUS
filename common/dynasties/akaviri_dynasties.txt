@@ -1,0 +1,106 @@
+# Akaviri Range: 300000-309999
+
+300000 = {
+	name = "Оширо"
+	culture = akaviri
+}
+300001 = {
+	name = "Мизушима"
+	culture = akaviri
+}
+300002 = {
+	name = "Хамасаки"
+	culture = akaviri
+}
+300003 = {
+	name = "Цукуда"
+	culture = akaviri
+}
+300004 = {
+	name = "Уено"
+	culture = akaviri
+}
+300005 = {
+	name = "Кимура"
+	culture = akaviri
+}
+300006 = {
+	name = "Фукуи"
+	culture = akaviri
+}
+300007 = {
+	name = "Акияма"
+	culture = akaviri
+}
+300008 = {
+	name = "Ханнори"
+	culture = akaviri
+}
+300009 = {
+	name = "Кайзуо"
+	culture = akaviri
+}
+300010 = {
+	name = "Ханабору"
+	culture = akaviri
+}
+300011 = {
+	name = "Утори"
+	culture = akaviri
+}
+300012 = {
+	name = "Куро"
+	culture = akaviri
+}
+300013 = {
+	name = "Хирзен"
+	culture = akaviri
+}
+300014 = {
+	name = "Ягиу"
+	culture = akaviri
+}
+300015 = {
+	name = "Ято"
+	culture = akaviri
+}
+300016 = {
+	name = "Хэйан"
+	culture = akaviri
+}
+300017 = {
+	name = "Канзаки"
+	culture = akaviri
+}
+300018 = {
+	name = "Икеда"
+	culture = akaviri
+}
+300019 = {
+	name = "Иаша"
+	culture = akaviri
+}
+300020 = {
+	name = "Танака"
+	culture = akaviri
+}
+300021 = {
+	name = "Матсумори"
+	culture = akaviri
+}
+300022 = {
+	name = "Шибата"
+	culture = akaviri
+}
+300023 = {
+	name = "Гото"
+	culture = akaviri
+}
+300024 = {
+	name = "Такахаши"
+	culture = akaviri
+}
+300025 = {
+	name = "Оучи"
+	culture = akaviri
+}

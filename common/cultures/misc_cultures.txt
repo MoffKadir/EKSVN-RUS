@@ -1,0 +1,294 @@
+sload_group = {
+	graphical_cultures = { easterngfx }
+	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+	sload = {
+		graphical_cultures = { sloadgfx maormergfx muslimgfx }
+
+		used_for_random = no
+		#allow_in_ruler_designer = no
+		
+		color = { 0.0627 0.419 0.129 }
+		male_names = {
+			Н'Гаста Дж'ат Ум'аски Т'вескисан Нридж Т'урн Н'фаш Тр'ранис М'лил И'ракс Нфир Гиб Зхас Ракил Зх'ен Г'тин Зрун М'ад Т'бур Т'суз Пер'рур Н'сони Ауг'мор
+			Теркор Г'рум И'хни Кснча С'сал Мор'джоб Д'хив Н'ранн Н'танри М'джудж Раш Глом Нгха 
+			Адже'хор Там Тас'арна Тер'ем Р'анса Мор'чал Х'дим Т'гоз Мунтк
+			Х'рилада С'вини Х'ендса Д'ус Н'кара
+		}
+		female_names = {
+			Н'Гаста Дж'ат Ум'аски Т'вескисан Нридж Т'урн Н'фаш Тр'ранис М'лил И'ракс Нфир Гиб Зхас Ракил Зх'ен Г'тин Зрун М'ад Т'бур Т'суз Пер'рур Н'сони Ауг'мор
+			Теркор Г'рум И'хни Кснча С'сал Мор'джоб Д'хив Н'ранн Н'танри М'джудж Раш Глом Нгха 
+			Адже'хор Там Тас'арна Тер'ем Р'анса Мор'чал Х'дим Т'гоз Мунтк
+			Х'рилада С'вини Х'ендса Д'ус Н'кара
+		}
+		
+		from_dynasty_prefix = "ахкс "
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+		#founder_named_dynasties = yes
+		seafarer = yes
+	}
+}
+
+undead = {
+	graphical_cultures = { westerngfx }
+	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+	draugr = {
+		graphical_cultures = { draugrgfx norsegfx germangfx }
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		color = { 0.6 0.55 0.5 }
+		
+		male_names = {
+			Куралмил Фьори Гатрик Холгейр Йурик Микрул Олаф_Олав Сигдис Исграмор Отар Рагот Хевнорак Некрин Кросис Вокун
+			Вольсунг Саерек Торстен Аэслиип Гезундайт Амул Акрин Ал Азид Азидал Аран Балаан Бэйн Борма Бруник Динок Фасну Фэйн
+			Фадон Фолук Фундайн Граминдол Грохик Гайнмар Гарот Хевно Хун Хорвута Хайм Хузра Джуннеседжер Каль Конарик
+			Крилот Крил Крид Кронгра Кронид Кинбок Кинзон Кулан Кэйн Кендов Лавран Мар Мулаг Мидрот Морокеи Ниварин
+			Нонвул Накрин Налас Налот Оказ Оник Оникан Палок Прода Кветсегол Кванарин Ронан Рель Сакво Синдугавон
+			Саран Тафир Тур Узнагар Валок Вотарн Вукайн Вул Вулком Варукт Вэд Вундун Йорик Зохунгар Ускор
+                }
+		female_names = {   
+			Мона Мотма Одус Прузан Пруза Паз Пэйт Квилан Кволас Рик Рован Рувак Рек Саквон Сонан Сил Стин Стаднау
+			Сот Унслад Вадин Варин Ваза Вазен Вит Валан Лок Ак Аз Брит Бринахи Эк Кулас Копран Ловас Мафаэрак
+			Мин Шул Винтас
+		}
+		
+		from_dynasty_prefix = "ноль "
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+		#founder_named_dynasties = yes
+		seafarer = yes
+	}
+	skeleton = {
+		graphical_cultures = { skeletongfx germangfx }
+				
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		color = { 0.89 0.86 0.79 }
+		
+		male_names = {
+			Куралмил Фьори Гатрик Холгейр Йурик Микрул Олаф_Олав Сигдис Исграмор Отар Рагот Хевнорак Некрин Кросис Вокун
+			Вольсунг Саерек Торстен Аэслиип Гезундайт Амул Акрин Ал Азид Азидал Аран Балаан Бэйн Борма Бруник Динок Фасну Фэйн
+			Фадон Фолук Фундайн Граминдол Грохик Гайнмар Гарот Хевно Хун Хорвута Хайм Хузра Джуннеседжер Каль Конарик
+			Крилот Крил Крид Кронгра Кронид Кинбок Кинзон Кулан Кэйн Кендов Лавран Мар Мулаг Мидрот Морокеи Ниварин
+			Нонвул Накрин Налас Налот Оказ Оник Оникан Палок Прода Кветсегол Кванарин Ронан Рель Сакво Синдугавон
+			Саран Тафир Тур Узнагар Валок Вотарн Вукайн Вул Вулком Варукт Вэд Вундун Йорик Зохунгар
+		}
+		female_names = {
+			Мона Мотма Одус Прузан Пруза Паз Пэйт Квилан Кволас Рик Рован Рувак Рек Саквон Сонан Сил Стин Стаднау
+			Сот Унслад Вадин Варин Ваза Вазен Вит Валан Лок Ак Аз Брит Бринахи Эк Кулас Копран Ловас Мафаэрак
+			Мин Шул Винтас
+		}
+		
+		from_dynasty_prefix = "ноль "
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 10
+
+		modifier = default_culture_modifier
+		#founder_named_dynasties = yes
+	}
+	outsider = {
+		graphical_cultures = { skeletongfx germangfx }
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		color = { 0.3 0.8 0.6 }
+		
+		male_names = {
+			Куралмил Фьори Гатрик Холгейр Йурик Микрул Олаф_Олав Сигдис Исграмор Отар Рагот Хевнорак Некрин Кросис Вокун
+			Вольсунг Саерек Торстен Аэслиип Гезундайт Амул Акрин Ал Азид Азидал Аран Балаан Бэйн Борма Бруник Динок Фасну Фэйн
+			Фадон Фолук Фундайн Граминдол Грохик Гайнмар Гарот Хевно Хун Хорвута Хайм Хузра Джуннеседжер Каль Конарик
+			Крилот Крил Крид Кронгра Кронид Кинбок Кинзон Кулан Кэйн Кендов Лавран Мар Мулаг Мидрот Морокеи Ниварин
+			Нонвул Накрин Налас Налот Оказ Оник Оникан Палок Прода Кветсегол Кванарин Ронан Рель Сакво Синдугавон
+			Саран Тафир Тур Узнагар Валок Вотарн Вукайн Вул Вулком Варукт Вэд Вундун Йорик Зохунгар
+			Абсалон Бенелот Дарикс Дизпар Драб Энталон Энтрикс Фавл  Форлоурн Моэрос Пейн Ретх Слейв
+		}
+		female_names = {
+			Мона Мотма Одус Прузан Пруза Паз Пэйт Квилан Кволас Рик Рован Рувак Рек Саквон Сонан Сил Стин Стаднау
+			Сот Унслад Вадин Варин Ваза Вазен Вит Валан Лок Ак Аз Брит Бринахи Эк Кулас Копран Ловас Мафаэрак
+			Мин Шул Винтас
+			Агоние Астарин Баалакс Блеек Демолит Диабелла Дизмул Долор  Думераль Маланкли Мисераэль Сарроу Суланн 
+		}
+		
+		from_dynasty_prefix = "из "
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = dunmer_culture_modifier
+	}
+}
+
+daedra = {
+	graphical_cultures = { easterngfx }
+	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+	dremora = {
+		graphical_cultures = { dremoragfx dunmergfx muslimgfx }
+		
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		parent = daedric
+		
+		color = { 0.6 0.55 0.5 }
+		
+		male_names = {
+            Имаго Гатанас Метатс Ратин Сумир Танкхелм Анаэдра Краззт Дрегас 
+            Каш-Ти Друр Катутет Ортхе Ранью Амкаос Велек Мирел Моат Анаксес  
+            Медрик Тачним Сериз Ифриз Аруз 
+		}
+		female_names = {   
+			Адео Дилора Янса Нельрин Стела Удико Улфри Вика Кива Авика Алетс 
+			Энерлен Асна Нанждас Оэда Аодэ Стаада Ада Деша Чуна Канэ Иссми
+			Зудэ Грунда Лирант Ксаксах Дошия Укаэзаи
+		}
+		
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 30
+
+		modifier = daedric_culture_modifier
+		#founder_named_dynasties = yes
+	}
+	daedric = {
+		graphical_cultures = { dremoragfx dunmergfx muslimgfx }
+		
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		color = { 0.6 0.55 0.5 }
+		
+		male_names = {
+            Имаго Гатанас Метатс Ратин Сумир Танкхелм Анаэдра Краззт Дрегас 
+            Каш-Ти Друр Катутет Ортхе Ранью Амкаос Велек Мирел Моат Анаксес  
+            Медрик Тачним Сериз Ифриз Аруз 
+		}
+		female_names = {   
+			Адео Дилора Янса Нельрин Стела Удико Улфри Вика Кива Авика Алетс 
+			Энерлен Асна Нанждас Оэда Аодэ Стаада Ада Деша Чуна Канэ Иссми
+			Зудэ Грунда Лирант Ксаксах Дошия Укаэзаи
+		}
+		
+		from_dynasty_prefix = ""
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 30
+
+		modifier = daedric_culture_modifier
+		#founder_named_dynasties = yes
+	}
+}
+
+dov = {
+	graphical_cultures = { easterngfx }
+	alternate_start = {
+		OR = {
+			has_alternate_start_parameter = { key = special_culture value = animal_kingdoms }
+			has_alternate_start_parameter = { key = special_culture value = animal_world }
+		}
+	}	
+	dovah = {
+		graphical_cultures = { dovahgfx muslimgfx }
+		used_for_random = no
+		allow_in_ruler_designer = no
+		
+		color = { 0.05 0.01 0.01 }
+		
+		male_names = {
+			Даанхахдрим Бахлокзол Яахлирвиин Феынрахгол Ахноклах Одуснол Волмалхаан Улаусдрог Мидротфаас Аамэряах Суумгрохиик
+			Нирлеинкрии Реытхдуртуз Дурлинграх Алунхон Витхграагро Гронрутхграан Раанаарсод Вендинок Ахкринзаан Евгирнаак Фахдонюд
+			Дебудэн Сахлокнир Тхурвокун Крузиикрел Оникбриинах Сахротаар Бозииккодструн Нахаглиив Нахфахлаар
+			Дукаанфинсот Тхурвокун Релоникив Виинтурутх Дурнехвиир Нааслаарум Крахётдаан Вултхурёл Кросулхах Вулётнаак
+			Паартхурнах Одахвиинг Мирмулнир Нуминех Вуррелкриф Скакмат Вослаарум Улиизвинг Вурбриинах Нунирмуз Реинбромфел
+			Мунморокеи Лотмаарлир Ахбиилок Грахкриндрог Кахвозеин Лодуност Вослаарум Сосраансах Маляокреин Крехгаанвол Щулдаамслен
+			Зулщулдмон Щулдкрогааф Заанфеынфаад Криидрогяетх Золяотхал Заанлииврах Гораанщол Кулстиндир Бритрутхнил Пеытволаан
+			Мулбеинов Гравуунмир Окааззун Голтрутхкаал Щахлхевно Сулеыккрин Норократх Кестёлнаак Рупаазфус Аакбозиик Хеывкосилл
+			Нааковнау Унслаадратх Хиндфолоок Эркрофус Хааснахнех Щахляотхреин Одусту Ахзидсо Феынлахлун Ахдуулдиин Зулграагщулд
+			Силгроул Поокбриинах Лааскодшул Риилувхинд Мулвуркул Зунётреытх Фосахотх Релсуумнин Релфриндщиин Махлаанграх 
+			Ратхнилтуз Пеытюншаан Кестлирнех Ратхбрендон Ааксахвот Юдзулнил Деинбииэр Пааршаанкест Вузиндкрии Унслаадщахл
+			Маарфаасну Кеинфохун Ёлфозаан Мидротдаан Веызинрутх Кестдщиинграаг Малмулхун Тусахрот Пеытмахлаан Ауслотгааф
+		}
+		female_names = {
+			Даанхахдрим Бахлокзол Яахлирвиин Феынрахгол Ахноклах Одуснол Волмалхаан Улаусдрог Мидротфаас Аамэряах Суумгрохиик
+			Нирлеинкрии Реытхдуртуз Дурлинграх Алунхон Витхграагро Гронрутхграан Раанаарсод Вендинок Ахкринзаан Евгирнаак Фахдонюд
+			Дебудэн Сахлокнир Тхурвокун Крузиикрел Оникбриинах Сахротаар Бозииккодструн Нахаглиив Нахфахлаар
+			Дукаанфинсот Тхурвокун Релоникив Виинтурутх Дурнехвиир Нааслаарум Крахётдаан Вултхурёл Кросулхах Вулётнаак
+			Паартхурнах Одахвиинг Мирмулнир Нуминех Вуррелкриф Скакмат Вослаарум Улиизвинг Вурбриинах Нунирмуз Реинбромфел
+			Мунморокеи Лотмаарлир Ахбиилок Грахкриндрог Кахвозеин Лодуност Вослаарум Сосраансах Маляокреин Крехгаанвол Щулдаамслен
+			Зулщулдмон Щулдкрогааф Заанфеынфаад Криидрогяетх Золяотхал Заанлииврах Гораанщол Кулстиндир Бритрутхнил Пеытволаан
+			Мулбеинов Гравуунмир Окааззун Голтрутхкаал Щахлхевно Сулеыккрин Норократх Кестёлнаак Рупаазфус Аакбозиик Хеывкосилл
+			Нааковнау Унслаадратх Хиндфолоок Эркрофус Хааснахнех Щахляотхреин Одусту Ахзидсо Феынлахлун Ахдуулдиин Зулграагщулд
+			Силгроул Поокбриинах Лааскодшул Риилувхинд Мулвуркул Зунётреытх Фосахотх Релсуумнин Релфриндщиин Махлаанграх 
+			Ратхнилтуз Пеытюншаан Кестлирнех Ратхбрендон Ааксахвот Юдзулнил Деинбииэр Пааршаанкест Вузиндкрии Унслаадщахл
+			Маарфаасну Кеинфохун Ёлфозаан Мидротдаан Веызинрутх Кестдщиинграаг Малмулхун Тусахрот Пеытмахлаан Ауслотгааф
+		}
+		
+		from_dynasty_prefix = "Ноль"
+		
+		# Chance of male children being named after their paternal or maternal grandfather or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 30
+		father_name_chance = 30
+		
+		# Chance of female children being named after their paternal or maternal grandmother or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 30
+		mother_name_chance = 30
+
+		modifier = daedric_culture_modifier
+		#founder_named_dynasties = yes
+	}
+}

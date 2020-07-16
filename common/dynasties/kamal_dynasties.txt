@@ -1,0 +1,953 @@
+# Kamal Range: 280000-289999
+
+280001 = {
+	name = "Хании"
+	culture = kamal
+}
+280002 = {
+	name = "Охаль"
+	culture = kamal
+}
+280003 = {
+	name = "Намар"
+	culture = kamal
+}
+280004 = {
+	name = "Храат"
+	culture = kamal
+}
+280005 = {
+	name = "Тамак"
+	culture = kamal
+}
+280006 = {
+	name = "Тамедж"
+	culture = kamal
+}
+280007 = {
+	name = "Хумир"
+	culture = kamal
+}
+280008 = {
+	name = "Белур"
+	culture = kamal
+}
+280009 = {
+	name = "Вене"
+	culture = kamal
+}
+280010 = {
+	name = "Омаар"
+	culture = kamal
+}
+280011 = {
+	name = "Порун"
+	culture = kamal
+}
+280012 = {
+	name = "Наджаль"
+	culture = kamal
+}
+280013 = {
+	name = "Мджума"
+	culture = kamal
+}
+280014 = {
+	name = "Окхамар"
+	culture = kamal
+}
+280015 = {
+	name = "Хамар"
+	culture = kamal
+}
+280016 = {
+	name = "Тахар"
+	culture = kamal
+}
+280017 = {
+	name = "Михир"
+	culture = kamal
+}
+280018 = {
+	name = "Таар"
+	culture = kamal
+}
+280019 = {
+	name = "Малькар"
+	culture = kamal
+}
+280020 = {
+	name = "Икор"
+	culture = kamal
+}
+280021 = {
+	name = "Окрум"
+	culture = kamal
+}
+280022 = {
+	name = "Джамар"
+	culture = kamal
+}
+280023 = {
+	name = "Джакир"
+	culture = kamal
+}
+280024 = {
+	name = "Окор"
+	culture = kamal
+}
+280025 = {
+	name = "Голна"
+	culture = kamal
+}
+280026 = {
+	name = "Дати"
+	culture = kamal
+}
+280027 = {
+	name = "Байче"
+	culture = kamal
+}
+280028 = {
+	name = "Тирми"
+	culture = kamal
+}
+280029 = {
+	name = "Окурда"
+	culture = kamal
+}
+280030 = {
+	name = "Ико-Джамар"
+	culture = kamal
+}
+280031 = {
+	name = "Око-Урум"
+	culture = kamal
+}
+280032 = {
+	name = "Джам-Аджар"
+	culture = kamal
+}
+280033 = {
+	name = "Джа-Акур"
+	culture = kamal
+}
+280034 = {
+	name = "Укориль"
+	culture = kamal
+}
+280035 = {
+	name = "Дир-Камаль"
+	culture = kamal
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 19
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+280036 = {
+	name = "Тамар"
+	culture = kamal
+}
+280037 = {
+	name = "Саркван"
+	culture = kamal
+}
+280038 = {
+	name = "Козильтиан"
+	culture = kamal
+}
+280039 = {
+	name = "Аттат-Ниад"
+	culture = kamal
+}
+280040 = {
+	name = "Секбин"
+	culture = kamal
+}
+280041 = {
+	name = "Сошут"
+	culture = kamal
+}
+280042 = {
+	name = "Этби"
+	culture = kamal
+}
+280043 = {
+	name = "Мельди"
+	culture = kamal
+}
+280044 = {
+	name = "Кворш"
+	culture = kamal
+}
+280045 = {
+	name = "Байкара"
+	culture = kamal
+}
+280046 = {
+	name = "Беркер"
+	culture = kamal
+}
+280047 = {
+	name = "Улусой"
+	culture = kamal
+}
+280048 = {
+	name = "Таскиран"
+	culture = kamal
+}
+280049 = {
+	name = "Тельмадир"
+	culture = kamal
+}
+280050 = {
+	name = "Ниумлетан"
+	culture = kamal
+}
+280051 = {
+	name = "Танигорук"
+	culture = kamal
+}
+280052 = {
+	name = "Коркизпак"
+	culture = kamal
+}
+280053 = {
+	name = "Хайриттан"
+	culture = kamal
+}
+280054 = {
+	name = "Науизенар"
+	culture = kamal
+}
+280055 = {
+	name = "Айтмат"
+	culture = kamal
+}
+280056 = {
+	name = "Ногой"
+	culture = kamal
+}
+280057 = {
+	name = "Бешимак"
+	culture = kamal
+}
+280058 = {
+	name = "Онараль"
+	culture = kamal
+}
+280059 = {
+	name = "Зимандар"
+	culture = kamal
+}
+280060 = {
+	name = "Ольтанар"
+	culture = kamal
+}
+280061 = {
+	name = "Одабаши"
+	culture = kamal
+}
+280062 = {
+	name = "Дилан"
+	culture = kamal
+}
+280063 = {
+	name = "Думандир"
+	culture = kamal
+}
+280064 = {
+	name = "Ирмак"
+	culture = kamal
+}
+280065 = {
+	name = "Мунган"
+	culture = kamal
+}
+280066 = {
+	name = "Сабанши"
+	culture = kamal
+}
+280067 = {
+	name = "Созен"
+	culture = kamal
+}
+280068 = {
+	name = "Ятаган"
+	culture = kamal
+}
+280069 = {
+	name = "Ягши"
+	culture = kamal
+}
+280070 = {
+	name = "Дальман"
+	culture = kamal
+}
+280071 = {
+	name = "Ло-Кнершузуль"
+	culture = kamal
+}
+280072 = {
+	name = "Карабозут"
+	culture = kamal
+}
+280073 = {
+	name = "Кофруз"
+	culture = kamal
+}
+280074 = {
+	name = "Таджинек"
+	culture = kamal
+}
+280075 = {
+	name = "Башими"
+	culture = kamal
+}
+280076 = {
+	name = "Квашенлек"
+	culture = kamal
+}
+280077 = {
+	name = "Нимиди"
+	culture = kamal
+}
+280078 = {
+	name = "Джидеззар"
+	culture = kamal
+}
+280079 = {
+	name = "Джальпешек"
+	culture = kamal
+}
+280080 = {
+	name = "Джелуз"
+	culture = kamal
+}
+280081 = {
+	name = "Солпекуз"
+	culture = kamal
+}
+280082 = {
+	name = "Мендульзар"
+	culture = kamal
+}
+280083 = {
+	name = "Шаль-Кветх"
+	culture = kamal
+}
+280084 = {
+	name = "Ходизник"
+	culture = kamal
+}
+280085 = {
+	name = "Квузмикезиль"
+	culture = kamal
+}
+280086 = {
+	name = "Тугума"
+	culture = kamal
+}
+280087 = {
+	name = "Декууна"
+	culture = kamal
+}
+280088 = {
+	name = "Селикуз"
+	culture = kamal
+}
+280089 = {
+	name = "Канди"
+	culture = kamal
+}
+280090 = {
+	name = "Атакобан"
+	culture = kamal
+}
+280091 = {
+	name = "Квотай"
+	culture = kamal
+}
+280092 = {
+	name = "Йо-Бокуд"
+	culture = kamal
+}
+280093 = {
+	name = "Актуна"
+	culture = kamal
+}
+280094 = {
+	name = "Бекх"
+	culture = kamal
+}
+280095 = {
+	name = "Пекх"
+	culture = kamal
+}
+280096 = {
+	name = "Дириджи"
+	culture = kamal
+}
+280097 = {
+	name = "Эджлан"
+	culture = kamal
+}
+280098 = {
+	name = "Сарай"
+	culture = kamal
+}
+280099 = {
+	name = "Орнек"
+	culture = kamal
+}
+280100 = {
+	name = "Окхан"
+	culture = kamal
+}
+280101 = {
+	name = "Огхаджар"
+	culture = kamal
+}
+280102 = {
+	name = "Огхилиз"
+	culture = kamal
+}
+280103 = {
+	name = "Тенданар"
+	culture = kamal
+}
+280104 = {
+	name = "Митенди"
+	culture = kamal
+}
+280105 = {
+	name = "Узунлар"
+	culture = kamal
+}
+280106 = {
+	name = "Патак"
+	culture = kamal
+}
+280107 = {
+	name = "Джомак"
+	culture = kamal
+}
+280108 = {
+	name = "Киклек"
+	culture = kamal
+}
+280109 = {
+	name = "Тогхез"
+	culture = kamal
+}
+280110 = {
+	name = "Патзамар"
+	culture = kamal
+}
+280111 = {
+	name = "Патзинек"
+	culture = kamal
+}
+280112 = {
+	name = "Шиш-Депар"
+	culture = kamal
+}
+280113 = {
+	name = "Мегхул"
+	culture = kamal
+}
+280114 = {
+	name = "Задакар"
+	culture = kamal
+}
+280115 = {
+	name = "Бирнии"
+	culture = kamal
+}
+280116 = {
+	name = "Шакдирнии"
+	culture = kamal
+}
+280117 = {
+	name = "Делькадир"
+	culture = kamal
+}
+280118 = {
+	name = "Афапек"
+	culture = kamal
+}
+280119 = {
+	name = "Афаданди"
+	culture = kamal
+}
+280120 = {
+	name = "Гуду-Леш"
+	culture = kamal
+}
+280121 = {
+	name = "Сорчузик"
+	culture = kamal
+}
+280122 = {
+	name = "Белитиши"
+	culture = kamal
+}
+280123 = {
+	name = "Нопаз"
+	culture = kamal
+}
+280124 = {
+	name = "Гуду-Кальбар"
+	culture = kamal
+}
+280125 = {
+	name = "Окенди"
+	culture = kamal
+}
+280126 = {
+	name = "Вахак"
+	culture = kamal
+}
+280127 = {
+	name = "Дошелии"
+	culture = kamal
+}
+280128 = {
+	name = "Казилум"
+	culture = kamal
+}
+280129 = {
+	name = "Ялаз"
+	culture = kamal
+}
+280130 = {
+	name = "Язар"
+	culture = kamal
+}
+280131 = {
+	name = "Иенерии"
+	culture = kamal
+}
+280132 = {
+	name = "Ядебек"
+	culture = kamal
+}
+280133 = {
+	name = "Калияиез"
+	culture = kamal
+}
+280134 = {
+	name = "Дашомид"
+	culture = kamal
+}
+280135 = {
+	name = "Дакбедин"
+	culture = kamal
+}
+280136 = {
+	name = "Квобе-Келль"
+	culture = kamal
+}
+280137 = {
+	name = "Сур-Келль"
+	culture = kamal
+}
+280138 = {
+	name = "Сахиилин"
+	culture = kamal
+}
+280139 = {
+	name = "Суварии"
+	culture = kamal
+}
+280140 = {
+	name = "Дельпар-Доль"
+	culture = kamal
+}
+280141 = {
+	name = "Джалопак-Доль"
+	culture = kamal
+}
+280142 = {
+	name = "Эсеви-Доль"
+	culture = kamal
+}
+280143 = {
+	name = "Мекадар-Доль"
+	culture = kamal
+}
+280144 = {
+	name = "Экбан"
+	culture = kamal
+}
+280145 = {
+	name = "Шельпак"
+	culture = kamal
+}
+280146 = {
+	name = "Дидариек"
+	culture = kamal
+}
+280147 = {
+	name = "Самолиек"
+	culture = kamal
+}
+280148 = {
+	name = "Турхагут"
+	culture = kamal
+}
+280149 = {
+	name = "Кешик"
+	culture = kamal
+}
+280150 = {
+	name = "Моштелиан"
+	culture = kamal
+}
+280151 = {
+	name = "Иедулие"
+	culture = kamal
+}
+280153 = {
+	name = "Каншарпек"
+	culture = kamal
+}
+280154 = {
+	name = "Кантарии"
+	culture = kamal
+}
+280155 = {
+	name = "Колиети"
+	culture = kamal
+}
+280156 = {
+	name = "Азгарпек"
+	culture = kamal
+}
+280157 = {
+	name = "Сивас"
+	culture = kamal
+}
+280158 = {
+	name = "Дешуум"
+	culture = kamal
+}
+280159 = {
+	name = "Сивиокиль"
+	culture = kamal
+}
+280160 = {
+	name = "Кедгарджи"
+	culture = kamal
+}
+280161 = {
+	name = "Бедеви"
+	culture = kamal
+}
+280162 = {
+	name = "Озлек"
+	culture = kamal
+}
+280163 = {
+	name = "Озбелуйи"
+	culture = kamal
+}
+280164 = {
+	name = "Томельк"
+	culture = kamal
+}
+280165 = {
+	name = "Барака"
+	culture = kamal
+}
+280166 = {
+	name = "Тарака"
+	culture = kamal
+}
+280167 = {
+	name = "Ольтан"
+	culture = kamal
+}
+280168 = {
+	name = "Ольтададжар"
+	culture = kamal
+}
+280169 = {
+	name = "Ольпек"
+	culture = kamal
+}
+280170 = {
+	name = "Марпаз"
+	culture = kamal
+}
+280171 = {
+	name = "Кавеши"
+	culture = kamal
+}
+280172 = {
+	name = "Кардавеш"
+	culture = kamal
+}
+280173 = {
+	name = "Кадарка"
+	culture = kamal
+}
+280174 = {
+	name = "Телипуль"
+	culture = kamal
+}
+280175 = {
+	name = "Ярмикибан"
+	culture = kamal
+}
+280176 = {
+	name = "Узгедук"
+	culture = kamal
+}
+280177 = {
+	name = "Узашовили"
+	culture = kamal
+}
+280178 = {
+	name = "Узиельмин"
+	culture = kamal
+}
+280179 = {
+	name = "Узиелькат"
+	culture = kamal
+}
+280180 = {
+	name = "Узиельбик"
+	culture = kamal
+}
+280181 = {
+	name = "Тамнуз"
+	culture = kamal
+}
+280182 = {
+	name = "Таджумдек"
+	culture = kamal
+}
+280183 = {
+	name = "Кальмариек"
+	culture = kamal
+}
+280184 = {
+	name = "Колукбек"
+	culture = kamal
+}
+280185 = {
+	name = "Масиебег"
+	culture = kamal
+}
+280186 = {
+	name = "Язгут"
+	culture = kamal
+}
+280187 = {
+	name = "Дулькармет"
+	culture = kamal
+}
+280188 = {
+	name = "Дияртельмик"
+	culture = kamal
+}
+280189 = {
+	name = "Дардули"
+	culture = kamal
+}
+280190 = {
+	name = "Дармекпад"
+	culture = kamal
+}
+280191 = {
+	name = "Немезтек"
+	culture = kamal
+}
+280192 = {
+	name = "Куршар"
+	culture = kamal
+}
+280193 = {
+	name = "Тумель"
+	culture = kamal
+}
+280194 = {
+	name = "Тумак"
+	culture = kamal
+}
+280195 = {
+	name = "Тумии"
+	culture = kamal
+}
+280196 = {
+	name = "Сарпадзинет"
+	culture = kamal
+}
+280197 = {
+	name = "Арплак"
+	culture = kamal
+}
+280198 = {
+	name = "Келишмин"
+	culture = kamal
+}
+280199 = {
+	name = "Карвадин"
+	culture = kamal
+}
+280200 = {
+	name = "Джальпидин"
+	culture = kamal
+}
+280201 = {
+	name = "Олокхор"
+	culture = kamal
+}
+280202 = {
+	name = "Окхальтар"
+	culture = kamal
+}
+280203 = {
+	name = "Хишиглек"
+	culture = kamal
+}
+280204 = {
+	name = "Крильтек"
+	culture = kamal
+}
+280205 = {
+	name = "Торголезик"
+	culture = kamal
+}
+280206 = {
+	name = "Арулад"
+	culture = kamal
+}
+280207 = {
+	name = "Болгизкар"
+	culture = kamal
+}
+280208 = {
+	name = "Уршальтен"
+	culture = kamal
+}
+280209 = {
+	name = "Баарин"
+	culture = kamal
+}
+280210 = {
+	name = "Ноякин"
+	culture = kamal
+}
+280211 = {
+	name = "Найман"
+	culture = kamal
+}
+280212 = {
+	name = "Никиак"
+	culture = kamal
+}
+280213 = {
+	name = "Ягбуян"
+	culture = kamal
+}
+280214 = {
+	name = "Орлекар"
+	culture = kamal
+}
+280215 = {
+	name = "Калориат"
+	culture = kamal
+}
+280216 = {
+	name = "Ока"
+	culture = kamal
+}
+280217 = {
+	name = "Парзак"
+	culture = kamal
+}
+280218 = {
+	name = "Томоят"
+	culture = kamal
+}
+280219 = {
+	name = "Бургуриан"
+	culture = kamal
+}
+280220 = {
+	name = "Кургабек"
+	culture = kamal
+}
+280221 = {
+	name = "Силадур"
+	culture = kamal
+}
+280222 = {
+	name = "Ягбуан"
+	culture = kamal
+}
+280223 = {
+	name = "Байаван"
+	culture = kamal
+}
+280224 = {
+	name = "Байраман"
+	culture = kamal
+}
+280225 = {
+	name = "Тарботан"
+	culture = kamal
+}
+280226 = {
+	name = "Тезакан"
+	culture = kamal
+}
+280227 = {
+	name = "Зираман"
+	culture = kamal
+}
+280228 = {
+	name = "Ондорзег"
+	culture = kamal
+}
+280229 = {
+	name = "Кардомаз"
+	culture = kamal
+}
+280230 = {
+	name = "Текармаз"
+	culture = kamal
+}
+280231 = {
+	name = "Уильгарлан"
+	culture = kamal
+}
+280232 = {
+	name = "Уильмек"
+	culture = kamal
+}
+280233 = {
+	name = "Уильсевар"
+	culture = kamal
+}
+280234 = {
+	name = "Анварган"
+	culture = kamal
+}
+280235 = {
+	name = "Анваркели"
+	culture = kamal
+}
+280236 = {
+	name = "Теваль"
+	culture = kamal
+}

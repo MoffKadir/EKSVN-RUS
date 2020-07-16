@@ -1,0 +1,230 @@
+# Ayleid Range: 250000-259999
+
+250000 = {
+	name = "Абасель"
+	culture = ayleid
+}
+250001 = {
+	name = "Абагайаней"
+	culture = ayleid
+}
+250002 = {
+	name = "Адабал"
+	culture = ayleid
+}
+250003 = {
+	name = "Адабала"
+	culture = ayleid
+}
+250004 = {
+	name = "Адонеи"
+	culture = ayleid
+}
+250005 = {
+	name = "Агеасель"
+	culture = ayleid
+}
+250006 = {
+	name = "Амаралдане"
+	culture = ayleid
+}
+250007 = {
+	name = "Арана"
+	culture = ayleid
+}
+250008 = {
+	name = "Арпен"
+	culture = ayleid
+}
+250009 = {
+	name = "Ауране"
+	culture = ayleid
+}
+250010 = {
+	name = "Бала"
+	culture = ayleid
+}
+250011 = {
+	name = "Бауне"
+	culture = ayleid
+}
+250012 = {
+	name = "Белле"
+	culture = ayleid
+}
+250013 = {
+	name = "Сейататар"
+	culture = ayleid
+}
+250014 = {
+	name = "Сейсель"
+	culture = ayleid
+}
+250015 = {
+	name = "Сирод"
+	culture = ayleid
+}
+250016 = {
+	name = "Френса"
+	culture = ayleid
+}
+250017 = {
+	name = "Гандрасель"
+	culture = ayleid
+}
+250018 = {
+	name = "Гори"
+	culture = ayleid
+}
+250019 = {
+	name = "Горигарлас"
+	culture = ayleid
+}
+250020 = {
+	name = "Гравиа"
+	culture = ayleid
+}
+250021 = {
+	name = "Хэйлиа"
+	culture = ayleid
+}
+250022 = {
+	name = "Джоране"
+	culture = ayleid
+}
+250023 = {
+	name = "Каран"
+	culture = ayleid
+}
+250024 = {
+	name = "Кинд"
+	culture = ayleid
+}
+250025 = {
+	name = "Латта"
+	culture = ayleid
+}
+250026 = {
+	name = "Лориа"
+	culture = ayleid
+}
+250027 = {
+	name = "Лайис"
+	culture = ayleid
+}
+250028 = {
+	name = "Мафре"
+	culture = ayleid
+}
+250029 = {
+	name = "Мала"
+	culture = ayleid
+}
+250030 = {
+	name = "Малатар"
+	culture = ayleid
+}
+250031 = {
+	name = "Маллари"
+	culture = ayleid
+}
+250032 = {
+	name = "Матмелди"
+	culture = ayleid
+}
+250033 = {
+	name = "Мелди"
+	culture = ayleid
+}
+250034 = {
+	name = "Нагайа"
+	culture = ayleid
+}
+250035 = {
+	name = "Ойо"
+	culture = ayleid
+}
+250036 = {
+	name = "Ойобала"
+	culture = ayleid
+}
+250037 = {
+	name = "Пелинал"
+	culture = ayleid
+}
+250038 = {
+	name = "Реллайс"
+	culture = ayleid
+}
+250039 = {
+	name = "Риэль"
+	culture = ayleid
+}
+250040 = {
+	name = "Риэльсель"
+	culture = ayleid
+}
+250041 = {
+	name = "Санкремат"
+	culture = ayleid
+}
+250042 = {
+	name = "Силасель"
+	culture = ayleid
+}
+250043 = {
+	name = "Вабриа"
+	culture = ayleid
+}
+250044 = {
+	name = "Варласель"
+	culture = ayleid
+}
+250045 = {
+	name = "Велкинд"
+	culture = ayleid
+}
+250046 = {
+	name = "Ваша"
+	culture = ayleid
+}
+250047 = {
+	name = "Ататар"
+	culture = ayleid
+}
+250048 = {
+	name = "Малада"
+	culture = ayleid
+}
+250049 = {
+	name = "Моранда"
+	culture = ayleid
+}
+250050 = {
+	name = "Ваша"
+	culture = ayleid
+}
+250051 = {
+	name = "Бондолесель"
+	culture = ayleid
+}
+250052 = {
+	name = "Тортистар"
+	culture = ayleid
+}
+250053 = {
+	name = "Рукиэль"
+	culture = ayleid
+}
+250054 = {
+	name = "Васмутата"
+	culture = ayleid
+}
+250055 = {
+	name = "Дарпентаин"
+	culture = ayleid
+}
+250056 = {
+	name = "Динар"
+	culture = ayleid
+}

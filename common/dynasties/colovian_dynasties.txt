@@ -1,0 +1,2125 @@
+#Colovian Range: 10000-19999 (+1-2)
+
+10001 = {
+	name="Мид"
+	culture=colovian
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 1
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+10002 = {
+	name="Абалгонер"
+	culture=colovian
+}
+
+10003 = {
+	name="Абанвель"
+	culture=colovian
+}
+
+10004 = {
+	name="Абериил"
+	culture=colovian
+}
+
+10005 = {
+	name="Абейн"
+	culture=colovian
+}
+
+10006 = {
+	name="Абиндер"
+	culture=colovian
+}
+
+10007 = {
+	name="Абинтав"
+	culture=colovian
+}
+
+10008 = {
+	name="Абонлер"
+	culture=colovian
+}
+
+10009 = {
+	name="Абонвель"
+	culture=colovian
+}
+
+10010 = {
+	name="Абор"
+	culture=colovian
+}
+
+10011 = {
+	name="Аборил"
+	culture=colovian
+}
+
+10012 = {
+	name="Абовель"
+	culture=colovian
+}
+
+10013 = {
+	name="Абилин"
+	culture=colovian
+}
+
+10014 = {
+	name="Абириин"
+	culture=colovian
+}
+
+10015 = {
+	name="Беран"
+	culture=colovian
+}
+
+10016 = {
+	name="Баррид"
+	culture=colovian
+}
+
+10017 = {
+	name="Бид"
+	culture=colovian
+}
+
+10018 = {
+	name="Бедер"
+	culture=colovian
+}
+
+10019 = {
+	name="Берик"
+	culture=colovian
+}
+
+10020 = {
+	name="Берне"
+	culture=colovian
+}
+
+10021 = {
+	name="Беродиил"
+	culture=colovian
+}
+
+10022 = {
+	name="Бинкал"
+	culture=colovian
+}
+
+10023 = {
+	name="Биврик"
+	culture=colovian
+}
+
+10024 = {
+	name="Болин"
+	culture=colovian
+}
+
+10025 = {
+	name="Боллин"
+	culture=colovian
+}
+
+10026 = {
+	name="Бонейм"
+	culture=colovian
+}
+
+10027 = {
+	name="Борель"
+	culture=colovian
+}
+
+10028 = {
+	name="Бериил"
+	culture=colovian
+}
+
+10029 = {
+	name="Бородиил"
+	culture=colovian
+}
+
+10030 = {
+	name="Боссинер"
+	culture=colovian
+}
+
+10031 = {
+	name="Бранин"
+	culture=colovian
+}
+
+10032 = {
+	name="Брарил"
+	culture=colovian
+}
+
+10033 = {
+	name="Брассилдор"
+	culture=colovian
+}
+
+10034 = {
+	name="Бревилдор"
+	culture=colovian
+}
+
+10035 = {
+	name="Бревейл"
+	culture=colovian
+}
+
+10036 = {
+	name="Бринвель"
+	culture=colovian
+}
+
+10037 = {
+	name="Брисаген"
+	culture=colovian
+}
+
+10038 = {
+	name="Бриссинер"
+	culture=colovian
+}
+
+10039 = {
+	name="Бродер"
+	culture=colovian
+}
+
+10040 = {
+	name="Бруссинер"
+	culture=colovian
+}
+
+10041 = {
+	name="Бринлер"
+	culture=colovian
+}
+
+10042 = {
+	name="Бунтав"
+	culture=colovian
+}
+
+10043 = {
+	name="Бигонер"
+	culture=colovian
+}
+
+10044 = {
+	name="Билер"
+	culture=colovian
+}
+
+10045 = {
+	name="Бистав"
+	culture=colovian
+}
+
+10046 = {
+	name="Канин"
+	culture=colovian
+}
+
+10047 = {
+	name="Карол"
+	culture=colovian
+}
+
+10048 = {
+	name="Кедер"
+	culture=colovian
+}
+
+10049 = {
+	name="Керик"
+	culture=colovian
+}
+
+10050 = {
+	name="Кессинер"
+	culture=colovian
+}
+
+10051 = {
+	name="Кеврик"
+	culture=colovian
+}
+
+10052 = {
+	name="Кланлер"
+	culture=colovian
+}
+
+10053 = {
+	name="Кланорман"
+	culture=colovian
+}
+
+10054 = {
+	name="Кларол"
+	culture=colovian
+}
+
+10055 = {
+	name="Клеборель"
+	culture=colovian
+}
+
+10056 = {
+	name="Клид"
+	culture=colovian
+}
+
+10057 = {
+	name="Кленвель"
+	culture=colovian
+}
+
+10058 = {
+	name="Клениан"
+	culture=colovian
+}
+
+10059 = {
+	name="Клунарель"
+	culture=colovian
+}
+
+10060 = {
+	name="Клиллин"
+	culture=colovian
+}
+
+10061 = {
+	name="Клинтав"
+	culture=colovian
+}
+
+10062 = {
+	name="Кодер"
+	culture=colovian
+}
+
+10063 = {
+	name="Корол"
+	culture=colovian
+}
+
+10064 = {
+	name="Кранкал"
+	culture=colovian
+}
+
+10065 = {
+	name="Кранейм"
+	culture=colovian
+}
+
+10066 = {
+	name="Крарель"
+	culture=colovian
+}
+
+10067 = {
+	name="Кредер"
+	culture=colovian
+}
+
+10068 = {
+	name="Кричтон"
+	culture=colovian
+}
+
+10069 = {
+	name="Крайд"
+	culture=colovian
+}
+
+10070 = {
+	name="Крилин"
+	culture=colovian
+}
+
+10071 = {
+	name="Крисаген"
+	culture=colovian
+}
+
+10072 = {
+	name="Критнейм"
+	culture=colovian
+}
+
+10073 = {
+	name="Кродер"
+	culture=colovian
+}
+
+10074 = {
+	name="Кронлер"
+	culture=colovian
+}
+
+10075 = {
+	name="Кирагонер"
+	culture=colovian
+}
+
+10076 = {
+	name="Кирариил"
+	culture=colovian
+}
+
+10077 = {
+	name="Кирелин"
+	culture=colovian
+}
+
+10078 = {
+	name="Киресилдор"
+	culture=colovian
+}
+
+10079 = {
+	name="Киривель"
+	culture=colovian
+}
+
+10080 = {
+	name="Кировик"
+	culture=colovian
+}
+
+10081 = {
+	name="Киссинер"
+	culture=colovian
+}
+
+10082 = {
+	name="Дадер"
+	culture=colovian
+}
+
+10083 = {
+	name="Девейл"
+	culture=colovian
+}
+
+10084 = {
+	name="Девариил"
+	culture=colovian
+}
+
+10085 = {
+	name="Дичтон"
+	culture=colovian
+}
+
+10086 = {
+	name="Динтав"
+	culture=colovian
+}
+
+10087 = {
+	name="Дирих"
+	culture=colovian
+}
+
+10088 = {
+	name="Дирид"
+	culture=colovian
+}
+
+10089 = {
+	name="Дириил"
+	culture=colovian
+}
+
+10090 = {
+	name="Доран"
+	culture=colovian
+}
+
+10091 = {
+	name="Доссилдор"
+	culture=colovian
+}
+
+10092 = {
+	name="Довель"
+	culture=colovian
+}
+
+10093 = {
+	name="Дралгонер"
+	culture=colovian
+}
+
+10094 = {
+	name="Драпин"
+	culture=colovian
+}
+
+10095 = {
+	name="Драродиил"
+	culture=colovian
+}
+
+10096 = {
+	name="Дренлер"
+	culture=colovian
+}
+
+10097 = {
+	name="Дрессинер"
+	culture=colovian
+}
+
+10098 = {
+	name="Дретнейм"
+	culture=colovian
+}
+
+10099 = {
+	name="Дрорид"
+	culture=colovian
+}
+
+10100 = {
+	name="Дрид"
+	culture=colovian
+}
+
+10101 = {
+	name="Дриродиил"
+	culture=colovian
+}
+
+10102 = {
+	name="Дривейл"
+	culture=colovian
+}
+
+10103 = {
+	name="Дунейм"
+	culture=colovian
+}
+
+10104 = {
+	name="Динвель"
+	culture=colovian
+}
+
+10105 = {
+	name="Дурол"
+	culture=colovian
+}
+
+10106 = {
+	name="Диссилдор"
+	culture=colovian
+}
+
+10107 = {
+	name="Эсанлер"
+	culture=colovian
+}
+
+10108 = {
+	name="Эсарид"
+	culture=colovian
+}
+
+10109 = {
+	name="Эсарне"
+	culture=colovian
+}
+
+10110 = {
+	name="Эсасилдор"
+	culture=colovian
+}
+
+10111 = {
+	name="Эсинейм"
+	culture=colovian
+}
+
+10112 = {
+	name="Эссаган"
+	culture=colovian
+}
+
+10113 = {
+	name="Эссандер"
+	culture=colovian
+}
+
+10114 = {
+	name="Эссандиил"
+	culture=colovian
+}
+
+10115 = {
+	name="Эссарик"
+	culture=colovian
+}
+
+10116 = {
+	name="Эсселлин"
+	culture=colovian
+}
+
+10117 = {
+	name="Эссерель"
+	culture=colovian
+}
+
+10118 = {
+	name="Эссодер"
+	culture=colovian
+}
+
+10119 = {
+	name="Эссониил"
+	culture=colovian
+}
+
+10120 = {
+	name="Хайд"
+	culture=colovian
+}
+
+10121 = {
+	name="Халин"
+	culture=colovian
+}
+
+10122 = {
+	name="Гассилдор"
+	culture=colovian
+}
+
+10123 = {
+	name="Гавейл"
+	culture=colovian
+}
+
+10124 = {
+	name="Хайдер"
+	culture=colovian
+}
+
+10125 = {
+	name="Хейн"
+	culture=colovian
+}
+
+10126 = {
+	name="Хид"
+	culture=colovian
+}
+
+10127 = {
+	name="Герель"
+	culture=colovian
+}
+
+10128 = {
+	name="Герид"
+	culture=colovian
+}
+
+10129 = {
+	name="Хессилдор"
+	culture=colovian
+}
+
+10130 = {
+	name="Хеун"
+	culture=colovian
+}
+
+10131 = {
+	name="Гииил"
+	culture=colovian
+}
+
+10132 = {
+	name="Хирид"
+	culture=colovian
+}
+
+10133 = {
+	name="Хириэль"
+	culture=colovian
+}
+
+10134 = {
+	name="Гиссинер"
+	culture=colovian
+}
+
+10135 = {
+	name="Хоссилдор"
+	culture=colovian
+}
+
+10136 = {
+	name="Хункал"
+	culture=colovian
+}
+
+10137 = {
+	name="Инеррид"
+	culture=colovian
+}
+
+10138 = {
+	name="Иниродиил"
+	culture=colovian
+}
+
+10139 = {
+	name="Иниррид"
+	culture=colovian
+}
+
+10140 = {
+	name="Инориин"
+	culture=colovian
+}
+
+10141 = {
+	name="Инвариил"
+	culture=colovian
+}
+
+10142 = {
+	name="Инвел"
+	culture=colovian
+}
+
+10143 = {
+	name="Инверан"
+	culture=colovian
+}
+
+10144 = {
+	name="Инвериал"
+	culture=colovian
+}
+
+10145 = {
+	name="Инвесилдор"
+	culture=colovian
+}
+
+10146 = {
+	name="Инвирел"
+	culture=colovian
+}
+
+10147 = {
+	name="Инвонеим"
+	culture=colovian
+}
+
+10148 = {
+	name="Инворрид"
+	culture=colovian
+}
+
+10149 = {
+	name="Инвуссинер"
+	culture=colovian
+}
+
+10150 = {
+	name="Ининкал"
+	culture=colovian
+}
+
+10151 = {
+	name="Джарол"
+	culture=colovian
+}
+
+10152 = {
+	name="Джеллин"
+	culture=colovian
+}
+
+10153 = {
+	name="Дженин"
+	culture=colovian
+}
+
+10154 = {
+	name="Джесих"
+	culture=colovian
+}
+
+10155 = {
+	name="Джирих"
+	culture=colovian
+}
+
+10156 = {
+	name="Jonorman"
+	culture=colovian
+}
+
+10157 = {
+	name="Джоврик"
+	culture=colovian
+}
+
+10158 = {
+	name="Джудер"
+	culture=colovian
+}
+
+10159 = {
+	name="Джувих"
+	culture=colovian
+}
+
+10160 = {
+	name="Канарель"
+	culture=colovian
+}
+
+10161 = {
+	name="Кебор"
+	culture=colovian
+}
+
+10162 = {
+	name="Кедер"
+	culture=colovian
+}
+
+10163 = {
+	name="Керих"
+	culture=colovian
+}
+
+10164 = {
+	name="Кевейл"
+	culture=colovian
+}
+
+10165 = {
+	name="Киил"
+	culture=colovian
+}
+
+10166 = {
+	name="Кинвел"
+	culture=colovian
+}
+
+10167 = {
+	name="Киниан"
+	culture=colovian
+}
+
+10168 = {
+	name="Кирих"
+	culture=colovian
+}
+
+10169 = {
+	name="Киродиил"
+	culture=colovian
+}
+
+10170 = {
+	name="Кодер"
+	culture=colovian
+}
+
+10171 = {
+	name="Конорман"
+	culture=colovian
+}
+
+10172 = {
+	name="Квабор"
+	culture=colovian
+}
+
+10173 = {
+	name="Квандер"
+	culture=colovian
+}
+
+10174 = {
+	name="Кванлер"
+	culture=colovian
+}
+
+10175 = {
+	name="Квасилдор"
+	culture=colovian
+}
+
+10176 = {
+	name="Квассилдор"
+	culture=colovian
+}
+
+10177 = {
+	name="Квассинер"
+	culture=colovian
+}
+
+10178 = {
+	name="Квенириил"
+	culture=colovian
+}
+
+10179 = {
+	name="Кверан"
+	culture=colovian
+}
+
+10180 = {
+	name="Квериин"
+	culture=colovian
+}
+
+10181 = {
+	name="Квид"
+	culture=colovian
+}
+
+10182 = {
+	name="Квинчал"
+	culture=colovian
+}
+
+10183 = {
+	name="Квунлер"
+	culture=colovian
+}
+
+10184 = {
+	name="Квуниан"
+	culture=colovian
+}
+
+10185 = {
+	name="Киман"
+	culture=colovian
+}
+
+10186 = {
+	name="Кирик"
+	culture=colovian
+}
+
+10187 = {
+	name="Ланарель"
+	culture=colovian
+}
+
+10188 = {
+	name="Лариск"
+	culture=colovian
+}
+
+10189 = {
+	name="Ласилдор"
+	culture=colovian
+}
+
+10190 = {
+	name="Лебор"
+	culture=colovian
+}
+
+10191 = {
+	name="Лид"
+	culture=colovian
+}
+
+10192 = {
+	name="Ледер"
+	culture=colovian
+}
+
+10193 = {
+	name="Легонер"
+	culture=colovian
+}
+
+10194 = {
+	name="Левик"
+	culture=colovian
+}
+
+10195 = {
+	name="Лайд"
+	culture=colovian
+}
+
+10196 = {
+	name="Лиир"
+	culture=colovian
+}
+
+10197 = {
+	name="Линейм"
+	culture=colovian
+}
+
+10198 = {
+	name="Линтав"
+	culture=colovian
+}
+
+10199 = {
+	name="Лирих"
+	culture=colovian
+}
+
+10200 = {
+	name="Лиссилдор"
+	culture=colovian
+}
+
+10201 = {
+	name="Ливих"
+	culture=colovian
+}
+
+10202 = {
+	name="Лоллин"
+	culture=colovian
+}
+
+10203 = {
+	name="Ломан"
+	culture=colovian
+}
+
+10204 = {
+	name="Лондер"
+	culture=colovian
+}
+
+10205 = {
+	name="Лоран"
+	culture=colovian
+}
+
+10206 = {
+	name="Лорель"
+	culture=colovian
+}
+
+10207 = {
+	name="Лорих"
+	culture=colovian
+}
+
+10208 = {
+	name="Лорне"
+	culture=colovian
+}
+
+10209 = {
+	name="Лунтав"
+	culture=colovian
+}
+
+10210 = {
+	name="Лутнейм"
+	culture=colovian
+}
+
+10211 = {
+	name="Лювель"
+	culture=colovian
+}
+
+10212 = {
+	name="Линдер"
+	culture=colovian
+}
+
+10213 = {
+	name="Линлер"
+	culture=colovian
+}
+
+10214 = {
+	name="Лириил"
+	culture=colovian
+}
+
+10215 = {
+	name="Лиродиил"
+	culture=colovian
+}
+
+10216 = {
+	name="Маборель"
+	culture=colovian
+}
+
+10217 = {
+	name="Мадер"
+	culture=colovian
+}
+
+10218 = {
+	name="Магонер"
+	culture=colovian
+}
+
+10219 = {
+	name="Манлер"
+	culture=colovian
+}
+
+10220 = {
+	name="Мариллин"
+	culture=colovian
+}
+
+10221 = {
+	name="Массинер"
+	culture=colovian
+}
+
+10222 = {
+	name="Мастав"
+	culture=colovian
+}
+
+10223 = {
+	name="Мелер"
+	culture=colovian
+}
+
+10224 = {
+	name="Мерел"
+	culture=colovian
+}
+
+10225 = {
+	name="Меродиил"
+	culture=colovian
+}
+
+10226 = {
+	name="Милер"
+	culture=colovian
+}
+
+10227 = {
+	name="Миллин"
+	culture=colovian
+}
+
+10228 = {
+	name="Мипин"
+	culture=colovian
+}
+
+10229 = {
+	name="Миссилдор"
+	culture=colovian
+}
+
+10230 = {
+	name="Моборель"
+	culture=colovian
+}
+
+10231 = {
+	name="Мочтон"
+	culture=colovian
+}
+
+10232 = {
+	name="Монорман"
+	culture=colovian
+}
+
+10233 = {
+	name="Мосинер"
+	culture=colovian
+}
+
+10234 = {
+	name="Мослин"
+	culture=colovian
+}
+
+10235 = {
+	name="Мостав"
+	culture=colovian
+}
+
+10236 = {
+	name="Мойн"
+	culture=colovian
+}
+
+10237 = {
+	name="Муде"
+	culture=colovian
+}
+
+10238 = {
+	name="Мунлер"
+	culture=colovian
+}
+
+10239 = {
+	name="Муррид"
+	culture=colovian
+}
+
+10240 = {
+	name="Миллин"
+	culture=colovian
+}
+
+10241 = {
+	name="Минвель"
+	culture=colovian
+}
+
+10242 = {
+	name="Мирик"
+	culture=colovian
+}
+
+10243 = {
+	name="Надиил"
+	culture=colovian
+}
+
+10244 = {
+	name="Народиил"
+	culture=colovian
+}
+
+10245 = {
+	name="Навал"
+	culture=colovian
+}
+
+10246 = {
+	name="Нед"
+	culture=colovian
+}
+
+10247 = {
+	name="Недер"
+	culture=colovian
+}
+
+10248 = {
+	name="Нелиил"
+	culture=colovian
+}
+
+10249 = {
+	name="Ненкал"
+	culture=colovian
+}
+
+10250 = {
+	name="Ниман"
+	culture=colovian
+}
+
+10251 = {
+	name="Нинкал"
+	culture=colovian
+}
+
+10252 = {
+	name="Нирих"
+	culture=colovian
+}
+
+10253 = {
+	name="Нирол"
+	culture=colovian
+}
+
+10254 = {
+	name="Ноборель"
+	culture=colovian
+}
+
+10255 = {
+	name="Нодер"
+	culture=colovian
+}
+
+10256 = {
+	name="Нониил"
+	culture=colovian
+}
+
+10257 = {
+	name="Носаген"
+	culture=colovian
+}
+
+10258 = {
+	name="Носинер"
+	culture=colovian
+}
+
+10259 = {
+	name="Нунин"
+	culture=colovian
+}
+
+10260 = {
+	name="Ниалпин"
+	culture=colovian
+}
+
+10261 = {
+	name="Ниародиил"
+	culture=colovian
+}
+
+10262 = {
+	name="Ниастав"
+	culture=colovian
+}
+
+10263 = {
+	name="Нуиил"
+	culture=colovian
+}
+
+10264 = {
+	name="Ниорид"
+	culture=colovian
+}
+
+10265 = {
+	name="Нирониил"
+	culture=colovian
+}
+
+10266 = {
+	name="Нистав"
+	culture=colovian
+}
+
+10267 = {
+	name="Ниуссинер"
+	culture=colovian
+}
+
+10268 = {
+	name="Нувел"
+	culture=colovian
+}
+
+10269 = {
+	name="Одалиил"
+	culture=colovian
+}
+
+10270 = {
+	name="Оданарель"
+	culture=colovian
+}
+
+10271 = {
+	name="Оделпин"
+	culture=colovian
+}
+
+10272 = {
+	name="Оденин"
+	culture=colovian
+}
+
+10273 = {
+	name="Одерел"
+	culture=colovian
+}
+
+10274 = {
+	name="Одесаген"
+	culture=colovian
+}
+
+10275 = {
+	name="Одил"
+	culture=colovian
+}
+
+10276 = {
+	name="Одиллин"
+	culture=colovian
+}
+
+10277 = {
+	name="Одиврик"
+	culture=colovian
+}
+
+10278 = {
+	name="Одоссилдор"
+	culture=colovian
+}
+
+10279 = {
+	name="Одоврик"
+	culture=colovian
+}
+
+10280 = {
+	name="Одулиин"
+	culture=colovian
+}
+
+10281 = {
+	name="Одуродиил"
+	culture=colovian
+}
+
+10282 = {
+	name="Одувел"
+	culture=colovian
+}
+
+10283 = {
+	name="Одинкал"
+	culture=colovian
+}
+
+10284 = {
+	name="Охайн"
+	culture=colovian
+}
+
+10285 = {
+	name="Охаман"
+	culture=colovian
+}
+
+10286 = {
+	name="Охолин"
+	culture=colovian
+}
+
+10287 = {
+	name="Охорид"
+	culture=colovian
+}
+
+10288 = {
+	name="Охункал"
+	culture=colovian
+}
+
+10289 = {
+	name="Охунтав"
+	culture=colovian
+}
+
+10290 = {
+	name="Патнейм"
+	culture=colovian
+}
+
+10291 = {
+	name="Пелер"
+	culture=colovian
+}
+
+10292 = {
+	name="Пенорман"
+	culture=colovian
+}
+
+10293 = {
+	name="Пенвел"
+	culture=colovian
+}
+
+10294 = {
+	name="Перих"
+	culture=colovian
+}
+
+10295 = {
+	name="Периил"
+	culture=colovian
+}
+
+10296 = {
+	name="Певейл"
+	culture=colovian
+}
+
+10297 = {
+	name="Пиндер"
+	culture=colovian
+}
+
+10298 = {
+	name="Полпин"
+	culture=colovian
+}
+
+10299 = {
+	name="Пиврик"
+	culture=colovian
+}
+
+10300 = {
+	name="Радер"
+	culture=colovian
+}
+
+10301 = {
+	name="Раман"
+	culture=colovian
+}
+
+10302 = {
+	name="Ранейм"
+	culture=colovian
+}
+
+10303 = {
+	name="Ремон"
+	culture=colovian
+}
+
+10304 = {
+	name="Рибор"
+	culture=colovian
+}
+
+10305 = {
+	name="Ричтон"
+	culture=colovian
+}
+
+10306 = {
+	name="Риин"
+	culture=colovian
+}
+
+10307 = {
+	name="Ринтав"
+	culture=colovian
+}
+
+10308 = {
+	name="Рирол"
+	culture=colovian
+}
+
+10309 = {
+	name="Ривейл"
+	culture=colovian
+}
+
+10310 = {
+	name="Россинер"
+	culture=colovian
+}
+
+10311 = {
+	name="Ростав"
+	culture=colovian
+}
+
+10312 = {
+	name="Руссилдор"
+	culture=colovian
+}
+
+10313 = {
+	name="Риндер"
+	culture=colovian
+}
+
+10314 = {
+	name="Ринлер"
+	culture=colovian
+}
+
+10315 = {
+	name="Рисилдор"
+	culture=colovian
+}
+
+10316 = {
+	name="Сагонер"
+	culture=colovian
+}
+
+10317 = {
+	name="Санейм"
+	culture=colovian
+}
+
+10318 = {
+	name="Себор"
+	culture=colovian
+}
+
+10319 = {
+	name="Седер"
+	culture=colovian
+}
+
+10320 = {
+	name="Селих"
+	culture=colovian
+}
+
+10321 = {
+	name="Селлин"
+	culture=colovian
+}
+
+10322 = {
+	name="Сенарел"
+	culture=colovian
+}
+
+10323 = {
+	name="Сеньян"
+	culture=colovian
+}
+
+10324 = {
+	name="Серих"
+	culture=colovian
+}
+
+10325 = {
+	name="Сессинер"
+	culture=colovian
+}
+
+10326 = {
+	name="Сестав"
+	culture=colovian
+}
+
+10327 = {
+	name="Сиборель"
+	culture=colovian
+}
+
+10328 = {
+	name="Сиил"
+	culture=colovian
+}
+
+10329 = {
+	name="Синдер"
+	culture=colovian
+}
+
+10330 = {
+	name="Синтав"
+	culture=colovian
+}
+
+10331 = {
+	name="Сипин"
+	culture=colovian
+}
+
+10332 = {
+	name="Сирне"
+	culture=colovian
+}
+
+10333 = {
+	name="Сочтон"
+	culture=colovian
+}
+
+10334 = {
+	name="Сод"
+	culture=colovian
+}
+
+10335 = {
+	name="Содер"
+	culture=colovian
+}
+
+10336 = {
+	name="Содил"
+	culture=colovian
+}
+
+10337 = {
+	name="Соньян"
+	culture=colovian
+}
+
+10338 = {
+	name="Сопин"
+	culture=colovian
+}
+
+10339 = {
+	name="Сориин"
+	culture=colovian
+}
+
+10340 = {
+	name="Сосилдор"
+	culture=colovian
+}
+
+10341 = {
+	name="Сталайн"
+	culture=colovian
+}
+
+10342 = {
+	name="Стандер"
+	culture=colovian
+}
+
+10343 = {
+	name="Стедер"
+	culture=colovian
+}
+
+10344 = {
+	name="Стерид"
+	culture=colovian
+}
+
+10345 = {
+	name="Стессинер"
+	culture=colovian
+}
+
+10346 = {
+	name="Стисилдор"
+	culture=colovian
+}
+
+10347 = {
+	name="Стодил"
+	culture=colovian
+}
+
+10348 = {
+	name="Сторан"
+	culture=colovian
+}
+
+10349 = {
+	name="Стувих"
+	culture=colovian
+}
+
+10350 = {
+	name="Стиродиил"
+	culture=colovian
+}
+
+10351 = {
+	name="Сунорман"
+	culture=colovian
+}
+
+10352 = {
+	name="Сувих"
+	culture=colovian
+}
+
+10353 = {
+	name="Сирол"
+	culture=colovian
+}
+
+10354 = {
+	name="Тастав"
+	culture=colovian
+}
+
+10355 = {
+	name="Тедер"
+	culture=colovian
+}
+
+10356 = {
+	name="Тенин"
+	culture=colovian
+}
+
+10357 = {
+	name="Терил"
+	culture=colovian
+}
+
+10358 = {
+	name="Тинин"
+	culture=colovian
+}
+
+10359 = {
+	name="Тисрих"
+	culture=colovian
+}
+
+10360 = {
+	name="Тивел"
+	culture=colovian
+}
+
+10361 = {
+	name="Тонарель"
+	culture=colovian
+}
+
+10362 = {
+	name="Тонорман"
+	culture=colovian
+}
+
+10363 = {
+	name="Тоньян"
+	culture=colovian
+}
+
+10364 = {
+	name="Туборил"
+	culture=colovian
+}
+
+10365 = {
+	name="Турик"
+	culture=colovian
+}
+10366 = {
+	name="Тусинер"
+	culture=colovian
+}
+10367 = {
+	name="Тирих"
+	culture=colovian
+}
+10368 = {
+	name="Тирил"
+	culture=colovian
+}
+10369 = {
+	name="Тиун"
+	culture=colovian
+}
+
+10370 = {
+	name="Вейд"
+	culture=colovian
+}
+
+10371 = {
+	name="Ванарель"
+	culture=colovian
+}
+
+10372 = {
+	name="Ванин"
+	culture=colovian
+}
+
+10373 = {
+	name="Вариэль"
+	culture=colovian
+}
+
+10374 = {
+	name="Варрид"
+	culture=colovian
+}
+
+10375 = {
+	name="Васаген"
+	culture=colovian
+}
+
+10376 = {
+	name="Вечтон"
+	culture=colovian
+}
+
+10377 = {
+	name="Вед"
+	culture=colovian
+}
+
+10378 = {
+	name="Веньян"
+	culture=colovian
+}
+
+10379 = {
+	name="Владер"
+	culture=colovian
+}
+
+10380 = {
+	name="Вларид"
+	culture=colovian
+}
+
+10381 = {
+	name="Вледер"
+	culture=colovian
+}
+
+10382 = {
+	name="Влинорман"
+	culture=colovian
+}
+
+10383 = {
+	name="Влирне"
+	culture=colovian
+}
+
+10384 = {
+	name="Влородиил"
+	culture=colovian
+}
+
+10385 = {
+	name="Влуриэль"
+	culture=colovian
+}
+
+10386 = {
+	name="Влиндер"
+	culture=colovian
+}
+
+10387 = {
+	name="Вод"
+	culture=colovian
+}
+
+10388 = {
+	name="Вородиил"
+	culture=colovian
+}
+
+10389 = {
+	name="Вуд"
+	culture=colovian
+}
+
+10390 = {
+	name="Вульпин"
+	culture=colovian
+}
+
+10391 = {
+	name="Вирик"
+	culture=colovian
+}
+
+10392 = {
+	name="Вувидж"
+	culture=colovian
+}
+
+10393 = {
+	name="Ваврик"
+	culture=colovian
+}
+
+10394 = {
+	name="Вед"
+	culture=colovian
+}
+
+10395 = {
+	name="Весаген"
+	culture=colovian
+}
+
+10396 = {
+	name="Вевих"
+	culture=colovian
+}
+
+10397 = {
+	name="Вириск"
+	culture=colovian
+}
+
+10398 = {
+	name="Вобор"
+	culture=colovian
+}
+
+10399 = {
+	name="Виман"
+	culture=colovian
+}
+
+10400 = {
+	name = "Тор"
+	culture = colovian
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 4
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+10401 = {
+	name = "Ларик"
+	culture = colovian
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 3
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+10402 = {
+	name = "Влиндрел"
+	culture = colovian
+}
+
+10403 = {
+	name = "Оло"
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 6
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+10404 = {
+	name = "Аквилариос"
+	culture = colovian
+}
+10405 = {
+	name = "из Стирка"
+	culture = colovian
+}
+10406 = {
+	name = "из Приюта Ворона"
+	culture = colovian
+}
+10407 = {
+	name = "Бенирус"
+	culture = colovian
+}
+10408 = {
+	name = "ап Дугал"
+	culture = reachman #alt. Breton or Nord; Torradan ap Dugal was born in Dunbarrow, Skyrim.
+}
+10409 = {
+	name = "из Рейлеса"
+	culture = colovian
+	used_for_random=no
+}
+10410 = {
+	name = "Аэд"
+	culture = colovian
+}
+10411 = {
+	name = "Магиус"
+	culture = colovian
+}
+10412 = {
+	name = "Аересиус" #Eventually Heartlander/Nibenean
+	culture = colovian
+}
+10413 = {
+	name = "Гургес"
+	culture = colovian
+}
+10414 = {
+	name = "Валга"
+	culture = colovian
+}
+10415 = {
+	name = "Вирия"
+	culture = colovian
+}
+10416 = {
+	name = "Мерула"
+	culture = colovian
+}
+10417 = {
+	name = "Ковентин"
+	culture = colovian
+}
+10418 = {
+	name = "Декан"
+	culture = colovian
+}
+10419 = {
+	name = "Жерил"
+	culture = colovian
+}

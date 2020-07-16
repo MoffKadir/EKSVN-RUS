@@ -1,0 +1,148 @@
+# Dragons: 550100-550299
+550100 = {
+	name="Аак"
+	culture=dovah
+}
+550101 = {
+	name="Аан"
+	culture=dovah
+}
+550102 = {
+	name="Ааз"
+	culture=dovah
+}
+550103 = {
+	name="Аг"
+	culture=dovah
+}
+550104 = {
+	name="Ах"
+	culture=dovah
+}
+550105 = {
+	name="Акрин"
+	culture=dovah
+}
+550106 = {
+	name="Араан"
+	culture=dovah
+}
+550107 = {
+	name="Арол"
+	culture=dovah
+}
+550108 = {
+	name="Азид"
+	culture=dovah
+}
+550109 = {
+	name="Ал"
+	culture=dovah
+}
+550110 = {
+	name="Алок"
+	culture=dovah
+}
+550111 = {
+	name="Алун"
+	culture=dovah
+}
+550112 = {
+	name="Аматив"
+	culture=dovah
+}
+550113 = {
+	name="Аус"
+	culture=dovah
+}
+550114 = {
+	name="Бах"
+	culture=dovah
+}
+550115 = {
+	name="Балаан"
+	culture=dovah
+}
+550116 = {
+	name="Балок"
+	culture=dovah
+}
+550175 = {
+	name="Мидрот"
+	culture=dovah
+}
+550200 = {
+	name="Кустиид"
+	culture=dovah
+}
+550250 = {
+	name="Вокун"
+	culture=dovah
+}
+550283 = {
+	name="Заам"
+	culture=dovah
+}
+550284 = {
+	name="Заамус"
+	culture=dovah
+}
+550285 = {
+	name="Заан"
+	culture=dovah
+}
+550286 = {
+	name="Зах"
+	culture=dovah
+}
+550287 = {
+	name="Захрии"
+	culture=dovah
+}
+550288 = {
+	name="Захрамиик"
+	culture=dovah
+}
+550289 = {
+	name="Зеймах"
+	culture=dovah
+}
+550290 = {
+	name="Зил"
+	culture=dovah
+}
+550291 = {
+	name="Зиил"
+	culture=dovah
+}
+550292 = {
+	name="Зин"
+	culture=dovah
+}
+550293 = {
+	name="Зинд"
+}
+550294 = {
+	name="Зофааз"
+	culture=dovah
+}
+550295 = {
+	name="Зоунгаар"
+	culture=dovah
+}
+550296 = {
+	name="Зол"
+	culture=dovah
+}
+550297 = {
+	name="Зоор"
+	culture=dovah
+}
+550298 = {
+	name="Зул"
+	culture=dovah
+}
+550299 = {
+	name="Зун"
+	culture=dovah
+}

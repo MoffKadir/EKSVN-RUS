@@ -1,0 +1,2499 @@
+70000 = {
+	name="Аальд"
+	culture=nord
+
+}
+
+70001 = {
+	name="Алабар"
+	culture=nord
+
+}
+
+70002 = {
+	name="Арьяк"
+	culture=nord
+
+}
+
+70003 = {
+	name="Барук"
+	culture=nord
+
+}
+
+70004 = {
+	name="Бьималь"
+	culture=nord
+
+}
+
+70005 = {
+	name="Бьорга"
+	culture=nord
+
+}
+
+70006 = {
+	name="Бйорт"
+	culture=nord
+
+}
+
+70007 = {
+	name="Бьюрл"
+	culture=nord
+
+}
+
+70008 = {
+	name="Браадель"
+	culture=nord
+
+}
+
+70009 = {
+	name="Брундхель"
+	culture=nord
+
+}
+
+70010 = {
+	name="Брундль"
+	culture=nord
+
+}
+
+70011 = {
+	name="Бисри"
+	culture=nord
+
+}
+
+70012 = {
+	name="Дьель"
+	culture=nord
+
+}
+
+70013 = {
+	name="Дьеми"
+	culture=nord
+
+}
+
+70014 = {
+	name="Эньяарл"
+	culture=nord
+
+}
+
+70015 = {
+	name="Ффирль"
+	culture=nord
+
+}
+
+70016 = {
+	name="Фьялр"
+	culture=nord
+
+}
+
+70017 = {
+	name="Фьалтало"
+	culture=nord
+
+}
+
+70018 = {
+	name="Формделль"
+	culture=nord
+
+}
+
+70019 = {
+	name="Форму"
+	culture=nord
+
+}
+
+70020 = {
+	name="Гальдорь"
+	culture=nord
+
+}
+
+70021 = {
+	name="Гемьор"
+	culture=nord
+
+}
+
+70022 = {
+	name="Гильред"
+	culture=nord
+
+}
+
+70023 = {
+	name="Гронунд"
+	culture=nord
+
+}
+
+70024 = {
+	name="Гремфелль"
+	culture=nord
+
+}
+
+70025 = {
+	name="Груналь"
+	culture=nord
+
+}
+
+70026 = {
+	name="Гулгар"
+	culture=nord
+
+}
+
+70027 = {
+	name="Галомар"
+	culture=nord
+
+}
+
+70028 = {
+	name="Харальф"
+	culture=nord
+
+}
+
+70029 = {
+	name="Гбольх"
+	culture=nord
+
+}
+
+70030 = {
+	name="Хилькмит"
+	culture=nord
+
+}
+
+70031 = {
+	name="Хегм"
+	culture=nord
+
+}
+
+70032 = {
+	name="Хеймгруд"
+	culture=nord
+
+}
+
+70033 = {
+	name="Хемф"
+	culture=nord
+
+}
+
+70034 = {
+	name="Хендель"
+	culture=nord
+
+}
+
+70035 = {
+	name="Герьдель"
+	culture=nord
+
+}
+
+70036 = {
+	name="Хгевен"
+	culture=nord
+
+}
+
+70037 = {
+	name="Хгаль"
+	culture=nord
+
+}
+
+70038 = {
+	name="Хьяль"
+	culture=nord
+
+}
+
+70039 = {
+	name="Хьялмер"
+	culture=nord
+
+}
+
+70040 = {
+	name="Хьеймдаль"
+	culture=nord
+
+}
+
+70041 = {
+	name="Хьлет"
+	culture=nord
+
+}
+
+70042 = {
+	name="Хлетно"
+	culture=nord
+
+}
+
+70043 = {
+	name="Хоегди"
+	culture=nord
+
+}
+
+70044 = {
+	name="Хумделль"
+	culture=nord
+
+}
+
+70045 = {
+	name="Хвамьяр"
+	culture=nord
+
+}
+
+70046 = {
+	name="Йеорр"
+	culture=nord
+
+}
+
+70047 = {
+	name="Йун"
+	culture=nord
+
+}
+
+70048 = {
+	name="Йирфоль"
+	culture=nord
+
+}
+
+70049 = {
+	name="Йирлохем"
+	culture=nord
+
+}
+
+70050 = {
+	name="Йирмуг"
+	culture=nord
+
+}
+
+70051 = {
+	name="Йауф"
+	culture=nord
+
+}
+
+70052 = {
+	name="Йкарле"
+	culture=nord
+
+}
+
+70053 = {
+	name="Йорель"
+	culture=nord
+
+}
+
+70054 = {
+	name="Йунгаррд"
+	culture=nord
+
+}
+
+70055 = {
+	name="Юрлдель"
+	culture=nord
+
+}
+
+70056 = {
+	name="Каркукс"
+	culture=nord
+
+}
+
+70057 = {
+	name="Килсобрад"
+	culture=nord
+
+}
+
+70058 = {
+	name="Корст"
+	culture=nord
+
+}
+
+70059 = {
+	name="Лундга"
+	culture=nord
+
+}
+
+70060 = {
+	name="Лунгальт"
+	culture=nord
+
+}
+
+70061 = {
+	name="Мбьяналь"
+	culture=nord
+
+}
+
+70062 = {
+	name="Медох"
+	culture=nord
+
+}
+
+70063 = {
+	name="Мьянор"
+	culture=nord
+
+}
+
+70064 = {
+	name="Мьёльсмар"
+	culture=nord
+
+}
+
+70065 = {
+	name="Мьёр"
+	culture=nord
+
+}
+
+70066 = {
+	name="Морган"
+	culture=nord
+
+}
+
+70067 = {
+	name="Морхе"
+	culture=nord
+
+}
+
+70068 = {
+	name="Ньималь"
+	culture=nord
+
+}
+
+70069 = {
+	name="Ньёрд"
+	culture=nord
+
+}
+
+70070 = {
+	name="Ноахейм"
+	culture=nord
+
+}
+
+70071 = {
+	name="Кровавый Рог"
+	culture=nord
+
+}
+
+70072 = {
+	name="Буревестник"
+	culture = nord
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 3
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+	used_for_random = no
+	can_appear = no
+}
+
+70073 = {
+	name="Кислое Сердце"
+	culture=nord
+
+}
+
+70074 = {
+	name="Ребек"
+	culture=nord
+
+}
+
+70075 = {
+	name="Рохард"
+	culture=nord
+
+}
+
+70076 = {
+	name="Сильст"
+	culture=nord
+
+}
+
+70077 = {
+	name="Сольст"
+	culture=nord
+
+}
+
+70078 = {
+	name="Стен"
+	culture=nord
+
+}
+
+70079 = {
+	name="Стун"
+	culture=nord
+
+}
+
+70080 = {
+	name="Свндлькофф"
+	culture=nord
+
+}
+
+70081 = {
+	name="Свон"
+	culture=nord
+
+}
+
+70082 = {
+	name="Теб"
+	culture=nord
+
+}
+
+70083 = {
+	name="Тельхм"
+	culture=nord
+
+}
+
+70084 = {
+	name="Тетхальд"
+	culture=nord
+
+}
+
+70085 = {
+	name="Талльд"
+	culture=nord
+
+}
+
+70086 = {
+	name="Тсьяри"
+	culture=nord
+
+}
+
+70087 = {
+	name="Тсмир"
+	culture=nord
+
+}
+
+70088 = {
+	name="Тсунальтир"
+	culture=nord
+
+}
+
+70089 = {
+	name="Урисмр"
+	culture=nord
+
+}
+
+70090 = {
+	name="Валомар"
+	culture=nord
+
+}
+
+70091 = {
+	name="Варджмель"
+	culture=nord
+
+}
+
+70092 = {
+	name="Врэйдж"
+	culture=nord
+
+}
+
+70093 = {
+	name="Врендль"
+	culture=nord
+
+}
+
+70094 = {
+	name="Иаль"
+	culture=nord
+
+}
+
+70095 = {
+	name="Иальяр"
+	culture=nord
+
+}
+
+70096 = {
+	name="Исграмор"
+	culture=nord
+	used_for_random = no
+	can_appear = no
+}
+
+70097 = {
+	name="Исмалос"
+	culture=nord
+
+}
+
+70098 = {
+	name="Исмиейль"
+	culture=nord
+}
+
+70099 = {
+	name="Исрет"
+	culture=nord
+}
+
+70100 = {
+	name="Ледяной Эль"
+	culture=nord
+}
+
+70101 = {
+	name="Эль Писца"
+	culture=nord
+}
+
+70102 = {
+	name="Янтарный Бегун"
+	culture=nord
+}
+
+70103 = {
+	name="Янтарный Щит"
+	culture=nord
+}
+
+70104 = {
+	name="Беспокойный Ковчег"
+	culture=nord
+}
+
+70105 = {
+	name="Секироносец"
+	culture=nord
+}
+
+70106 = {
+	name="Близнец Топора"
+	culture=nord
+}
+
+70107 = {
+	name="Супруг(а) Топора"
+	culture=nord
+}
+
+70108 = {
+	name="Знаменосец"
+	culture=nord
+}
+
+70109 = {
+	name="Освещающий Знамя"
+	culture=nord
+}
+
+70110 = {
+	name="Разорванное Знамя"
+	culture=nord
+}
+
+70111 = {
+	name="Сын Битвы"
+	culture=nord
+}
+
+70112 = {
+	name="Нож Битвы"
+	culture=nord
+}
+
+70113 = {
+	name="Сразивший Многих"
+	culture=nord
+}
+
+70114 = {
+	name="Медвежья Лапа"
+	culture=nord
+}
+
+70115 = {
+	name="Рожденный Медведем"
+	culture=nord
+}
+
+70116 = {
+	name="Бьющий в Колокол"
+	culture=nord
+}
+
+70117 = {
+	name="Чёрный Вереск"
+	culture=nord
+}
+
+70118 = {
+	name="Чёрный Ноготь"
+	culture=nord
+}
+
+70119 = {
+	name="Чёрная Крыса"
+	culture=nord
+}
+
+70120 = {
+	name="Чёрное Кольцо"
+	culture=nord
+}
+
+70121 = {
+	name="Чёрный Бич"
+	culture=nord
+}
+
+70122 = {
+	name="Чёрный Клинок"
+	culture=nord
+}
+
+70123 = {
+	name="Чёрный Шип"
+	culture=nord
+}
+
+70124 = {
+	name="Кровавая Наковальня"
+	culture=nord
+}
+
+70125 = {
+	name="Кровопийца"
+	culture=nord
+}
+
+70126 = {
+	name="Кровавый Бегун"
+	culture=nord
+}
+
+70127 = {
+	name="Кровавый Певец"
+	culture=nord
+}
+
+70128 = {
+	name="Кровавый Лес"
+	culture=nord
+}
+
+70129 = {
+	name="Синяя Грива"
+	culture=nord
+}
+
+70130 = {
+	name="Синий Зуб"
+	culture=nord
+}
+
+70131 = {
+	name="Синяя Стена"
+	culture=nord
+}
+
+70132 = {
+	name="Деревенский Корабль"
+	culture=nord
+}
+
+70133 = {
+	name="Корабль Тана"
+	culture=nord
+}
+
+70134 = {
+	name="Болотный Бог"
+	culture=nord
+}
+
+70135 = {
+	name="Болотный Скакун"
+	culture=nord
+}
+
+70136 = {
+	name="Смелая Лютня"
+	culture=nord
+}
+
+70137 = {
+	name="Супруг(а) Книги"
+	culture=nord
+}
+
+70138 = {
+	name="Хвастливый"
+	culture=nord
+}
+
+70139 = {
+	name="Кружка Бренди"
+	culture=nord
+}
+
+70140 = {
+	name="Широкая Стена"
+	culture=nord
+}
+
+70141 = {
+	name="Сын Разрушения"
+	culture=nord
+}
+
+70142 = {
+	name="Сломанный Мыс"
+	culture=nord
+}
+
+70143 = {
+	name="Курганник"
+	culture=nord
+}
+
+70144 = {
+	name="Фетиль Свечи"
+	culture=nord
+}
+
+70145 = {
+	name="Скальный Огонь"
+	culture=nord
+}
+
+70146 = {
+	name="Скалолаз"
+	culture=nord
+}
+
+70147 = {
+	name="Горный Странник"
+	culture=nord
+}
+
+70148 = {
+	name="Жестокий Писарь"
+	culture=nord
+}
+
+70149 = {
+	name="Жестокое Море"
+	culture=nord
+}
+
+70150 = {
+	name="Проклятый Клинок"
+	culture=nord
+}
+
+70151 = {
+	name="Проклинающий"
+	culture=nord
+}
+
+70152 = {
+	name="Проклятая Коса"
+	culture=nord
+}
+
+70153 = {
+	name="Крик Кинжала"
+	culture=nord
+}
+
+70154 = {
+	name="Тёмное Сердце"
+	culture=nord
+}
+
+70155 = {
+	name="Дип-Раэд"
+	culture=nord
+}
+
+70156 = {
+	name="Пророчащий-Гибель"
+	culture=nord
+}
+
+70157 = {
+	name="Создатель Барабана"
+	culture=nord
+}
+
+70158 = {
+	name="Ранний Клинок"
+	culture=nord
+}
+
+70159 = {
+	name="Ранний Рассвет"
+	culture=nord
+}
+
+70160 = {
+	name="Раннее Кольцо"
+	culture=nord
+}
+
+70161 = {
+	name="Съеденное Эхо"
+	culture=nord
+}
+
+70162 = {
+	name="Ушной Угорь"
+	culture=nord
+}
+
+70163 = {
+	name="Восемнадцать Ушей"
+	culture=nord
+}
+
+70164 = {
+	name="Эльфобой"
+	culture=nord
+}
+
+70165 = {
+	name="Дробитель Янтаря"
+	culture=nord
+}
+
+70166 = {
+	name="Мастер Янтаря"
+	culture=nord
+}
+
+70167 = {
+	name="Янтарная Грива"
+	culture=nord
+}
+
+70168 = {
+	name="Янтарная Жила"
+	culture=nord
+}
+
+70169 = {
+	name="Справедливый Писарь"
+	culture=nord
+}
+
+70170 = {
+	name="Крепкий Щит"
+	culture=nord
+}
+
+70171 = {
+	name="Далёкий Щит"
+	culture=nord
+}
+
+70172 = {
+	name="Дальновидный"
+	culture=nord
+}
+
+70173 = {
+	name="Художник Пера"
+	culture=nord
+}
+
+70174 = {
+	name="Прекрасные Волосы"
+	culture=nord
+}
+
+70175 = {
+	name="Огненная Секира"
+	culture=nord
+}
+
+70176 = {
+	name="Огненный Глаз"
+	culture=nord
+}
+
+70177 = {
+	name="Укротитель Огня"
+	culture=nord
+}
+
+70178 = {
+	name="Добыча Огня"
+	culture=nord
+}
+
+70179 = {
+	name="Огнебород"
+	culture=nord
+}
+
+70180 = {
+	name="Метатель Огня"
+	culture=nord
+}
+
+70181 = {
+	name="Огненный Мех"
+	culture=nord
+}
+
+70182 = {
+	name="Огненная Грива"
+	culture=nord
+}
+
+70183 = {
+	name="Пятибородый"
+	culture=nord
+}
+
+70184 = {
+	name="Пятиголовый"
+	culture=nord
+}
+
+70185 = {
+	name="Фьорк-Стаг"
+	culture=nord
+}
+
+70186 = {
+	name="Плосконог"
+	culture=nord
+}
+
+70187 = {
+	name="Туманный Взор"
+	culture=nord
+}
+
+70188 = {
+	name="Двоебородый"
+	culture=nord
+}
+
+70189 = {
+	name="Четыре Котла"
+	culture=nord
+}
+
+70190 = {
+	name="Четыре Ходока"
+	culture=nord
+}
+
+70191 = {
+	name="Опора Лиса"
+	culture=nord
+}
+
+70192 = {
+	name="Клинок Лиса"
+	culture=nord
+}
+
+70193 = {
+	name="Крик Лиса"
+	culture=nord
+}
+
+70194 = {
+	name="Штормовой Лис"
+	culture=nord
+}
+
+70195 = {
+	name="Лисья Лапа"
+	culture=nord
+}
+
+70196 = {
+	name="Зимний Простор"
+	culture=nord
+}
+
+70197 = {
+	name="Ледяной Дождь"
+	culture=nord
+}
+
+70198 = {
+	name="Ледяное Сердце"
+	culture=nord
+}
+
+70199 = {
+	name="Губитель Великанов"
+	culture=nord
+}
+
+70200 = {
+	name="Великан-Странник"
+	culture=nord
+}
+
+70201 = {
+	name="Богоненавистник"
+	culture=nord
+}
+
+70202 = {
+	name="Золотая Отмель"
+	culture=nord
+}
+
+70203 = {
+	name="Золотая Кровь"
+	culture=nord
+}
+
+70204 = {
+	name="Золотая Рукоять"
+	culture=nord
+}
+
+70205 = {
+	name="Золотая Стена"
+	culture=nord
+}
+
+70206 = {
+	name="Серая Грива"
+	culture=nord
+}
+
+70207 = {
+	name="Серая Песнь"
+	culture=nord
+}
+
+70208 = {
+	name="Серая Волна"
+	culture=nord
+}
+
+70209 = {
+	name="Серый Бич"
+	culture=nord
+}
+
+70210 = {
+	name="Серый Глаз"
+	culture=nord
+}
+
+70211 = {
+	name="Серый Шаг"
+	culture=nord
+}
+
+70212 = {
+	name="Песчаный Принц"
+	culture=nord
+}
+
+70213 = {
+	name="Усталый"
+	culture=nord
+}
+
+70214 = {
+	name="Волосатик"
+	culture=nord
+}
+
+70215 = {
+	name="Мохноногий"
+	culture=nord
+}
+
+70216 = {
+	name="Половина Шкатулки"
+	culture=nord
+}
+
+70217 = {
+	name="Полутролль"
+	culture=nord
+}
+
+70218 = {
+	name="Полруки"
+	culture=nord
+}
+
+70219 = {
+	name="Рукоять Создателя"
+	culture=nord
+}
+
+70220 = {
+	name="Жестокосердный"
+	culture=nord
+}
+
+70221 = {
+	name="Не Сдвинешь"
+	culture=nord
+}
+
+70222 = {
+	name="Кожаные Штаны"
+	culture=nord
+}
+
+70223 = {
+	name="Ненавистная Корзина"
+	culture=nord
+}
+
+70224 = {
+	name="Крушитель Голов"
+	culture=nord
+}
+
+70225 = {
+	name="Клык Сердца"
+	culture=nord
+}
+
+70226 = {
+	name="Целитель Сердец"
+	culture=nord
+}
+
+70227 = {
+	name="Супруг(а) Очага"
+	culture=nord
+}
+
+70228 = {
+	name="Великий Медведь"
+	culture=nord
+}
+
+70229 = {
+	name="Рубящий Высоко"
+	culture=nord
+}
+
+70230 = {
+	name="Высокая Стая"
+	culture=nord
+}
+
+70231 = {
+	name="Высокая Стена"
+	culture=nord
+}
+
+70232 = {
+	name="Мех Хоуга"
+	culture=nord
+}
+
+70233 = {
+	name="Морозная Кровь"
+	culture=nord
+}
+
+70234 = {
+	name="Хромой"
+	culture=nord
+}
+
+70235 = {
+	name="Свиное Брюхо"
+	culture=nord
+}
+
+70236 = {
+	name="Пустая Нога"
+	culture=nord
+}
+
+70237 = {
+	name="Разлучник"
+	culture=nord
+}
+
+70238 = {
+	name="Медовая Рука"
+	culture=nord
+}
+
+70239 = {
+	name="Гроза Лошадей"
+	culture=nord
+}
+
+70240 = {
+	name="Лошадиная Пасть"
+	culture=nord
+}
+
+70241 = {
+	name="Коса Гончей"
+	culture=nord
+}
+
+70242 = {
+	name="Стена Гончей"
+	culture=nord
+}
+
+70243 = {
+	name="Ледяное Пламя"
+	culture=nord
+}
+
+70244 = {
+	name="Ледяной Кулак"
+	culture=nord
+}
+
+70245 = {
+	name="Ледяная Грива"
+	culture=nord
+}
+
+70246 = {
+	name="Ледяная Пасть"
+	culture=nord
+}
+
+70247 = {
+	name="Ледяной Щит"
+	culture=nord
+}
+
+70248 = {
+	name="Ледяной Обман"
+	culture=nord
+}
+
+70249 = {
+	name="Ледяные Нервы"
+	culture=nord
+}
+
+70250 = {
+	name="Стальной Разрушитель"
+	culture=nord
+}
+
+70251 = {
+	name="Железный Разрушитель"
+	culture=nord
+}
+
+70252 = {
+	name="Железный Мех"
+	culture=nord
+}
+
+70253 = {
+	name="Железный Каменотёс"
+	culture=nord
+}
+
+70254 = {
+	name="Железный Котёл"
+	culture=nord
+}
+
+70255 = {
+	name="Железный Крой"
+	culture=nord
+}
+
+70256 = {
+	name="Железная Стена"
+	culture=nord
+}
+
+70257 = {
+	name="Железный Огонь"
+	culture=nord
+}
+
+70258 = {
+	name="Железная Рука"
+	culture=nord
+}
+
+70259 = {
+	name="Мудрый Правитель"
+	culture=nord
+}
+
+70260 = {
+	name="Борода Узлом"
+	culture=nord
+}
+
+70261 = {
+	name="Увалень"
+	culture=nord
+}
+
+70262 = {
+	name="Рука Закона"
+	culture=nord
+}
+
+70263 = {
+	name="Одинокий Шквал"
+	culture=nord
+}
+
+70264 = {
+	name="Длинная Нога"
+	culture=nord
+}
+
+70265 = {
+	name="Длинный Зуб"
+	culture=nord
+}
+
+70266 = {
+	name="Ткач"
+	culture=nord
+}
+
+70267 = {
+	name="Тяжелорукий"
+	culture=nord
+}
+
+70268 = {
+	name="Медовый Топор"
+	culture=nord
+}
+
+70269 = {
+	name="Мёд Медведя"
+	culture=nord
+}
+
+70270 = {
+	name="Медовый Щит"
+	culture=nord
+}
+
+70271 = {
+	name="Медовый Странник"
+	culture=nord
+}
+
+70272 = {
+	name="Лицо Когтя"
+	culture=nord
+}
+
+70273 = {
+	name="Стук Когтя"
+	culture=nord
+}
+
+70274 = {
+	name="Суд Когтя"
+	culture=nord
+}
+
+70275 = {
+	name="Слово Вызывающего"
+	culture=nord
+}
+
+70276 = {
+	name="Нидхаммер"
+	culture=nord
+}
+
+70277 = {
+	name="Дубовая Кожа"
+	culture=nord
+}
+
+70278 = {
+	name="Дубовая Кувалда"
+	culture=nord
+}
+
+70279 = {
+	name="Дубовый Огонь"
+	culture=nord
+}
+
+70280 = {
+	name="Дубовая Грива"
+	culture=nord
+}
+
+70281 = {
+	name="Носитель Клятвы"
+	culture=nord
+}
+
+70282 = {
+	name="Давший Клятву"
+	culture=nord
+}
+
+70283 = {
+	name="Мастер Клятвы"
+	culture=nord
+}
+
+70284 = {
+	name="Тесьма Клятвы"
+	culture=nord
+}
+
+70285 = {
+	name="Награждённый"
+	culture=nord
+}
+
+70286 = {
+	name="Одноглазый"
+	culture=nord
+}
+
+70287 = {
+	name="Первый Меч"
+	culture=nord
+}
+
+70288 = {
+	name="Совиный Мех"
+	culture=nord
+}
+
+70289 = {
+	name="Чистый Клинок"
+	culture=nord
+}
+
+70290 = {
+	name="Чистая Рука"
+	culture=nord
+}
+
+70291 = {
+	name="Свет Весны"
+	culture=nord
+}
+
+70292 = {
+	name="Хищный Кролик"
+	culture=nord
+}
+
+70293 = {
+	name="Чёрный"
+	culture=nord
+}
+
+70294 = {
+	name="Красная Рука"
+	culture=nord
+}
+
+70295 = {
+	name="Красная Грива"
+	culture=nord
+}
+
+70296 = {
+	name="Красная Отмель"
+	culture=nord
+}
+
+70297 = {
+	name="Красное Копьё"
+	culture=nord
+}
+
+70298 = {
+	name="Краснозубый"
+	culture=nord
+}
+
+70299 = {
+	name="Метатель Камней"
+	culture=nord
+}
+
+70300 = {
+	name="Разрушитель Скалы"
+	culture=nord
+}
+
+70301 = {
+	name="Чёрная Рукоять"
+	culture=nord
+}
+
+70302 = {
+	name="Чёрный Гонец"
+	culture=nord
+}
+
+70303 = {
+	name="Чёрный Щит"
+	culture=nord
+}
+
+70304 = {
+	name="Морская Наковальня"
+	culture=nord
+}
+
+70305 = {
+	name="Соляной Разрушитель"
+	culture=nord
+}
+
+70306 = {
+	name="Соляной Огонь"
+	culture=nord
+}
+
+70307 = {
+	name="Солёный Трап"
+	culture=nord
+}
+
+70308 = {
+	name="Пуд Соли"
+	culture=nord
+}
+
+70309 = {
+	name="Саргтлайн"
+	culture=nord
+}
+
+70310 = {
+	name="Меченый"
+	culture=nord
+}
+
+70311 = {
+	name="Шрам Кувалды"
+	culture=nord
+}
+
+70312 = {
+	name="Отмель Шрама"
+	culture=nord
+}
+
+70313 = {
+	name="Морской Призрак"
+	culture=nord
+}
+
+70314 = {
+	name="Морской Владыка"
+	culture=nord
+}
+
+70315 = {
+	name="Морское Копьё"
+	culture=nord
+}
+
+70316 = {
+	name="Тайный Огонь"
+	culture=nord
+}
+
+70317 = {
+	name="Тайный Клинок"
+	culture=nord
+}
+
+70318 = {
+	name="Седьмой Медведь"
+	culture=nord
+}
+
+70319 = {
+	name="Семиликий"
+	culture=nord
+}
+
+70320 = {
+	name="Семь Клинков"
+	culture=nord
+}
+
+70321 = {
+	name="Расколотый Клинок"
+	culture=nord
+}
+
+70322 = {
+	name="Расколотый Щит"
+	culture=nord
+}
+
+70323 = {
+	name="Разбитый Кулак"
+	culture=nord
+}
+
+70324 = {
+	name="Дарованный Щит"
+	culture=nord
+}
+
+70325 = {
+	name="Песня Щита"
+	culture=nord
+}
+
+70326 = {
+	name="Стена Щита"
+	culture=nord
+}
+
+70327 = {
+	name="Супруг(а) Щита"
+	culture=nord
+}
+
+70328 = {
+	name="Короткая Рука"
+	culture=nord
+}
+
+70329 = {
+	name="Серебряная Кровь"
+	culture=nord
+}
+
+70330 = {
+	name="Серебряная Грива"
+	culture=nord
+}
+
+70331 = {
+	name="Серебряный Мастер"
+	culture=nord
+}
+
+70332 = {
+	name="Серебряный Меч"
+	culture=nord
+}
+
+70333 = {
+	name="Шесть Пальцев"
+	culture=nord
+}
+
+70334 = {
+	name="Шесть Подков"
+	culture=nord
+}
+
+70335 = {
+	name="Шесть Колец"
+	culture=nord
+}
+
+70336 = {
+	name="Скельсгард"
+	culture=nord
+}
+
+70337 = {
+	name="Рассекающий Небо"
+	culture=nord
+}
+
+70338 = {
+	name="Небесный Котёл"
+	culture=nord
+}
+
+70339 = {
+	name="Небесный Писарь"
+	culture=nord
+}
+
+70340 = {
+	name="Зуб Небес"
+	culture=nord
+}
+
+70341 = {
+	name="Небесный Скороход"
+	culture=nord
+}
+
+70342 = {
+	name="Супруг(а) Неба"
+	culture=nord
+}
+
+70343 = {
+	name="Снежный Клинок"
+	culture=nord
+}
+
+70344 = {
+	name="Снежная Коса"
+	culture=nord
+}
+
+70345 = {
+	name="Снегоход"
+	culture=nord
+}
+
+70346 = {
+	name="Снежная Песнь"
+	culture=nord
+}
+
+70347 = {
+	name="Снежный Кит"
+	culture=nord
+}
+
+70348 = {
+	name="Клинок Сорена"
+	culture=nord
+}
+
+70349 = {
+	name="Мех Сорена"
+	culture=nord
+}
+
+70350 = {
+	name="Щит Сорена"
+	culture=nord
+}
+
+70351 = {
+	name="Олений Щит"
+	culture=nord
+}
+
+70352 = {
+	name="Олений Рог"
+	culture=nord
+}
+
+70353 = {
+	name="Звездная Наковальня"
+	culture=nord
+}
+
+70354 = {
+	name="Рука Звезды"
+	culture=nord
+}
+
+70355 = {
+	name="Звёздная Грива"
+	culture=nord
+}
+
+70356 = {
+	name="Звёздная Песнь"
+	culture=nord
+}
+
+70357 = {
+	name="Разрушительный Взгляд"
+	culture=nord
+}
+
+70358 = {
+	name="Каменный Глаз"
+	culture=nord
+}
+
+70359 = {
+	name="Каменный Кулак"
+	culture=nord
+}
+
+70360 = {
+	name="Каменный Щит"
+	culture=nord
+}
+
+70361 = {
+	name="Каменная Рука"
+	culture=nord
+}
+
+70362 = {
+	name="Штормовая Песнь"
+	culture=nord
+}
+
+70363 = {
+	name="Вульфхарт"
+	used_for_random = no
+	can_appear = no
+}
+
+70364 = {
+	name="Сильная Рука"
+	culture=nord
+}
+
+70365 = {
+	name="Сильное Сердце"
+	culture=nord
+}
+
+70366 = {
+	name="Сильная Нога"
+	culture=nord
+}
+
+70367 = {
+	name="Белая Борода"
+	culture=nord
+}
+
+70368 = {
+	name="Солнечный Клинок"
+	culture=nord
+}
+
+70369 = {
+	name="Солнцененавистник"
+	culture=nord
+}
+
+70370 = {
+	name="Разрубленная Секира"
+	culture=nord
+}
+
+70371 = {
+	name="Разрубленная Грива"
+	culture=nord
+}
+
+70372 = {
+	name="Разрубленный Олень"
+	culture=nord
+}
+
+70373 = {
+	name="Моряк"
+	culture=nord
+}
+
+70374 = {
+	name="Морская Песнь"
+	culture=nord
+}
+
+70375 = {
+	name="Дева Меча"
+	culture=nord
+}
+
+70376 = {
+	name="Высокая Коса"
+	culture=nord
+}
+
+70377 = {
+	name="Высокий Щит"
+	culture=nord
+}
+
+70378 = {
+	name="Толстое Лицо"
+	culture=nord
+}
+
+70379 = {
+	name="Жирные Руки"
+	culture=nord
+}
+
+70380 = {
+	name="Слеза Жены"
+	culture=nord
+}
+
+70381 = {
+	name="Кольцо Шиповника"
+	culture=nord
+}
+
+70382 = {
+	name="Хозяин Тролля"
+	culture=nord
+}
+
+70383 = {
+	name="Три Клинка"
+	culture=nord
+}
+
+70384 = {
+	name="Три Грабителя"
+	culture=nord
+}
+
+70385 = {
+	name="Три Меха"
+	culture=nord
+}
+
+70386 = {
+	name="Трижды Пронзённый"
+	culture=nord
+}
+
+70387 = {
+	name="Шумный Писарь"
+	culture=nord
+}
+
+70388 = {
+	name="Громовой Щит"
+	culture=nord
+}
+
+70389 = {
+	name="Громовая Грива"
+	culture=nord
+}
+
+70390 = {
+	name="Жабий Клинок"
+	culture=nord
+}
+
+70391 = {
+	name="Жабий Властитель"
+	culture=nord
+}
+
+70392 = {
+	name="Жабий Резчик"
+	culture=nord
+}
+
+70393 = {
+	name="Жабий Глаз"
+	culture=nord
+}
+
+70394 = {
+	name="Жабий Щит"
+	culture=nord
+}
+
+70395 = {
+	name="Жабье Копьё"
+	culture=nord
+}
+
+70396 = {
+	name="Жабий Камень"
+	culture=nord
+}
+
+70397 = {
+	name="Носитель Кольца"
+	culture=nord
+}
+
+70398 = {
+	name="Кольцо Вдовы"
+	culture=nord
+}
+
+70399 = {
+	name="Носитель Троллей"
+	culture=nord
+}
+
+70400 = {
+	name="Проклятье Троллей"
+	culture=nord
+}
+
+70401 = {
+	name="Клык Вдовы"
+	culture=nord
+}
+
+70402 = {
+	name="Двойной Обман"
+	culture=nord
+}
+
+70403 = {
+	name="Два Бегуна"
+	culture=nord
+}
+
+70404 = {
+	name="Подземный Крик"
+	culture=nord
+}
+
+70405 = {
+	name="Боевая Наковальня"
+	culture=nord
+}
+
+70406 = {
+	name="Разъярённый Медведь"
+	culture=nord
+}
+
+70407 = {
+	name="Боевая Кувалда"
+	culture=nord
+}
+
+70408 = {
+	name="Разрушительная Волна"
+	culture=nord
+}
+
+70409 = {
+	name="Мокрый Топор"
+	culture=nord
+}
+
+70410 = {
+	name="Взмыленная Лука"
+	culture=nord
+}
+
+70411 = {
+	name="Ингвлар"
+	culture = nord
+
+}
+
+70412 = {
+	name="Точильный Камень"
+	culture=nord
+}
+
+70413 = {
+	name="Острый Клинок"
+	culture=nord
+}
+
+70414 = {
+	name="Белая Грива"
+	culture=nord
+}
+
+70415 = {
+	name="Белый Щит"
+	culture=nord
+}
+
+70416 = {
+	name="Белая Полоса"
+	culture=nord
+}
+
+70417 = {
+	name="Белая Жила"
+	culture=nord
+}
+
+70418 = {
+	name="Широкая Рука"
+	culture=nord
+}
+
+70419 = {
+	name="Дикая Кровь"
+	culture=nord
+}
+
+70420 = {
+	name="Ветроглазый"
+	culture=nord
+}
+
+70421 = {
+	name="Ветровей"
+	culture=nord
+}
+
+70422 = {
+	name="Секира Ветра"
+	culture=nord
+}
+
+70423 = {
+	name="Призыватель Ветра"
+	culture=nord
+}
+
+70424 = {
+	name="Пьянь"
+	culture=nord
+}
+
+70425 = {
+	name="Супруг(а) Вина"
+	culture=nord
+}
+
+70426 = {
+	name="Таинственный Корабль"
+	culture=nord
+}
+
+70427 = {
+	name="Волчий Шторм"
+	culture=nord
+}
+
+70428 = {
+	name="Волчий Бег"
+	culture=nord
+}
+
+70429 = {
+	name="Волчья Песнь"
+	culture=nord
+}
+
+70430 = {
+	name="Волчье Копьё"
+	culture=nord
+}
+
+70431 = {
+	name="Волчий Носитель"
+	culture=nord
+}
+
+70432 = {
+	name="Древорождённый"
+	culture=nord
+}
+
+70433 = {
+	name="Дровосек"
+	culture=nord
+}
+
+70434 = {
+	name="Деревянный Меч"
+	culture=nord
+}
+
+70435 = {
+	name="Огненные Волосы"
+	culture=nord
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 35
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+70436 = {
+	name="Пресытившийся"
+	culture=nord
+}
+
+70437 = {
+	name="Сильный Голос"
+	culture=nord
+}
+
+70438 = {
+	name="Медвежий Коготь"
+	culture=nord
+}
+
+70439 = {
+	name="Атморский"
+	culture=nord
+	used_for_random = no
+	can_appear = no
+}
+
+70440 = {
+	name="Медвежий Обманщик"
+	culture=nord
+}
+
+70441 = {
+	name="Круглый Живот"
+	culture=nord
+}
+
+70442 = {
+	name="Белая Волна"
+	culture=nord
+}
+
+70443 = {
+	name="Серое Сердце"
+	culture=nord
+}
+
+70444 = {
+	name="Эрол"
+	culture = nord
+}
+
+70445 = {
+	name="Раннебородый"
+	culture = nord
+}
+
+70446 = {
+	name="Ледяная Борода"
+	culture = nord
+}
+
+70447 = {
+	name="Герсен"
+	culture = nord
+}
+
+70448 = {
+	name="Вестер"
+	culture = nord
+}
+
+70449 = {
+	name="Андерсен"
+	culture = nord
+}
+
+70450 = {
+	name="Бурерождённый"
+	culture = nord
+}
+
+70451 = {
+	name="Небесный Шторм"
+	culture = nord
+}
+
+70452 = {
+	name="Янтарный Шторм"
+	culture = nord
+}
+
+70453 = {
+	name="Свирепый Меч"
+	culture = nord
+}
+
+70454 = {
+	name="Ветренный Рассвет"
+	culture = nord
+}
+
+70455 = {
+	name="Штормовой Бич"
+	culture = nord
+}
+
+70456 = {
+	name = "Фельгейф"
+	culture = nord
+}
+
+70457 = {
+	name = "Скойяльмор"
+	culture = nord
+}
+
+70458 = {
+	name = "Альвстром"
+	culture = nord
+}
+70459 = {
+	name = "Штормовой кулак" #Stormfist Clan, Loyal to Stormfist Brigade
+	culture = nord
+}
+70460 = {
+	name = "Снегорождённый"
+	culture = nord
+}
+70461 = {
+	name = "Ледяной меч"
+	culture = nord
+}
+70462 = {
+	name = "Первый-Норд"
+	culture = nord
+}
+
+70463 = {
+	name = "Орун"
+	culture = nord
+}
+
+70464 = {
+	name = "Огненное копьё"
+	culture = nord
+}
+
+70465 = {
+	name = "Титанорождённый"
+	culture = nord
+}
+
+70466 = {
+	name = "Штормовая корона"
+	culture = nord
+	used_for_random = no
+	can_appear = no
+}
+70467 = {
+	name = "Каарн"
+	culture = nord
+}
+70468 = {
+	name = "Берард"
+	culture = nord
+}
+70471 = {
+	name = "Хавилгусс"
+	culture = nord
+}
+70472 = {
+	name = "Ходгрим"
+	culture = nord
+}
+70473 = {
+	name = "Тон"
+	culture = nord
+}
+70474 = {
+	name = "Вир"
+	culture = nord
+}
+70475 = {
+	name = "Вол"
+	culture = nord
+}
+70476 = {
+	name = "Волджар"
+	culture = nord
+}
+70477 = {
+	name = "Хелмболг"
+	culture = nord
+}
+70478 = {
+	name = "Старкад"
+	culture = nord
+}

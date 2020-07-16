@@ -1,0 +1,1964 @@
+# Altmer Range: 120000-129999
+
+120000 = {
+	name = "Анссермо"
+	culture = altmer
+}
+120001 = {
+	name = "Диренни"
+	culture = altmer
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 20
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+120002 = {
+	name = "Аунда"
+	culture = altmer
+}
+120003 = {
+	name = "Нимбус"
+	culture = altmer
+}
+120004 = {
+	name = "Мотрил"
+	culture = altmer
+}
+120005 = {
+	name = "Анкмил"
+	culture = altmer
+}
+120006 = {
+	name = "Анкмирар"
+	culture = altmer
+}
+120007 = {
+	name = "Арана"
+	culture = altmer
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 30
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+120008 = {
+	name = "Анкналро"
+	culture = altmer
+}
+120009 = {
+	name = "Анкнисие"
+	culture = altmer
+}
+120010 = {
+	name = "Анкнисуар"
+	culture = altmer
+}
+120011 = {
+	name = "Анкрекален"
+	culture = altmer
+}
+120012 = {
+	name = "Анкройе"
+	culture = altmer
+}
+120013 = {
+	name = "Анкроруд"
+	culture = altmer
+}
+120014 = {
+	name = "Анксамирме"
+	culture = altmer
+}
+120015 = {
+	name = "Анксанто"
+	culture = altmer
+}
+120016 = {
+	name = "Анксенил"
+	culture = altmer
+}
+120017 = {
+	name = "Анктирен"
+	culture = altmer
+}
+120018 = {
+	name = "Анкуриар"
+	culture = altmer
+}
+120019 = {
+	name = "Анкуруил"
+	culture = altmer
+}
+120020 = {
+	name = "Анкиаил"
+	culture = altmer
+}
+120021 = {
+	name = "Анкиаль"
+	culture = altmer
+}
+120022 = {
+	name = "Ангсерд"
+	culture = altmer
+}
+120023 = {
+	name = "Ангдан"
+	culture = altmer
+}
+120024 = {
+	name = "Анггауар"
+	culture = altmer
+}
+120025 = {
+	name = "Анггонде"
+	culture = altmer
+}
+120026 = {
+	name = "Ангнальме"
+	culture = altmer
+}
+120027 = {
+	name = "Ангресалар"
+	culture = altmer
+}
+120028 = {
+	name = "Ангрионен"
+	culture = altmer
+}
+120029 = {
+	name = "Ангроруан"
+	culture = altmer
+}
+120030 = {
+	name = "Ангуроан"
+	culture = altmer
+}
+120031 = {
+	name = "Ангуроро"
+	culture = altmer
+}
+120032 = {
+	name = "Арелдаэн"
+	culture = altmer
+}
+120033 = {
+	name = "Арелдорил"
+	culture = altmer
+}
+120034 = {
+	name = "Арелгайд"
+	culture = altmer
+}
+120035 = {
+	name = "Арелган"
+	culture = altmer
+}
+120036 = {
+	name = "Арелмирон"
+	culture = altmer
+}
+120037 = {
+	name = "Арелмирро"
+	culture = altmer
+}
+120038 = {
+	name = "Арелсамирмо"
+	culture = altmer
+}
+120039 = {
+	name = "Арелсанде"
+	culture = altmer
+}
+120040 = {
+	name = "Арелсанто"
+	culture = altmer
+}
+120041 = {
+	name = "Арелсенил"
+	culture = altmer
+}
+120042 = {
+	name = "Арелтимил"
+	culture = altmer
+}
+120043 = {
+	name = "Арелуром"
+	culture = altmer
+}
+120044 = {
+	name = "Арканле"
+	culture = altmer
+}
+120045 = {
+	name = "Арксерд"
+	culture = altmer
+}
+120046 = {
+	name = "Аркдаил"
+	culture = altmer
+}
+120047 = {
+	name = "Аркдан"
+	culture = altmer
+}
+120048 = {
+	name = "Аркгонон"
+	culture = altmer
+}
+120049 = {
+	name = "Аркнальде"
+	culture = altmer
+}
+120050 = {
+	name = "Аркнисар"
+	culture = altmer
+}
+120051 = {
+	name = "Аркрекалил"
+	culture = altmer
+}
+120052 = {
+	name = "Аркрионон"
+	culture = altmer
+}
+120053 = {
+	name = "Арксанар"
+	culture = altmer
+}
+120054 = {
+	name = "Арктиммо"
+	culture = altmer
+}
+120055 = {
+	name = "Аркиамо"
+	culture = altmer
+}
+120056 = {
+	name = "Аундан"
+	culture = altmer
+}
+120057 = {
+	name = "Аунгонто"
+	culture = altmer
+}
+120058 = {
+	name = "Аунлил"
+	culture = altmer
+}
+120059 = {
+	name = "Аунмил"
+	culture = altmer
+}
+120060 = {
+	name = "Ауннилиэ"
+	culture = altmer
+}
+120061 = {
+	name = "Аунильме"
+	culture = altmer
+}
+120062 = {
+	name = "Аунроуар"
+	culture = altmer
+}
+120063 = {
+	name = "Аунсамиран"
+	culture = altmer
+}
+120064 = {
+	name = "Аунсанро"
+	culture = altmer
+}
+120065 = {
+	name = "Аунтирд"
+	culture = altmer
+}
+120066 = {
+	name = "Аунтирон"
+	culture = altmer
+}
+120067 = {
+	name = "Аунуроэ"
+	culture = altmer
+}
+120068 = {
+	name = "Аунуроуар"
+	culture = altmer
+}
+120069 = {
+	name = "Ауниар"
+	culture = altmer
+}
+120070 = {
+	name = "Кальбакан"
+	culture = altmer
+}
+120071 = {
+	name = "Кальсерд"
+	culture = altmer
+}
+120072 = {
+	name = "Кальроар"
+	culture = altmer
+}
+120073 = {
+	name = "Кальроруон"
+	culture = altmer
+}
+120074 = {
+	name = "Кальсенар"
+	culture = altmer
+}
+120075 = {
+	name = "Кальтимме"
+	culture = altmer
+}
+120076 = {
+	name = "Салиауар"
+	culture = altmer
+}
+120077 = {
+	name = "Сельбасил"
+	culture = altmer
+}
+120078 = {
+	name = "Сельбасмо"
+	culture = altmer
+}
+120079 = {
+	name = "Сельсерар"
+	culture = altmer
+}
+120080 = {
+	name = "Кельгаэ"
+	culture = altmer
+}
+120081 = {
+	name = "Келлиан"
+	culture = altmer
+}
+120082 = {
+	name = "Сельмион"
+	culture = altmer
+}
+120083 = {
+	name = "Сельмирме"
+	culture = altmer
+}
+120084 = {
+	name = "Кельрдрил"
+	culture = altmer
+}
+120085 = {
+	name = "Кельрдрро"
+	culture = altmer
+}
+120086 = {
+	name = "Сельресалар"
+	culture = altmer
+}
+120087 = {
+	name = "Кельресалуар"
+	culture = altmer
+}
+120088 = {
+	name = "Кельроэ"
+	culture = altmer
+}
+120089 = {
+	name = "Кельсанен"
+	culture = altmer
+}
+120090 = {
+	name = "Кельсанле"
+	culture = altmer
+}
+120091 = {
+	name = "Сельсенто"
+	culture = altmer
+}
+120092 = {
+	name = "Сельтиме"
+	culture = altmer
+}
+120093 = {
+	name = "Селиайе"
+	culture = altmer
+}
+120094 = {
+	name = "Селиаро"
+	culture = altmer
+}
+120095 = {
+	name = "Эстмирон"
+	culture = altmer
+}
+120096 = {
+	name = "Эстурион"
+	culture = altmer
+}
+120097 = {
+	name = "Эстиаро"
+	culture = altmer
+}
+120098 = {
+	name = "Фимие"
+	culture = altmer
+}
+120099 = {
+	name = "Фимион"
+	culture = altmer
+}
+120100 = {
+	name = "Фимиуар"
+	culture = altmer
+}
+120101 = {
+	name = "Финаренил"
+	culture = altmer
+}
+120102 = {
+	name = "Финаренон"
+	culture = altmer
+}
+120103 = {
+	name = "Финилто"
+	culture = altmer
+}
+120104 = {
+	name = "Файрсален"
+	culture = altmer
+}
+120105 = {
+	name = "Фирион"
+	culture = altmer
+}
+120106 = {
+	name = "Фироруар"
+	culture = altmer
+}
+120107 = {
+	name = "Фисанле"
+	culture = altmer
+}
+120108 = {
+	name = "Фисенон"
+	culture = altmer
+}
+120109 = {
+	name = "Хесерм"
+	culture = altmer
+}
+120110 = {
+	name = "Хесерон"
+	culture = altmer
+}
+120111 = {
+	name = "Хедорм"
+	culture = altmer
+}
+120112 = {
+	name = "Хемирле"
+	culture = altmer
+}
+120113 = {
+	name = "Хенаренд"
+	culture = altmer
+}
+120114 = {
+	name = "Герекалон"
+	culture = altmer
+}
+120115 = {
+	name = "Герекалто"
+	culture = altmer
+}
+120116 = {
+	name = "Хесене"
+	culture = altmer
+}
+120117 = {
+	name = "Хесенле"
+	culture = altmer
+}
+120118 = {
+	name = "Хеслие"
+	culture = altmer
+}
+120119 = {
+	name = "Хеслион"
+	culture = altmer
+}
+120120 = {
+	name = "Хеснеренон"
+	culture = altmer
+}
+120121 = {
+	name = "Гесроэ"
+	culture = altmer
+}
+120122 = {
+	name = "Гесроруар"
+	culture = altmer
+}
+120123 = {
+	name = "Гессанар"
+	culture = altmer
+}
+120124 = {
+	name = "Гестимле"
+	culture = altmer
+}
+120125 = {
+	name = "Хеуромо"
+	culture = altmer
+}
+120126 = {
+	name = "Хингонд"
+	culture = altmer
+}
+120127 = {
+	name = "Хинмиан"
+	culture = altmer
+}
+120128 = {
+	name = "Хинмирме"
+	culture = altmer
+}
+120129 = {
+	name = "Хиннале"
+	culture = altmer
+}
+120130 = {
+	name = "Хиннеренд"
+	culture = altmer
+}
+120131 = {
+	name = "Хинрдруар"
+	culture = altmer
+}
+120132 = {
+	name = "Хинресалар"
+	culture = altmer
+}
+120133 = {
+	name = "Хинрионто"
+	culture = altmer
+}
+120134 = {
+	name = "Хинроруе"
+	culture = altmer
+}
+120135 = {
+	name = "Хинтимил"
+	culture = altmer
+}
+120136 = {
+	name = "Хинтируар"
+	culture = altmer
+}
+120137 = {
+	name = "Хинуроэ"
+	culture = altmer
+}
+120138 = {
+	name = "Хиниар"
+	culture = altmer
+}
+120139 = {
+	name = "Иланме"
+	culture = altmer
+}
+120140 = {
+	name = "Илгайе"
+	culture = altmer
+}
+120141 = {
+	name = "Иллиуар"
+	culture = altmer
+}
+120142 = {
+	name = "Илмиме"
+	culture = altmer
+}
+120143 = {
+	name = "Илмирил"
+	culture = altmer
+}
+120144 = {
+	name = "Илнисан"
+	culture = altmer
+}
+120145 = {
+	name = "Илрионд"
+	culture = altmer
+}
+120146 = {
+	name = "Илроэн"
+	culture = altmer
+}
+120147 = {
+	name = "Илроруйе"
+	culture = altmer
+}
+120148 = {
+	name = "Илтиран"
+	culture = altmer
+}
+120149 = {
+	name = "Илтире"
+	culture = altmer
+}
+120150 = {
+	name = "Илурид"
+	culture = altmer
+}
+120151 = {
+	name = "Илиамо"
+	culture = altmer
+}
+120152 = {
+	name = "Инанан"
+	culture = altmer
+}
+120153 = {
+	name = "Инмирон"
+	culture = altmer
+}
+120154 = {
+	name = "Инналар"
+	culture = altmer
+}
+120155 = {
+	name = "Иннаренар"
+	culture = altmer
+}
+120156 = {
+	name = "Иннисон"
+	culture = altmer
+}
+120157 = {
+	name = "Инрдрар"
+	culture = altmer
+}
+120158 = {
+	name = "Инрун"
+	culture = altmer
+}
+120159 = {
+	name = "Интаймд"
+	culture = altmer
+}
+120160 = {
+	name = "Ироанд"
+	culture = altmer
+}
+120161 = {
+	name = "Ироэрмерле"
+	culture = altmer
+}
+120162 = {
+	name = "Ироналан"
+	culture = altmer
+}
+120163 = {
+	name = "Ироналто"
+	culture = altmer
+}
+120164 = {
+	name = "Иронаренэ"
+	culture = altmer
+}
+120165 = {
+	name = "Иронилуар"
+	culture = altmer
+}
+120166 = {
+	name = "Ирордрро"
+	culture = altmer
+}
+120167 = {
+	name = "Иросамирмо"
+	culture = altmer
+}
+120168 = {
+	name = "Иросанме"
+	culture = altmer
+}
+120169 = {
+	name = "Иротиме"
+	culture = altmer
+}
+120170 = {
+	name = "Иротирм"
+	culture = altmer
+}
+120171 = {
+	name = "Ироурим"
+	culture = altmer
+}
+120172 = {
+	name = "Итеанд"
+	culture = altmer
+}
+120173 = {
+	name = "Итесериэ"
+	culture = altmer
+}
+120174 = {
+	name = "Итедорле"
+	culture = altmer
+}
+120175 = {
+	name = "Итемириэ"
+	culture = altmer
+}
+120176 = {
+	name = "Итердрме"
+	culture = altmer
+}
+120177 = {
+	name = "Итероруйе"
+	culture = altmer
+}
+120178 = {
+	name = "Итетимро"
+	culture = altmer
+}
+120179 = {
+	name = "Итеяро"
+	culture = altmer
+}
+120180 = {
+	name = "Лирбасил"
+	culture = altmer
+}
+120181 = {
+	name = "Лирдаон"
+	culture = altmer
+}
+120182 = {
+	name = "Лирдорто"
+	culture = altmer
+}
+120183 = {
+	name = "Лиргонме"
+	culture = altmer
+}
+120184 = {
+	name = "Лирлимо"
+	culture = altmer
+}
+120185 = {
+	name = "Лирмирон"
+	culture = altmer
+}
+120186 = {
+	name = "Лирнеренар"
+	culture = altmer
+}
+120187 = {
+	name = "Лирнерениэ"
+	culture = altmer
+}
+120188 = {
+	name = "Лирнеренме"
+	culture = altmer
+}
+120189 = {
+	name = "Лиррдре"
+	culture = altmer
+}
+120190 = {
+	name = "Лиррдрме"
+	culture = altmer
+}
+120191 = {
+	name = "Лирсенан"
+	culture = altmer
+}
+120192 = {
+	name = "Лирурун"
+	culture = altmer
+}
+120193 = {
+	name = "Лириаэ"
+	culture = altmer
+}
+120194 = {
+	name = "Лириаон"
+	culture = altmer
+}
+120195 = {
+	name = "Мербасмо"
+	culture = altmer
+}
+120196 = {
+	name = "Мерсермо"
+	culture = altmer
+}
+120197 = {
+	name = "Мердаро"
+	culture = altmer
+}
+120198 = {
+	name = "Мердорм"
+	culture = altmer
+}
+120199 = {
+	name = "Мернеренле"
+	culture = altmer
+}
+120200 = {
+	name = "Мернилон"
+	culture = altmer
+}
+120201 = {
+	name = "Меррдрде"
+	culture = altmer
+}
+120202 = {
+	name = "Меррдр"
+	culture = altmer
+}
+120203 = {
+	name = "Мерсамирен"
+	culture = altmer
+}
+120204 = {
+	name = "Мерсанде"
+	culture = altmer
+}
+120205 = {
+	name = "Мерсенуар"
+	culture = altmer
+}
+120206 = {
+	name = "Морбакон"
+	culture = altmer
+}
+120207 = {
+	name = "Мордауар"
+	culture = altmer
+}
+120208 = {
+	name = "Морермерд"
+	culture = altmer
+}
+120209 = {
+	name = "Морлимо"
+	culture = altmer
+}
+120210 = {
+	name = "Мормирил"
+	culture = altmer
+}
+120211 = {
+	name = "Морнаренто"
+	culture = altmer
+}
+120212 = {
+	name = "Морнильмо"
+	culture = altmer
+}
+120213 = {
+	name = "Морнисиэ"
+	culture = altmer
+}
+120214 = {
+	name = "Морнисил"
+	culture = altmer
+}
+120215 = {
+	name = "Морнисро"
+	culture = altmer
+}
+120216 = {
+	name = "Моррекалон"
+	culture = altmer
+}
+120217 = {
+	name = "Морсенуар"
+	culture = altmer
+}
+120218 = {
+	name = "Мориар"
+	culture = altmer
+}
+120219 = {
+	name = "Мориато"
+	culture = altmer
+}
+120220 = {
+	name = "Мосанме"
+	culture = altmer
+}
+120221 = {
+	name = "Мосдаон"
+	culture = altmer
+}
+120222 = {
+	name = "Мосмиан"
+	culture = altmer
+}
+120223 = {
+	name = "Мосмир"
+	culture = altmer
+}
+120224 = {
+	name = "Мосроон"
+	culture = altmer
+}
+120225 = {
+	name = "Мосроруон"
+	culture = altmer
+}
+120226 = {
+	name = "Моссамирле"
+	culture = altmer
+}
+120227 = {
+	name = "Моссамирон"
+	culture = altmer
+}
+120228 = {
+	name = "Нананон"
+	culture = altmer
+}
+120229 = {
+	name = "Нандато"
+	culture = altmer
+}
+120230 = {
+	name = "Нандориэ"
+	culture = altmer
+}
+120231 = {
+	name = "Нангонле"
+	culture = altmer
+}
+120232 = {
+	name = "Нанмирен"
+	culture = altmer
+}
+120233 = {
+	name = "Наннальмо"
+	culture = altmer
+}
+120234 = {
+	name = "Наннеренме"
+	culture = altmer
+}
+120235 = {
+	name = "Наннилар"
+	culture = altmer
+}
+120236 = {
+	name = "Наннисле"
+	culture = altmer
+}
+120237 = {
+	name = "Наннисме"
+	culture = altmer
+}
+120238 = {
+	name = "Наннисро"
+	culture = altmer
+}
+120239 = {
+	name = "Наннисто"
+	culture = altmer
+}
+120240 = {
+	name = "Нанроэ"
+	culture = altmer
+}
+120241 = {
+	name = "Нантир"
+	culture = altmer
+}
+120242 = {
+	name = "Нельбасро"
+	culture = altmer
+}
+120243 = {
+	name = "Нелькер"
+	culture = altmer
+}
+120244 = {
+	name = "Нельсерле"
+	culture = altmer
+}
+120245 = {
+	name = "Нельсеруар"
+	culture = altmer
+}
+120246 = {
+	name = "Нельдан"
+	culture = altmer
+}
+120247 = {
+	name = "Нелермерле"
+	culture = altmer
+}
+120248 = {
+	name = "Нельмиле"
+	culture = altmer
+}
+120249 = {
+	name = "Нельнеренд"
+	culture = altmer
+}
+120250 = {
+	name = "Нельнилиэ"
+	culture = altmer
+}
+120251 = {
+	name = "Нелсанар"
+	culture = altmer
+}
+120252 = {
+	name = "Нелтайм"
+	culture = altmer
+}
+120253 = {
+	name = "Нелиаил"
+	culture = altmer
+}
+120254 = {
+	name = "Нелиал"
+	culture = altmer
+}
+120255 = {
+	name = "Оссермо"
+	culture = altmer
+}
+120256 = {
+	name = "Окдорто"
+	culture = altmer
+}
+120257 = {
+	name = "Осгае"
+	culture = altmer
+}
+120258 = {
+	name = "Осмил"
+	culture = altmer
+}
+120259 = {
+	name = "Оснаренен"
+	culture = altmer
+}
+120260 = {
+	name = "Оснилуар"
+	culture = altmer
+}
+120261 = {
+	name = "Осрдрто"
+	culture = altmer
+}
+120262 = {
+	name = "Окроар"
+	culture = altmer
+}
+120263 = {
+	name = "Окроро"
+	culture = altmer
+}
+120264 = {
+	name = "Окроруйе"
+	culture = altmer
+}
+120265 = {
+	name = "Окроруле"
+	culture = altmer
+}
+120266 = {
+	name = "Октимуар"
+	culture = altmer
+}
+120267 = {
+	name = "Осиамо"
+	culture = altmer
+}
+120268 = {
+	name = "Осиан"
+	culture = altmer
+}
+120269 = {
+	name = "Одаон"
+	culture = altmer
+}
+120270 = {
+	name = "Огае"
+	culture = altmer
+}
+120271 = {
+	name = "Огоне"
+	culture = altmer
+}
+120272 = {
+	name = "Омирмо"
+	culture = altmer
+}
+120273 = {
+	name = "Онисен"
+	culture = altmer
+}
+120274 = {
+	name = "Онисил"
+	culture = altmer
+}
+120275 = {
+	name = "Онисон"
+	culture = altmer
+}
+120276 = {
+	name = "Ороан"
+	culture = altmer
+}
+120277 = {
+	name = "Ороле"
+	culture = altmer
+}
+120278 = {
+	name = "Осенан"
+	culture = altmer
+}
+120279 = {
+	name = "Осенуар"
+	culture = altmer
+}
+120280 = {
+	name = "Отириэ"
+	culture = altmer
+}
+120281 = {
+	name = "Отирмо"
+	culture = altmer
+}
+120282 = {
+	name = "Орбасле"
+	culture = altmer
+}
+120283 = {
+	name = "Орсерме"
+	culture = altmer
+}
+120284 = {
+	name = "Ордорде"
+	culture = altmer
+}
+120285 = {
+	name = "Орианен"
+	culture = altmer
+}
+120286 = {
+	name = "Орисерон"
+	culture = altmer
+}
+120287 = {
+	name = "Ориермермо"
+	culture = altmer
+}
+120288 = {
+	name = "Оригато"
+	culture = altmer
+}
+120289 = {
+	name = "Ориниле"
+	culture = altmer
+}
+120290 = {
+	name = "Оририонд"
+	culture = altmer
+}
+120291 = {
+	name = "Оририонмо"
+	culture = altmer
+}
+120292 = {
+	name = "Орироруан"
+	culture = altmer
+}
+120293 = {
+	name = "Орисамирмо"
+	culture = altmer
+}
+120294 = {
+	name = "Орисенро"
+	culture = altmer
+}
+120295 = {
+	name = "Оритимил"
+	culture = altmer
+}
+120296 = {
+	name = "Ориуаме"
+	culture = altmer
+}
+120297 = {
+	name = "Орлиан"
+	culture = altmer
+}
+120298 = {
+	name = "Орлиме"
+	culture = altmer
+}
+120299 = {
+	name = "Ормил"
+	culture = altmer
+}
+120300 = {
+	name = "Ормирон"
+	culture = altmer
+}
+120301 = {
+	name = "Орнаренон"
+	culture = altmer
+}
+120302 = {
+	name = "Орнилд"
+	culture = altmer
+}
+120303 = {
+	name = "Орресалд"
+	culture = altmer
+}
+120304 = {
+	name = "Оррекалле"
+	culture = altmer
+}
+120305 = {
+	name = "Оррионен"
+	culture = altmer
+}
+120306 = {
+	name = "Оррионон"
+	culture = altmer
+}
+120307 = {
+	name = "Орроруар"
+	culture = altmer
+}
+120308 = {
+	name = "Орурил"
+	culture = altmer
+}
+120309 = {
+	name = "Ориамо"
+	culture = altmer
+}
+120310 = {
+	name = "Ориар"
+	culture = altmer
+}
+120311 = {
+	name = "Равбакро"
+	culture = altmer
+}
+120312 = {
+	name = "Равдейл"
+	culture = altmer
+}
+120313 = {
+	name = "Равлиар"
+	culture = altmer
+}
+120314 = {
+	name = "Равмиран"
+	culture = altmer
+}
+120315 = {
+	name = "Равналие"
+	culture = altmer
+}
+120316 = {
+	name = "Рейвенвотч"
+	culture = altmer
+}
+120317 = {
+	name = "Раврдрто"
+	culture = altmer
+}
+120318 = {
+	name = "Равресалд"
+	culture = altmer
+}
+120319 = {
+	name = "Раврионуар"
+	culture = altmer
+}
+120320 = {
+	name = "Равуроде"
+	culture = altmer
+}
+120321 = {
+	name = "Сальбасен"
+	culture = altmer
+}
+120322 = {
+	name = "Сальбасие"
+	culture = altmer
+}
+120323 = {
+	name = "Салермерде"
+	culture = altmer
+}
+120324 = {
+	name = "Салгонил"
+	culture = altmer
+}
+120325 = {
+	name = "Салналле"
+	culture = altmer
+}
+120326 = {
+	name = "Салналон"
+	culture = altmer
+}
+120327 = {
+	name = "Салнаренан"
+	culture = altmer
+}
+120328 = {
+	name = "Салнеренто"
+	culture = altmer
+}
+120329 = {
+	name = "Салнеренуар"
+	culture = altmer
+}
+120330 = {
+	name = "Салнилде"
+	culture = altmer
+}
+120331 = {
+	name = "Салрекальмо"
+	culture = altmer
+}
+120332 = {
+	name = "Салрорумо"
+	culture = altmer
+}
+120333 = {
+	name = "Салсамирде"
+	culture = altmer
+}
+120334 = {
+	name = "Сальтимд"
+	culture = altmer
+}
+120335 = {
+	name = "Сальтирто"
+	culture = altmer
+}
+120336 = {
+	name = "Серибакто"
+	culture = altmer
+}
+120337 = {
+	name = "Серидамо"
+	culture = altmer
+}
+120338 = {
+	name = "Серидори"
+	culture = altmer
+}
+120339 = {
+	name = "Серигар"
+	culture = altmer
+}
+120340 = {
+	name = "Серимируар"
+	culture = altmer
+}
+120341 = {
+	name = "Серисамирил"
+	culture = altmer
+}
+120342 = {
+	name = "Серисанон"
+	culture = altmer
+}
+120343 = {
+	name = "Серисануар"
+	culture = altmer
+}
+120344 = {
+	name = "Серисенмо"
+	culture = altmer
+}
+120345 = {
+	name = "Серитимд"
+	culture = altmer
+}
+120346 = {
+	name = "Серитирд"
+	culture = altmer
+}
+120347 = {
+	name = "Сериурун"
+	culture = altmer
+}
+120348 = {
+	name = "Синанл"
+	culture = altmer
+}
+120349 = {
+	name = "Синдорар"
+	culture = altmer
+}
+120350 = {
+	name = "Синермерен"
+	culture = altmer
+}
+120351 = {
+	name = "Сингонан"
+	culture = altmer
+}
+120352 = {
+	name = "Сингонро"
+	culture = altmer
+}
+120353 = {
+	name = "Синлил"
+	culture = altmer
+}
+120354 = {
+	name = "Синлион"
+	culture = altmer
+}
+120355 = {
+	name = "Синлиро"
+	culture = altmer
+}
+120356 = {
+	name = "Синнеренар"
+	culture = altmer
+}
+120357 = {
+	name = "Синнеренто"
+	culture = altmer
+}
+120358 = {
+	name = "Синрионар"
+	culture = altmer
+}
+120359 = {
+	name = "Синсамирд"
+	culture = altmer
+}
+120360 = {
+	name = "Синсанто"
+	culture = altmer
+}
+120361 = {
+	name = "Синуато"
+	culture = altmer
+}
+120362 = {
+	name = "Соранто"
+	culture = altmer
+}
+120363 = {
+	name = "Сорбасан"
+	culture = altmer
+}
+120364 = {
+	name = "Сордор"
+	culture = altmer
+}
+120365 = {
+	name = "Сорлито"
+	culture = altmer
+}
+120366 = {
+	name = "Сормирар"
+	culture = altmer
+}
+120367 = {
+	name = "Сорналто"
+	culture = altmer
+}
+120368 = {
+	name = "Сорнеренен"
+	culture = altmer
+}
+120369 = {
+	name = "Сорриони"
+	culture = altmer
+}
+120370 = {
+	name = "Сорром"
+	culture = altmer
+}
+120371 = {
+	name = "Сорроруил"
+	culture = altmer
+}
+120372 = {
+	name = "Сорсамирар"
+	culture = altmer
+}
+120373 = {
+	name = "Сурбейс"
+	culture = altmer
+}
+120374 = {
+	name = "Сурбасен"
+	culture = altmer
+}
+120375 = {
+	name = "Сурсеруар"
+	culture = altmer
+}
+120376 = {
+	name = "Сурермерле"
+	culture = altmer
+}
+120377 = {
+	name = "Сургонто"
+	culture = altmer
+}
+120378 = {
+	name = "Сурналан"
+	culture = altmer
+}
+120379 = {
+	name = "Сурналуар"
+	culture = altmer
+}
+120380 = {
+	name = "Сурнеренон"
+	culture = altmer
+}
+120381 = {
+	name = "Суррдрен"
+	culture = altmer
+}
+120382 = {
+	name = "Сурроруон"
+	culture = altmer
+}
+120383 = {
+	name = "Сурсанмо"
+	culture = altmer
+}
+120384 = {
+	name = "Суруромо"
+	culture = altmer
+}
+120385 = {
+	name = "Сурурун"
+	culture = altmer
+}
+120386 = {
+	name = "Суруруро"
+	culture = altmer
+}
+120387 = {
+	name = "Тиланар"
+	culture = altmer
+}
+120388 = {
+	name = "Тиланмо"
+	culture = altmer
+}
+120389 = {
+	name = "Тилсерен"
+	culture = altmer
+}
+120390 = {
+	name = "Тилдайе"
+	culture = altmer
+}
+120391 = {
+	name = "Тилдормо"
+	culture = altmer
+}
+120392 = {
+	name = "Тилермерле"
+	culture = altmer
+}
+120393 = {
+	name = "Тильган"
+	culture = altmer
+}
+120394 = {
+	name = "Тильгато"
+	culture = altmer
+}
+120395 = {
+	name = "Тильмион"
+	culture = altmer
+}
+120396 = {
+	name = "Тильмирил"
+	culture = altmer
+}
+120397 = {
+	name = "Тильмиро"
+	culture = altmer
+}
+120398 = {
+	name = "Тильнеренме"
+	culture = altmer
+}
+120399 = {
+	name = "Тильнеренмо"
+	culture = altmer
+}
+120400 = {
+	name = "Тильниси"
+	culture = altmer
+}
+120401 = {
+	name = "Тильнисон"
+	culture = altmer
+}
+120402 = {
+	name = "Тильрекалон"
+	culture = altmer
+}
+120403 = {
+	name = "Тильрекалуар"
+	culture = altmer
+}
+120404 = {
+	name = "Тильроэ"
+	culture = altmer
+}
+120405 = {
+	name = "Тундаро"
+	culture = altmer
+}
+120406 = {
+	name = "Тунермерон"
+	culture = altmer
+}
+120407 = {
+	name = "Тунгаде"
+	culture = altmer
+}
+120408 = {
+	name = "Тунгауар"
+	culture = altmer
+}
+120409 = {
+	name = "Тунмирто"
+	culture = altmer
+}
+120410 = {
+	name = "Туннаренар"
+	culture = altmer
+}
+120411 = {
+	name = "Туннеренро"
+	culture = altmer
+}
+120412 = {
+	name = "Тантири"
+	culture = altmer
+}
+120413 = {
+	name = "Тиеанро"
+	culture = altmer
+}
+120414 = {
+	name = "Тиэдан"
+	culture = altmer
+}
+120415 = {
+	name = "Тиеэрмерто"
+	culture = altmer
+}
+120416 = {
+	name = "Тиэгар"
+	culture = altmer
+}
+120417 = {
+	name = "Тиэгонм"
+	culture = altmer
+}
+120418 = {
+	name = "Тиэлиле"
+	culture = altmer
+}
+120419 = {
+	name = "Тиемиро"
+	culture = altmer
+}
+120420 = {
+	name = "Тиенаренон"
+	culture = altmer
+}
+120421 = {
+	name = "Тиенеренд"
+	culture = altmer
+}
+120422 = {
+	name = "Тиенилуар"
+	culture = altmer
+}
+120423 = {
+	name = "Тиениси"
+	culture = altmer
+}
+120424 = {
+	name = "Тиэрдрро"
+	culture = altmer
+}
+120425 = {
+	name = "Тиэрдруар"
+	culture = altmer
+}
+120426 = {
+	name = "Тиэрионро"
+	culture = altmer
+}
+120427 = {
+	name = "Тиэроруил"
+	culture = altmer
+}
+120428 = {
+	name = "Тиэтирмо"
+	culture = altmer
+}
+120429 = {
+	name = "Тиэяр"
+	culture = altmer
+}
+120430 = {
+	name = "Уканен"
+	culture = altmer
+}
+120431 = {
+	name = "Уканме"
+	culture = altmer
+}
+120432 = {
+	name = "Укбас"
+	culture = altmer
+}
+120433 = {
+	name = "Укгонен"
+	culture = altmer
+}
+120434 = {
+	name = "Уклион"
+	culture = altmer
+}
+120435 = {
+	name = "Укмиан"
+	culture = altmer
+}
+120436 = {
+	name = "Укмирл"
+	culture = altmer
+}
+120437 = {
+	name = "Укмирон"
+	culture = altmer
+}
+120438 = {
+	name = "Укналде"
+	culture = altmer
+}
+120439 = {
+	name = "Укнаренро"
+	culture = altmer
+}
+120440 = {
+	name = "Укнеренле"
+	culture = altmer
+}
+120441 = {
+	name = "Укресалиэ"
+	culture = altmer
+}
+120442 = {
+	name = "Укрионме"
+	culture = altmer
+}
+120443 = {
+	name = "Уксамири"
+	culture = altmer
+}
+120444 = {
+	name = "Ябасе"
+	culture = altmer
+}
+120445 = {
+	name = "Ядаме"
+	culture = altmer
+}
+120446 = {
+	name = "Ядормо"
+	culture = altmer
+}
+120447 = {
+	name = "Ядорро"
+	culture = altmer
+}
+120448 = {
+	name = "Ягаде"
+	culture = altmer
+}
+120449 = {
+	name = "Ягауар"
+	culture = altmer
+}
+120450 = {
+	name = "Ямирто"
+	culture = altmer
+}
+120451 = {
+	name = "Янанмо"
+	culture = altmer
+}
+120452 = {
+	name = "Янаренто"
+	culture = altmer
+}
+120453 = {
+	name = "Янермерил"
+	culture = altmer
+}
+120454 = {
+	name = "Янилме"
+	culture = altmer
+}
+120455 = {
+	name = "Янмиан"
+	culture = altmer
+}
+120456 = {
+	name = "Янмо"
+	culture = altmer
+}
+120457 = {
+	name = "Янналме"
+	culture = altmer
+}
+120458 = {
+	name = "Яннаренан"
+	culture = altmer
+}
+120459 = {
+	name = "Яннилар"
+	culture = altmer
+}
+120460 = {
+	name = "Янсенто"
+	culture = altmer
+}
+120461 = {
+	name = "Янтирил"
+	culture = altmer
+}
+120462 = {
+	name = "Янтирро"
+	culture = altmer
+}
+120463 = {
+	name = "Янурион"
+	culture = altmer
+}
+120464 = {
+	name = "Ярионме"
+	culture = altmer
+}
+120465 = {
+	name = "Яроруле"
+	culture = altmer
+}
+120466 = {
+	name = "Яроруро"
+	culture = altmer
+}
+120467 = {
+	name = "Ясанмо"
+	culture = altmer
+}
+120468 = {
+	name = "Ясенон"
+	culture = altmer
+}
+120469 = {
+	name = "Ансдоран"
+	culture = altmer
+}
+120470 = {
+	name = "Ансдорто"
+	culture = altmer
+}
+120471 = {
+	name = "Ансгаро"
+	culture = altmer
+}
+120472 =  {
+	name = "Анслиен"
+	culture = altmer
+}
+120473 =  {
+	name = "Из Фёстхолда"
+	culture = altmer
+}
+120474 =  {
+	name = "Галерион"
+	culture = altmer
+}
+120475 = {
+	name = "Аэласар"
+	culture = altmer
+}
+120476 = {
+	name = "Салачи"
+	culture = altmer
+}	
+120479 = {
+	name = "Малирни"
+	culture = altmer
+}
+120480 = {
+	name = "Атлареан"
+	culture = altmer
+}
+120481 = {
+	name = "Уирлин"
+	culture = altmer
+}
+120482 = {
+	name = "Силано"
+	culture = altmer
+}
+120483 = {
+	name = "Нилиния"
+	culture = altmer
+}
+120484 = {
+	name = "Рилисар"
+	culture = altmer
+}
+120485 = {
+	name = "Ауридон"
+	culture = altmer
+}

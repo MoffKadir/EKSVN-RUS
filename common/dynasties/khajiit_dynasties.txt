@@ -1,0 +1,1789 @@
+# Khajiit Range: 220000-239999 | Pellitinian: 220000-229999 | Anequinan: 230000-239999
+
+# Pellitinian
+220001 = {
+	name = "Абири"
+	culture = pellitinian
+}
+220002 = {
+	name = "Адави"
+	culture = pellitinian
+}
+220003 = {
+	name = "Барудави"
+	culture = pellitinian
+}
+220004 = {
+	name = "Харабири"
+	culture = pellitinian
+}
+220005 = {
+	name = "Хаммураби"
+	culture = pellitinian
+}
+220006 = {
+	name = "Джадави"
+	culture = pellitinian
+}
+220007 = {
+	name = "Айма"
+	culture = pellitinian
+}
+220008 = {
+	name = "Баратани"
+	culture = pellitinian
+}
+220009 = {
+	name = "Араби"
+	culture = pellitinian
+}
+220010 = {
+	name = "Хаммуманни"
+	culture = pellitinian
+}
+220011 = {
+	name = "Аванди"
+	culture = pellitinian
+}
+220012 = {
+	name = "Кайуйма"
+	culture = pellitinian
+}
+220013 = {
+	name = "Кайнай"
+	culture = pellitinian
+}
+220014 = {
+	name = "Джаманни"
+	culture = pellitinian
+}
+220015 = {
+	name = "Хараейма"
+	culture = pellitinian
+}
+220016 = {
+	name = "Джабири"
+	culture = pellitinian
+}
+220017 = {
+	name = "Хаммуванди"
+	culture = pellitinian
+}
+220018 = {
+	name = "Кибири"
+	culture = pellitinian
+}
+220019 = {
+	name = "Хаванди"
+	culture = pellitinian
+}
+220020 = {
+	name = "Хадави"
+	culture = pellitinian
+}
+220021 = {
+	name = "Астае"
+	culture = pellitinian
+}
+220022 = {
+	name = "Джаванди"
+	culture = pellitinian
+}
+220023 = {
+	name = "Харастае"
+	culture = pellitinian
+}
+220024 = {
+	name = "Кидави"
+	culture = pellitinian
+}
+220025 = {
+	name = "Хаммадави"
+	culture = pellitinian
+}
+220026 = {
+	name = "Бамастае"
+	culture = pellitinian
+}
+220027 = {
+	name = "Хаммабири"
+	culture = pellitinian
+}
+220028 = {
+	name = "Солраби"
+	culture = pellitinian
+}
+220029 = {
+	name = "Ханай"
+	culture = pellitinian
+}
+220030 = {
+	name = "Барастае"
+	culture = pellitinian
+}
+220031 = {
+	name = "Джатани"
+	culture = pellitinian
+}
+220032 = {
+	name = "Хаманни"
+	culture = pellitinian
+}
+220033 = {
+	name = "Солнай"
+	culture = pellitinian
+}
+220034 = {
+	name = "Солдави"
+	culture = pellitinian
+}
+220035 = {
+	name = "Баруванди"
+	culture = pellitinian
+}
+220036 = {
+	name = "Хамманай"
+	culture = pellitinian
+}
+220037 = {
+	name = "Барустае"
+	culture = pellitinian
+}
+220038 = {
+	name = "Хаммубири"
+	culture = pellitinian
+}
+220039 = {
+	name = "Хамматани"
+	culture = pellitinian
+}
+220040 = {
+	name = "Завакдави"
+	culture = pellitinian
+}
+220041 = {
+	name = "Задави"
+	culture = pellitinian
+}
+220042 = {
+	name = "Застае"
+	culture = pellitinian
+}
+220043 = {
+	name = "Бараманни"
+	culture = pellitinian
+}
+220044 = {
+	name = "Барутани"
+	culture = pellitinian
+}
+220045 = {
+	name = "Заманни"
+	culture = pellitinian
+}
+220046 = {
+	name = "Кустае"
+	culture = pellitinian
+}
+220047 = {
+	name = "Хаммудави"
+	culture = pellitinian
+}
+220048 = {
+	name = "Джастае"
+	culture = pellitinian
+}
+220049 = {
+	name = "Каитани"
+	culture = pellitinian
+}
+220050 = {
+	name = "Солманни"
+	culture = pellitinian
+}
+220051 = {
+	name = "Хаммустае"
+	culture = pellitinian
+}
+220052 = {
+	name = "Тавакстае"
+	culture = pellitinian
+}
+220053 = {
+	name = "Хаммастае"
+	culture = pellitinian
+}
+220054 = {
+	name = "Ситани"
+	culture = pellitinian
+}
+220055 = {
+	name = "Симанни"
+	culture = pellitinian
+}
+220056 = {
+	name = "Солстае"
+	culture = pellitinian
+}
+220057 = {
+	name = "Кистае"
+	culture = pellitinian
+}
+220058 = {
+	name = "Барадави"
+	culture = pellitinian
+}
+220059 = {
+	name = "Барураби"
+	culture = pellitinian
+}
+220060 = {
+	name = "Хаони"
+	culture = pellitinian
+}
+220061 = {
+	name = "Хатани"
+	culture = pellitinian
+}
+220062 = {
+	name = "Хаммунай"
+	culture = pellitinian
+}
+220063 = {
+	name = "Каистае"
+	culture = pellitinian
+}
+220064 = {
+	name = "Баруони"
+	culture = pellitinian
+}
+220065 = {
+	name = "Барубири"
+	culture = pellitinian
+}
+220066 = {
+	name = "Хараби"
+	culture = pellitinian
+}
+220067 = {
+	name = "Сидави"
+	culture = pellitinian
+}
+220068 = {
+	name = "Заванди"
+	culture = pellitinian
+}
+220069 = {
+	name = "Сираби"
+	culture = pellitinian
+}
+220070 = {
+	name = "Завактани"
+	culture = pellitinian
+}
+220071 = {
+	name = "Систае"
+	culture = pellitinian
+}
+220072 = {
+	name = "Завакони"
+	culture = pellitinian
+}
+220073 = {
+	name = "Барунай"
+	culture = pellitinian
+}
+220074 = {
+	name = "Баранай"
+	culture = pellitinian
+}
+220075 = {
+	name = "Бараони"
+	culture = pellitinian
+}
+220076 = {
+	name = "Райстае"
+	culture = pellitinian
+}
+220077 = {
+	name = "Барараби"
+	culture = pellitinian
+}
+220078 = {
+	name = "Ростае"
+	culture = pellitinian
+}
+220079 = {
+	name = "Бараванди"
+	culture = pellitinian
+}
+220080 = {
+	name = "Састае"
+	culture = pellitinian
+}
+220081 = {
+	name = "Хаммуони"
+	culture = pellitinian
+}
+220082 = {
+	name = "Затани"
+	culture = pellitinian
+}
+220083 = {
+	name = "Махванди"
+	culture = pellitinian
+}
+220084 = {
+	name = "Махстае"
+	culture = pellitinian
+}
+220085 = {
+	name = "Бамадави"
+	culture = pellitinian
+}
+220086 = {
+	name = "Кайманни"
+	culture = pellitinian
+}
+220087 = {
+	name = "Бамаманни"
+	culture = pellitinian
+}
+220088 = {
+	name = "Махмураби"
+	culture = pellitinian
+}
+220089 = {
+	name = "Хастае"
+	culture = pellitinian
+}
+220090 = {
+	name = "Махмустае"
+	culture = pellitinian
+}
+220091 = {
+	name = "Зараби"
+	culture = pellitinian
+}
+220092 = {
+	name = "Тавактани"
+	culture = pellitinian
+}
+220093 = {
+	name = "Зинай"
+	culture = pellitinian
+}
+220094 = {
+	name = "Зибири"
+	culture = pellitinian
+}
+220095 = {
+	name = "Хаммутани"
+	culture = pellitinian
+}
+220096 = {
+	name = "Саманни"
+	culture = pellitinian
+}
+220097 = {
+	name = "Ротани"
+	culture = pellitinian
+}
+220098 = {
+	name = "Махмунай"
+	culture = pellitinian
+}
+220099 = {
+	name = "Хараванди"
+	culture = pellitinian
+}
+220100 = {
+	name = "Махтани"
+	culture = pellitinian
+}
+220101 = {
+	name = "Хабири"
+	culture = pellitinian
+}
+220102 = {
+	name = "Махони"
+	culture = pellitinian
+}
+220103 = {
+	name = "Бамаони"
+	culture = pellitinian
+}
+220104 = {
+	name = "Махмаванди"
+	culture = pellitinian
+}
+220105 = {
+	name = "Махманни"
+	culture = pellitinian
+}
+220106 = {
+	name = "Киванди"
+	culture = pellitinian
+}
+220107 = {
+	name = "Китани"
+	culture = pellitinian
+}
+220108 = {
+	name = "Киманним"
+	culture = pellitinian
+}
+220109 = {
+	name = "Райтани"
+	culture = pellitinian
+}
+220110 = {
+	name = "Махраби"
+	culture = pellitinian
+}
+220111 = {
+	name = "Махнай"
+	culture = pellitinian
+}
+220112 = {
+	name = "Рованди"
+	culture = pellitinian
+}
+220113 = {
+	name = "Харадави"
+	culture = pellitinian
+}
+220114 = {
+	name = "Роони"
+	culture = pellitinian
+}
+220115 = {
+	name = "Романни"
+	culture = pellitinian
+}
+220116 = {
+	name = "Кайдави"
+	culture = pellitinian
+}
+220117 = {
+	name = "Родави"
+	culture = pellitinian
+}
+220118 = {
+	name = "Сабири"
+	culture = pellitinian
+}
+220119 = {
+	name = "Садави"
+	culture = pellitinian
+}
+220120 = {
+	name = "Джанай"
+	culture = pellitinian
+}
+220121 = {
+	name = "Рораби"
+	culture = pellitinian
+}
+220122 = {
+	name = "Ронай"
+	culture = pellitinian
+}
+220123 = {
+	name = "Махмуони"
+	culture = pellitinian
+}
+220124 = {
+	name = "Махмудави"
+	culture = pellitinian
+}
+220125 = {
+	name = "Санай"
+	culture = pellitinian
+}
+220126 = {
+	name = "Аони"
+	culture = pellitinian
+}
+220127 = {
+	name = "Бамаванди"
+	culture = pellitinian
+}
+220128 = {
+	name = "Саванди"
+	culture = pellitinian
+}
+220129 = {
+	name = "Бамараби"
+	culture = pellitinian
+}
+220130 = {
+	name = "Сиони"
+	culture = pellitinian
+}
+220131 = {
+	name = "Солбири"
+	culture = pellitinian
+}
+220132 = {
+	name = "Хараони"
+	culture = pellitinian
+}
+220133 = {
+	name = "Закахир"
+	culture = pellitinian
+}
+220134 = {
+	name = "Сиванди"
+	culture = pellitinian
+}
+220135 = {
+	name = "Сатани"
+	culture = pellitinian
+}
+220136 = {
+	name = "Сараби"
+	culture = pellitinian
+}
+220137 = {
+	name = "Джараби"
+	culture = pellitinian
+}
+220138 = {
+	name = "Махматани"
+	culture = pellitinian
+}
+220139 = {
+	name = "Махмадави"
+	culture = pellitinian
+}
+220140 = {
+	name = "Аманни"
+	culture = pellitinian
+}
+220141 = {
+	name = "Махдави"
+	culture = pellitinian
+}
+220142 = {
+	name = "Анай"
+	culture = pellitinian
+}
+220143 = {
+	name = "Махбири"
+	culture = pellitinian
+}
+220144 = {
+	name = "Кутани"
+	culture = pellitinian
+}
+220145 = {
+	name = "Кунай"
+	culture = pellitinian
+}
+220146 = {
+	name = "Атани"
+	culture = pellitinian
+}
+220147 = {
+	name = "Харараби"
+	culture = pellitinian
+}
+220148 = {
+	name = "Барабири"
+	culture = pellitinian
+}
+220149 = {
+	name = "Баманай"
+	culture = pellitinian
+}
+220150 = {
+	name = "Джаони"
+	culture = pellitinian
+}
+220151 = {
+	name = "Тазарр"
+	culture = pellitinian
+}
+
+# Anequinan
+230001 = {
+	name = "Хараима"
+	culture = anequinan
+}
+230002 = {
+	name = "Кукар"
+	culture = anequinan
+}
+230003 = {
+	name = "Кудави"
+	culture = anequinan
+}
+230004 = {
+	name = "Райспур"
+	culture = anequinan
+}
+230005 = {
+	name = "Махмубири"
+	culture = anequinan
+}
+230006 = {
+	name = "Махмаони"
+	culture = anequinan
+}
+230007 = {
+	name = "Махмабири"
+	culture = anequinan
+}
+230008 = {
+	name = "Хаммуспур"
+	culture = anequinan
+}
+230009 = {
+	name = "Райбири"
+	culture = anequinan
+}
+230010 = {
+	name = "Райдави"
+	culture = anequinan
+}
+230011 = {
+	name = "Махспур"
+	culture = anequinan
+}
+230012 = {
+	name = "Кикар"
+	culture = anequinan
+}
+230013 = {
+	name = "Райманни"
+	culture = anequinan
+}
+230014 = {
+	name = "Кайспур"
+	culture = anequinan
+}
+230015 = {
+	name = "Кираби"
+	culture = anequinan
+}
+230016 = {
+	name = "Райнай"
+	culture = anequinan
+}
+230017 = {
+	name = "Киони"
+	culture = anequinan
+}
+230018 = {
+	name = "Раиони"
+	culture = anequinan
+}
+230019 = {
+	name = "Кинай"
+	culture = anequinan
+}
+230020 = {
+	name = "Робири"
+	culture = anequinan
+}
+230021 = {
+	name = "Райраби"
+	culture = anequinan
+}
+230022 = {
+	name = "Раиванди"
+	culture = anequinan
+}
+230023 = {
+	name = "Хаспур"
+	culture = anequinan
+}
+230024 = {
+	name = "Саони"
+	culture = anequinan
+}
+230025 = {
+	name = "Махкар"
+	culture = anequinan
+}
+230026 = {
+	name = "Солони"
+	culture = anequinan
+}
+230027 = {
+	name = "Солтани"
+	culture = anequinan
+}
+230028 = {
+	name = "Хакар"
+	culture = anequinan
+}
+230029 = {
+	name = "Солванди"
+	culture = anequinan
+}
+230030 = {
+	name = "Киспур"
+	culture = anequinan
+}
+230031 = {
+	name = "Тавакбири"
+	culture = anequinan
+}
+230032 = {
+	name = "Махмаспур"
+	culture = anequinan
+}
+230033 = {
+	name = "Тавакдави"
+	culture = anequinan
+}
+230034 = {
+	name = "Тавакманни"
+	culture = anequinan
+}
+230035 = {
+	name = "Тавакони"
+	culture = anequinan
+}
+230036 = {
+	name = "Тавакнай"
+	culture = anequinan
+}
+230037 = {
+	name = "Занай"
+	culture = anequinan
+}
+230038 = {
+	name = "Тавакраби"
+	culture = anequinan
+}
+230039 = {
+	name = "Тавакванди"
+	culture = anequinan
+}
+230040 = {
+	name = "Забири"
+	culture = anequinan
+}
+230041 = {
+	name = "Завакбири"
+	culture = anequinan
+}
+230042 = {
+	name = "Заони"
+	culture = anequinan
+}
+230043 = {
+	name = "Завакманни"
+	culture = anequinan
+}
+230044 = {
+	name = "Роспур"
+	culture = anequinan
+}
+230045 = {
+	name = "Завакнай"
+	culture = anequinan
+}
+230046 = {
+	name = "Махмукар"
+	culture = anequinan
+}
+230047 = {
+	name = "Кайкар"
+	culture = anequinan
+}
+230048 = {
+	name = "Хаммакар"
+	culture = anequinan
+}
+230049 = {
+	name = "Завакраби"
+	culture = anequinan
+}
+230050 = {
+	name = "Завакванди"
+	culture = anequinan
+}
+230051 = {
+	name = "Таванараби"
+	culture = anequinan
+}
+230052 = {
+	name = "Хаммадак"
+	culture = anequinan
+}
+230053 = {
+	name = "Тавахам"
+	culture = anequinan
+}
+230054 = {
+	name = "Тавадак"
+	culture = anequinan
+}
+230055 = {
+	name = "Тавани"
+	culture = anequinan
+}
+230056 = {
+	name = "Хамак"
+	culture = anequinan
+}
+230057 = {
+	name = "Рахирами"
+	culture = anequinan
+}
+230058 = {
+	name = "Рахирак"
+	culture = anequinan
+}
+230059 = {
+	name = "Рахира"
+	culture = anequinan
+}
+230060 = {
+	name = "Раикар"
+	culture = anequinan
+}
+230061 = {
+	name = "Махмата"
+	culture = anequinan
+}
+230062 = {
+	name = "Махма"
+	culture = anequinan
+}
+230063 = {
+	name = "Махмадани"
+	culture = anequinan
+}
+230064 = {
+	name = "Махмадан"
+	culture = anequinan
+}
+230065 = {
+	name = "Бахмана"
+	culture = anequinan
+}
+230066 = {
+	name = "Махмадар"
+	culture = anequinan
+}
+230067 = {
+	name = "Барукар"
+	culture = anequinan
+}
+230068 = {
+	name = "Махаскабус"
+	culture = anequinan
+}
+230069 = {
+	name = "Махабус"
+	culture = anequinan
+}
+230070 = {
+	name = "Хаммабус"
+	culture = anequinan
+}
+230071 = {
+	name = "Ханаток"
+	culture = anequinan
+}
+230072 = {
+	name = "Харабус"
+	culture = anequinan
+}
+230073 = {
+	name = "Анбус"
+	culture = anequinan
+}
+230074 = {
+	name = "Джанабус"
+	culture = anequinan
+}
+230075 = {
+	name = "Махаска"
+	culture = anequinan
+}
+230076 = {
+	name = "Шахан"
+	culture = anequinan
+}
+230077 = {
+	name = "Шахир"
+	culture = anequinan
+}
+230078 = {
+	name = "Шакар"
+	culture = anequinan
+}
+230079 = {
+	name = "Шамнин"
+	culture = anequinan
+}
+230080 = {
+	name = "Шабус"
+	culture = anequinan
+}
+230081 = {
+	name = "Нахаима"
+	culture = anequinan
+}
+230082 = {
+	name = "Нахбири"
+	culture = anequinan
+}
+230083 = {
+	name = "Нахейма"
+	culture = anequinan
+}
+230084 = {
+	name = "Нахдави"
+	culture = anequinan
+}
+230085 = {
+	name = "Нахима"
+	culture = anequinan
+}
+230086 = {
+	name = "Нахир"
+	culture = anequinan
+}
+230087 = {
+	name = "Нахкар"
+	culture = anequinan
+}
+230088 = {
+	name = "Нахманни"
+	culture = anequinan
+}
+230089 = {
+	name = "Нахмнин"
+	culture = anequinan
+}
+230090 = {
+	name = "Нахнай"
+	culture = anequinan
+}
+230091 = {
+	name = "Нахоима"
+	culture = anequinan
+}
+230092 = {
+	name = "Нахони"
+	culture = anequinan
+}
+230093 = {
+	name = "Нахраби"
+	culture = anequinan
+}
+230094 = {
+	name = "Нахспур"
+	culture = anequinan
+}
+230095 = {
+	name = "Нахстае"
+	culture = anequinan
+}
+230096 = {
+	name = "Нахтани"
+	culture = anequinan
+}
+230097 = {
+	name = "Нахаима"
+	culture = anequinan
+}
+230098 = {
+	name = "Нахванди"
+	culture = anequinan
+}
+230099 = {
+	name = "Нахан"
+	culture = anequinan
+}
+230100 = {
+	name = "Нахбус"
+	culture = anequinan
+}
+230101 = {
+	name = "Нахийма"
+	culture = anequinan
+}
+230102 = {
+	name = "Ахирак"
+	culture = anequinan
+}
+230103 = {
+	name = "Харахир"
+	culture = anequinan
+}
+230104 = {
+	name = "Кухир"
+	culture = anequinan
+}
+230105 = {
+	name = "Джакар"
+	culture = anequinan
+}
+230106 = {
+	name = "Махмухир"
+	culture = anequinan
+}
+230107 = {
+	name = "Завакмим"
+	culture = anequinan
+}
+230108 = {
+	name = "Замим"
+	culture = anequinan
+}
+230109 = {
+	name = "Хаммамим"
+	culture = anequinan
+}
+230110 = {
+	name = "Хаммумим"
+	culture = anequinan
+}
+230111 = {
+	name = "Каймим"
+	culture = anequinan
+}
+230112 = {
+	name = "Хамим"
+	culture = anequinan
+}
+230113 = {
+	name = "Махмамим"
+	culture = anequinan
+}
+230114 = {
+	name = "Махмим"
+	culture = anequinan
+}
+230115 = {
+	name = "Баракар"
+	culture = anequinan
+}
+230116 = {
+	name = "Махмумим"
+	culture = anequinan
+}
+230117 = {
+	name = "Самим"
+	culture = anequinan
+}
+230118 = {
+	name = "Солмим"
+	culture = anequinan
+}
+230119 = {
+	name = "Сирак"
+	culture = anequinan
+}
+230120 = {
+	name = "Сарак"
+	culture = anequinan
+}
+230121 = {
+	name = "Ротанд"
+	culture = anequinan
+}
+230122 = {
+	name = "Махтанд"
+	culture = anequinan
+}
+230123 = {
+	name = "Хамматанд"
+	culture = anequinan
+}
+230124 = {
+	name = "Сатанд"
+	culture = anequinan
+}
+230125 = {
+	name = "Солтанд"
+	culture = anequinan
+}
+230126 = {
+	name = "Джаспур"
+	culture = anequinan
+}
+230127 = {
+	name = "Хаммамнин"
+	culture = anequinan
+}
+230128 = {
+	name = "Амнин"
+	culture = anequinan
+}
+230129 = {
+	name = "Закар"
+	culture = anequinan
+}
+230130 = {
+	name = "Тавактанд"
+	culture = anequinan
+}
+230131 = {
+	name = "Баратанд"
+	culture = anequinan
+}
+230132 = {
+	name = "Барутанд"
+	culture = anequinan
+}
+230133 = {
+	name = "Заваккар"
+	culture = anequinan
+}
+230134 = {
+	name = "Тавакмнин"
+	culture = anequinan
+}
+230135 = {
+	name = "Рохир"
+	culture = anequinan
+}
+230136 = {
+	name = "Захан"
+	culture = anequinan
+}
+230137 = {
+	name = "Махмутанд"
+	culture = anequinan
+}
+230138 = {
+	name = "Махматанд"
+	culture = anequinan
+}
+230139 = {
+	name = "Кайрабин"
+	culture = anequinan
+}
+230140 = {
+	name = "Махрабин"
+	culture = anequinan
+}
+230141 = {
+	name = "Замнин"
+	culture = anequinan
+}
+230142 = {
+	name = "Солрабин"
+	culture = anequinan
+}
+230143 = {
+	name = "Харарабин"
+	culture = anequinan
+}
+230144 = {
+	name = "Джамнин"
+	culture = anequinan
+}
+230145 = {
+	name = "Хаммаспур"
+	culture = anequinan
+}
+230146 = {
+	name = "Раихир"
+	culture = anequinan
+}
+230147 = {
+	name = "Кирабин"
+	culture = anequinan
+}
+230148 = {
+	name = "Курабин"
+	culture = anequinan
+}
+230149 = {
+	name = "Хаммумнин"
+	culture = anequinan
+}
+230150 = {
+	name = "Махмарабин"
+	culture = anequinan
+}
+230151 = {
+	name = "Махмурабин"
+	culture = anequinan
+}
+230152 = {
+	name = "Зарабин"
+	culture = anequinan
+}
+230153 = {
+	name = "Барурабин"
+	culture = anequinan
+}
+230154 = {
+	name = "Бамарабин"
+	culture = anequinan
+}
+230155 = {
+	name = "Махмахир"
+	culture = anequinan
+}
+230156 = {
+	name = "Хаммарабин"
+	culture = anequinan
+}
+230157 = {
+	name = "Махир"
+	culture = anequinan
+}
+230158 = {
+	name = "Аур"
+	culture = anequinan
+}
+230159 = {
+	name = "Каймнин"
+	culture = anequinan
+}
+230160 = {
+	name = "Хамнин"
+	culture = anequinan
+}
+230161 = {
+	name = "Акар"
+	culture = anequinan
+}
+230162 = {
+	name = "Заур"
+	culture = anequinan
+}
+230163 = {
+	name = "Солур"
+	culture = anequinan
+}
+230164 = {
+	name = "Сиур"
+	culture = anequinan
+}
+230165 = {
+	name = "Махмаур"
+	culture = anequinan
+}
+230166 = {
+	name = "Махмаор"
+	culture = anequinan
+}
+230167 = {
+	name = "Таваккар"
+	culture = anequinan
+}
+230168 = {
+	name = "Хаммаур"
+	culture = anequinan
+}
+230169 = {
+	name = "Каур"
+	culture = anequinan
+}
+230170 = {
+	name = "Бараур"
+	culture = anequinan
+}
+230171 = {
+	name = "Маххир"
+	culture = anequinan
+}
+230172 = {
+	name = "Сихан"
+	culture = anequinan
+}
+230173 = {
+	name = "Симнин"
+	culture = anequinan
+}
+230174 = {
+	name = "Бамаур"
+	culture = anequinan
+}
+230175 = {
+	name = "Барухир"
+	culture = anequinan
+}
+230176 = {
+	name = "Арак"
+	culture = anequinan
+}
+230177 = {
+	name = "Баруспур"
+	culture = anequinan
+}
+230178 = {
+	name = "Захир"
+	culture = anequinan
+}
+230179 = {
+	name = "Маххан"
+	culture = anequinan
+}
+230180 = {
+	name = "Завакур"
+	culture = anequinan
+}
+230181 = {
+	name = "Завахир"
+	culture = anequinan
+}
+230182 = {
+	name = "Махмахан"
+	culture = anequinan
+}
+230183 = {
+	name = "Заспур"
+	culture = anequinan
+}
+230184 = {
+	name = "Махмамнин"
+	culture = anequinan
+}
+230185 = {
+	name = "Бамакар"
+	culture = anequinan
+}
+230186 = {
+	name = "Кимнин"
+	culture = anequinan
+}
+230187 = {
+	name = "Зарак"
+	culture = anequinan
+}
+230188 = {
+	name = "Тавахир"
+	culture = anequinan
+}
+230189 = {
+	name = "Рорак"
+	culture = anequinan
+}
+230190 = {
+	name = "Махмухан"
+	culture = anequinan
+}
+230191 = {
+	name = "Райрабин"
+	culture = anequinan
+}
+230192 = {
+	name = "Райрак"
+	culture = anequinan
+}
+230193 = {
+	name = "Махмумнин"
+	culture = anequinan
+}
+230194 = {
+	name = "Солкар"
+	culture = anequinan
+}
+230195 = {
+	name = "Кайрак"
+	culture = anequinan
+}
+230196 = {
+	name = "Махмнин"
+	culture = anequinan
+}
+230197 = {
+	name = "Аспур"
+	culture = anequinan
+}
+230198 = {
+	name = "Солхир"
+	culture = anequinan
+}
+230199 = {
+	name = "Хаммарак"
+	culture = anequinan
+}
+230200 = {
+	name = "Барурак"
+	culture = anequinan
+}
+230201 = {
+	name = "Харарак"
+	culture = anequinan
+}
+230202 = {
+	name = "Завакспур"
+	culture = anequinan
+}
+230203 = {
+	name = "Джарак"
+	culture = anequinan
+}
+230204 = {
+	name = "Барабис"
+	culture = anequinan
+}
+230205 = {
+	name = "Бамабис"
+	culture = anequinan
+}
+230206 = {
+	name = "Хахир"
+	culture = anequinan
+}
+230207 = {
+	name = "Ромнин"
+	culture = anequinan
+}
+230208 = {
+	name = "Завакбис"
+	culture = anequinan
+}
+230209 = {
+	name = "Бараспур"
+	culture = anequinan
+}
+230210 = {
+	name = "Рохан"
+	culture = anequinan
+}
+230211 = {
+	name = "Джахир"
+	culture = anequinan
+}
+230212 = {
+	name = "Тавакбис"
+	culture = anequinan
+}
+230213 = {
+	name = "Раймнин"
+	culture = anequinan
+}
+230214 = {
+	name = "Махмубис"
+	culture = anequinan
+}
+230215 = {
+	name = "Самнин"
+	culture = anequinan
+}
+230216 = {
+	name = "Сахир"
+	culture = anequinan
+}
+230217 = {
+	name = "Кибис"
+	culture = anequinan
+}
+230218 = {
+	name = "Хаммубис"
+	culture = anequinan
+}
+230219 = {
+	name = "Хабис"
+	culture = anequinan
+}
+230220 = {
+	name = "Харабис"
+	culture = anequinan
+}
+230221 = {
+	name = "Хаммурак"
+	culture = anequinan
+}
+230222 = {
+	name = "Барумим"
+	culture = anequinan
+}
+230223 = {
+	name = "Сикар"
+	culture = anequinan
+}
+230224 = {
+	name = "Барамим"
+	culture = anequinan
+}
+230225 = {
+	name = "Тавакспур"
+	culture = anequinan
+}
+230226 = {
+	name = "Ахир"
+	culture = anequinan
+}
+230227 = {
+	name = "Риха"
+	culture = anequinan
+}
+230228 = {
+	name = "Хараоима"
+	culture = anequinan
+}
+230229 = {
+	name = "Кайуима"
+	culture = anequinan
+}
+230230 = {
+	name = "Харауима"
+	culture = anequinan
+}
+230231 = {
+	name = "Баруоима"
+	culture = anequinan
+}
+230232 = {
+	name = "Хаммуэйма"
+	culture = anequinan
+}
+230233 = {
+	name = "Кихир"
+	culture = anequinan
+}
+230234 = {
+	name = "Бамаэйма"
+	culture = anequinan
+}
+230235 = {
+	name = "Сиоима"
+	culture = anequinan
+}
+230236 = {
+	name = "Бамаима"
+	culture = anequinan
+}
+230237 = {
+	name = "Солспур"
+	culture = anequinan
+}
+230238 = {
+	name = "Саэйма"
+	culture = anequinan
+}
+230239 = {
+	name = "Роима"
+	culture = anequinan
+}
+230240 = {
+	name = "Райоима"
+	culture = anequinan
+}
+230241 = {
+	name = "Сихир"
+	culture = anequinan
+}
+230242 = {
+	name = "Махаима"
+	culture = anequinan
+}
+230243 = {
+	name = "Махмаэйма"
+	culture = anequinan
+}
+230244 = {
+	name = "Махмуэйма"
+	culture = anequinan
+}
+230245 = {
+	name = "Хаммукар"
+	culture = anequinan
+}
+230246 = {
+	name = "Киуима"
+	culture = anequinan
+}
+230247 = {
+	name = "Джаэйма"
+	culture = anequinan
+}
+230248 = {
+	name = "Завакима"
+	culture = anequinan
+}
+230249 = {
+	name = "Барауима"
+	culture = anequinan
+}
+230250 = {
+	name = "Завакуима"
+	culture = anequinan
+}
+230251 = {
+	name = "Хаммубус"
+	culture = anequinan
+}
+230252 = {
+	name = "Барубус"
+	culture = anequinan
+}
+230253 = {
+	name = "Солбус"
+	culture = anequinan
+}
+230254 = {
+	name = "Сибус"
+	culture = anequinan
+}
+230255 = {
+	name = "Сабус"
+	culture = anequinan
+}
+230256 = {
+	name = "Кхахан"
+	culture = anequinan
+}
+230257 = {
+	name = "Ахан"
+	culture = anequinan
+}
+230258 = {
+	name = "Абус"
+	culture = anequinan
+}
+230259 = {
+	name = "Барабус"
+	culture = anequinan
+}
+230260 = {
+	name = "Махан"
+	culture = anequinan
+}
+230261 = {
+	name = "Бамабус"
+	culture = anequinan
+}
+230262 = {
+	name = "Кайхан"
+	culture = anequinan
+}
+230263 = {
+	name = "Тавакбус"
+	culture = anequinan
+}
+230264 = {
+	name = "Сакар"
+	culture = anequinan
+}
+230265 = {
+	name = "Забус"
+	culture = anequinan
+}
+230266 = {
+	name = "Робус"
+	culture = anequinan
+}
+230267 = {
+	name = "Кихан"
+	culture = anequinan
+}
+230268 = {
+	name = "Райбус"
+	culture = anequinan
+}
+230269 = {
+	name = "Махмубус"
+	culture = anequinan
+}
+230270 = {
+	name = "Хаммухан"
+	culture = anequinan
+}
+230271 = {
+	name = "Джахан"
+	culture = anequinan
+}
+230272 = {
+	name = "Барамнин"
+	culture = anequinan
+}
+230273 = {
+	name = "Барахир"
+	culture = anequinan
+}
+230274 = {
+	name = "Райхан"
+	culture = anequinan
+}
+230275 = {
+	name = "Махбус"
+	culture = anequinan
+}
+230276 = {
+	name = "Барахан"
+	culture = anequinan
+}
+230277 = {
+	name = "Завакхан"
+	culture = anequinan
+}
+230278 = {
+	name = "Хаммахан"
+	culture = anequinan
+}
+230279 = {
+	name = "Кибус"
+	culture = anequinan
+}
+230280 = {
+	name = "Барухан"
+	culture = anequinan
+}
+230281 = {
+	name = "Сахан"
+	culture = anequinan
+}
+230282 = {
+	name = "Хабус"
+	culture = anequinan
+}
+230283 = {
+	name = "Барумнин"
+	culture = anequinan
+}
+230284 = {
+	name = "Джабус"
+	culture = anequinan
+}
+230285 = {
+	name = "Тавакхан"
+	culture = anequinan
+}
+230286 = {
+	name = "Солхан"
+	culture = anequinan
+}
+230287 = {
+	name = "Бамамнин"
+	culture = anequinan
+}
+230288 = {
+	name = "Хаммухир"
+	culture = anequinan
+}
+230289 = {
+	name = "Харакар"
+	culture = anequinan
+}
+230290 = {
+	name = "Саспур"
+	culture = anequinan
+}
+230291 = {
+	name = "Солмнин"
+	culture = anequinan
+}
+230292 = {
+	name = "Хаммахир"
+	culture = anequinan
+}
+230293 = {
+	name = "Рокар"
+	culture = anequinan
+}
+230294 = {
+	name = "Сиспур"
+	culture = anequinan
+}
+230295 = {
+	name = "Брей"
+	culture = anequinan
+}

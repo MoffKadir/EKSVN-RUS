@@ -1,0 +1,170 @@
+#Misc
+
+500000 = {
+	name="Вульстед"
+	used_for_random = no
+	can_appear = no
+}
+
+500001 = {
+	name="аф Мантиарко"
+	used_for_random = no
+	can_appear = no
+}
+
+500002 = {
+	name = "Алессиан"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 21
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+500003 = {
+	name = "Сиродил"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 22
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+500004 = {
+	name = "Акавир"
+	used_for_random = no
+	can_appear = no
+}
+500005 = {
+	name = "Волкихар"
+	used_for_random = no
+	can_appear = no
+}
+500006 = {
+	name="Грива"
+	used_for_random = no
+	can_appear = no
+}
+500007 = {
+	name="аф Кронан"
+	used_for_random = no
+	can_appear = no
+}
+500008 = {
+	name="аф Инсфолл"
+	used_for_random = no
+	can_appear = no
+}
+500009 = {
+	name="аф Мерик"
+	used_for_random = no
+	can_appear = no
+}
+#Soul Cairn 500010-500100
+500010 = {
+	name = "Каирн Душ"
+	used_for_random = no
+	can_appear = no
+}
+500011 = {
+	name = "Падший"
+	culture = outsider
+}
+500012 = {
+	name = "Одержимый"
+	culture = outsider
+}
+500013 = {
+	name = "Агонизирующий"
+	culture = outsider
+}
+500014 = {
+	name = "Изгнанный"
+	culture = outsider
+}
+500015 = {
+	name = "Терзающий"
+	culture = outsider
+}
+500016 = {
+	name = "Обременённый"
+	culture = outsider
+}
+500017 = {
+	name = "Проклятый"
+	culture = outsider
+}
+500018 = {
+	name = "Удручённый"
+	culture = outsider
+}
+500019 = {
+	name = "Бедствующий"
+	culture = outsider
+}
+500020 = {
+	name = "Угнетённый"
+	culture = outsider
+}
+500021 = {
+	name = "Чумной"
+	culture = outsider
+}
+500022 = {
+	name = "Пострадавший"
+	culture = outsider
+}
+500023 = {
+	name = "Измученный"
+	culture = outsider
+}
+500024 = {
+	name = "Замученный"
+	culture = outsider
+}
+500025 = {
+	name = "Беспокойный"
+	culture = outsider
+}
+500026 = {
+	name="Террх"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		data= { 3 1 0 220 7 0 0 1 0 210 7 0 0 1 0 210 7 1 0 1 0 222 7 2 0 }
+		religion="riddlethar"
+	}
+}
+500027 = {
+	name = "Имга"
+	culture = tangmo
+}
+500028 = {
+	name = "Багарн"
+	culture = dwemer
+}
+500029 = {
+	name = "Лакат"
+	culture = dwemer
+}
+500030 = {
+	name = "Кодвалоп"
+	culture = breton
+}

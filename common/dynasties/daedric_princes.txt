@@ -1,0 +1,70 @@
+# Daedric Princes: 550000-550020
+
+550000 = {#Azura
+	name = "из Лунной Тени"
+	culture = daedric
+}
+550001 = {#Boethiah
+	name = "из Раздела Власти"
+	culture = daedric
+}
+550002 = {#Clavicus
+	name = "Вайл"
+	culture = daedric
+}
+550003 = {#Hermaeus
+	name = "из Апокрифа"
+	culture = daedric
+}
+550004 = {#Hircine
+	name = "из Охотничьих Угодий"
+	culture = daedric
+}
+550005 = {#Jyggalag
+	name = "из Серого Марша"
+	culture = daedric
+}
+550006 = {#Malacath
+	name = "из Зольника"
+	culture = daedric
+}
+550007 = {#Mehrunes Dagon
+	name = "из Мёртвых Земель"
+	culture = daedric
+}
+550008 = {#Mephala
+	name = "из Спирального Мотка"
+	culture = daedric
+}
+550009 = {#Meridia
+	name = "из Цветных Комнат"
+	culture = daedric
+}
+550010 = {#Molag Bal
+	name = "из Хладной Гавани"
+	culture = daedric
+}
+550011 = {#Namira
+	name = "из Загубленных Бездн"
+	culture = daedric
+}
+550012 = {#Nocturnal
+	name = "из Вечнотени"
+	culture = daedric
+}
+550013 = {#Peryite
+	name = "из Ям Периайта"
+	culture = daedric
+}
+550014 = {#Sanguine
+	name = "из Очагов Наслаждения"
+	culture = daedric
+}
+550015 = {#Sheogorath
+	name = "из Дрожащих Островов"
+	culture = daedric
+}
+550016 = {#Vaermina
+	name = "из Квагмира"
+	culture = daedric
+}

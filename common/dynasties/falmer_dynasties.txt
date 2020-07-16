@@ -1,0 +1,1005 @@
+#Falmer dynasties by Legion141
+330000 = {
+        name = "Ангот"
+        culture = falmer
+}
+330001 = {
+        name = "Панпарвен"
+        culture = falmer
+}
+330002 = {
+        name = "Ванварис"
+        culture = falmer
+}
+330003 = {
+        name = "Норкрат"
+        culture = falmer
+}
+330004 = {
+        name = "Гандвен"
+        culture = falmer
+}
+330005 = {
+        name = "Ленегот"
+        culture = falmer
+}
+330006 = {
+        name = "Гандрас"
+        culture = falmer
+}
+330007 = {
+        name = "Бинвенот"
+        culture = falmer
+}
+330008 = {
+        name = "Андвен"
+        culture = falmer
+}
+330009 = {
+        name = "Норзрас"
+        culture = falmer
+}
+330010 = {
+        name = "Агирвен"
+        culture = falmer
+}
+330011 = {
+        name = "Унарфарот"
+        culture = falmer
+}
+330012 = {
+        name = "Торзрас"
+        culture = falmer
+}
+330013 = {
+        name = "Финвенот"
+        culture = falmer
+}
+330014 = {
+        name = "Наравенот"
+        culture = falmer
+}
+330015 = {
+        name = "Форфарот"
+        culture = falmer
+}
+330016 = {
+        name = "Торфарот"
+        culture = falmer
+}
+330017 = {
+        name = "Зарфарот"
+        culture = falmer
+}
+330018 = {
+        name = "Хенеравин"
+        culture = falmer
+}
+330019 = {
+        name = "Агармин"
+        culture = falmer
+}
+330020 = {
+        name = "Васфарот"
+        culture = falmer
+}
+330021 = {
+        name = "Вандрас"
+        culture = falmer
+}
+330022 = {
+        name = "Каэрренот"
+        culture = falmer
+}
+330023 = {
+        name = "Унархорит"
+        culture = falmer
+}
+330024 = {
+        name = "Зонгарвен"
+        culture = falmer
+}
+330025 = {
+        name = "Хардвен"
+        culture = falmer
+}
+330026 = {
+        name = "Денхорит"
+        culture = falmer
+}
+330027 = {
+        name = "Форпарвен"
+        culture = falmer
+}
+330028 = {
+        name = "Фордвен"
+        culture = falmer
+}
+330029 = {
+        name = "Унарварис"
+        culture = falmer
+}
+330030 = {
+        name = "Урелен"
+        culture = falmer
+}
+330031 = {
+        name = "Каэрвенот"
+        culture = falmer
+}
+330032 = {
+        name = "Денравин"
+        culture = falmer
+}
+330033 = {
+        name = "Данеферис"
+        culture = falmer
+}
+330034 = {
+        name = "Лореварис"
+        culture = falmer
+}
+330035 = {
+        name = "Уренборин"
+        culture = falmer
+}
+330036 = {
+        name = "Берельтарот"
+        culture = falmer
+}
+330037 = {
+        name = "Наратарот"
+        culture = falmer
+}
+330038 = {
+        name = "Уренсарис"
+        culture = falmer
+}
+330039 = {
+        name = "Корварис"
+        culture = falmer
+}
+330040 = {
+        name = "Торврин"
+        culture = falmer
+}
+330041 = {
+        name = "Грандвен"
+        culture = falmer
+}
+330042 = {
+        name = "Ирельфарот"
+        culture = falmer
+}
+330043 = {
+        name = "Кранфарот"
+        culture = falmer
+}
+330044 = {
+        name = "Норилот"
+        culture = falmer
+}
+330045 = {
+        name = "Шандрас"
+        culture = falmer
+}
+330046 = {
+        name = "Ронедрас"
+        culture = falmer
+}
+330047 = {
+        name = "Каэрлот"
+        culture = falmer
+}
+330048 = {
+        name = "Агарренот"
+        culture = falmer
+}
+330049 = {
+        name = "Роневен"
+        culture = falmer
+}
+330050 = {
+        name = "Тинмин"
+        culture = falmer
+}
+330051 = {
+        name = "Васдрас"
+        culture = falmer
+}
+330052 = {
+        name = "Ванкрат"
+        culture = falmer
+}
+330053 = {
+        name = "Зарлот"
+        culture = falmer
+}
+330054 = {
+        name = "Ленемин"
+        culture = falmer
+}
+330055 = {
+        name = "Оретан"
+        culture = falmer
+}
+330056 = {
+        name = "Агарпарис"
+        culture = falmer
+}
+330057 = {
+        name = "Васвенот"
+        culture = falmer
+}
+330058 = {
+        name = "Синвенот"
+        culture = falmer
+}
+330059 = {
+        name = "Уренот"
+        culture = falmer
+}
+330060 = {
+        name = "Финзот"
+        culture = falmer
+}
+330061 = {
+        name = "Гарврин"
+        culture = falmer
+}
+330062 = {
+        name = "Зондвен"
+        culture = falmer
+}
+330063 = {
+        name = "Финравин"
+        culture = falmer
+}
+330064 = {
+        name = "Лоретарот"
+        culture = falmer
+}
+330065 = {
+        name = "Шантарот"
+        culture = falmer
+}
+330066 = {
+        name = "Минвенот"
+        culture = falmer
+}
+330067 = {
+        name = "Урелен"
+        culture = falmer
+}
+330068 = {
+        name = "Ранмелот"
+        culture = falmer
+}
+330069 = {
+        name = "Фортан"
+        culture = falmer
+}
+330070 = {
+        name = "Лорейлот"
+        culture = falmer
+}
+330071 = {
+        name = "Берельтан"
+        culture = falmer
+}
+330072 = {
+        name = "Эренарис"
+        culture = falmer
+}
+330073 = {
+        name = "Ванравин"
+        culture = falmer
+}
+330074 = {
+        name = "Оресарот"
+        culture = falmer
+}
+330075 = {
+        name = "Врантарот"
+        culture = falmer
+}
+330076 = {
+        name = "Бинилот"
+        culture = falmer
+}
+330077 = {
+        name = "Роненарис"
+        culture = falmer
+}
+330078 = {
+        name = "Воркелор"
+        culture = falmer
+}
+330079 = {
+        name = "Агарборин"
+        culture = falmer
+}
+330080 = {
+        name = "Воргот"
+        culture = falmer
+}
+330081 = {
+        name = "Моргот"
+        culture = falmer
+}
+330082 = {
+        name = "Зарбат"
+        culture = falmer
+}
+330083 = {
+        name = "Ирельзас"
+        culture = falmer
+}
+330084 = {
+        name = "Ансарис"
+        culture = falmer
+}
+330085 = {
+        name = "Ленесарис"
+        culture = falmer
+}
+330086 = {
+        name = "Гранпарвен"
+        culture = falmer
+}
+330087 = {
+        name = "Гранкелор"
+        culture = falmer
+}
+330088 = {
+        name = "Орсарис"
+        culture = falmer
+}
+330089 = {
+        name = "Норбат"
+        culture = falmer
+}
+330090 = {
+        name = "Финферис"
+        culture = falmer
+}
+330091 = {
+        name = "Эмеравин"
+        culture = falmer
+}
+330092 = {
+        name = "Синмин"
+        culture = falmer
+}
+330093 = {
+        name = "Вормелот"
+        culture = falmer
+}
+330094 = {
+        name = "Антарот"
+        culture = falmer
+}
+330095 = {
+        name = "Уреренот"
+        culture = falmer
+}
+330096 = {
+        name = "Эмесарот"
+        culture = falmer
+}
+330097 = {
+        name = "Бинзрас"
+        culture = falmer
+}
+330098 = {
+        name = "Тинсарот"
+        culture = falmer
+}
+330099 = {
+        name = "Панзрас"
+        culture = falmer
+}
+330100 = {
+        name = "Ментур"
+        culture = falmer
+}
+330101 = {
+        name = "Ворилот"
+        culture = falmer
+}
+330102 = {
+        name = "Иредануис"
+        culture = falmer
+}
+330103 = {
+        name = "Ирекир"
+        culture = falmer
+}
+330104 = {
+        name = "Нирриат"
+        culture = falmer
+}
+330105 = {
+        name = "Вирнуис"
+        culture = falmer
+}
+330106 = {
+        name = "Иделебор"
+        culture = falmer
+}
+330107 = {
+        name = "Удельгрот"
+        culture = falmer
+}
+330108 = {
+        name = "Ринхемхес"
+        culture = falmer
+}
+330109 = {
+        name = "Берелирвен"
+        culture = falmer
+}
+330110 = {
+        name = "Унхебора"
+        culture = falmer
+}
+330111 = {
+        name = "Инхекарис"
+        culture = falmer
+}
+330112 = {
+        name = "Хелеселин"
+        culture = falmer
+}
+330113 = {
+        name = "Вирвена"
+        culture = falmer
+}
+330114 = {
+        name = "Биреселин"
+        culture = falmer
+}
+330115 = {
+        name = "Атринг"
+        culture = falmer
+}
+330116 = {
+        name = "Селегриат"
+        culture = falmer
+}
+330117 = {
+        name = "Нирилор"
+        culture = falmer
+}
+330118 = {
+        name = "Агарвен"
+        culture = falmer
+}
+330119 = {
+        name = "Сидануис"
+        culture = falmer
+}
+330120 = {
+        name = "Эмелот"
+        culture = falmer
+}
+330121 = {
+        name = "Элубен"
+        culture = falmer
+}
+330122 = {
+        name = "Гаэралагос"
+        culture = falmer
+}
+330123 = {
+        name = "Салемирфен"
+        culture = falmer
+}
+330124 = {
+        name = "Хитаэрфен"
+        culture = falmer
+}
+330125 = {
+        name = "Гвинг"
+        culture = falmer
+}
+330126 = {
+        name = "Лимлуг"
+        culture = falmer
+}
+330127 = {
+        name = "Аэглос"
+        culture = falmer
+}
+330128 = {
+        name = "Фаэн"
+        culture = falmer
+}
+330129 = {
+        name = "Фаэмбен"
+        culture = falmer
+}
+330130 = {
+        name = "Гламбен"
+        culture = falmer
+}
+330131 = {
+        name = "Глосс"
+        culture = falmer
+}
+330132 = {
+        name = "Глан"
+        culture = falmer
+}
+330133 = {
+        name = "Гламбен"
+        culture = falmer
+}
+330134 = {
+        name = "Хельсфен"
+        culture = falmer
+}
+330135 = {
+        name = "Лоссембен"
+        culture = falmer
+}
+330136 = {
+        name = "Ненимбен"
+        culture = falmer
+}
+330137 = {
+        name = "Неним"
+        culture = falmer
+}
+330138 = {
+        name = "Уилоспен"
+        culture = falmer
+}
+330139 = {
+        name = "Аннунгил"
+        culture = falmer
+}
+330140 = {
+        name = "Гаэльбен"
+        culture = falmer
+}
+330141 = {
+        name = "Салитил"
+        culture = falmer
+}
+330142 = {
+        name = "Ладренгил"
+        culture = falmer
+}
+330143 = {
+        name = "Хаэрел"
+        culture = falmer
+}
+330144 = {
+        name = "Эльбен"
+        culture = falmer
+}
+330145 = {
+        name = "Гилорн"
+        culture = falmer
+}
+330146 = {
+        name = "Голофен"
+        culture = falmer
+}
+330147 = {
+        name = "Пелинел"
+        culture = falmer
+}
+330148 = {
+        name = "Пелингил"
+        culture = falmer
+}
+330149 = {
+        name = "Тинубен"
+        culture = falmer
+}
+330150 = {
+        name = "Тирнел"
+        culture = falmer
+}
+330151 = {
+        name = "Гвебен"
+        culture = falmer
+}
+330152 = {
+        name = "Йорисмбен"
+        culture = falmer
+}
+330153 = {
+        name = "Лаэргул"
+        culture = falmer
+}
+330154 = {
+        name = "Ангольбен"
+        culture = falmer
+}
+330155 = {
+        name = "Лебен"
+        culture = falmer
+}
+330156 = {
+        name = "Литфен"
+        culture = falmer
+}
+330157 = {
+        name = "Уйреб"
+        culture = falmer
+}
+330158 = {
+        name = "Аглар"
+        culture = falmer
+}
+330159 = {
+        name = "Саледел"
+        culture = falmer
+}
+330160 = {
+        name = "Салаэр"
+        culture = falmer
+}
+330161 = {
+        name = "Эланор"
+        culture = falmer
+}
+330162 = {
+        name = "Главарфен"
+        culture = falmer
+}
+330163 = {
+        name = "Селаирфен"
+        culture = falmer
+}
+330164 = {
+        name = "Норуиниф"
+        culture = falmer
+}
+330165 = {
+        name = "Силеф"
+        culture = falmer
+}
+330166 = {
+        name = "Норуибен"
+        culture = falmer
+}
+330167 = {
+        name = "Альфирин"
+        culture = falmer
+}
+330168 = {
+        name = "Эаифехон"
+        culture = falmer
+}
+330169 = {
+        name = "Лиаэрелар"
+        culture = falmer
+}
+330170 = {
+        name = "Осимрит"
+        culture = falmer
+}
+330171 = {
+        name = "Уиаэсса"
+        culture = falmer
+}
+330172 = {
+        name = "Элотара"
+        culture = falmer
+}
+330173 = {
+        name = "Аваонта"
+        culture = falmer
+}
+330174 = {
+        name = "Алаойе"
+        culture = falmer
+}
+330175 = {
+        name = "Саиланаэ"
+        culture = falmer
+}
+330176 = {
+        name = "Боития"
+        culture = falmer
+}
+330177 = {
+        name = "Илиоэстри"
+        culture = falmer
+}
+330178 = {
+        name = "Кейаурел"
+        culture = falmer
+}
+330179 = {
+        name = "Аэреанна"
+        culture = falmer
+}
+330180 = {
+        name = "Артон"
+        culture = falmer
+}
+330181 = {
+        name = "Адалас"
+        culture = falmer
+}
+330182 = {
+        name = "Пеллаван"
+        culture = falmer
+}
+330183 = {
+        name = "Талухарн"
+        culture = falmer
+}
+330184 = {
+        name = "Кинтоссиэн"
+        culture = falmer
+}
+330185 = {
+        name = "Атаэбен"
+        culture = falmer
+}
+330186 = {
+        name = "Эрувадор"
+        culture = falmer
+}
+330187 = {
+        name = "Гвейтир"
+        culture = falmer
+}
+330188 = {
+        name = "Эругалад"
+        culture = falmer
+}
+330189 = {
+        name = "Эрулассл"
+        culture = falmer
+}
+330190 = {
+        name = "Каладвен"
+        culture = falmer
+}
+330191 = {
+        name = "Йесеанеа"
+        culture = falmer
+}
+330192 = {
+        name = "Занрарин"
+        culture = falmer
+}
+330193 = {
+        name = "Келхаэдрел"
+        culture = falmer
+}
+330194 = {
+        name = "Фависелда"
+        culture = falmer
+}
+330195 = {
+        name = "Гннахелег"
+        culture = falmer
+}
+330196 = {
+        name = "Тинверонтар"
+        culture = falmer
+}
+330197 = {
+        name = "Элентари"
+        culture = falmer
+}
+330198 = {
+        name = "Туринквуи"
+        culture = falmer
+}
+330199 = {
+        name = "Беретриэн"
+        culture = falmer
+}
+330200 = {
+        name = "Ванвафаэ"
+        culture = falmer
+}
+330201 = {
+        name = "Данненелен"
+        culture = falmer
+}
+330202 = {
+        name = "Тинверена"
+        culture = falmer
+}
+330203 = {
+        name = "Эльдандил"
+        culture = falmer
+}
+330204 = {
+        name = "Серавнитил"
+        culture = falmer
+}
+330205 = {
+        name = "Агарваэн"
+        culture = falmer
+}
+330206 = {
+        name = "Акаред"
+        culture = falmer
+}
+330207 = {
+        name = "Эльфирин"
+        culture = falmer
+}
+330208 = {
+        name = "Дроадан"
+        culture = falmer
+}
+330209 = {
+        name = "Донедел"
+        culture = falmer
+}
+330210 = {
+        name = "Эдледрон"
+        culture = falmer
+}
+330211 = {
+        name = "Гаэарон"
+        culture = falmer
+}
+330212 = {
+        name = "Доленгламор"
+        culture = falmer
+}
+330213 = {
+        name = "Хатол"
+        culture = falmer
+}
+330214 = {
+        name = "Хаудор"
+        culture = falmer
+}
+330215 = {
+        name = "Мелетрон"
+        culture = falmer
+}
+330216 = {
+        name = "Манад"
+        culture = falmer
+}
+330217 = {
+        name = "Морелег"
+        culture = falmer
+}
+330218 = {
+        name = "Миреглос"
+        culture = falmer
+}
+330219 = {
+        name = "Силиврен"
+        culture = falmer
+}
+330220 = {
+        name = "Нимсерег"
+        culture = falmer
+}
+330221 = {
+        name = "Агарваэнлос"
+        culture = falmer
+}
+330222 = {
+        name = "Олосси"
+        culture = falmer
+}
+330223 = {
+        name = "Хетаванил"
+        culture = falmer
+}
+330224 = {
+        name = "Рунви"
+        culture = falmer
+}
+330225 = {
+        name = "Хескин"
+        culture = falmer
+}
+330226 = {
+        name = "Эрнилосси"
+        culture = falmer
+}
+330227 = {
+        name = "Неквуэтил"
+        culture = falmer
+}
+330228 = {
+        name = "Яраэглос"
+        culture = falmer
+}
+330229 = {
+        name = "Винислкаун"
+        culture = falmer
+}
+330230 = {
+        name = "Хеледур"
+        culture = falmer
+}
+330231 = {
+        name = "Морнедел"
+        culture = falmer
+}
+330232 = {
+        name = "Ванвадиат"
+        culture = falmer
+}
+330233 = {
+        name = "Тумналил"
+        culture = falmer
+}
+330234 = {
+        name = "Лоссот"
+        culture = falmer
+}
+330235 = {
+        name = "Дансен"
+        culture = falmer
+}
+330236 = {
+        name = "Фородрен"
+        culture = falmer
+}
+330237 = {
+        name = "Форнаквуенди"
+        culture = falmer
+}
+330238 = {
+        name = "Мориквуенди"
+        culture = falmer
+}
+330239 = {
+        name = "Ругот"
+        culture = falmer
+}
+330240 = {
+        name = "Ругарол"
+        culture = falmer
+}
+330241 = {
+        name = "Огарол"
+        culture = falmer
+}
+330242 = {
+        name = "Тевинат"
+        culture = falmer
+}
+330243 = {
+        name = "Делусарис"
+        culture = falmer
+}
+330244 = {
+        name = "Дельвин"
+        culture = falmer
+}
+330245 = {
+        name = "Рутфорна"
+        culture = falmer
+}
+330246 = {
+        name = "Биролоскунн"
+        culture = falmer
+}
+330247 = {
+        name = "Ингвегейл"
+        culture = falmer
+}
+330248 = {
+        name = "Эльфарон"
+        culture = falmer
+}
+330249 = {
+        name = "Ангарон"
+        culture = falmer
+}
+330250 = {
+        name = "Калиондо"
+        culture = falmer
+}

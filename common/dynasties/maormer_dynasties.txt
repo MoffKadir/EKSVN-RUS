@@ -1,0 +1,594 @@
+# Maormer Range: 130000-139999
+
+130000 = {
+	name = "Мэйнс"
+	culture = maormer
+}
+130001 = {
+	name = "Роксарис"
+	culture = maormer
+}
+130002 = {
+	name = "Апмесес"
+	culture = maormer
+}
+130003 = {
+	name = "Кассанрес"
+	culture = maormer
+}
+130004 = {
+	name = "Атрис"
+	culture = maormer
+}
+130005 = {
+	name = "Артадис"
+	culture = maormer
+}
+130006 = {
+	name = "Ксерсатис"
+	culture = maormer
+}
+130007 = {
+	name = "Хистпама"
+	culture = maormer
+}
+130008 = {
+	name = "Пардейн"
+	culture = maormer
+}
+130009 = {
+	name = "Паксис"
+	culture = maormer
+}
+130010 = {
+	name = "Рома"
+	culture = maormer
+}
+130011 = {
+	name = "Аметис"
+	culture = maormer
+}
+130012 = {
+	name = "Ксеркес"
+	culture = maormer
+}
+130013 = {
+	name = "Астирис"
+	culture = maormer
+}
+130014 = {
+	name = "Астрес"
+	culture = maormer
+}
+130015 = {
+	name = "Сметрис"
+	culture = maormer
+}
+130016 = {
+	name = "Амесмнес"
+	culture = maormer
+}
+130017 = {
+	name = "Киакснес"
+	culture = maormer
+}
+130018 = {
+	name = "Оксагес"
+	culture = maormer
+}
+130019 = {
+	name = "Касатис"
+	culture = maormer
+}
+130020 = {
+	name = "Апситес"
+	culture = maormer
+}
+130021 = {
+	name = "Камбсес"
+	culture = maormer
+}
+130022 = {
+	name = "Баягес"
+	culture = maormer
+}
+130023 = {
+	name = "Камбдейн"
+	culture = maormer
+}
+130024 = {
+	name = "Астса"
+	culture = maormer
+}
+130025 = {
+	name = "Аменис"
+	culture = maormer
+}
+130026 = {
+	name = "Пегес"
+	culture = maormer
+}
+130027 = {
+	name = "Хиксейн"
+	culture = maormer
+}
+130028 = {
+	name = "Остаситес"
+	culture = maormer
+}
+130029 = {
+	name = "Оксатрес"
+	culture = maormer
+}
+130030 = {
+	name = "Оксгес"
+	culture = maormer
+}
+130031 = {
+	name = "Манкарес"
+	culture = maormer
+}
+130032 = {
+	name = "Хиситес"
+	culture = maormer
+}
+130033 = {
+	name = "Ксеррис"
+	culture = maormer
+}
+130034 = {
+	name = "Кайсес"
+	culture = maormer
+}
+130035 = {
+	name = "Арасатис"
+	culture = maormer
+}
+130036 = {
+	name = "Ксердейн"
+	culture = maormer
+}
+130037 = {
+	name = "Оксса"
+	culture = maormer
+}
+130038 = {
+	name = "Осрис"
+	culture = maormer
+}
+130039 = {
+	name = "Аттис"
+	culture = maormer
+}
+130040 = {
+	name = "Пейма"
+	culture = maormer
+}
+130041 = {
+	name = "Хистситес"
+	culture = maormer
+}
+130042 = {
+	name = "Ксерсейн"
+	culture = maormer
+}
+130043 = {
+	name = "Ариатрес"
+	culture = maormer
+}
+130044 = {
+	name = "Оксадис"
+	culture = maormer
+}
+130045 = {
+	name = "Роджес"
+	culture = maormer
+}
+130046 = {
+	name = "Басса"
+	culture = maormer
+}
+130047 = {
+	name = "Тейпама"
+	culture = maormer
+}
+130048 = {
+	name = "Баситес"
+	culture = maormer
+}
+130049 = {
+	name = "Артатрис"
+	culture = maormer
+}
+130050 = {
+	name = "Симнес"
+	culture = maormer
+}
+130051 = {
+	name = "Сиксатис"
+	culture = maormer
+}
+130052 = {
+	name = "Паримес"
+	culture = maormer
+}
+130053 = {
+	name = "Араспес"
+	culture = maormer
+}
+130054 = {
+	name = "Ариситес"
+	culture = maormer
+}
+130055 = {
+	name = "Роксдейн"
+	culture = maormer
+}
+130056 = {
+	name = "Кассанджес"
+	culture = maormer
+}
+130057 = {
+	name = "Апдейн"
+	culture = maormer
+}
+130058 = {
+	name = "Амдис"
+	culture = maormer
+}
+130059 = {
+	name = "Оксатис"
+	culture = maormer
+}
+130060 = {
+	name = "Америс"
+	culture = maormer
+}
+130061 = {
+	name = "Кассанса"
+	culture = maormer
+}
+130062 = {
+	name = "Кассантрес"
+	culture = maormer
+}
+130063 = {
+	name = "Парипама"
+	culture = maormer
+}
+130064 = {
+	name = "Кассатис"
+	culture = maormer
+}
+130065 = {
+	name = "Амедия"
+	culture = maormer
+}
+130066 = {
+	name = "Меймс"
+	culture = maormer
+}
+130067 = {
+	name = "Смерксейн"
+	culture = maormer
+}
+130068 = {
+	name = "Пейтс"
+	culture = maormer
+}
+130069 = {
+	name = "Смерсатис"
+	culture = maormer
+}
+130070 = {
+	name = "Апсатис"
+	culture = maormer
+}
+130071 = {
+	name = "Амкес"
+	culture = maormer
+}
+130072 = {
+	name = "Ксетрис"
+	culture = maormer
+}
+130073 = {
+	name = "Ксема"
+	culture = maormer
+}
+130074 = {
+	name = "Паритес"
+	culture = maormer
+}
+130075 = {
+	name = "Кассатрис"
+	culture = maormer
+}
+130076 = {
+	name = "Каситес"
+	culture = maormer
+}
+130077 = {
+	name = "Астиджес"
+	culture = maormer
+}
+130078 = {
+	name = "Апаиджес"
+	culture = maormer
+}
+130079 = {
+	name = "Манксарес"
+	culture = maormer
+}
+130080 = {
+	name = "Тейджес"
+	culture = maormer
+}
+130081 = {
+	name = "Остмес"
+	culture = maormer
+}
+130082 = {
+	name = "Роксейн"
+	culture = maormer
+}
+130083 = {
+	name = "Артаспес"
+	culture = maormer
+}
+130084 = {
+	name = "Атоксарес"
+	culture = maormer
+}
+130085 = {
+	name = "Артрис"
+	culture = maormer
+}
+130086 = {
+	name = "Хискес"
+	culture = maormer
+}
+130087 = {
+	name = "Максейн"
+	culture = maormer
+}
+130088 = {
+	name = "Арсатес"
+	culture = maormer
+}
+130089 = {
+	name = "Артасес"
+	culture = maormer
+}
+130090 = {
+	name = "Масес"
+	culture = maormer
+}
+130091 = {
+	name = "Априс"
+	culture = maormer
+}
+130092 = {
+	name = "Остнес"
+	culture = maormer
+}
+130093 = {
+	name = "Мапама"
+	culture = maormer
+}
+130094 = {
+	name = "Пейяджес"
+	culture = maormer
+}
+130095 = {
+	name = "Артпама"
+	culture = maormer
+}
+130096 = {
+	name = "Максарес"
+	culture = maormer
+}
+130097 = {
+	name = "Ксеркарес"
+	culture = maormer
+}
+130098 = {
+	name = "Арстес"
+	culture = maormer
+}
+130099 = {
+	name = "Арсинес"
+	culture = maormer
+}
+130100 = {
+	name = "Карис"
+	culture = maormer
+}
+130101 = {
+	name = "Петрис"
+	culture = maormer
+}
+130102 = {
+	name = "Ариаратрис"
+	culture = maormer
+}
+130103 = {
+	name = "Ариаспес"
+	culture = maormer
+}
+130104 = {
+	name = "Пепес"
+	culture = maormer
+}
+130105 = {
+	name = "Ариасатимс"
+	culture = maormer
+}
+130106 = {
+	name = "Пейксес"
+	culture = maormer
+}
+130107 = {
+	name = "Оксатмнес"
+	culture = maormer
+}
+130108 = {
+	name = "Амеспес"
+	culture = maormer
+}
+130109 = {
+	name = "Атонес"
+	culture = maormer
+}
+130110 = {
+	name = "Камсса"
+	culture = maormer
+}
+130111 = {
+	name = "Атсатис"
+	culture = maormer
+}
+130112 = {
+	name = "Окстрис"
+	culture = maormer
+}
+130113 = {
+	name = "Ксерсес"
+	culture = maormer
+}
+130114 = {
+	name = "Мамнес"
+	culture = maormer
+}
+130115 = {
+	name = "Арсимнес"
+	culture = maormer
+}
+130116 = {
+	name = "Остсес"
+	culture = maormer
+}
+130117 = {
+	name = "Кирес"
+	culture = maormer
+}
+130118 = {
+	name = "Ариатрис"
+	culture = maormer
+}
+130119 = {
+	name = "Артасса"
+	culture = maormer
+}
+130120 = {
+	name = "Роксиаджес"
+	culture = maormer
+}
+130121 = {
+	name = "Кассаджес"
+	culture = maormer
+}
+130122 = {
+	name = "Апмеджес"
+	culture = maormer
+}
+130123 = {
+	name = "Атрес"
+	culture = maormer
+}
+130124 = {
+	name = "Парисса"
+	culture = maormer
+}
+130125 = {
+	name = "Бартис"
+	culture = maormer
+}
+130126 = {
+	name = "Оксакес"
+	culture = maormer
+}
+130127 = {
+	name = "Апапес"
+	culture = maormer
+}
+130128 = {
+	name = "Атомес"
+	culture = maormer
+}
+130129 = {
+	name = "Арсидис"
+	culture = maormer
+}
+130130 = {
+	name = "Окстис"
+	culture = maormer
+}
+130131 = {
+	name = "Камнес"
+	culture = maormer
+}
+130132 = {
+	name = "Ксертирс"
+	culture = maormer
+}
+130133 = {
+	name = "Мама"
+	culture = maormer
+}
+130134 = {
+	name = "Арсидия"
+	culture = maormer
+}
+130135 = {
+	name = "Катис"
+	culture = maormer
+}
+130136 = {
+	name = "Маниджес"
+	culture = maormer
+}
+130137 = {
+	name = "Ападейн"
+	culture = maormer
+}
+130138 = {
+	name = "Аместрис"
+	culture = maormer
+}
+130139 = {
+	name = "Камситес"
+	culture = maormer
+}
+130140 = {
+	name = "Амесиджес"
+	culture = maormer
+}
+130141 = {
+	name = "Смертес"
+	culture = maormer
+}
+130142 = {
+	name = "Киядия"
+	culture = maormer
+}
+130143 = {
+	name = "Ксетес"
+	culture = maormer
+}
+130144 = {
+	name = "Апксарес"
+	culture = maormer
+}
+130145 = {
+	name = "Остиаджес"
+	culture = maormer
+}
+130146 = {
+	name = "Хистамнес"
+	culture = maormer
+}
+130147 = {
+	name = "Мадис"
+	culture = maormer
+}

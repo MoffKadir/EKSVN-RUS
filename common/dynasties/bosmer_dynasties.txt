@@ -1,0 +1,1735 @@
+# Bosmer Range: 110000-119999
+
+110000 = {
+	name = "Адинриат"
+	culture = bosmer
+}
+110001 = {
+	name = "Каморан"
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 31
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+110002 = {
+	name = "Агол"
+	culture = bosmer
+}
+110003 = {
+	name = "Альдин"
+	culture = bosmer
+}
+110004 = {
+	name = "Альдинфин"
+	culture = bosmer
+}
+110005 = {
+	name = "Альдиннор"
+	culture = bosmer
+}
+110006 = {
+	name = "Альдон"
+	culture = bosmer
+}
+110007 = {
+	name = "Альдор"
+	culture = bosmer
+}
+110008 = {
+	name = "Альдранд"
+	culture = bosmer
+}
+110009 = {
+	name = "Алеб"
+	culture = bosmer
+}
+110010 = {
+	name = "Алгол"
+	culture = bosmer
+}
+110011 = {
+	name = "Алголфин"
+	culture = bosmer
+}
+110012 = {
+	name = "Алгормриат"
+	culture = bosmer
+}
+110013 = {
+	name = "Алготрос"
+	culture = bosmer
+}
+110014 = {
+	name = "Аллир"
+	culture = bosmer
+}
+110015 = {
+	name = "Алмирнор"
+	culture = bosmer
+}
+110016 = {
+	name = "Алнонор"
+	culture = bosmer
+}
+110017 = {
+	name = "Алнорриат"
+	culture = bosmer
+}
+110018 = {
+	name = "Алок"
+	culture = bosmer
+}
+110019 = {
+	name = "Алрас"
+	culture = bosmer
+}
+110020 = {
+	name = "Алрин"
+	culture = bosmer
+}
+110021 = {
+	name = "Алро"
+	culture = bosmer
+}
+110022 = {
+	name = "Алтор"
+	culture = bosmer
+}
+110023 = {
+	name = "Амирнор"
+	culture = bosmer
+}
+110024 = {
+	name = "Амирриат"
+	culture = bosmer
+}
+110025 = {
+	name = "Анад"
+	culture = bosmer
+}
+110026 = {
+	name = "Андонрос"
+	culture = bosmer
+}
+110027 = {
+	name = "Ангор"
+	culture = bosmer
+}
+110028 = {
+	name = "Ангорм"
+	culture = bosmer
+}
+110029 = {
+	name = "Ангормрос"
+	culture = bosmer
+}
+110030 = {
+	name = "Ангорнор"
+	culture = bosmer
+}
+110031 = {
+	name = "Ангот"
+	culture = bosmer
+}
+110032 = {
+	name = "Анготриат"
+	culture = bosmer
+}
+110033 = {
+	name = "Анлир"
+	culture = bosmer
+}
+110034 = {
+	name = "Анлмир"
+	culture = bosmer
+}
+110035 = {
+	name = "Анмир"
+	culture = bosmer
+}
+110036 = {
+	name = "Анно"
+	culture = bosmer
+}
+110037 = {
+	name = "Аннорриат"
+	culture = bosmer
+}
+110038 = {
+	name = "Анноррос"
+	culture = bosmer
+}
+110039 = {
+	name = "Анок"
+	culture = bosmer
+}
+110040 = {
+	name = "Анокнд"
+	culture = bosmer
+}
+110041 = {
+	name = "Анор"
+	culture = bosmer
+}
+110042 = {
+	name = "Анрас"
+	culture = bosmer
+}
+110043 = {
+	name = "Анрин"
+	culture = bosmer
+}
+110044 = {
+	name = "Анро"
+	culture = bosmer
+}
+110045 = {
+	name = "Анронд"
+	culture = bosmer
+}
+110046 = {
+	name = "Анве"
+	culture = bosmer
+}
+110047 = {
+	name = "Аок"
+	culture = bosmer
+}
+110048 = {
+	name = "Арад"
+	culture = bosmer
+}
+110049 = {
+	name = "Ардоннд"
+	culture = bosmer
+}
+110050 = {
+	name = "Аргол"
+	culture = bosmer
+}
+110051 = {
+	name = "Аргорм"
+	culture = bosmer
+}
+110052 = {
+	name = "Аргорнор"
+	culture = bosmer
+}
+110053 = {
+	name = "Аргот"
+	culture = bosmer
+}
+110054 = {
+	name = "Арготст"
+	culture = bosmer
+}
+110055 = {
+	name = "Арлир"
+	culture = bosmer
+}
+110056 = {
+	name = "Арлирим"
+	culture = bosmer
+}
+110057 = {
+	name = "Арлирст"
+	culture = bosmer
+}
+110058 = {
+	name = "Арлмир"
+	culture = bosmer
+}
+110059 = {
+	name = "Армир"
+	culture = bosmer
+}
+110060 = {
+	name = "Арнор"
+	culture = bosmer
+}
+110061 = {
+	name = "Арок"
+	culture = bosmer
+}
+110062 = {
+	name = "Аррин"
+	culture = bosmer
+}
+110063 = {
+	name = "Арророс"
+	culture = bosmer
+}
+110064 = {
+	name = "Арруин"
+	culture = bosmer
+}
+110065 = {
+	name = "Арруиним"
+	culture = bosmer
+}
+110066 = {
+	name = "Артор"
+	culture = bosmer
+}
+110067 = {
+	name = "Аруин"
+	culture = bosmer
+}
+110068 = {
+	name = "Атор"
+	culture = bosmer
+}
+110069 = {
+	name = "Аве"
+	culture = bosmer
+}
+110070 = {
+	name = "Барад"
+	culture = bosmer
+}
+110071 = {
+	name = "Барадрос"
+	culture = bosmer
+}
+110072 = {
+	name = "Бардонрас"
+	culture = bosmer
+}
+110073 = {
+	name = "Бареб"
+	culture = bosmer
+}
+110074 = {
+	name = "Баргор"
+	culture = bosmer
+}
+110075 = {
+	name = "Баргорм"
+	culture = bosmer
+}
+110076 = {
+	name = "Барготриат"
+	culture = bosmer
+}
+110077 = {
+	name = "Барготст"
+	culture = bosmer
+}
+110078 = {
+	name = "Барок"
+	culture = bosmer
+}
+110079 = {
+	name = "Баррориат"
+	culture = bosmer
+}
+110080 = {
+	name = "Барруинфин"
+	culture = bosmer
+}
+110081 = {
+	name = "Бартор"
+	culture = bosmer
+}
+110082 = {
+	name = "Барторнд"
+	culture = bosmer
+}
+110083 = {
+	name = "Больдин"
+	culture = bosmer
+}
+110084 = {
+	name = "Больдинрос"
+	culture = bosmer
+}
+110085 = {
+	name = "Больдон"
+	culture = bosmer
+}
+110086 = {
+	name = "Больдорнин"
+	culture = bosmer
+}
+110087 = {
+	name = "Болдра"
+	culture = bosmer
+}
+110088 = {
+	name = "Болдранор"
+	culture = bosmer
+}
+110089 = {
+	name = "Болно"
+	culture = bosmer
+}
+110090 = {
+	name = "Болнор"
+	culture = bosmer
+}
+110091 = {
+	name = "Болок"
+	culture = bosmer
+}
+110092 = {
+	name = "Болраснор"
+	culture = bosmer
+}
+110093 = {
+	name = "Болрасст"
+	culture = bosmer
+}
+110094 = {
+	name = "Болрин"
+	culture = bosmer
+}
+110095 = {
+	name = "Болриннор"
+	culture = bosmer
+}
+110096 = {
+	name = "Болро"
+	culture = bosmer
+}
+110097 = {
+	name = "Болтор"
+	culture = bosmer
+}
+110098 = {
+	name = "Болвенин"
+	culture = bosmer
+}
+110099 = {
+	name = "Бродинфин"
+	culture = bosmer
+}
+110100 = {
+	name = "Бродон"
+	culture = bosmer
+}
+110101 = {
+	name = "Бродраст"
+	culture = bosmer
+}
+110102 = {
+	name = "Броэбнд"
+	culture = bosmer
+}
+110103 = {
+	name = "Брогол"
+	culture = bosmer
+}
+110104 = {
+	name = "Брогор"
+	culture = bosmer
+}
+110105 = {
+	name = "Брогормнин"
+	culture = bosmer
+}
+110106 = {
+	name = "Бролирст"
+	culture = bosmer
+}
+110107 = {
+	name = "Бролмир"
+	culture = bosmer
+}
+110108 = {
+	name = "Бромир"
+	culture = bosmer
+}
+110109 = {
+	name = "Бромиррос"
+	culture = bosmer
+}
+110110 = {
+	name = "Броно"
+	culture = bosmer
+}
+110111 = {
+	name = "Бронор"
+	culture = bosmer
+}
+110112 = {
+	name = "Бруч"
+	culture = bosmer
+}
+110113 = {
+	name = "Бротхорст"
+	culture = bosmer
+}
+110114 = {
+	name = "Бровенор"
+	culture = bosmer
+}
+110115 = {
+	name = "Броверас"
+	culture = bosmer
+}
+110116 = {
+	name = "Бровериат"
+	culture = bosmer
+}
+110117 = {
+	name = "Броверос"
+	culture = bosmer
+}
+110118 = {
+	name = "Дердиннор"
+	culture = bosmer
+}
+110119 = {
+	name = "Дердон"
+	culture = bosmer
+}
+110120 = {
+	name = "Дердор"
+	culture = bosmer
+}
+110121 = {
+	name = "Дердра"
+	culture = bosmer
+}
+110122 = {
+	name = "Дердрарос"
+	culture = bosmer
+}
+110123 = {
+	name = "Дереб"
+	culture = bosmer
+}
+110124 = {
+	name = "Дергорм"
+	culture = bosmer
+}
+110125 = {
+	name = "Дергот"
+	culture = bosmer
+}
+110126 = {
+	name = "Дерлир"
+	culture = bosmer
+}
+110127 = {
+	name = "Дерлмир"
+	culture = bosmer
+}
+110128 = {
+	name = "Дермир"
+	culture = bosmer
+}
+110129 = {
+	name = "Дерно"
+	culture = bosmer
+}
+110130 = {
+	name = "Дернофин"
+	culture = bosmer
+}
+110131 = {
+	name = "Дернор"
+	culture = bosmer
+}
+110132 = {
+	name = "Дерноррас"
+	culture = bosmer
+}
+110133 = {
+	name = "Дерност"
+	culture = bosmer
+}
+110134 = {
+	name = "Дерок"
+	culture = bosmer
+}
+110135 = {
+	name = "Дерокнд"
+	culture = bosmer
+}
+110136 = {
+	name = "Деррасфин"
+	culture = bosmer
+}
+110137 = {
+	name = "Дерронор"
+	culture = bosmer
+}
+110138 = {
+	name = "Деррорас"
+	culture = bosmer
+}
+110139 = {
+	name = "Деррориат"
+	culture = bosmer
+}
+110140 = {
+	name = "Дерруин"
+	culture = bosmer
+}
+110141 = {
+	name = "Дерруиннд"
+	culture = bosmer
+}
+110142 = {
+	name = "Дерруинриат"
+	culture = bosmer
+}
+110143 = {
+	name = "Дервест"
+	culture = bosmer
+}
+110144 = {
+	name = "Эдон"
+	culture = bosmer
+}
+110145 = {
+	name = "Эдор"
+	culture = bosmer
+}
+110146 = {
+	name = "Эдоррос"
+	culture = bosmer
+}
+110147 = {
+	name = "Эебфин"
+	culture = bosmer
+}
+110148 = {
+	name = "Эгол"
+	culture = bosmer
+}
+110149 = {
+	name = "Эголфин"
+	culture = bosmer
+}
+110150 = {
+	name = "Эголрас"
+	culture = bosmer
+}
+110151 = {
+	name = "Эголриат"
+	culture = bosmer
+}
+110152 = {
+	name = "Эголрос"
+	culture = bosmer
+}
+110153 = {
+	name = "Эгорнин"
+	culture = bosmer
+}
+110154 = {
+	name = "Элир"
+	culture = bosmer
+}
+110155 = {
+	name = "Элирнин"
+	culture = bosmer
+}
+110156 = {
+	name = "Элмир"
+	culture = bosmer
+}
+110157 = {
+	name = "Элмирим"
+	culture = bosmer
+}
+110158 = {
+	name = "Элмирриат"
+	culture = bosmer
+}
+110159 = {
+	name = "Эмиррос"
+	culture = bosmer
+}
+110160 = {
+	name = "Энад"
+	culture = bosmer
+}
+110161 = {
+	name = "Эндин"
+	culture = bosmer
+}
+110162 = {
+	name = "Эндиним"
+	culture = bosmer
+}
+110163 = {
+	name = "Эндиннин"
+	culture = bosmer
+}
+110164 = {
+	name = "Эндинрос"
+	culture = bosmer
+}
+110165 = {
+	name = "Эндинст"
+	culture = bosmer
+}
+110166 = {
+	name = "Эндон"
+	culture = bosmer
+}
+110167 = {
+	name = "Эндонфин"
+	culture = bosmer
+}
+110168 = {
+	name = "Эндоним"
+	culture = bosmer
+}
+110169 = {
+	name = "Эндонст"
+	culture = bosmer
+}
+110170 = {
+	name = "Эндорнд"
+	culture = bosmer
+}
+110171 = {
+	name = "Эндоррас"
+	culture = bosmer
+}
+110172 = {
+	name = "Эндра"
+	culture = bosmer
+}
+110173 = {
+	name = "Эндраим"
+	culture = bosmer
+}
+110174 = {
+	name = "Эндранд"
+	culture = bosmer
+}
+110175 = {
+	name = "Эндрариат"
+	culture = bosmer
+}
+110176 = {
+	name = "Эндрарос"
+	culture = bosmer
+}
+110177 = {
+	name = "Энеб"
+	culture = bosmer
+}
+110178 = {
+	name = "Энебнин"
+	culture = bosmer
+}
+110179 = {
+	name = "Энебриат"
+	culture = bosmer
+}
+110180 = {
+	name = "Энгол"
+	culture = bosmer
+}
+110181 = {
+	name = "Энголнор"
+	culture = bosmer
+}
+110182 = {
+	name = "Энгор"
+	culture = bosmer
+}
+110183 = {
+	name = "Энгорфин"
+	culture = bosmer
+}
+110184 = {
+	name = "Энгорм"
+	culture = bosmer
+}
+110185 = {
+	name = "Энгормим"
+	culture = bosmer
+}
+110186 = {
+	name = "Энгорст"
+	culture = bosmer
+}
+110187 = {
+	name = "Энгот"
+	culture = bosmer
+}
+110188 = {
+	name = "Энготнор"
+	culture = bosmer
+}
+110189 = {
+	name = "Энготст"
+	culture = bosmer
+}
+110190 = {
+	name = "Энлир"
+	culture = bosmer
+}
+110191 = {
+	name = "Энлирнин"
+	culture = bosmer
+}
+110192 = {
+	name = "Энльмирст"
+	culture = bosmer
+}
+110193 = {
+	name = "Энмир"
+	culture = bosmer
+}
+110194 = {
+	name = "Энмирим"
+	culture = bosmer
+}
+110195 = {
+	name = "Энмиррос"
+	culture = bosmer
+}
+110196 = {
+	name = "Энно"
+	culture = bosmer
+}
+110197 = {
+	name = "Энноррос"
+	culture = bosmer
+}
+110198 = {
+	name = "Эно"
+	culture = bosmer
+}
+110199 = {
+	name = "Энок"
+	culture = bosmer
+}
+110200 = {
+	name = "Энокнор"
+	culture = bosmer
+}
+110201 = {
+	name = "Энор"
+	culture = bosmer
+}
+110202 = {
+	name = "Энрас"
+	culture = bosmer
+}
+110203 = {
+	name = "Энраснин"
+	culture = bosmer
+}
+110204 = {
+	name = "Энрасрас"
+	culture = bosmer
+}
+110205 = {
+	name = "Энрасриат"
+	culture = bosmer
+}
+110206 = {
+	name = "Энрасрос"
+	culture = bosmer
+}
+110207 = {
+	name = "Энринфин"
+	culture = bosmer
+}
+110208 = {
+	name = "Энринрас"
+	culture = bosmer
+}
+110209 = {
+	name = "Энринриат"
+	culture = bosmer
+}
+110210 = {
+	name = "Энро"
+	culture = bosmer
+}
+110211 = {
+	name = "Энрориат"
+	culture = bosmer
+}
+110212 = {
+	name = "Энруин"
+	culture = bosmer
+}
+110213 = {
+	name = "Энруиннин"
+	culture = bosmer
+}
+110214 = {
+	name = "Энтор"
+	culture = bosmer
+}
+110215 = {
+	name = "Энторнор"
+	culture = bosmer
+}
+110216 = {
+	name = "Энвенд"
+	culture = bosmer
+}
+110217 = {
+	name = "Энверос"
+	culture = bosmer
+}
+110218 = {
+	name = "Эок"
+	culture = bosmer
+}
+110219 = {
+	name = "Эрин"
+	culture = bosmer
+}
+110220 = {
+	name = "Эринриат"
+	culture = bosmer
+}
+110221 = {
+	name = "Эро"
+	culture = bosmer
+}
+110222 = {
+	name = "Этор"
+	culture = bosmer
+}
+110223 = {
+	name = "Эторнд"
+	culture = bosmer
+}
+110224 = {
+	name = "Эве"
+	culture = bosmer
+}
+110225 = {
+	name = "Фораднор"
+	culture = bosmer
+}
+110226 = {
+	name = "Фордонриат"
+	culture = bosmer
+}
+110227 = {
+	name = "Фордорим"
+	culture = bosmer
+}
+110228 = {
+	name = "Фореб"
+	culture = bosmer
+}
+110229 = {
+	name = "Форгор"
+	culture = bosmer
+}
+110230 = {
+	name = "Форгормнд"
+	culture = bosmer
+}
+110231 = {
+	name = "Форгормрас"
+	culture = bosmer
+}
+110232 = {
+	name = "Форгот"
+	culture = bosmer
+}
+110233 = {
+	name = "Форлир"
+	culture = bosmer
+}
+110234 = {
+	name = "Форлмир"
+	culture = bosmer
+}
+110235 = {
+	name = "Формир"
+	culture = bosmer
+}
+110236 = {
+	name = "Формирфин"
+	culture = bosmer
+}
+110237 = {
+	name = "Форрас"
+	culture = bosmer
+}
+110238 = {
+	name = "Форронор"
+	culture = bosmer
+}
+110239 = {
+	name = "Гаддоннд"
+	culture = bosmer
+}
+110240 = {
+	name = "Гаддор"
+	culture = bosmer
+}
+110241 = {
+	name = "Гаддра"
+	culture = bosmer
+}
+110242 = {
+	name = "Гадгор"
+	culture = bosmer
+}
+110243 = {
+	name = "Гадгот"
+	culture = bosmer
+}
+110244 = {
+	name = "Гадим"
+	culture = bosmer
+}
+110245 = {
+	name = "Гадлир"
+	culture = bosmer
+}
+110246 = {
+	name = "Гадмир"
+	culture = bosmer
+}
+110247 = {
+	name = "Гадмирст"
+	culture = bosmer
+}
+110248 = {
+	name = "Гадно"
+	culture = bosmer
+}
+110249 = {
+	name = "Гаднор"
+	culture = bosmer
+}
+110250 = {
+	name = "Гаднорриат"
+	culture = bosmer
+}
+110251 = {
+	name = "Гадност"
+	culture = bosmer
+}
+110252 = {
+	name = "Гадокрас"
+	culture = bosmer
+}
+110253 = {
+	name = "Гадокст"
+	culture = bosmer
+}
+110254 = {
+	name = "Гадонриат"
+	culture = bosmer
+}
+110255 = {
+	name = "Гадорнд"
+	culture = bosmer
+}
+110256 = {
+	name = "Гадра"
+	culture = bosmer
+}
+110257 = {
+	name = "Гадранин"
+	culture = bosmer
+}
+110258 = {
+	name = "Гадрас"
+	culture = bosmer
+}
+110259 = {
+	name = "Гадрасрас"
+	culture = bosmer
+}
+110260 = {
+	name = "Гадринриат"
+	culture = bosmer
+}
+110261 = {
+	name = "Гадро"
+	culture = bosmer
+}
+110262 = {
+	name = "Гадруинфин"
+	culture = bosmer
+}
+110263 = {
+	name = "Гадруиннин"
+	culture = bosmer
+}
+110264 = {
+	name = "Гадруиннор"
+	culture = bosmer
+}
+110265 = {
+	name = "Гадруинриат"
+	culture = bosmer
+}
+110266 = {
+	name = "Гагорим"
+	culture = bosmer
+}
+110267 = {
+	name = "Гагорм"
+	culture = bosmer
+}
+110268 = {
+	name = "Гагормнор"
+	culture = bosmer
+}
+110269 = {
+	name = "Гаготнд"
+	culture = bosmer
+}
+110270 = {
+	name = "Галир"
+	culture = bosmer
+}
+110271 = {
+	name = "Гальмиррас"
+	culture = bosmer
+}
+110272 = {
+	name = "Гамир"
+	culture = bosmer
+}
+110273 = {
+	name = "Гамирнин"
+	culture = bosmer
+}
+110274 = {
+	name = "Гамирст"
+	culture = bosmer
+}
+110275 = {
+	name = "Гано"
+	culture = bosmer
+}
+110276 = {
+	name = "Ганор"
+	culture = bosmer
+}
+110277 = {
+	name = "Гаок"
+	culture = bosmer
+}
+110278 = {
+	name = "Гарас"
+	culture = bosmer
+}
+110279 = {
+	name = "Гарасрос"
+	culture = bosmer
+}
+110280 = {
+	name = "Гарин"
+	culture = bosmer
+}
+110281 = {
+	name = "Гаруин"
+	culture = bosmer
+}
+110282 = {
+	name = "Гайв"
+	culture = bosmer
+}
+110283 = {
+	name = "Гелдинриат"
+	culture = bosmer
+}
+110284 = {
+	name = "Гелдон"
+	culture = bosmer
+}
+110285 = {
+	name = "Гелдорнин"
+	culture = bosmer
+}
+110286 = {
+	name = "Гелеб"
+	culture = bosmer
+}
+110287 = {
+	name = "Гелебрас"
+	culture = bosmer
+}
+110288 = {
+	name = "Гелголст"
+	culture = bosmer
+}
+110289 = {
+	name = "Гелгорфин"
+	culture = bosmer
+}
+110290 = {
+	name = "Гелгорм"
+	culture = bosmer
+}
+110291 = {
+	name = "Гелгорнор"
+	culture = bosmer
+}
+110292 = {
+	name = "Гелгот"
+	culture = bosmer
+}
+110293 = {
+	name = "Гелготфин"
+	culture = bosmer
+}
+110294 = {
+	name = "Геллир"
+	culture = bosmer
+}
+110295 = {
+	name = "Гелмир"
+	culture = bosmer
+}
+110296 = {
+	name = "Гелмирст"
+	culture = bosmer
+}
+110297 = {
+	name = "Гелно"
+	culture = bosmer
+}
+110298 = {
+	name = "Гелнориат"
+	culture = bosmer
+}
+110299 = {
+	name = "Гелрас"
+	culture = bosmer
+}
+110300 = {
+	name = "Гелро"
+	culture = bosmer
+}
+110301 = {
+	name = "Гелрост"
+	culture = bosmer
+}
+110302 = {
+	name = "Гелве"
+	culture = bosmer
+}
+110303 = {
+	name = "Лидоррас"
+	culture = bosmer
+}
+110304 = {
+	name = "Лидорст"
+	culture = bosmer
+}
+110305 = {
+	name = "Лидра"
+	culture = bosmer
+}
+110306 = {
+	name = "Лигол"
+	culture = bosmer
+}
+110307 = {
+	name = "Лигор"
+	culture = bosmer
+}
+110308 = {
+	name = "Лигорим"
+	culture = bosmer
+}
+110309 = {
+	name = "Лигорм"
+	culture = bosmer
+}
+110310 = {
+	name = "Лигормнд"
+	culture = bosmer
+}
+110311 = {
+	name = "Лиготнд"
+	culture = bosmer
+}
+110312 = {
+	name = "Лиготст"
+	culture = bosmer
+}
+110313 = {
+	name = "Лилиррас"
+	culture = bosmer
+}
+110314 = {
+	name = "Лилмирнд"
+	culture = bosmer
+}
+110315 = {
+	name = "Лимир"
+	culture = bosmer
+}
+110316 = {
+	name = "Лимирим"
+	culture = bosmer
+}
+110317 = {
+	name = "Линор"
+	culture = bosmer
+}
+110318 = {
+	name = "Линоррас"
+	culture = bosmer
+}
+110319 = {
+	name = "Лиокст"
+	culture = bosmer
+}
+110320 = {
+	name = "Лириннор"
+	culture = bosmer
+}
+110321 = {
+	name = "Лирофин"
+	culture = bosmer
+}
+110322 = {
+	name = "Лирориат"
+	culture = bosmer
+}
+110323 = {
+	name = "Магад"
+	culture = bosmer
+}
+110324 = {
+	name = "Магдранор"
+	culture = bosmer
+}
+110325 = {
+	name = "Магебнин"
+	culture = bosmer
+}
+110326 = {
+	name = "Магебрас"
+	culture = bosmer
+}
+110327 = {
+	name = "Маггол"
+	culture = bosmer
+}
+110328 = {
+	name = "Магголнд"
+	culture = bosmer
+}
+110329 = {
+	name = "Магголнор"
+	culture = bosmer
+}
+110330 = {
+	name = "Магголриат"
+	culture = bosmer
+}
+110331 = {
+	name = "Маггорфин"
+	culture = bosmer
+}
+110332 = {
+	name = "Маггорм"
+	culture = bosmer
+}
+110333 = {
+	name = "Маггорнор"
+	culture = bosmer
+}
+110334 = {
+	name = "Маггорст"
+	culture = bosmer
+}
+110335 = {
+	name = "Маггот"
+	culture = bosmer
+}
+110336 = {
+	name = "Магмир"
+	culture = bosmer
+}
+110337 = {
+	name = "Магнор"
+	culture = bosmer
+}
+110338 = {
+	name = "Магокфин"
+	culture = bosmer
+}
+110339 = {
+	name = "Магокрос"
+	culture = bosmer
+}
+110340 = {
+	name = "Маграс"
+	culture = bosmer
+}
+110341 = {
+	name = "Маграсфин"
+	culture = bosmer
+}
+110342 = {
+	name = "Магруиннор"
+	culture = bosmer
+}
+110343 = {
+	name = "Магве"
+	culture = bosmer
+}
+110344 = {
+	name = "Норад"
+	culture = bosmer
+}
+110345 = {
+	name = "Нордин"
+	culture = bosmer
+}
+110346 = {
+	name = "Нордоним"
+	culture = bosmer
+}
+110347 = {
+	name = "Нордра"
+	culture = bosmer
+}
+110348 = {
+	name = "Норгормнд"
+	culture = bosmer
+}
+110349 = {
+	name = "Норготст"
+	culture = bosmer
+}
+110350 = {
+	name = "Норлир"
+	culture = bosmer
+}
+110351 = {
+	name = "Норлирнин"
+	culture = bosmer
+}
+110352 = {
+	name = "Норлиррас"
+	culture = bosmer
+}
+110353 = {
+	name = "Норлирриат"
+	culture = bosmer
+}
+110354 = {
+	name = "Норлмирнин"
+	culture = bosmer
+}
+110355 = {
+	name = "Нормирфин"
+	culture = bosmer
+}
+110356 = {
+	name = "Норнонд"
+	culture = bosmer
+}
+110357 = {
+	name = "Норок"
+	culture = bosmer
+}
+110358 = {
+	name = "Норрин"
+	culture = bosmer
+}
+110359 = {
+	name = "Норруинрос"
+	culture = bosmer
+}
+110360 = {
+	name = "Норвенин"
+	culture = bosmer
+}
+110361 = {
+	name = "Норвенор"
+	culture = bosmer
+}
+110362 = {
+	name = "Тейдин"
+	culture = bosmer
+}
+110363 = {
+	name = "Тейдор"
+	culture = bosmer
+}
+110364 = {
+	name = "Тейдра"
+	culture = bosmer
+}
+110365 = {
+	name = "Тейдрарас"
+	culture = bosmer
+}
+110366 = {
+	name = "Тейэб"
+	culture = bosmer
+}
+110367 = {
+	name = "Тейгот"
+	culture = bosmer
+}
+110368 = {
+	name = "Тейлир"
+	culture = bosmer
+}
+110369 = {
+	name = "Тейлмир"
+	culture = bosmer
+}
+110370 = {
+	name = "Теймирриат"
+	culture = bosmer
+}
+110371 = {
+	name = "Тейно"
+	culture = bosmer
+}
+110372 = {
+	name = "Тейокфин"
+	culture = bosmer
+}
+110373 = {
+	name = "Тарин"
+	culture = bosmer
+}
+110374 = {
+	name = "Тавефин"
+	culture = bosmer
+}
+110375 = {
+	name = "Удоннор"
+	culture = bosmer
+}
+110376 = {
+	name = "Удор"
+	culture = bosmer
+}
+110377 = {
+	name = "Удорнд"
+	culture = bosmer
+}
+110378 = {
+	name = "Удра"
+	culture = bosmer
+}
+110379 = {
+	name = "Удранд"
+	culture = bosmer
+}
+110380 = {
+	name = "Уэбфин"
+	culture = bosmer
+}
+110381 = {
+	name = "Уэбим"
+	culture = bosmer
+}
+110382 = {
+	name = "Угол"
+	culture = bosmer
+}
+110383 = {
+	name = "Угор"
+	culture = bosmer
+}
+110384 = {
+	name = "Угорм"
+	culture = bosmer
+}
+110385 = {
+	name = "Угормнин"
+	culture = bosmer
+}
+110386 = {
+	name = "Улир"
+	culture = bosmer
+}
+110387 = {
+	name = "Умир"
+	culture = bosmer
+}
+110388 = {
+	name = "Умирриат"
+	culture = bosmer
+}
+110389 = {
+	name = "Унад"
+	culture = bosmer
+}
+110390 = {
+	name = "Унаднор"
+	culture = bosmer
+}
+110391 = {
+	name = "Ундон"
+	culture = bosmer
+}
+110392 = {
+	name = "Ундорнин"
+	culture = bosmer
+}
+110393 = {
+	name = "Ундрарас"
+	culture = bosmer
+}
+110394 = {
+	name = "Унгол"
+	culture = bosmer
+}
+110395 = {
+	name = "Унгор"
+	culture = bosmer
+}
+110396 = {
+	name = "Унгорм"
+	culture = bosmer
+}
+110397 = {
+	name = "Унготнд"
+	culture = bosmer
+}
+110398 = {
+	name = "Унлирнор"
+	culture = bosmer
+}
+110399 = {
+	name = "Унмир"
+	culture = bosmer
+}
+110400 = {
+	name = "Уннор"
+	culture = bosmer
+}
+110401 = {
+	name = "Уннорас"
+	culture = bosmer
+}
+110402 = {
+	name = "Унок"
+	culture = bosmer
+}
+110403 = {
+	name = "Унрас"
+	culture = bosmer
+}
+110404 = {
+	name = "Унринниб"
+	culture = bosmer
+}
+110405 = {
+	name = "Унриннор"
+	culture = bosmer
+}
+110406 = {
+	name = "Унронин"
+	culture = bosmer
+}
+110407 = {
+	name = "Унруин"
+	culture = bosmer
+}
+110408 = {
+	name = "Унруиним"
+	culture = bosmer
+}
+110409 = {
+	name = "Унруинриат"
+	culture = bosmer
+}
+110410 = {
+	name = "Унве"
+	culture = bosmer
+}
+110411 = {
+	name = "Урас"
+	culture = bosmer
+}
+110412 = {
+	name = "Уро"
+	culture = bosmer
+}
+110414 = {
+	name = "Гринвуд"
+	culture = bosmer
+}
+110415 = {
+	name = "Дорнке"
+	culture = bosmer
+}
+110416 = {
+	name = "Бенок"
+	culture = bosmer
+}
+110417 = {
+	name = "Грейтвиг"
+	culture = bosmer
+}
+110418 = {
+	name = "Трипвуд"
+	culture = bosmer
+}
+110419 = {
+	name = "Фернтри"
+	culture = bosmer
+}
+110420 = {
+	name = "Снейптри"
+	culture = bosmer
+}
+110421 = {
+	name = "Пайнбуш"
+	culture = bosmer
+}
+110422 = {
+	name = "Вайнтри"
+	culture = bosmer
+}
+110423 = {
+	name = "Фернвуд"
+	culture = bosmer
+}
+110424 = {
+	name = "Дипвуд"
+	culture = bosmer
+}
+110425 = {
+	name = "Эмбертвиг"
+	culture = bosmer
+}
+110426 = {
+	name = "из Глассберроу"
+	culture = bosmer
+}
+110427 = {
+	name = "Горинир"
+	culture = bosmer
+}
+110428 = {
+	name = "Дипвудс"
+	culture = bosmer
+}
+110429 = {
+	name = "Лейфгрин"
+	culture = bosmer
+}
+110430 = {
+	name = "Вайлетхорн"
+	culture = bosmer
+}

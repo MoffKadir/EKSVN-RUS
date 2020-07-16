@@ -1,0 +1,4357 @@
+#Argonian Range: 170000-219999
+
+
+#AGACEPH 
+#170000-179999
+
+170001 = {
+	name="Ан-Ти"
+	culture=agaceph
+}
+
+170002 = {
+	name="Ан-Теи"
+	culture=agaceph
+}
+
+170003 = {
+	name="Далти"
+	culture=agaceph
+}
+
+170004 = {
+	name="Дэн-Ти"
+	culture=agaceph
+}
+
+170005 = {
+	name="Дэн-Тилан"
+	culture=agaceph
+}
+
+170006 = {
+	name="Дантейлан"
+	culture=agaceph
+}
+
+170007 = {
+	name="Эеллах"
+	culture=agaceph
+}
+
+170008 = {
+	name="Эелтей"
+	culture=agaceph
+}
+
+170009 = {
+	name="Элдал-Теи"
+	culture=agaceph
+}
+
+170010 = {
+	name="Элфе-Теета"
+	culture=agaceph
+}
+
+170011 = {
+	name="Элгах-Лей"
+	culture=agaceph
+}
+
+170012 = {
+	name="Элгамджуланта"
+	culture=agaceph
+}
+
+170013 = {
+	name="Элге'ил-Ти"
+	culture=agaceph
+}
+
+170014 = {
+	name="Элге'гах-Кур"
+	culture=agaceph
+}
+
+170015 = {
+	name="Элгеник-Лах"
+	culture=agaceph
+}
+
+170016 = {
+	name="Элджу'фи-Лах"
+	culture=agaceph
+}
+
+170017 = {
+	name="Элли'джлах"
+	culture=agaceph
+}
+
+170018 = {
+	name="Фелах"
+	culture=agaceph
+}
+
+170019 = {
+	name="Гах-Дарланта"
+	culture=agaceph
+}
+
+170020 = {
+	name="Гах-Лей"
+	culture=agaceph
+}
+
+170021 = {
+	name="Гахлеи"
+	culture=agaceph
+}
+
+170022 = {
+	name="Гам-Дар"
+	culture=agaceph
+}
+
+170023 = {
+	name="Гам-Кур"
+	culture=agaceph
+}
+
+170024 = {
+	name="Гам-Лах"
+	culture=agaceph
+}
+
+170025 = {
+	name="Гам-Ти"
+	culture=agaceph
+}
+
+170026 = {
+	name="Ге'ан-Ти"
+	culture=agaceph
+}
+
+170027 = {
+	name="Ге'гам-Лей"
+	culture=agaceph
+}
+
+170028 = {
+	name="Ге'ник-Тейланта"
+	culture=agaceph
+}
+
+170029 = {
+	name="Ге'салах"
+	culture=agaceph
+}
+
+170030 = {
+	name="Геанти-Феру"
+	culture=agaceph
+}
+
+170031 = {
+	name="Гиль-Лахта"
+	culture=agaceph
+}
+
+170032 = {
+	name="Гегам-Ру"
+	culture=agaceph
+}
+
+170033 = {
+	name="Геджти"
+	culture=agaceph
+}
+
+170034 = {
+	name="Генатей"
+	culture=agaceph
+}
+
+170035 = {
+	name="Гет-Лах"
+	culture=agaceph
+}
+
+170036 = {
+	name="Джтей"
+	culture=agaceph
+}
+
+170037 = {
+	name="Джа'галей"
+	culture=agaceph
+}
+
+170038 = {
+	name="Джа'ник-Тей"
+	culture=agaceph
+}
+
+170039 = {
+	name="Джа'ттей"
+	culture=agaceph
+}
+
+170040 = {
+	name="Джа'вих-Тей"
+	culture=agaceph
+}
+
+170041 = {
+	name="Джагах-Джу"
+	culture=agaceph
+}
+
+170042 = {
+	name="Джагах-Кур"
+	culture=agaceph
+}
+
+170043 = {
+	name="Джагам-Кур"
+	culture=agaceph
+}
+
+170044 = {
+	name="Джадж-Лахта"
+	culture=agaceph
+}
+
+170045 = {
+	name="Джаник-Лах"
+	culture=agaceph
+}
+
+170046 = {
+	name="Джастей"
+	culture=agaceph
+}
+
+170047 = {
+	name="Кеедалти"
+	culture=agaceph
+}
+
+170048 = {
+	name="Киджу'гам-Кур"
+	culture=agaceph
+}
+
+170049 = {
+	name="Киил-Теи"
+	culture=agaceph
+}
+
+170050 = {
+	name="Киилигахдар"
+	culture=agaceph
+}
+
+170051 = {
+	name="Кииллах"
+	culture=agaceph
+}
+
+170052 = {
+	name="Киму'ил-Тиланта"
+	culture=agaceph
+}
+
+170053 = {
+	name="Кина-Лахта"
+	culture=agaceph
+}
+
+170054 = {
+	name="Ли'дал-Ти"
+	culture=agaceph
+}
+
+170055 = {
+	name="Ли'дан-Лах"
+	culture=agaceph
+}
+
+170056 = {
+	name="Ли'дж-Лах"
+	culture=agaceph
+}
+
+170057 = {
+	name="Ли'натилан"
+	culture=agaceph
+}
+
+170058 = {
+	name="Ли'никтеита"
+	culture=agaceph
+}
+
+170059 = {
+	name="Ли'т-Тилан"
+	culture=agaceph
+}
+
+170060 = {
+	name="Лидал-Тей"
+	culture=agaceph
+}
+
+170061 = {
+	name="Лигахтей"
+	culture=agaceph
+}
+
+170062 = {
+	name="Лигамтита"
+	culture=agaceph
+}
+
+170063 = {
+	name="Му'фе-Тей"
+	culture=agaceph
+}
+
+170064 = {
+	name="Му'гах-Дар"
+	culture=agaceph
+}
+
+170065 = {
+	name="Му'гах-Ти"
+	culture=agaceph
+}
+
+170066 = {
+	name="Му'гам-Лей"
+	culture=agaceph
+}
+
+170067 = {
+	name="Му'гамджу"
+	culture=agaceph
+}
+
+170068 = {
+	name="Му'джти"
+	culture=agaceph
+}
+
+170069 = {
+	name="Му'ник-Теи"
+	culture=agaceph
+}
+
+170070 = {
+	name="Муан-Тей"
+	culture=agaceph
+}
+
+170071 = {
+	name="Мугам-Джу"
+	culture=agaceph
+}
+
+170072 = {
+	name="Мугамджулан"
+	culture=agaceph
+}
+
+170073 = {
+	name="Мугамтита"
+	culture=agaceph
+}
+
+170074 = {
+	name="Муса-Ти"
+	culture=agaceph
+}
+
+170075 = {
+	name="Муса-Теи"
+	culture=agaceph
+}
+
+170076 = {
+	name="Н-Теета"
+	culture=agaceph
+}
+
+170077 = {
+	name="Ник-Тейлан"
+	culture=agaceph
+}
+
+170078 = {
+	name="С-Лах"
+	culture=agaceph
+}
+
+170079 = {
+	name="Стита"
+	culture=agaceph
+}
+
+170080 = {
+	name="Т-Теи"
+	culture=agaceph
+}
+
+170081 = {
+	name="Тейус"
+	culture=agaceph
+}
+
+170082 = {
+	name="Вих-Лах"
+	culture=agaceph
+}
+
+170083 = {
+	name="Вих-Ти"
+	culture=agaceph
+}
+
+170084 = {
+	name="Вих-Теи"
+	culture=agaceph
+}
+170085 = {
+	name="Хиджа"
+	culture=lukiul
+}
+
+#LUKIUL AGACEPH
+171001 = {
+	name="Ан-Ти"
+	culture=lukiul
+}
+
+171002 = {
+	name="Ан-Теи"
+	culture=lukiul
+}
+
+171003 = {
+	name="Далти"
+	culture=lukiul
+}
+
+171004 = {
+	name="Дэн-Ти"
+	culture=lukiul
+}
+
+171005 = {
+	name="Дэн-Тилан"
+	culture=lukiul
+}
+
+171006 = {
+	name="Дантейлан"
+	culture=lukiul
+}
+
+171007 = {
+	name="Эеллах"
+	culture=lukiul
+}
+
+171008 = {
+	name="Эелтей"
+	culture=lukiul
+}
+
+171009 = {
+	name="Элдал-Теи"
+	culture=lukiul
+}
+
+171010 = {
+	name="Элфе-Теета"
+	culture=lukiul
+}
+
+171011 = {
+	name="Элгах-Лей"
+	culture=lukiul
+}
+
+171012 = {
+	name="Элгамджуланта"
+	culture=lukiul
+}
+
+171013 = {
+	name="Элге'ил-Ти"
+	culture=lukiul
+}
+
+171014 = {
+	name="Элге'гах-Кур"
+	culture=lukiul
+}
+
+171015 = {
+	name="Элгеник-Лах"
+	culture=lukiul
+}
+
+171016 = {
+	name="Элджу'фи-Лах"
+	culture=lukiul
+}
+
+171017 = {
+	name="Элли'джлах"
+	culture=lukiul
+}
+
+171018 = {
+	name="Фелах"
+	culture=lukiul
+}
+
+171019 = {
+	name="Гах-Дарланта"
+	culture=lukiul
+}
+
+171020 = {
+	name="Гах-Лей"
+	culture=lukiul
+}
+
+171021 = {
+	name="Гахлеи"
+	culture=lukiul
+}
+
+171022 = {
+	name="Гам-Дар"
+	culture=lukiul
+}
+
+171023 = {
+	name="Гам-Кур"
+	culture=lukiul
+}
+
+171024 = {
+	name="Гам-Лах"
+	culture=lukiul
+}
+
+171025 = {
+	name="Гам-Ти"
+	culture=lukiul
+}
+
+171026 = {
+	name="Ге'ан-Ти"
+	culture=lukiul
+}
+
+171027 = {
+	name="Ге'гам-Лей"
+	culture=lukiul
+}
+
+171028 = {
+	name="Ге'ник-Тейланта"
+	culture=lukiul
+}
+
+171029 = {
+	name="Ге'салах"
+	culture=lukiul
+}
+
+171030 = {
+	name="Геанти-Феру"
+	culture=lukiul
+}
+
+171031 = {
+	name="Гиль-Лахта"
+	culture=lukiul
+}
+
+171032 = {
+	name="Гегам-Ру"
+	culture=lukiul
+}
+
+171033 = {
+	name="Геджти"
+	culture=lukiul
+}
+
+171034 = {
+	name="Генатей"
+	culture=lukiul
+}
+
+171035 = {
+	name="Гет-Лах"
+	culture=lukiul
+}
+
+171036 = {
+	name="Джтей"
+	culture=lukiul
+}
+
+171037 = {
+	name="Джа'галей"
+	culture=lukiul
+}
+
+171038 = {
+	name="Джа'ник-Тей"
+	culture=lukiul
+}
+
+171039 = {
+	name="Джа'ттей"
+	culture=lukiul
+}
+
+171040 = {
+	name="Джа'вих-Тей"
+	culture=lukiul
+}
+
+171041 = {
+	name="Джагах-Джу"
+	culture=lukiul
+}
+
+171042 = {
+	name="Джагах-Кур"
+	culture=lukiul
+}
+
+171043 = {
+	name="Джагам-Кур"
+	culture=lukiul
+}
+
+171044 = {
+	name="Джадж-Лахта"
+	culture=lukiul
+}
+
+171045 = {
+	name="Джаник-Лах"
+	culture=lukiul
+}
+
+171046 = {
+	name="Джастей"
+	culture=lukiul
+}
+
+171047 = {
+	name="Кеедалти"
+	culture=lukiul
+}
+
+171048 = {
+	name="Киджу'гам-Кур"
+	culture=lukiul
+}
+
+171049 = {
+	name="Киил-Теи"
+	culture=lukiul
+}
+
+171050 = {
+	name="Киилигахдар"
+	culture=lukiul
+}
+
+171051 = {
+	name="Кииллах"
+	culture=lukiul
+}
+
+171052 = {
+	name="Киму'ил-Тиланта"
+	culture=lukiul
+}
+
+171053 = {
+	name="Кина-Лахта"
+	culture=lukiul
+}
+
+171054 = {
+	name="Ли'дал-Ти"
+	culture=lukiul
+}
+
+171055 = {
+	name="Ли'дан-Лах"
+	culture=lukiul
+}
+
+171056 = {
+	name="Ли'дж-Лах"
+	culture=lukiul
+}
+
+171057 = {
+	name="Ли'натилан"
+	culture=lukiul
+}
+
+171058 = {
+	name="Ли'никтеита"
+	culture=lukiul
+}
+
+171059 = {
+	name="Ли'т-Тилан"
+	culture=lukiul
+}
+
+171060 = {
+	name="Лидал-Тей"
+	culture=lukiul
+}
+
+171061 = {
+	name="Лигахтей"
+	culture=lukiul
+}
+
+171062 = {
+	name="Лигамтита"
+	culture=lukiul
+}
+
+171063 = {
+	name="Му'фе-Тей"
+	culture=lukiul
+}
+
+171064 = {
+	name="Му'гах-Дар"
+	culture=lukiul
+}
+
+171065 = {
+	name="Му'гах-Ти"
+	culture=lukiul
+}
+
+171066 = {
+	name="Му'гам-Лей"
+	culture=lukiul
+}
+
+171067 = {
+	name="Му'гамджу"
+	culture=lukiul
+}
+
+171068 = {
+	name="Му'джти"
+	culture=lukiul
+}
+
+171069 = {
+	name="Му'ник-Теи"
+	culture=lukiul
+}
+
+171070 = {
+	name="Муан-Тей"
+	culture=lukiul
+}
+
+171071 = {
+	name="Мугам-Джу"
+	culture=lukiul
+}
+
+171072 = {
+	name="Мугамджулан"
+	culture=lukiul
+}
+
+171073 = {
+	name="Мугамтита"
+	culture=lukiul
+}
+
+171074 = {
+	name="Муса-Ти"
+	culture=lukiul
+}
+
+171075 = {
+	name="Муса-Теи"
+	culture=lukiul
+}
+
+171076 = {
+	name="Н-Теета"
+	culture=lukiul
+}
+
+171077 = {
+	name="Ник-Тейлан"
+	culture=lukiul
+}
+
+171078 = {
+	name="С-Лах"
+	culture=lukiul
+}
+
+171079 = {
+	name="Стита"
+	culture=lukiul
+}
+
+171080 = {
+	name="Т-Теи"
+	culture=lukiul
+}
+
+171081 = {
+	name="Тейус"
+	culture=lukiul
+}
+
+171082 = {
+	name="Вих-Лах"
+	culture=lukiul
+}
+
+171083 = {
+	name="Вих-Ти"
+	culture=lukiul
+}
+
+171084 = {
+	name="Вих-Теи"
+	culture=lukiul
+}
+
+
+#ARCHEIN
+#180000-189999
+
+180001 = {
+	name="Дал-Тейми"
+	culture=archein
+}
+
+180002 = {
+	name="Ил-Джаланта"
+	culture=archein
+}
+
+180003 = {
+	name="Ил-Курлан"
+	culture=archein
+}
+
+180004 = {
+	name="Ил-Лейта"
+	culture=archein
+}
+
+180005 = {
+	name="Иллейми"
+	culture=archein
+}
+
+180006 = {
+	name="Иллеймита"
+	culture=archein
+}
+
+180007 = {
+	name="Эф'дал-Ти"
+	culture=archein
+}
+
+180008 = {
+	name="Эф'дан-Лей"
+	culture=archein
+}
+
+180009 = {
+	name="Эф'дан-Тей"
+	culture=archein
+}
+
+180010 = {
+	name="Эф'фе-Ти"
+	culture=archein
+}
+
+180011 = {
+	name="Эф'на-Ти"
+	culture=archein
+}
+
+180012 = {
+	name="Эф'са-Ти"
+	culture=archein
+}
+
+180013 = {
+	name="Эф'слей"
+	culture=archein
+}
+
+180014 = {
+	name="Эф'тдарми"
+	culture=archein
+}
+
+180015 = {
+	name="Эф'вих-Ти"
+	culture=archein
+}
+
+180016 = {
+	name="Эффе-Тей"
+	culture=archein
+}
+
+180017 = {
+	name="Эффелахта"
+	culture=archein
+}
+
+180018 = {
+	name="Эфгах-Румита"
+	culture=archein
+}
+
+180019 = {
+	name="Эфгахти"
+	culture=archein
+}
+
+180020 = {
+	name="Эфгам-Эйус"
+	culture=archein
+}
+
+180021 = {
+	name="Эфдж-Курмита"
+	culture=archein
+}
+
+180022 = {
+	name="Эфник-Дар"
+	culture=archein
+}
+
+180023 = {
+	name="Эфник-Джами"
+	culture=archein
+}
+
+180024 = {
+	name="Эфникейусмита"
+	culture=archein
+}
+
+180025 = {
+	name="Эфс-Лейлан"
+	culture=archein
+}
+
+180026 = {
+	name="Эфт-Тилан"
+	culture=archein
+}
+
+180027 = {
+	name="Эфт-Завлан"
+	culture=archein
+}
+
+180028 = {
+	name="Эфвих-Ти"
+	culture=archein
+}
+
+180029 = {
+	name="Эльбун-Дарта"
+	culture=archein
+}
+
+180030 = {
+	name="Элефник-Лей"
+	culture=archein
+}
+
+180031 = {
+	name="Элефник-Лейми"
+	culture=archein
+}
+
+180032 = {
+	name="Эльге'никтими"
+	culture=archein
+}
+
+180033 = {
+	name="Эльгесаэй"
+	culture=archein
+}
+
+180034 = {
+	name="Эльдж-Руми"
+	culture=archein
+}
+
+180035 = {
+	name="Эльджу'т-Эйусми"
+	culture=archein
+}
+
+180036 = {
+	name="Элли'вих-Дарлан"
+	culture=archein
+}
+
+180037 = {
+	name="Эльник-Лахми"
+	culture=archein
+}
+
+180038 = {
+	name="Эльра'ник-Лейланта"
+	culture=archein
+}
+
+180039 = {
+	name="Эльраэлтейлан"
+	culture=archein
+}
+
+180040 = {
+	name="Эльткур"
+	culture=archein
+}
+
+180041 = {
+	name="Гах-Эйусмита"
+	culture=archein
+}
+
+180042 = {
+	name="Ге'даллахмита"
+	culture=archein
+}
+
+180043 = {
+	name="Ге'надарта"
+	culture=archein
+}
+
+180044 = {
+	name="Геан-Леймита"
+	culture=archein
+}
+
+180045 = {
+	name="Гефе-Тей"
+	culture=archein
+}
+
+180046 = {
+	name="Гегджата"
+	culture=archein
+}
+
+180047 = {
+	name="Гена-Лей"
+	culture=archein
+}
+
+180048 = {
+	name="Гена-Тими"
+	culture=archein
+}
+
+180049 = {
+	name="Геникджулан"
+	culture=archein
+}
+
+180050 = {
+	name="Гес-Лахмита"
+	culture=archein
+}
+
+180051 = {
+	name="Геса-Лей"
+	culture=archein
+}
+
+180052 = {
+	name="Геса-Леймита"
+	culture=archein
+}
+
+180053 = {
+	name="Гетджуми"
+	culture=archein
+}
+
+180054 = {
+	name="Дж-Джуланта"
+	culture=archein
+}
+
+180055 = {
+	name="Джу'ник-Кур"
+	culture=archein
+}
+
+180056 = {
+	name="Джу'нкурта"
+	culture=archein
+}
+
+180057 = {
+	name="Джуанкурми"
+	culture=archein
+}
+
+180058 = {
+	name="Джудан-Лейлан"
+	culture=archein
+}
+
+180059 = {
+	name="Джудж-Тими"
+	culture=archein
+}
+
+180060 = {
+	name="Джудждарми"
+	culture=archein
+}
+
+180061 = {
+	name="Джуджкурта"
+	culture=archein
+}
+
+180062 = {
+	name="Джуджлей"
+	culture=archein
+}
+
+180063 = {
+	name="Джут-Курта"
+	culture=archein
+}
+
+180064 = {
+	name="Джувих-Лейта"
+	culture=archein
+}
+
+180065 = {
+	name="Кеедал-Кур"
+	culture=archein
+}
+
+180066 = {
+	name="Кеедалруми"
+	culture=archein
+}
+
+180067 = {
+	name="Кеедан-Лейми"
+	culture=archein
+}
+
+180068 = {
+	name="Киф'гахтей"
+	culture=archein
+}
+
+180069 = {
+	name="Киф'дж-Лейлан"
+	culture=archein
+}
+
+180070 = {
+	name="Кифелахта"
+	culture=archein
+}
+
+180071 = {
+	name="Кифджти"
+	culture=archein
+}
+
+180072 = {
+	name="Кифн-Курланта"
+	culture=archein
+}
+
+180073 = {
+	name="Кифн-Тейми"
+	culture=archein
+}
+
+180074 = {
+	name="Киге'анлейми"
+	culture=archein
+}
+
+180075 = {
+	name="Кидж-Дар"
+	culture=archein
+}
+
+180076 = {
+	name="Кидж-Джулан"
+	culture=archein
+}
+
+180077 = {
+	name="Кидж-Ру"
+	culture=archein
+}
+
+180078 = {
+	name="Кеел-Джу"
+	culture=archein
+}
+
+180079 = {
+	name="Кеел-Леи"
+	culture=archein
+}
+
+180080 = {
+	name="Киму'ттейми"
+	culture=archein
+}
+
+180081 = {
+	name="Кимадал-Дар"
+	culture=archein
+}
+
+180082 = {
+	name="Кимадал-Лахмита"
+	culture=archein
+}
+
+180083 = {
+	name="Кимунадар"
+	culture=archein
+}
+
+180084 = {
+	name="Кеен-Ру"
+	culture=archein
+}
+
+180085 = {
+	name="Кина-Дар"
+	culture=archein
+}
+
+180086 = {
+	name="Кина-Лей"
+	culture=archein
+}
+
+180087 = {
+	name="Кинаджу"
+	culture=archein
+}
+
+180088 = {
+	name="Кеес-Эйуста"
+	culture=archein
+}
+
+180089 = {
+	name="Кивих-Лей"
+	culture=archein
+}
+
+180090 = {
+	name="Ли'дал-Курта"
+	culture=archein
+}
+
+180091 = {
+	name="Ли'дж-Лей"
+	culture=archein
+}
+
+180092 = {
+	name="Ли'дждарми"
+	culture=archein
+}
+
+180093 = {
+	name="Ли'н-Джумита"
+	culture=archein
+}
+
+180094 = {
+	name="Ли'сару"
+	culture=archein
+}
+
+180095 = {
+	name="Лидан-Джу"
+	culture=archein
+}
+
+180096 = {
+	name="Лигамлахмита"
+	culture=archein
+}
+
+180097 = {
+	name="Леел-Ру"
+	culture=archein
+}
+
+180098 = {
+	name="Линаджу"
+	culture=archein
+}
+
+180099 = {
+	name="Линик-Джуми"
+	culture=archein
+}
+
+180100 = {
+	name="Линик-Курта"
+	culture=archein
+}
+
+180101 = {
+	name="Леес-Курми"
+	culture=archein
+}
+
+180102 = {
+	name="Леесру"
+	culture=archein
+}
+
+180103 = {
+	name="Лит-Курлан"
+	culture=archein
+}
+
+180104 = {
+	name="Му'иллей"
+	culture=archein
+}
+
+180105 = {
+	name="Му'фе-Тейми"
+	culture=archein
+}
+
+180106 = {
+	name="Му'дж-Курми"
+	culture=archein
+}
+
+180107 = {
+	name="Му'н-Курта"
+	culture=archein
+}
+
+180108 = {
+	name="Му'на-Лейлан"
+	culture=archein
+}
+
+180109 = {
+	name="Му'сакурта"
+	culture=archein
+}
+
+180110 = {
+	name="Му'сдарта"
+	culture=archein
+}
+
+180111 = {
+	name="Му'вих-Лахмита"
+	culture=archein
+}
+
+180112 = {
+	name="Мадан-Дарми"
+	culture=archein
+}
+
+180113 = {
+	name="Муил-Джута"
+	culture=archein
+}
+
+180114 = {
+	name="Мудж-Курта"
+	culture=archein
+}
+
+180115 = {
+	name="Муник-Лей"
+	culture=archein
+}
+
+180116 = {
+	name="Мунзавта"
+	culture=archein
+}
+
+180117 = {
+	name="На-Рута"
+	culture=archein
+}
+
+180118 = {
+	name="На-Тими"
+	culture=archein
+}
+
+180119 = {
+	name="Ник-Дар"
+	culture=archein
+}
+
+180120 = {
+	name="Ник-Кур"
+	culture=archein
+}
+
+180121 = {
+	name="Ник-Курми"
+	culture=archein
+}
+
+180122 = {
+	name="Никдар"
+	culture=archein
+}
+
+180123 = {
+	name="Нтейми"
+	culture=archein
+}
+
+180124 = {
+	name="Оли'дж-Эйуста"
+	culture=archein
+}
+
+180125 = {
+	name="Оли'салейланта"
+	culture=archein
+}
+
+180126 = {
+	name="Оли'т-Курланта"
+	culture=archein
+}
+
+180127 = {
+	name="Олифе-Дарта"
+	culture=archein
+}
+
+180128 = {
+	name="Олифелейта"
+	culture=archein
+}
+
+180129 = {
+	name="Олигах-Тей"
+	culture=archein
+}
+
+180130 = {
+	name="Олинадарта"
+	culture=archein
+}
+
+180131 = {
+	name="Ра'банкурта"
+	culture=archein
+}
+
+180132 = {
+	name="Ра'дал-Тейланта"
+	culture=archein
+}
+
+180133 = {
+	name="Ра'ник-Тейлан"
+	culture=archein
+}
+
+180134 = {
+	name="Ра'са-Джута"
+	culture=archein
+}
+
+180135 = {
+	name="Ра'сарута"
+	culture=archein
+}
+
+180136 = {
+	name="Раник-Тейлан"
+	culture=archein
+}
+
+180137 = {
+	name="Ратлах"
+	culture=archein
+}
+
+180138 = {
+	name="С-Курми"
+	culture=archein
+}
+
+180139 = {
+	name="С-Тимее"
+	culture=archein
+}
+
+180140 = {
+	name="Са-Эйуста"
+	culture=archein
+}
+
+180141 = {
+	name="Са-Джуми"
+	culture=archein
+}
+
+180142 = {
+	name="Са-Лейми"
+	culture=archein
+}
+
+180143 = {
+	name="Т-Дарми"
+	culture=archein
+}
+
+180144 = {
+	name="Тдар"
+	culture=archein
+}
+
+180145 = {
+	name="Уан-Лейми"
+	culture=archein
+}
+
+180146 = {
+	name="Вих-Джулан"
+	culture=archein
+}
+
+#ARCHEIN LUKIUL
+181001 = {
+	name="Дал-Тейми"
+	culture=lukiul
+}
+
+181002 = {
+	name="Ил-Джаланта"
+	culture=lukiul
+}
+
+181003 = {
+	name="Ил-Курлан"
+	culture=lukiul
+}
+
+181004 = {
+	name="Ил-Лейта"
+	culture=lukiul
+}
+
+181005 = {
+	name="Иллейми"
+	culture=lukiul
+}
+
+181006 = {
+	name="Иллеймита"
+	culture=lukiul
+}
+
+181007 = {
+	name="Эф'дал-Ти"
+	culture=lukiul
+}
+
+181008 = {
+	name="Эф'дан-Лей"
+	culture=lukiul
+}
+
+181009 = {
+	name="Эф'дан-Тей"
+	culture=lukiul
+}
+
+181010 = {
+	name="Эф'фе-Ти"
+	culture=lukiul
+}
+
+181011 = {
+	name="Эф'на-Ти"
+	culture=lukiul
+}
+
+181012 = {
+	name="Эф'са-Ти"
+	culture=lukiul
+}
+
+181013 = {
+	name="Эф'слей"
+	culture=lukiul
+}
+
+181014 = {
+	name="Эф'тдарми"
+	culture=lukiul
+}
+
+181015 = {
+	name="Эф'вих-Ти"
+	culture=lukiul
+}
+
+181016 = {
+	name="Эффе-Тей"
+	culture=lukiul
+}
+
+181017 = {
+	name="Эффелахта"
+	culture=lukiul
+}
+
+181018 = {
+	name="Эфгах-Румита"
+	culture=lukiul
+}
+
+181019 = {
+	name="Эфгахти"
+	culture=lukiul
+}
+
+181020 = {
+	name="Эфгам-Эйус"
+	culture=lukiul
+}
+
+181021 = {
+	name="Эфдж-Курмита"
+	culture=lukiul
+}
+
+181022 = {
+	name="Эфник-Дар"
+	culture=lukiul
+}
+
+181023 = {
+	name="Эфник-Джами"
+	culture=lukiul
+}
+
+181024 = {
+	name="Эфникейусмита"
+	culture=lukiul
+}
+
+181025 = {
+	name="Эфс-Лейлан"
+	culture=lukiul
+}
+
+181026 = {
+	name="Эфт-Тилан"
+	culture=lukiul
+}
+
+181027 = {
+	name="Эфт-Завлан"
+	culture=lukiul
+}
+
+181028 = {
+	name="Эфвих-Ти"
+	culture=lukiul
+}
+
+181029 = {
+	name="Эльбун-Дарта"
+	culture=lukiul
+}
+
+181030 = {
+	name="Элефник-Лей"
+	culture=lukiul
+}
+
+181031 = {
+	name="Элефник-Лейми"
+	culture=lukiul
+}
+
+181032 = {
+	name="Эльге'никтими"
+	culture=lukiul
+}
+
+181033 = {
+	name="Эльгесаэй"
+	culture=lukiul
+}
+
+181034 = {
+	name="Эльдж-Руми"
+	culture=lukiul
+}
+
+181035 = {
+	name="Эльджу'т-Эйусми"
+	culture=lukiul
+}
+
+181036 = {
+	name="Элли'вих-Дарлан"
+	culture=lukiul
+}
+
+181037 = {
+	name="Эльник-Лахми"
+	culture=lukiul
+}
+
+181038 = {
+	name="Эльра'ник-Лейланта"
+	culture=lukiul
+}
+
+181039 = {
+	name="Эльраэлтейлан"
+	culture=lukiul
+}
+
+181040 = {
+	name="Эльткур"
+	culture=lukiul
+}
+
+181041 = {
+	name="Гах-Эйусмита"
+	culture=lukiul
+}
+
+181042 = {
+	name="Ге'даллахмита"
+	culture=lukiul
+}
+
+181043 = {
+	name="Ге'надарта"
+	culture=lukiul
+}
+
+181044 = {
+	name="Геан-Леймита"
+	culture=lukiul
+}
+
+181045 = {
+	name="Гефе-Тей"
+	culture=lukiul
+}
+
+181046 = {
+	name="Гегджата"
+	culture=lukiul
+}
+
+181047 = {
+	name="Гена-Лей"
+	culture=lukiul
+}
+
+181048 = {
+	name="Гена-Тими"
+	culture=lukiul
+}
+
+181049 = {
+	name="Геникджулан"
+	culture=lukiul
+}
+
+181050 = {
+	name="Гес-Лахмита"
+	culture=lukiul
+}
+
+181051 = {
+	name="Геса-Лей"
+	culture=lukiul
+}
+
+181052 = {
+	name="Геса-Леймита"
+	culture=lukiul
+}
+
+181053 = {
+	name="Гетджуми"
+	culture=lukiul
+}
+
+181054 = {
+	name="Дж-Джуланта"
+	culture=lukiul
+}
+
+181055 = {
+	name="Джу'ник-Кур"
+	culture=lukiul
+}
+
+181056 = {
+	name="Джу'нкурта"
+	culture=lukiul
+}
+
+181057 = {
+	name="Джуанкурми"
+	culture=lukiul
+}
+
+181058 = {
+	name="Джудан-Лейлан"
+	culture=lukiul
+}
+
+181059 = {
+	name="Джудж-Тими"
+	culture=lukiul
+}
+
+181060 = {
+	name="Джудждарми"
+	culture=lukiul
+}
+
+181061 = {
+	name="Джуджкурта"
+	culture=lukiul
+}
+
+181062 = {
+	name="Джуджлей"
+	culture=lukiul
+}
+
+181063 = {
+	name="Джут-Курта"
+	culture=lukiul
+}
+
+181064 = {
+	name="Джувих-Лейта"
+	culture=lukiul
+}
+
+181065 = {
+	name="Кеедал-Кур"
+	culture=lukiul
+}
+
+181066 = {
+	name="Кеедалруми"
+	culture=lukiul
+}
+
+181067 = {
+	name="Кеедан-Лейми"
+	culture=lukiul
+}
+
+181068 = {
+	name="Киф'гахтей"
+	culture=lukiul
+}
+
+181069 = {
+	name="Киф'дж-Лейлан"
+	culture=lukiul
+}
+
+181070 = {
+	name="Кифелахта"
+	culture=lukiul
+}
+
+181071 = {
+	name="Кифджти"
+	culture=lukiul
+}
+
+181072 = {
+	name="Кифн-Курланта"
+	culture=lukiul
+}
+
+181073 = {
+	name="Кифн-Тейми"
+	culture=lukiul
+}
+
+181074 = {
+	name="Киге'анлейми"
+	culture=lukiul
+}
+
+181075 = {
+	name="Кидж-Дар"
+	culture=lukiul
+}
+
+181076 = {
+	name="Кидж-Джулан"
+	culture=lukiul
+}
+
+181077 = {
+	name="Кидж-Ру"
+	culture=lukiul
+}
+
+181078 = {
+	name="Кеел-Джу"
+	culture=lukiul
+}
+
+181079 = {
+	name="Кеел-Леи"
+	culture=lukiul
+}
+
+181080 = {
+	name="Киму'ттейми"
+	culture=lukiul
+}
+
+181081 = {
+	name="Кимадал-Дар"
+	culture=lukiul
+}
+
+181082 = {
+	name="Кимадал-Лахмита"
+	culture=lukiul
+}
+
+181083 = {
+	name="Кимунадар"
+	culture=lukiul
+}
+
+181084 = {
+	name="Кеен-Ру"
+	culture=lukiul
+}
+
+181085 = {
+	name="Кина-Дар"
+	culture=lukiul
+}
+
+181086 = {
+	name="Кина-Лей"
+	culture=lukiul
+}
+
+181087 = {
+	name="Кинаджу"
+	culture=lukiul
+}
+
+181088 = {
+	name="Кеес-Эйуста"
+	culture=lukiul
+}
+
+181089 = {
+	name="Кивих-Лей"
+	culture=lukiul
+}
+
+181090 = {
+	name="Ли'дал-Курта"
+	culture=lukiul
+}
+
+181091 = {
+	name="Ли'дж-Лей"
+	culture=lukiul
+}
+
+181092 = {
+	name="Ли'дждарми"
+	culture=lukiul
+}
+
+181093 = {
+	name="Ли'н-Джумита"
+	culture=lukiul
+}
+
+181094 = {
+	name="Ли'сару"
+	culture=lukiul
+}
+
+181095 = {
+	name="Лидан-Джу"
+	culture=lukiul
+}
+
+181096 = {
+	name="Лигамлахмита"
+	culture=lukiul
+}
+
+181097 = {
+	name="Леел-Ру"
+	culture=lukiul
+}
+
+181098 = {
+	name="Линаджу"
+	culture=lukiul
+}
+
+181099 = {
+	name="Линик-Джуми"
+	culture=lukiul
+}
+
+181100 = {
+	name="Линик-Курта"
+	culture=lukiul
+}
+
+181101 = {
+	name="Леес-Курми"
+	culture=lukiul
+}
+
+181102 = {
+	name="Леесру"
+	culture=lukiul
+}
+
+181103 = {
+	name="Лит-Курлан"
+	culture=lukiul
+}
+
+181104 = {
+	name="Му'иллей"
+	culture=lukiul
+}
+
+181105 = {
+	name="Му'фе-Тейми"
+	culture=lukiul
+}
+
+181106 = {
+	name="Му'дж-Курми"
+	culture=lukiul
+}
+
+181107 = {
+	name="Му'н-Курта"
+	culture=lukiul
+}
+
+181108 = {
+	name="Му'на-Лейлан"
+	culture=lukiul
+}
+
+181109 = {
+	name="Му'сакурта"
+	culture=lukiul
+}
+
+181110 = {
+	name="Му'сдарта"
+	culture=lukiul
+}
+
+181111 = {
+	name="Му'вих-Лахмита"
+	culture=lukiul
+}
+
+181112 = {
+	name="Мадан-Дарми"
+	culture=lukiul
+}
+
+181113 = {
+	name="Муил-Джута"
+	culture=lukiul
+}
+
+181114 = {
+	name="Мудж-Курта"
+	culture=lukiul
+}
+
+181115 = {
+	name="Муник-Лей"
+	culture=lukiul
+}
+
+181116 = {
+	name="Мунзавта"
+	culture=lukiul
+}
+
+181117 = {
+	name="На-Рута"
+	culture=lukiul
+}
+
+181118 = {
+	name="На-Тими"
+	culture=lukiul
+}
+
+181119 = {
+	name="Ник-Дар"
+	culture=lukiul
+}
+
+181120 = {
+	name="Ник-Кур"
+	culture=lukiul
+}
+
+181121 = {
+	name="Ник-Курми"
+	culture=lukiul
+}
+
+181122 = {
+	name="Никдар"
+	culture=lukiul
+}
+
+181123 = {
+	name="Нтейми"
+	culture=lukiul
+}
+
+181124 = {
+	name="Оли'дж-Эйуста"
+	culture=lukiul
+}
+
+181125 = {
+	name="Оли'салейланта"
+	culture=lukiul
+}
+
+181126 = {
+	name="Оли'т-Курланта"
+	culture=lukiul
+}
+
+181127 = {
+	name="Олифе-Дарта"
+	culture=lukiul
+}
+
+181128 = {
+	name="Олифелейта"
+	culture=lukiul
+}
+
+181129 = {
+	name="Олигах-Тей"
+	culture=lukiul
+}
+
+181130 = {
+	name="Олинадарта"
+	culture=lukiul
+}
+
+181131 = {
+	name="Ра'банкурта"
+	culture=lukiul
+}
+
+181132 = {
+	name="Ра'дал-Тейланта"
+	culture=lukiul
+}
+
+181133 = {
+	name="Ра'ник-Тейлан"
+	culture=lukiul
+}
+
+181134 = {
+	name="Ра'са-Джута"
+	culture=lukiul
+}
+
+181135 = {
+	name="Ра'сарута"
+	culture=lukiul
+}
+
+181136 = {
+	name="Раник-Тейлан"
+	culture=lukiul
+}
+
+181137 = {
+	name="Ратлах"
+	culture=lukiul
+}
+
+181138 = {
+	name="С-Курми"
+	culture=lukiul
+}
+
+181139 = {
+	name="С-Тимее"
+	culture=lukiul
+}
+
+181140 = {
+	name="Са-Эйуста"
+	culture=lukiul
+}
+
+181141 = {
+	name="Са-Джуми"
+	culture=lukiul
+}
+
+181142 = {
+	name="Са-Лейми"
+	culture=lukiul
+}
+
+181143 = {
+	name="Т-Дарми"
+	culture=lukiul
+}
+
+181144 = {
+	name="Тдар"
+	culture=lukiul
+}
+
+181145 = {
+	name="Уан-Лейми"
+	culture=lukiul
+}
+
+181146 = {
+	name="Вих-Джулан"
+	culture=lukiul
+}
+
+#PAATRU
+#190000-199999
+190001 = {
+	name="Ан-Завми"
+	culture=paatru
+}
+
+190002 = {
+	name="Бун-Лей"
+	culture=paatru
+}
+
+190003 = {
+	name="Бун-Ру"
+	culture=paatru
+}
+
+190004 = {
+	name="Бун-Завми"
+	culture=paatru
+}
+
+190005 = {
+	name="Бункур"
+	culture=paatru
+}
+
+190006 = {
+	name="Эффе-Руми"
+	culture=paatru
+}
+
+190007 = {
+	name="Эффедарми"
+	culture=paatru
+}
+
+190008 = {
+	name="Элфе-Джуми"
+	culture=paatru
+}
+
+190009 = {
+	name="Эльджубун-Лей"
+	culture=paatru
+}
+
+190010 = {
+	name="Эллее'гах-Завлан"
+	culture=paatru
+}
+
+190011 = {
+	name="Эллибун-Зав"
+	culture=paatru
+}
+
+190012 = {
+	name="Элоливих-Джу"
+	culture=paatru
+}
+
+190013 = {
+	name="Фе-Руми"
+	culture=paatru
+}
+
+190014 = {
+	name="Гах-Завми"
+	culture=paatru
+}
+
+190015 = {
+	name="Ге'бунлей"
+	culture=paatru
+}
+
+190016 = {
+	name="Ге'фе-Эйус"
+	culture=paatru
+}
+
+190017 = {
+	name="Ге'фийус"
+	culture=paatru
+}
+
+190018 = {
+	name="Ге'фелейми"
+	culture=paatru
+}
+
+190019 = {
+	name="Гефелейлан"
+	culture=paatru
+}
+
+190020 = {
+	name="Джу'бун-Завми"
+	culture=paatru
+}
+
+190021 = {
+	name="Кибун-Кур"
+	culture=paatru
+}
+
+190022 = {
+	name="Кибун-Руми"
+	culture=paatru
+}
+
+190023 = {
+	name="Кифе-Кур"
+	culture=paatru
+}
+
+190024 = {
+	name="Кифийус"
+	culture=paatru
+}
+
+190025 = {
+	name="Киджу'са-Зав"
+	culture=paatru
+}
+
+190026 = {
+	name="Киоли'бун-Ру"
+	culture=paatru
+}
+
+190027 = {
+	name="Киоли'ил-Джу"
+	culture=paatru
+}
+
+190028 = {
+	name="Киолианейусми"
+	culture=paatru
+}
+
+190029 = {
+	name="Киолиса-Лей"
+	culture=paatru
+}
+
+190030 = {
+	name="Кеера'дж-Джу"
+	culture=paatru
+}
+
+190031 = {
+	name="Кееса-Завми"
+	culture=paatru
+}
+
+190032 = {
+	name="Ник-Завми"
+	culture=paatru
+}
+
+190033 = {
+	name="Оли'бунру"
+	culture=paatru
+}
+
+190034 = {
+	name="Оли'н-Дарми"
+	culture=paatru
+}
+
+190035 = {
+	name="Оли'вих-Ру"
+	culture=paatru
+}
+
+190036 = {
+	name="Олибун-Кур"
+	culture=paatru
+}
+
+190037 = {
+	name="Олидан-Лахми"
+	culture=paatru
+}
+
+190038 = {
+	name="Олиданджуми"
+	culture=paatru
+}
+
+190039 = {
+	name="Олигах-Завми"
+	culture=paatru
+}
+
+190040 = {
+	name="Олигамлейми"
+	culture=paatru
+}
+
+190041 = {
+	name="Олидж-Кур"
+	culture=paatru
+}
+
+190042 = {
+	name="Олидж-Завми"
+	culture=paatru
+}
+
+190043 = {
+	name="Олин-Лахми"
+	culture=paatru
+}
+
+190044 = {
+	name="Ра'дальдармее"
+	culture=paatru
+}
+
+190045 = {
+	name="Ра'ил-Джуми"
+	culture=paatru
+}
+
+190046 = {
+	name="Раил-Дар"
+	culture=paatru
+}
+
+190047 = {
+	name="Раилру"
+	culture=paatru
+}
+
+190048 = {
+	name="Рагах-Эйусми"
+	culture=paatru
+}
+
+190049 = {
+	name="Вих-Завми"
+	culture=paatru
+}
+
+#PAATRU LUKIUL
+191001 = {
+	name="Ан-Завми"
+	culture=lukiul
+}
+
+191002 = {
+	name="Бун-Лей"
+	culture=lukiul
+}
+
+191003 = {
+	name="Бун-Ру"
+	culture=lukiul
+}
+
+191004 = {
+	name="Бун-Завми"
+	culture=lukiul
+}
+
+191005 = {
+	name="Бункур"
+	culture=lukiul
+}
+
+191006 = {
+	name="Эффе-Руми"
+	culture=lukiul
+}
+
+191007 = {
+	name="Эффедарми"
+	culture=lukiul
+}
+
+191008 = {
+	name="Элфе-Джуми"
+	culture=lukiul
+}
+
+191009 = {
+	name="Эльджубун-Лей"
+	culture=lukiul
+}
+
+191010 = {
+	name="Эллее'гах-Завлан"
+	culture=lukiul
+}
+
+191011 = {
+	name="Эллибун-Зав"
+	culture=lukiul
+}
+
+191012 = {
+	name="Элоливих-Джу"
+	culture=lukiul
+}
+
+191013 = {
+	name="Фе-Руми"
+	culture=lukiul
+}
+
+191014 = {
+	name="Гах-Завми"
+	culture=lukiul
+}
+
+191015 = {
+	name="Ге'бунлей"
+	culture=lukiul
+}
+
+191016 = {
+	name="Ге'фе-Эйус"
+	culture=lukiul
+}
+
+191017 = {
+	name="Ге'фийус"
+	culture=lukiul
+}
+
+191018 = {
+	name="Ге'фелейми"
+	culture=lukiul
+}
+
+191019 = {
+	name="Гефелейлан"
+	culture=lukiul
+}
+
+191020 = {
+	name="Джу'бун-Завми"
+	culture=lukiul
+}
+
+191021 = {
+	name="Кибун-Кур"
+	culture=lukiul
+}
+
+191022 = {
+	name="Кибун-Руми"
+	culture=lukiul
+}
+
+191023 = {
+	name="Кифе-Кур"
+	culture=lukiul
+}
+
+191024 = {
+	name="Кифийус"
+	culture=lukiul
+}
+
+191025 = {
+	name="Киджу'са-Зав"
+	culture=lukiul
+}
+
+191026 = {
+	name="Киоли'бун-Ру"
+	culture=lukiul
+}
+
+191027 = {
+	name="Киоли'ил-Джу"
+	culture=lukiul
+}
+
+191028 = {
+	name="Киолианейусми"
+	culture=lukiul
+}
+
+191029 = {
+	name="Киолиса-Лей"
+	culture=lukiul
+}
+
+191030 = {
+	name="Кеера'дж-Джу"
+	culture=lukiul
+}
+
+191031 = {
+	name="Кееса-Завми"
+	culture=lukiul
+}
+
+191032 = {
+	name="Ник-Завми"
+	culture=lukiul
+}
+
+191033 = {
+	name="Оли'бунру"
+	culture=lukiul
+}
+
+191034 = {
+	name="Оли'н-Дарми"
+	culture=lukiul
+}
+
+191035 = {
+	name="Оли'вих-Ру"
+	culture=lukiul
+}
+
+191036 = {
+	name="Олибун-Кур"
+	culture=lukiul
+}
+
+191037 = {
+	name="Олидан-Лахми"
+	culture=lukiul
+}
+
+191038 = {
+	name="Олиданджуми"
+	culture=lukiul
+}
+
+191039 = {
+	name="Олигах-Завми"
+	culture=lukiul
+}
+
+191040 = {
+	name="Олигамлейми"
+	culture=lukiul
+}
+
+191041 = {
+	name="Олидж-Кур"
+	culture=lukiul
+}
+
+191042 = {
+	name="Олидж-Завми"
+	culture=lukiul
+}
+
+191043 = {
+	name="Олин-Лахми"
+	culture=lukiul
+}
+
+191044 = {
+	name="Ра'дальдармее"
+	culture=lukiul
+}
+
+191045 = {
+	name="Ра'ил-Джуми"
+	culture=lukiul
+}
+
+191046 = {
+	name="Раил-Дар"
+	culture=lukiul
+}
+
+191047 = {
+	name="Раилру"
+	culture=lukiul
+}
+
+191048 = {
+	name="Рагах-Эйусми"
+	culture=lukiul
+}
+
+191049 = {
+	name="Вих-Завми"
+	culture=lukiul
+}
+
+#SARPA
+#200000-209999
+
+200001 = {
+	name="Анру"
+	culture=sarpa
+}
+
+200002 = {
+	name="Дал-Дар"
+	culture=sarpa
+}
+
+200003 = {
+	name="Дал-Ру"
+	culture=sarpa
+}
+
+200004 = {
+	name="Далджа"
+	culture=sarpa
+}
+
+200005 = {
+	name="Далджулан"
+	culture=sarpa
+}
+
+200006 = {
+	name="Дан-Дар"
+	culture=sarpa
+}
+
+200007 = {
+	name="Дан-Кур"
+	culture=sarpa
+}
+
+200008 = {
+	name="Данкурлан"
+	culture=sarpa
+}
+
+200009 = {
+	name="Эфдал-Ру"
+	culture=sarpa
+}
+
+200010 = {
+	name="Эфгах-Лах"
+	culture=sarpa
+}
+
+200011 = {
+	name="Эфгамлах"
+	culture=sarpa
+}
+
+200012 = {
+	name="Эфнакар"
+	culture=sarpa
+}
+
+200013 = {
+	name="Эльгамдарми"
+	culture=sarpa
+}
+
+200014 = {
+	name="Эльджу'с-Джу"
+	culture=sarpa
+}
+
+200015 = {
+	name="Элькар"
+	culture=sarpa
+}
+
+200016 = {
+	name="Эллидал-Лахми"
+	culture=sarpa
+}
+
+200017 = {
+	name="Гам-Джуми"
+	culture=sarpa
+}
+
+200018 = {
+	name="Гам-Курми"
+	culture=sarpa
+}
+
+200019 = {
+	name="Ге'ан-Дар"
+	culture=sarpa
+}
+
+200020 = {
+	name="Ге'ан-Ру"
+	culture=sarpa
+}
+
+200021 = {
+	name="Ге'н-Дар"
+	culture=sarpa
+}
+
+200022 = {
+	name="Гиль-Лахми"
+	culture=sarpa
+}
+
+200023 = {
+	name="Гедждар"
+	culture=sarpa
+}
+
+200024 = {
+	name="Гес-Дар"
+	culture=sarpa
+}
+
+200025 = {
+	name="Гес-Кур"
+	culture=sarpa
+}
+
+200026 = {
+	name="Дждар"
+	culture=sarpa
+}
+
+200027 = {
+	name="Джу'дан-Дар"
+	culture=sarpa
+}
+
+200028 = {
+	name="Джуджру"
+	culture=sarpa
+}
+
+200029 = {
+	name="Джун-Дар"
+	culture=sarpa
+}
+
+200030 = {
+	name="Джуна-Дар"
+	culture=sarpa
+}
+
+200031 = {
+	name="Кигес-Лахми"
+	culture=sarpa
+}
+
+200032 = {
+	name="Ли'гах-Курми"
+	culture=sarpa
+}
+
+200033 = {
+	name="Леегах-Курмее"
+	culture=sarpa
+}
+
+200034 = {
+	name="Му'дал-Кур"
+	culture=sarpa
+}
+
+200035 = {
+	name="Мудал-Дар"
+	culture=sarpa
+}
+
+200036 = {
+	name="Муэль-Дар"
+	culture=sarpa
+}
+
+200037 = {
+	name="Мудждарлан"
+	culture=sarpa
+}
+
+200038 = {
+	name="Мус-Джу"
+	culture=sarpa
+}
+
+200039 = {
+	name="Мус-Кур"
+	culture=sarpa
+}
+
+200040 = {
+	name="Мусакур"
+	culture=sarpa
+}
+
+200041 = {
+	name="Надар"
+	culture=sarpa
+}
+
+200042 = {
+	name="Наджу"
+	culture=sarpa
+}
+
+200043 = {
+	name="Нлахми"
+	culture=sarpa
+}
+
+200044 = {
+	name="Сдар"
+	culture=sarpa
+}
+
+200045 = {
+	name="Сджу"
+	culture=sarpa
+}
+
+200046 = {
+	name="Торнмусит"
+	culture=sarpa
+}
+
+#SARPA LUKIUL
+201001 = {
+	name="Анру"
+	culture=lukiul
+}
+
+201002 = {
+	name="Дал-Дар"
+	culture=lukiul
+}
+
+201003 = {
+	name="Дал-Ру"
+	culture=lukiul
+}
+
+201004 = {
+	name="Далджа"
+	culture=lukiul
+}
+
+201005 = {
+	name="Далджулан"
+	culture=lukiul
+}
+
+201006 = {
+	name="Дан-Дар"
+	culture=lukiul
+}
+
+201007 = {
+	name="Дан-Кур"
+	culture=lukiul
+}
+
+201008 = {
+	name="Данкурлан"
+	culture=lukiul
+}
+
+201009 = {
+	name="Эфдал-Ру"
+	culture=lukiul
+}
+
+201010 = {
+	name="Эфгах-Лах"
+	culture=lukiul
+}
+
+201011 = {
+	name="Эфгамлах"
+	culture=lukiul
+}
+
+201012 = {
+	name="Эфнакар"
+	culture=lukiul
+}
+
+201013 = {
+	name="Эльгамдарми"
+	culture=lukiul
+}
+
+201014 = {
+	name="Эльджу'с-Джу"
+	culture=lukiul
+}
+
+201015 = {
+	name="Элькар"
+	culture=lukiul
+}
+
+201016 = {
+	name="Эллидал-Лахми"
+	culture=lukiul
+}
+
+201017 = {
+	name="Гам-Джуми"
+	culture=lukiul
+}
+
+201018 = {
+	name="Гам-Курми"
+	culture=lukiul
+}
+
+201019 = {
+	name="Ге'ан-Дар"
+	culture=lukiul
+}
+
+201020 = {
+	name="Ге'ан-Ру"
+	culture=lukiul
+}
+
+201021 = {
+	name="Ге'н-Дар"
+	culture=lukiul
+}
+
+201022 = {
+	name="Гиль-Лахми"
+	culture=lukiul
+}
+
+201023 = {
+	name="Гедждар"
+	culture=lukiul
+}
+
+201024 = {
+	name="Гес-Дар"
+	culture=lukiul
+}
+
+201025 = {
+	name="Гес-Кур"
+	culture=lukiul
+}
+
+201026 = {
+	name="Дждар"
+	culture=lukiul
+}
+
+201027 = {
+	name="Джу'дан-Дар"
+	culture=lukiul
+}
+
+201028 = {
+	name="Джуджру"
+	culture=lukiul
+}
+
+201029 = {
+	name="Джун-Дар"
+	culture=lukiul
+}
+
+201030 = {
+	name="Джуна-Дар"
+	culture=lukiul
+}
+
+201031 = {
+	name="Кигес-Лахми"
+	culture=lukiul
+}
+
+201032 = {
+	name="Ли'гах-Курми"
+	culture=lukiul
+}
+
+201033 = {
+	name="Леегах-Курмее"
+	culture=lukiul
+}
+
+201034 = {
+	name="Му'дал-Кур"
+	culture=lukiul
+}
+
+201035 = {
+	name="Мудал-Дар"
+	culture=lukiul
+}
+
+201036 = {
+	name="Муэль-Дар"
+	culture=lukiul
+}
+
+201037 = {
+	name="Мудждарлан"
+	culture=lukiul
+}
+
+201038 = {
+	name="Мус-Джу"
+	culture=lukiul
+}
+
+201039 = {
+	name="Мус-Кур"
+	culture=lukiul
+}
+
+201040 = {
+	name="Мусакур"
+	culture=lukiul
+}
+
+201041 = {
+	name="Надар"
+	culture=lukiul
+}
+
+201042 = {
+	name="Наджу"
+	culture=lukiul
+}
+
+201043 = {
+	name="Нлахми"
+	culture=lukiul
+}
+
+201044 = {
+	name="Сдар"
+	culture=lukiul
+}
+
+201045 = {
+	name="Сджу"
+	culture=lukiul
+}
+
+201046 = {
+	name="Торнмусит"
+	culture=lukiul
+}
+
+
+# NAGA
+#210000-219999
+
+210001 = {
+	name="Ан-Эйуслан"
+	culture=naga
+}
+
+210002 = {
+	name="Анзо"
+	culture=naga
+}
+
+210003 = {
+	name="Бун-Зо"
+	culture=naga
+}
+
+210004 = {
+	name="Бунлах"
+	culture=naga
+}
+
+210005 = {
+	name="Бунзо"
+	culture=naga
+}
+
+210006 = {
+	name="Данзо"
+	culture=naga
+}
+
+210007 = {
+	name="Ил-Эйуслан"
+	culture=naga
+}
+
+210008 = {
+	name="Эф'бун-Тилан"
+	culture=naga
+}
+
+210009 = {
+	name="Эф'данейуслан"
+	culture=naga
+}
+
+210010 = {
+	name="Эф'фе-Завлан"
+	culture=naga
+}
+
+210011 = {
+	name="Эф'са-Эйус"
+	culture=naga
+}
+
+210012 = {
+	name="Эфнаэйус"
+	culture=naga
+}
+
+210013 = {
+	name="Эльдалейус"
+	culture=naga
+}
+
+210014 = {
+	name="Элеф'гах-Зо"
+	culture=naga
+}
+
+210015 = {
+	name="Эльдж-Эйус"
+	culture=naga
+}
+
+210016 = {
+	name="Эльджуса-Завлан"
+	culture=naga
+}
+
+210017 = {
+	name="Элли'федарта"
+	culture=naga
+}
+
+210018 = {
+	name="Эллееник-Эйус"
+	culture=naga
+}
+
+210019 = {
+	name="Элоли'ан-Джа"
+	culture=naga
+}
+
+210020 = {
+	name="Элоли'са-Кур"
+	culture=naga
+}
+
+210021 = {
+	name="Элолиса-Дарлан"
+	culture=naga
+}
+
+210022 = {
+	name="Эльра'феджа"
+	culture=naga
+}
+
+210023 = {
+	name="Эльрадалейус"
+	culture=naga
+}
+
+210024 = {
+	name="Эльраса-Лейлан"
+	culture=naga
+}
+
+210025 = {
+	name="Элзо"
+	culture=naga
+}
+
+210026 = {
+	name="Гах-Завлан"
+	culture=naga
+}
+
+210027 = {
+	name="Ге'на-Эйус"
+	culture=naga
+}
+
+210028 = {
+	name="Ге'са-Эйусми"
+	culture=naga
+}
+
+210029 = {
+	name="Дженик-Эйуслан"
+	culture=naga
+}
+
+210030 = {
+	name="Джевих-Эйусми"
+	culture=naga
+}
+
+210031 = {
+	name="Джевих-Завлан"
+	culture=naga
+}
+
+210032 = {
+	name="Джа'бунджулан"
+	culture=naga
+}
+
+210033 = {
+	name="Джа'бунтимита"
+	culture=naga
+}
+
+210034 = {
+	name="Джа'бунзо"
+	culture=naga
+}
+
+210035 = {
+	name="Джа'ил-Эйус"
+	culture=naga
+}
+
+210036 = {
+	name="Джа'вих-Зо"
+	culture=naga
+}
+
+210037 = {
+	name="Джуан-Эйус"
+	culture=naga
+}
+
+210038 = {
+	name="Джуфе-Дар"
+	culture=naga
+}
+
+210039 = {
+	name="Джадж-Джа"
+	culture=naga
+}
+
+210040 = {
+	name="Джаник-Зо"
+	culture=naga
+}
+
+210041 = {
+	name="Джас-Эйус"
+	culture=naga
+}
+
+210042 = {
+	name="Киджа'далейусми"
+	culture=naga
+}
+
+210043 = {
+	name="Киджасадарлан"
+	culture=naga
+}
+
+210044 = {
+	name="Килее'н-Эйусми"
+	culture=naga
+}
+
+210045 = {
+	name="Киоли'ан-Тей"
+	culture=naga
+}
+
+210046 = {
+	name="Киоли'нлахланта"
+	culture=naga
+}
+
+210047 = {
+	name="Киолит-Лах"
+	culture=naga
+}
+
+210048 = {
+	name="Кеера'вихджата"
+	culture=naga
+}
+
+210049 = {
+	name="Киран-Тей"
+	culture=naga
+}
+
+210050 = {
+	name="Му'ан-Эйусми"
+	culture=naga
+}
+
+210051 = {
+	name="Му'анейусми"
+	culture=naga
+}
+
+210052 = {
+	name="Му'н-Эйусми"
+	culture=naga
+}
+
+210053 = {
+	name="Му'наэйус"
+	culture=naga
+}
+
+210054 = {
+	name="Му'ник-Зо"
+	culture=naga
+}
+
+210055 = {
+	name="Му'вих-Зо"
+	culture=naga
+}
+
+210056 = {
+	name="Мубун-Эйус"
+	culture=naga
+}
+
+210057 = {
+	name="Муданейуслан"
+	culture=naga
+}
+
+210058 = {
+	name="Муник-Зо"
+	culture=naga
+}
+
+210059 = {
+	name="Наэйус"
+	culture=naga
+}
+
+210060 = {
+	name="Нейус"
+	culture=naga
+}
+
+210061 = {
+	name="Ник-Эйус"
+	culture=naga
+}
+
+210062 = {
+	name="Никзо"
+	culture=naga
+}
+
+210063 = {
+	name="Нзолан"
+	culture=naga
+}
+
+210064 = {
+	name="О'дж-Джулан"
+	culture=naga
+}
+
+210065 = {
+	name="Оли'бунтейми"
+	culture=naga
+}
+
+210066 = {
+	name="Оли'дан-Лей"
+	culture=naga
+}
+
+210067 = {
+	name="Оли'данейус"
+	culture=naga
+}
+
+210068 = {
+	name="Оли'ил-Лахта"
+	culture=naga
+}
+
+210069 = {
+	name="Оли'на-Дарлан"
+	culture=naga
+}
+
+210070 = {
+	name="Оли'на-Ру"
+	culture=naga
+}
+
+210071 = {
+	name="Оли'никтими"
+	culture=naga
+}
+
+210072 = {
+	name="Оли'с-Лах"
+	culture=naga
+}
+
+210073 = {
+	name="Оли'са-Ру"
+	culture=naga
+}
+
+210074 = {
+	name="Олианейус"
+	culture=naga
+}
+
+210075 = {
+	name="Олибун-Дар"
+	culture=naga
+}
+
+210076 = {
+	name="Олидал-Рулан"
+	culture=naga
+}
+
+210077 = {
+	name="Олиданджу"
+	culture=naga
+}
+
+210078 = {
+	name="Олиданру"
+	culture=naga
+}
+
+210079 = {
+	name="Олигам-Эйуслан"
+	culture=naga
+}
+
+210080 = {
+	name="Олигамейус"
+	culture=naga
+}
+
+210081 = {
+	name="Олин-Эйус"
+	culture=naga
+}
+
+210082 = {
+	name="Олина-Эйуслан"
+	culture=naga
+}
+
+210083 = {
+	name="Олина-Ру"
+	culture=naga
+}
+
+210084 = {
+	name="Олис-Ру"
+	culture=naga
+}
+
+210085 = {
+	name="Олис-Ти"
+	culture=naga
+}
+
+210086 = {
+	name="Олит-Эйусми"
+	culture=naga
+}
+
+210087 = {
+	name="Оливихейус"
+	culture=naga
+}
+
+210088 = {
+	name="Ра'анзомита"
+	culture=naga
+}
+
+210089 = {
+	name="Ра'далджу"
+	culture=naga
+}
+
+210090 = {
+	name="Ра'ил-Джута"
+	culture=naga
+}
+
+210091 = {
+	name="Ра'гах-Ти"
+	culture=naga
+}
+
+210092 = {
+	name="Ра'гамджулан"
+	culture=naga
+}
+
+210093 = {
+	name="Ра'с-Лахлан"
+	culture=naga
+}
+
+210094 = {
+	name="Рабун-Эйус"
+	culture=naga
+}
+
+210095 = {
+	name="Рабун-Зо"
+	culture=naga
+}
+
+210096 = {
+	name="Радаллей"
+	culture=naga
+}
+
+210097 = {
+	name="Радан-Эйус"
+	culture=naga
+}
+
+210098 = {
+	name="Рафе-Лах"
+	culture=naga
+}
+
+210099 = {
+	name="Рафе-Тиланта"
+	culture=naga
+}
+
+210100 = {
+	name="Ран-Ти"
+	culture=naga
+}
+
+210101 = {
+	name="Рана-Курлан"
+	culture=naga
+}
+
+210102 = {
+	name="Ранзо"
+	culture=naga
+}
+
+210103 = {
+	name="Раза-Кур"
+	culture=naga
+}
+
+210104 = {
+	name="Раза-Лах"
+	culture=naga
+}
+
+210105 = {
+	name="Раза-Лей"
+	culture=naga
+}
+
+210106 = {
+	name="Рат-Ти"
+	culture=naga
+}
+
+210107 = {
+	name="Вих-Джа"
+	culture=naga
+}
+
+210108 = {
+	name="Вихейуслан"
+	culture=naga
+}
+
+#NAGA LUKIUL
+211001 = {
+	name="Ан-Эйуслан"
+	culture=lukiul
+}
+
+211002 = {
+	name="Анзо"
+	culture=lukiul
+}
+
+211003 = {
+	name="Бун-Зо"
+	culture=lukiul
+}
+
+211004 = {
+	name="Бунлах"
+	culture=lukiul
+}
+
+211005 = {
+	name="Бунзо"
+	culture=lukiul
+}
+
+211006 = {
+	name="Данзо"
+	culture=lukiul
+}
+
+211007 = {
+	name="Ил-Эйуслан"
+	culture=lukiul
+}
+
+211008 = {
+	name="Эф'бун-Тилан"
+	culture=lukiul
+}
+
+211009 = {
+	name="Эф'данейуслан"
+	culture=lukiul
+}
+
+211010 = {
+	name="Эф'фе-Завлан"
+	culture=lukiul
+}
+
+211011 = {
+	name="Эф'са-Эйус"
+	culture=lukiul
+}
+
+211012 = {
+	name="Эфнаэйус"
+	culture=lukiul
+}
+
+211013 = {
+	name="Эльдалейус"
+	culture=lukiul
+}
+
+211014 = {
+	name="Элеф'гах-Зо"
+	culture=lukiul
+}
+
+211015 = {
+	name="Эльдж-Эйус"
+	culture=lukiul
+}
+
+211016 = {
+	name="Эльджуса-Завлан"
+	culture=lukiul
+}
+
+211017 = {
+	name="Элли'федарта"
+	culture=lukiul
+}
+
+211018 = {
+	name="Эллееник-Эйус"
+	culture=lukiul
+}
+
+211019 = {
+	name="Элоли'ан-Джа"
+	culture=lukiul
+}
+
+211020 = {
+	name="Элоли'са-Кур"
+	culture=lukiul
+}
+
+211021 = {
+	name="Элолиса-Дарлан"
+	culture=lukiul
+}
+
+211022 = {
+	name="Эльра'феджа"
+	culture=lukiul
+}
+
+211023 = {
+	name="Эльрадалейус"
+	culture=lukiul
+}
+
+211024 = {
+	name="Эльраса-Лейлан"
+	culture=lukiul
+}
+
+211025 = {
+	name="Элзо"
+	culture=lukiul
+}
+
+211026 = {
+	name="Гах-Завлан"
+	culture=lukiul
+}
+
+211027 = {
+	name="Ге'на-Эйус"
+	culture=lukiul
+}
+
+211028 = {
+	name="Ге'са-Эйусми"
+	culture=lukiul
+}
+
+211029 = {
+	name="Дженик-Эйуслан"
+	culture=lukiul
+}
+
+211030 = {
+	name="Джевих-Эйусми"
+	culture=lukiul
+}
+
+211031 = {
+	name="Джевих-Завлан"
+	culture=lukiul
+}
+
+211032 = {
+	name="Джа'бунджулан"
+	culture=lukiul
+}
+
+211033 = {
+	name="Джа'бунтимита"
+	culture=lukiul
+}
+
+211034 = {
+	name="Джа'бунзо"
+	culture=lukiul
+}
+
+211035 = {
+	name="Джа'ил-Эйус"
+	culture=lukiul
+}
+
+211036 = {
+	name="Джа'вих-Зо"
+	culture=lukiul
+}
+
+211037 = {
+	name="Джуан-Эйус"
+	culture=lukiul
+}
+
+211038 = {
+	name="Джуфе-Дар"
+	culture=lukiul
+}
+
+211039 = {
+	name="Джадж-Джа"
+	culture=lukiul
+}
+
+211040 = {
+	name="Джаник-Зо"
+	culture=lukiul
+}
+
+211041 = {
+	name="Джас-Эйус"
+	culture=lukiul
+}
+
+211042 = {
+	name="Киджа'далейусми"
+	culture=lukiul
+}
+
+211043 = {
+	name="Киджасадарлан"
+	culture=lukiul
+}
+
+211044 = {
+	name="Килее'н-Эйусми"
+	culture=lukiul
+}
+
+211045 = {
+	name="Киоли'ан-Тей"
+	culture=lukiul
+}
+
+211046 = {
+	name="Киоли'нлахланта"
+	culture=lukiul
+}
+
+211047 = {
+	name="Киолит-Лах"
+	culture=lukiul
+}
+
+211048 = {
+	name="Кеера'вихджата"
+	culture=lukiul
+}
+
+211049 = {
+	name="Киран-Тей"
+	culture=lukiul
+}
+
+211050 = {
+	name="Му'ан-Эйусми"
+	culture=lukiul
+}
+
+211051 = {
+	name="Му'анейусми"
+	culture=lukiul
+}
+
+211052 = {
+	name="Му'н-Эйусми"
+	culture=lukiul
+}
+
+211053 = {
+	name="Му'наэйус"
+	culture=lukiul
+}
+
+211054 = {
+	name="Му'ник-Зо"
+	culture=lukiul
+}
+
+211055 = {
+	name="Му'вих-Зо"
+	culture=lukiul
+}
+
+211056 = {
+	name="Мубун-Эйус"
+	culture=lukiul
+}
+
+211057 = {
+	name="Муданейуслан"
+	culture=lukiul
+}
+
+211058 = {
+	name="Муник-Зо"
+	culture=lukiul
+}
+
+211059 = {
+	name="Наэйус"
+	culture=lukiul
+}
+
+211060 = {
+	name="Нейус"
+	culture=lukiul
+}
+
+211061 = {
+	name="Ник-Эйус"
+	culture=lukiul
+}
+
+211062 = {
+	name="Никзо"
+	culture=lukiul
+}
+
+211063 = {
+	name="Нзолан"
+	culture=lukiul
+}
+
+211064 = {
+	name="О'дж-Джулан"
+	culture=lukiul
+}
+
+211065 = {
+	name="Оли'бунтейми"
+	culture=lukiul
+}
+
+211066 = {
+	name="Оли'дан-Лей"
+	culture=lukiul
+}
+
+211067 = {
+	name="Оли'данейус"
+	culture=lukiul
+}
+
+211068 = {
+	name="Оли'ил-Лахта"
+	culture=lukiul
+}
+
+211069 = {
+	name="Оли'на-Дарлан"
+	culture=lukiul
+}
+
+211070 = {
+	name="Оли'на-Ру"
+	culture=lukiul
+}
+
+211071 = {
+	name="Оли'никтими"
+	culture=lukiul
+}
+
+211072 = {
+	name="Оли'с-Лах"
+	culture=lukiul
+}
+
+211073 = {
+	name="Оли'са-Ру"
+	culture=lukiul
+}
+
+211074 = {
+	name="Олианейус"
+	culture=lukiul
+}
+
+211075 = {
+	name="Олибун-Дар"
+	culture=lukiul
+}
+
+211076 = {
+	name="Олидал-Рулан"
+	culture=lukiul
+}
+
+211077 = {
+	name="Олиданджу"
+	culture=lukiul
+}
+
+211078 = {
+	name="Олиданру"
+	culture=lukiul
+}
+
+211079 = {
+	name="Олигам-Эйуслан"
+	culture=lukiul
+}
+
+211080 = {
+	name="Олигамейус"
+	culture=lukiul
+}
+
+211081 = {
+	name="Олин-Эйус"
+	culture=lukiul
+}
+
+211082 = {
+	name="Олина-Эйуслан"
+	culture=lukiul
+}
+
+211083 = {
+	name="Олина-Ру"
+	culture=lukiul
+}
+
+211084 = {
+	name="Олис-Ру"
+	culture=lukiul
+}
+
+211085 = {
+	name="Олис-Ти"
+	culture=lukiul
+}
+
+211086 = {
+	name="Олит-Эйусми"
+	culture=lukiul
+}
+
+211087 = {
+	name="Оливихейус"
+	culture=lukiul
+}
+
+211088 = {
+	name="Ра'анзомита"
+	culture=lukiul
+}
+
+211089 = {
+	name="Ра'далджу"
+	culture=lukiul
+}
+
+211090 = {
+	name="Ра'ил-Джута"
+	culture=lukiul
+}
+
+211091 = {
+	name="Ра'гах-Ти"
+	culture=lukiul
+}
+
+211092 = {
+	name="Ра'гамджулан"
+	culture=lukiul
+}
+
+211093 = {
+	name="Ра'с-Лахлан"
+	culture=lukiul
+}
+
+211094 = {
+	name="Рабун-Эйус"
+	culture=lukiul
+}
+
+211095 = {
+	name="Рабун-Зо"
+	culture=lukiul
+}
+
+211096 = {
+	name="Радаллей"
+	culture=lukiul
+}
+
+211097 = {
+	name="Радан-Эйус"
+	culture=lukiul
+}
+
+211098 = {
+	name="Рафе-Лах"
+	culture=lukiul
+}
+
+211099 = {
+	name="Рафе-Тиланта"
+	culture=lukiul
+}
+
+211100 = {
+	name="Ран-Ти"
+	culture=lukiul
+}
+
+211101 = {
+	name="Рана-Курлан"
+	culture=lukiul
+}
+
+211102 = {
+	name="Ранзо"
+	culture=lukiul
+}
+
+211103 = {
+	name="Раза-Кур"
+	culture=lukiul
+}
+
+211104 = {
+	name="Раза-Лах"
+	culture=lukiul
+}
+
+211105 = {
+	name="Раза-Лей"
+	culture=lukiul
+}
+
+211106 = {
+	name="Рат-Ти"
+	culture=lukiul
+}
+
+211107 = {
+	name="Вих-Джа"
+	culture=lukiul
+}
+
+211108 = {
+	name="Вихейуслан"
+	culture=lukiul
+}

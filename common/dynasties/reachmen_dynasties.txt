@@ -1,0 +1,267 @@
+#reachmen Range: 100000-109999
+
+#REACHMEN
+100000 = {
+	name="Карт"
+	culture = reachmen
+}
+100001 = {
+	name="Кастен"
+	culture = reachmen
+}
+100002 = {
+	name="Сануарах"
+	culture = reachmen
+}
+100003 = {
+	name="Маренах"
+	culture = reachmen
+}
+100004 = {
+	name="Ранхарт"
+	culture = reachmen
+}
+100005 = {
+	name="Сартен"
+	culture = reachmen
+}
+100006 = {
+	name="Неккарт"
+	culture = reachmen
+}
+100007 = {
+	name="Саретар"
+	culture = reachmen
+}
+100008 = {
+	name="Ранерах"
+	culture = reachmen
+}
+100009 = {
+	name="Танкаррт"
+	culture = reachmen
+}
+100010 = {
+	name="Сактенкарт"
+	culture = reachmen
+}
+100011 = {
+	name="Каскарт"
+	culture = reachmen
+}
+100012 = {
+	name="Тарнах"
+	culture = reachmen
+}
+100013 = {
+	name="Латенар"
+	culture = reachmen
+}
+100014 = {
+	name="Маретах"
+	culture = reachmen
+}
+100015 = {
+	name="Менуарах"
+	culture = reachmen
+}
+100016 = {
+	name="Маркарт"
+	culture = reachmen
+}
+100017 = {
+	name="Васенкарт"
+	culture = reachmen
+}
+100018 = {
+	name="Саркарт"
+	culture = reachmen
+}
+100019 = {
+	name="Саренейн"
+	culture = reachmen
+}
+100020 = {
+	name="Латенхарт"
+	culture = reachmen
+}
+100021 = {
+	name="Саретхарт"
+	culture = reachmen
+}
+100022 = {
+	name="Сархарт"
+	culture = reachmen
+}
+100023 = {
+	name="Касхарт"
+	culture = reachmen
+}
+100024 = {
+	name="Саркарейн"
+	culture = reachmen
+}
+100025 = {
+	name="Ментенейн"
+	culture = reachmen
+}
+100026 = {
+	name="Тенетейн"
+	culture = reachmen
+}
+100027 = {
+	name="Менетуннон"
+	culture = reachmen
+}
+100028 = {
+	name="Тенетуннон"
+	culture = reachmen
+}
+100029 = {
+	name="Васенон"
+	culture = reachmen
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 33
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+100030 = {
+	name="Кастенейн"
+	culture = reachmen
+}
+100031 = {
+	name="Бриархарт"
+	culture = reachmen
+}
+100032 = {
+	name="Бренатар"
+	culture = reachmen
+}
+100033 = {
+	name="Бренунах"
+	culture = reachmen
+}
+100034 = {
+	name="Бриарар"
+	culture = reachmen
+}
+100035 = {
+	name="Бриаркарт"
+	culture = reachmen
+}
+100036 = {
+	name="Саркетуммон"
+	culture = reachmen
+}
+100037 = {
+	name="Латенуммон"
+	culture = reachmen
+}
+100038 = {
+	name="Кейленадах"
+	culture = reachmen
+}
+100039 = {
+	name="Данхарт"
+	culture = reachmen
+}
+100040 = {
+	name="Тирхонт"
+	culture = reachmen
+}
+100041 = {
+	name="Мордох"
+	culture = reachmen
+}
+100042 = {
+	name="Удирг"
+	culture = reachmen
+}
+100043 = {
+	name="Сиагадейн"
+	culture = reachmen
+}
+100044 = {
+	name="Дуфейг"
+	culture = reachmen
+}
+100045 = {
+	name="Фаорелл"
+	culture = reachmen
+}
+100046 = {
+	name="Айнмнтейг"
+	culture = reachmen
+}
+100047 = {
+	name="Кионаоит"
+	culture = reachmen
+}
+100048 = {
+	name="Дохартейг"
+	culture = reachmen
+}
+100049 = {
+	name="Мейгстир"
+	culture = reachmen
+}
+100050 = {
+	name="Пеакаг"
+	culture = reachmen
+}
+100051 = {
+	name="Лотарадир"
+	culture = reachmen
+}
+100052 = {
+	name="Абсалан"
+	culture = reachmen
+}
+100053 = {
+	name="Лёгкое Сердце"
+	culture = reachmen
+}
+100054 = {
+	name="Снежная Петля"
+	culture = reachmen
+}
+100055 = {
+	name="Ледяное Сердце"
+	culture = reachmen
+}
+100056 = {
+	name="Витклав"
+	culture = reachmen
+}
+100057 = {
+	name = "Маркраг"
+	culture = reachmen
+}
+100058 = {
+	name = "Буксуанд"
+	culture = reachmen
+}
+100059 = {
+	name = "Тарнерач"
+	culture = reachmen
+}
+100060 = {
+	name = "Мактильнетур"
+	culture = reachmen
+}
+100061 = {
+	name = "Ворожеи"
+	culture = reachmen
+	used_for_random = no
+	can_appear = no
+}

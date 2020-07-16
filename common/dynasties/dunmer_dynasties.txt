@@ -1,0 +1,3243 @@
+#Dunmer Range: 160000-169999
+
+160001 = {
+	name="Редоран"
+	used_for_random = no
+	can_appear = no
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 17
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160002 = {
+	name="Хлаалу"
+	used_for_random = no
+	can_appear = no
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 14
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160003 = {
+	name="Дрес"
+	used_for_random = no
+	can_appear = no
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 15
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160004 = {
+	name="Индорил"
+	used_for_random = no
+	can_appear = no
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 18
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160005 = {
+	name="Телванни"
+	used_for_random = no
+	can_appear = no
+		coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 16
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160006 = {
+	name="Андрано"
+	culture = dunmer
+}
+160007 = {
+	name="Андрети"
+	culture = dunmer
+}
+160008 = {
+	name="Иенит"
+	culture = dunmer
+}
+160009 = {
+	name="Арвел"
+	culture = dunmer
+}
+160010 = {
+	name="Дралор"
+	culture = dunmer
+}
+160011 = {
+	name="Ллерву"
+	culture = dunmer
+}
+160012 = {
+	name="Садри"
+	culture = dunmer 
+}
+160013 = {
+	name="Сарен"
+	culture = dunmer 
+}
+160014 = {
+	name="Андас"
+	culture = dunmer
+}
+160015 = {
+	name="Дрен"
+	culture = dunmer 
+}
+160016 = {
+	name="Фарион"
+	culture = dunmer
+}
+160017 = {
+	name="Гирит"
+	culture = dunmer
+}
+160018 = {
+	name="Хлеран"
+	culture = dunmer
+}
+160019 = {
+	name="Индарам"
+	culture = dunmer
+}
+160020 = {
+	name="Селет"
+	culture = dunmer
+}
+160021 = {
+	name="Арион"
+	culture = dunmer
+}
+160022 = {
+	name="Индарен"
+	culture = dunmer
+}
+160023 = {
+	name="Индрано"
+	culture = dunmer
+}
+160024 = {
+	name="Сарано"
+	culture = dunmer
+}
+160025 = {
+	name="Серан"
+	culture = dunmer
+}
+160026 = {
+	name="Андарис"
+	culture = dunmer
+}
+160027 = {
+	name="Андус"
+	culture = dunmer
+}
+160028 = {
+	name="Ареним"
+	culture = dunmer
+}
+160029 = {
+	name="Атрен"
+	culture = dunmer
+}
+160030 = {
+	name="Фарано"
+	culture = dunmer
+}
+160031 = {
+	name="Фир"
+}
+160032 = {
+	name="Гилнит"
+	culture = dunmer
+}
+160033 = {
+	name="Хларен"
+	culture = dunmer
+}
+160034 = {
+	name="Ллетри"
+	culture = dunmer
+}
+160035 = {
+	name="Марион"
+	culture = dunmer
+}
+160036 = {
+	name="Оморан"
+	culture = dunmer
+}
+160037 = {
+	name="Салас"
+	culture = dunmer
+}
+160038 = {
+	name="Сарион"
+	culture = dunmer
+}
+160039 = {
+	name="Увэйн"
+	culture = dunmer
+}
+160040 = {
+	name="Венду"
+	culture = dunmer
+}
+160041 = {
+	name="Андарам"
+	culture = dunmer
+}
+160042 = {
+	name="Аралас"
+	culture = dunmer
+}
+160043 = {
+	name="Арелас"
+	culture = dunmer
+}
+160044 = {
+	name="Аробар"
+	culture = dunmer
+}
+160045 = {
+	name="Хелас"
+	culture = dunmer
+}
+160046 = {
+	name="Хлерву"
+	culture = dunmer
+}
+160047 = {
+	name="Лларен"
+	culture = dunmer
+}
+160048 = {
+	name="Ллеран"
+	culture = dunmer
+}
+160049 = {
+	name="Марен"
+	culture = dunmer
+}
+160050 = {
+	name="Нерети"
+	culture = dunmer
+}
+160051 = {
+	name="Отравель"
+	culture = dunmer
+}
+160052 = {
+	name="Отрил"
+	culture = dunmer
+}
+160053 = {
+	name="Ратрион"
+	culture = dunmer
+}
+160054 = {
+	name="Релас"
+	culture = dunmer
+}
+160055 = {
+	name="Ретан"
+	culture = dunmer
+}
+160056 = {
+	name="Ретеран"
+	culture = dunmer
+}
+160057 = {
+	name="Сальвани"
+	culture = dunmer
+}
+160058 = {
+	name="Сарам"
+	culture = dunmer
+}
+160059 = {
+	name="Сарети"
+	culture = dunmer
+}
+160060 = {
+	name="Сеним"
+	culture = dunmer
+}
+160061 = {
+	name="Теран"
+	culture = dunmer
+}
+160062 = {
+	name="Тарен"
+	culture = dunmer 
+}
+160063 = {
+	name="Улес"
+	culture = dunmer 
+}
+160064 = {
+	name="Велас"
+	culture = dunmer
+}
+160065 = {
+	name="Веним"
+	culture = dunmer 
+}
+160066 = {
+	name="Веран"
+	culture = dunmer
+}
+160067 = {
+	name="Верети"
+	culture = dunmer
+}
+160068 = {
+	name="Вирит"
+	culture = dunmer
+}
+160069 = {
+	name="Адас"
+	culture = dunmer
+}
+160070 = {
+	name="Ален"
+	culture = dunmer
+}
+160071 = {
+	name="Андалас"
+	culture = dunmer
+}
+160072 = {
+	name="Андален"
+	culture = dunmer
+}
+160073 = {
+	name="Андорил"
+	culture = dunmer
+}
+160074 = {
+	name="Андулес"
+	culture = dunmer
+}
+160075 = {
+	name="Арано"
+	culture = dunmer
+}
+160076 = {
+	name="Аравель"
+	culture = dunmer
+}
+160077 = {
+	name="Арен"
+	culture = dunmer
+}
+160078 = {
+	name="Аретан"
+	culture = dunmer
+}
+160079 = {
+	name="Арети"
+	culture = dunmer
+}
+160080 = {
+	name="Берано"
+	culture = dunmer
+}
+160081 = {
+	name="Драл"
+	culture = dunmer
+}
+160082 = {
+	name="Дралас"
+	culture = dunmer
+}
+160083 = {
+	name="Дрелас"
+	culture = dunmer
+}
+160084 = {
+	name="Дреним"
+	culture = dunmer
+}
+160085 = {
+	name="Дретан"
+	culture = dunmer
+}
+160086 = {
+	name="Дротан"
+	culture = dunmer
+}
+160087 = {
+	name="Хельви"
+	culture = dunmer
+}
+160088 = {
+	name="Хеним"
+	culture = dunmer
+}
+160089 = {
+	name="Иенет"
+	culture = dunmer
+}
+160090 = {
+	name="Индалас"
+	culture = dunmer
+}
+160091 = {
+	name="Ирано"
+	culture = dunmer
+}
+160092 = {
+	name="Лларам"
+	culture = dunmer
+}
+160093 = {
+	name="Лларис"
+	culture = dunmer
+}
+160094 = {
+	name="Лленим"
+	culture = dunmer
+}
+160095 = {
+	name="Ллетан"
+	culture = dunmer
+}
+160096 = {
+	name="Ллоран"
+	culture = dunmer
+}
+160097 = {
+	name="Мандас"
+	culture = dunmer
+}
+160098 = {
+	name="Нетан"
+	culture = dunmer
+}
+160099 = {
+	name="Омален"
+	culture = dunmer
+}
+160100 = {
+	name="Омавель"
+	culture = dunmer
+}
+160101 = {
+	name="Омэйн"
+	culture = dunmer
+}
+160102 = {
+	name="Оран"
+	culture = dunmer
+}
+160103 = {
+	name="Орен"
+	culture = dunmer
+}
+160104 = {
+	name="Орети"
+	culture = dunmer
+}
+160105 = {
+	name="Орил"
+	culture = dunmer
+}
+160106 = {
+	name="Отан"
+	culture = dunmer
+}
+160107 = {
+	name="Отран"
+	culture = dunmer
+}
+160108 = {
+	name="Отрен"
+	culture = dunmer
+}
+160109 = {
+	name="Радас"
+	culture = dunmer
+}
+160110 = {
+	name="Рален"
+	culture = dunmer
+}
+160111 = {
+	name="Рендас"
+	culture = dunmer
+}
+160112 = {
+	name="Садус"
+	culture = dunmer 
+}
+160113 = {
+	name="Сарендас"
+	culture = dunmer 
+}
+160114 = {
+	name="Сарис"
+	culture = dunmer
+}
+160115 = {
+	name="Серети"
+	culture = dunmer 
+}
+160116 = {
+	name="Тедас"
+	culture = dunmer
+}
+160117 = {
+	name="Теним"
+	culture = dunmer
+}
+160118 = {
+	name="Телас"
+	culture = dunmer
+}
+160119 = {
+	name="Тирандус"
+	culture = dunmer
+}
+160120 = {
+	name="Тирано"
+	culture = dunmer
+}
+160121 = {
+	name="Уварен"
+	culture = dunmer
+}
+160122 = {
+	name="Увеним"
+	culture = dunmer
+}
+160123 = {
+	name="Уверан"
+	culture = dunmer
+}
+160124 = {
+	name="Варен"
+	culture = dunmer
+}
+160125 = {
+	name="Варис"
+	culture = dunmer
+}
+160126 = {
+	name="Адрен"
+	culture = dunmer
+}
+160127 = {
+	name="Альвер"
+	culture = dunmer
+}
+160128 = {
+	name="Андарен"
+	culture = dunmer
+}
+160129 = {
+	name="Андавель"
+	culture = dunmer
+}
+160130 = {
+	name="Андорен"
+	culture = dunmer
+}
+160131 = {
+	name="Андрело"
+	culture = dunmer
+}
+160132 = {
+	name="Арален"
+	culture = dunmer
+}
+160133 = {
+	name="Арелет"
+	culture = dunmer
+}
+160134 = {
+	name="Аринит"
+	culture = dunmer
+}
+160135 = {
+	name="Аротан"
+	culture = dunmer
+}
+160136 = {
+	name="Атрам"
+	culture = dunmer
+}
+160137 = {
+	name="Атрис"
+	culture = dunmer
+}
+160138 = {
+	name="Бален"
+	culture = dunmer
+}
+160139 = {
+	name="Белас"
+	culture = dunmer
+}
+160140 = {
+	name="Белет"
+	culture = dunmer
+}
+160141 = {
+	name="Берендас"
+	culture = dunmer
+}
+160142 = {
+	name="Берети"
+	culture = dunmer
+}
+160143 = {
+	name="Дален"
+	culture = dunmer
+}
+160144 = {
+	name="Дарети"
+	culture = dunmer
+}
+160145 = {
+	name="Дарион"
+	culture = dunmer
+}
+160146 = {
+	name="Дарис"
+	culture = dunmer
+}
+160147 = {
+	name="Дран"
+	culture = dunmer
+}
+160148 = {
+	name="Дром"
+	culture = dunmer
+}
+160149 = {
+	name="Фалас"
+	culture = dunmer
+}
+160150 = {
+	name="Фален"
+	culture = dunmer
+}
+160151 = {
+	name="Фарам"
+	culture = dunmer
+}
+160152 = {
+	name="Фарен"
+	culture = dunmer
+}
+160153 = {
+	name="Фарети"
+	culture = dunmer
+}
+160154 = {
+	name="Фарис"
+	culture = dunmer
+}
+160155 = {
+	name="Фавелним"
+	culture = dunmer
+}
+160156 = {
+	name="Гильвэйн"
+	culture = dunmer
+}
+160157 = {
+	name="Херан"
+	culture = dunmer
+}
+160158 = {
+	name="Хлаало"
+	culture = dunmer
+}
+160159 = {
+	name="Хлан"
+	culture = dunmer
+}
+160160 = {
+	name="Хлас"
+	culture = dunmer
+}
+160161 = {
+	name="Хлен"
+	culture = dunmer
+}
+160162 = {
+	name="Хлер"
+	culture = dunmer 
+}
+160163 = {
+	name="Хлоран"
+	culture = dunmer 
+}
+160164 = {
+	name="Индален"
+	culture = dunmer
+}
+160165 = {
+	name="Индарис"
+	culture = dunmer 
+}
+160166 = {
+	name="Лленду"
+	culture = dunmer
+}
+160167 = {
+	name="Марвел"
+	culture = dunmer
+}
+160168 = {
+	name="Марис"
+	culture = dunmer
+}
+160169 = {
+	name="Морен"
+	culture = dunmer
+}
+160170 = {
+	name="Морвейн"
+	culture = dunmer
+}
+160171 = {
+	name="Мотрайон"
+	culture = dunmer
+}
+160172 = {
+	name="Нелас"
+	culture = dunmer
+}
+160173 = {
+	name="Нерано"
+	culture = dunmer
+}
+160174 = {
+	name="Нирит"
+	culture = dunmer
+}
+160175 = {
+	name="Норвейн"
+	culture = dunmer
+}
+160176 = {
+	name="Норвайн"
+	culture = dunmer
+}
+160177 = {
+	name="Омалас"
+	culture = dunmer
+}
+160178 = {
+	name="Омалор"
+	culture = dunmer
+}
+160179 = {
+	name="Оморил"
+	culture = dunmer
+}
+160180 = {
+	name="Омотан"
+	culture = dunmer
+}
+160181 = {
+	name="Отрален"
+	culture = dunmer
+}
+160182 = {
+	name="Отрелас"
+	culture = dunmer
+}
+160183 = {
+	name="Отрелет"
+	culture = dunmer
+}
+160184 = {
+	name="Андрети"
+	culture = dunmer
+}
+160185 = {
+	name="Отреним"
+	culture = dunmer
+}
+160186 = {
+	name="Ралас"
+	culture = dunmer
+}
+160187 = {
+	name="Раледран"
+	culture = dunmer
+}
+160188 = {
+	name="Рэйвел"
+	culture = dunmer
+}
+160189 = {
+	name="Релет"
+	culture = dunmer
+}
+160190 = {
+	name="Роморен"
+	culture = dunmer
+}
+160191 = {
+	name="Ромори"
+	culture = dunmer
+}
+160192 = {
+	name="Ротандус"
+	culture = dunmer
+}
+160193 = {
+	name="Самори"
+	culture = dunmer
+}
+160194 = {
+	name="Сарандас"
+	culture = dunmer
+}
+160195 = {
+	name="Саротрил"
+	culture = dunmer
+}
+160196 = {
+	name="Савел"
+	culture = dunmer
+}
+160197 = {
+	name="Савил"
+	culture = dunmer
+}
+160198 = {
+	name="Седас"
+	culture = dunmer
+}
+160199 = {
+	name="Селарен"
+	culture = dunmer
+}
+160200 = {
+	name="Селас"
+	culture = dunmer
+}
+160201 = {
+	name="Селвило"
+	culture = dunmer
+}
+160202 = {
+	name="Сендас"
+	culture = dunmer
+}
+160203 = {
+	name="Сетан"
+	culture = dunmer
+}
+160204 = {
+	name="Телас"
+	culture = dunmer
+}
+160205 = {
+	name="Тендас"
+	culture = dunmer
+}
+160206 = {
+	name="Тюрез"
+	culture = dunmer
+}
+160207 = {
+	name="Ульвен"
+	culture = dunmer
+}
+160208 = {
+	name="Увелас"
+	culture = dunmer
+}
+160209 = {
+	name="Увирит"
+	culture = dunmer
+}
+160210 = {
+	name="Варам"
+	culture = dunmer
+}
+160211 = {
+	name="Вари"
+	culture = dunmer
+}
+160212 = {
+	name="Варион"
+	culture = dunmer 
+}
+160213 = {
+	name="Варис"
+	culture = dunmer 
+}
+160214 = {
+	name="Ведас"
+	culture = dunmer
+}
+160215 = {
+	name="Ведран"
+	culture = dunmer 
+}
+160216 = {
+	name="Велет"
+	culture = dunmer
+}
+160217 = {
+	name="Верано"
+	culture = dunmer
+}
+160218 = {
+	name="Вулес"
+	culture = dunmer
+}
+160219 = {
+	name="Абабаэль"
+	culture = dunmer
+}
+160220 = {
+	name="Адрам"
+	culture = dunmer
+}
+160221 = {
+	name="Адрин"
+	culture = dunmer
+}
+160222 = {
+	name="Адус"
+	culture = dunmer
+}
+160223 = {
+	name="Алам"
+	culture = dunmer
+}
+160224 = {
+	name="Алан"
+	culture = dunmer
+}
+160225 = {
+	name="Алари"
+	culture = dunmer
+}
+160226 = {
+	name="Алвор"
+	culture = dunmer
+}
+160227 = {
+	name="Амори"
+	culture = dunmer
+}
+160228 = {
+	name="Андалор"
+	culture = dunmer
+}
+160229 = {
+	name="Андотан"
+	culture = dunmer
+}
+160230 = {
+	name="Андрал"
+	culture = dunmer
+}
+160231 = {
+	name="Андрани"
+	culture = dunmer
+}
+160232 = {
+	name="Андрилo"
+	culture = dunmer
+}
+160233 = {
+	name="Андром"
+	culture = dunmer
+}
+160234 = {
+	name="Андромо"
+	culture = dunmer
+}
+160235 = {
+	name="Андроти"
+	culture = dunmer
+}
+160236 = {
+	name="Апо"
+	culture = dunmer
+}
+160237 = {
+	name="Арадил"
+	culture = dunmer
+}
+160238 = {
+	name="Арам"
+	culture = dunmer
+}
+160239 = {
+	name="Арелот"
+	culture = dunmer
+}
+160240 = {
+	name="Арес"
+	culture = dunmer
+}
+160241 = {
+	name="Арет"
+	culture = dunmer
+}
+160242 = {
+	name="Арнс"
+	culture = dunmer
+}
+160243 = {
+	name="Арвел"
+	culture = dunmer
+}
+160244 = {
+	name="Ательвис"
+	culture = dunmer
+}
+160245 = {
+	name="Атин"
+	culture = dunmer
+}
+160246 = {
+	name="Атонес"
+	culture = dunmer
+}
+160247 = {
+	name="Авани"
+	culture = dunmer
+}
+160248 = {
+	name="Авел"
+	culture = dunmer
+}
+160249 = {
+	name="Авило"
+	culture = dunmer
+}
+160250 = {
+	name="Авон"
+	culture = dunmer
+}
+160251 = {
+	name="Балур"
+	culture = dunmer
+}
+160252 = {
+	name="Балвел"
+	culture = dunmer
+}
+160253 = {
+	name="Бандас"
+	culture = dunmer
+}
+160254 = {
+	name="Барам"
+	culture = dunmer
+}
+160255 = {
+	name="Барело"
+	culture = dunmer
+}
+160256 = {
+	name="Барен"
+	culture = dunmer
+}
+160257 = {
+	name="Баро"
+	culture = dunmer
+}
+160258 = {
+	name="Барус"
+	culture = dunmer
+}
+160259 = {
+	name="Барион"
+	culture = dunmer
+}
+160260 = {
+	name="Барис"
+	culture = dunmer
+}
+160261 = {
+	name="Бавани"
+	culture = dunmer
+}
+160262 = {
+	name="Бедас"
+	culture = dunmer 
+}
+160263 = {
+	name="Белаал"
+	culture = dunmer 
+}
+160264 = {
+	name="Белан"
+	culture = dunmer
+}
+160265 = {
+	name="Беларам"
+	culture = dunmer 
+}
+160266 = {
+	name="Бельден"
+	culture = dunmer
+}
+160267 = {
+	name="Белорен"
+	culture = dunmer
+}
+160268 = {
+	name="Бельс"
+	culture = dunmer
+}
+160269 = {
+	name="Бельвани"
+	culture = dunmer
+}
+160270 = {
+	name="Белвайн"
+	culture = dunmer
+}
+160271 = {
+	name="Бельвило"
+	culture = dunmer
+}
+160272 = {
+	name="Бемис"
+	culture = dunmer
+}
+160273 = {
+	name="Бенелас"
+	culture = dunmer
+}
+160274 = {
+	name="Бенеран"
+	culture = dunmer
+}
+160275 = {
+	name="Бенетран"
+	culture = dunmer
+}
+160276 = {
+	name="Бени"
+	culture = dunmer
+}
+160277 = {
+	name="Берелот"
+	culture = dunmer
+}
+160278 = {
+	name="Берен"
+	culture = dunmer
+}
+160279 = {
+	name="Берендус"
+	culture = dunmer
+}
+160280 = {
+	name="Берер"
+	culture = dunmer
+}
+160281 = {
+	name="Беро"
+	culture = dunmer
+}
+160282 = {
+	name="Бетрано"
+	culture = dunmer
+}
+160283 = {
+	name="Бетримо"
+	culture = dunmer
+}
+160284 = {
+	name="Брадин"
+	culture = dunmer
+}
+160285 = {
+	name="Брарин"
+	culture = dunmer
+}
+160286 = {
+	name="Бравен"
+	culture = dunmer
+}
+160287 = {
+	name="Бренос"
+	culture = dunmer
+}
+160288 = {
+	name="Бренур"
+	culture = dunmer
+}
+160289 = {
+	name="Брилин"
+	culture = dunmer
+}
+160290 = {
+	name="Карварен"
+	culture = dunmer
+}
+160291 = {
+	name="Далас"
+	culture = dunmer
+}
+160292 = {
+	name="Далис"
+	culture = dunmer
+}
+160293 = {
+	name="Далобар"
+	culture = dunmer
+}
+160294 = {
+	name="Даломо"
+	culture = dunmer
+}
+160295 = {
+	name="Дальс"
+	culture = dunmer
+}
+160296 = {
+	name="Дальвани"
+	culture = dunmer
+}
+160297 = {
+	name="Дамори"
+	culture = dunmer
+}
+160298 = {
+	name="Даноран"
+	culture = dunmer
+}
+160299 = {
+	name="Дарам"
+	culture = dunmer
+}
+160300 = {
+	name="Дарано"
+	culture = dunmer
+}
+160301 = {
+	name="Дарен"
+	culture = dunmer
+}
+160302 = {
+	name="Даретран"
+	culture = dunmer
+}
+160303 = {
+	name="Даротрил"
+	culture = dunmer
+}
+160304 = {
+	name="Дарвел"
+	culture = dunmer
+}
+160305 = {
+	name="Датрен"
+	culture = dunmer
+}
+160306 = {
+	name="Давор"
+	culture = dunmer
+}
+160307 = {
+	name="Давус"
+	culture = dunmer
+}
+160308 = {
+	name="Дайнес"
+	culture = dunmer
+}
+160309 = {
+	name="Дельмс"
+	culture = dunmer
+}
+160310 = {
+	name="Дельтис"
+	culture = dunmer
+}
+160311 = {
+	name="Дельви"
+	culture = dunmer
+}
+160312 = {
+	name="Демневанни"
+	culture = dunmer 
+}
+160313 = {
+	name="Дерас"
+	culture = dunmer 
+}
+160314 = {
+	name="Дилмин"
+	culture = dunmer
+}
+160315 = {
+	name="Добар"
+	culture = dunmer 
+}
+160316 = {
+	name="Доран"
+	culture = dunmer
+}
+160317 = {
+	name="Дорен"
+	culture = dunmer
+}
+160318 = {
+	name="Дорвайн"
+	culture = dunmer
+}
+160319 = {
+	name="Довес"
+	culture = dunmer
+}
+160320 = {
+	name="Драдас"
+	culture = dunmer
+}
+160321 = {
+	name="Дралайн"
+	culture = dunmer
+}
+160322 = {
+	name="Дрален"
+	culture = dunmer
+}
+160323 = {
+	name="Дрално"
+	culture = dunmer
+}
+160324 = {
+	name="Дралс"
+	culture = dunmer
+}
+160325 = {
+	name="Драт"
+	culture = dunmer
+}
+160326 = {
+	name="Дратен"
+	culture = dunmer
+}
+160327 = {
+	name="Дредайн"
+	culture = dunmer
+}
+160328 = {
+	name="Дредил"
+	culture = dunmer
+}
+160329 = {
+	name="Дрелет"
+	culture = dunmer
+}
+160330 = {
+	name="Дрелот"
+	culture = dunmer
+}
+160331 = {
+	name="Дрет"
+	culture = dunmer
+}
+160332 = {
+	name="Дрилер"
+	culture = dunmer
+}
+160333 = {
+	name="Дрильви"
+	culture = dunmer
+}
+160334 = {
+	name="Дрин"
+	culture = dunmer
+}
+160335 = {
+	name="Дринит"
+	culture = dunmer
+}
+160336 = {
+	name="Дривам"
+	culture = dunmer
+}
+160337 = {
+	name="Дробар"
+	culture = dunmer
+}
+160338 = {
+	name="Дролан"
+	culture = dunmer
+}
+160339 = {
+	name="Дрольнор"
+	culture = dunmer
+}
+160340 = {
+	name="Дрора"
+	culture = dunmer
+}
+160341 = {
+	name="Дрорин"
+	culture = dunmer
+}
+160342 = {
+	name="Дрот"
+	culture = dunmer
+}
+160343 = {
+	name="Друрел"
+	culture = dunmer
+}
+160344 = {
+	name="Дулфасс"
+	culture = dunmer
+}
+160345 = {
+	name="Дулни"
+	culture = dunmer
+}
+160346 = {
+	name="Дуро"
+	culture = dunmer
+}
+160347 = {
+	name="Эларвен"
+	culture = dunmer
+}
+160348 = {
+	name="Эльваль"
+	culture = dunmer
+}
+160349 = {
+	name="Эльвул"
+	culture = dunmer
+}
+160350 = {
+	name="Эртис"
+	culture = dunmer
+}
+160351 = {
+	name="Эвос"
+	culture = dunmer
+}
+160352 = {
+	name="Фаландас"
+	culture = dunmer
+}
+160353 = {
+	name="Фалавел"
+	culture = dunmer
+}
+160354 = {
+	name="Фалос"
+	culture = dunmer
+}
+160355 = {
+	name="Фалс"
+	culture = dunmer
+}
+160356 = {
+	name="Фальвани"
+	culture = dunmer
+}
+160357 = {
+	name="Фамори"
+	culture = dunmer
+}
+160358 = {
+	name="Фарален"
+	culture = dunmer
+}
+160359 = {
+	name="Фарандас"
+	culture = dunmer
+}
+160360 = {
+	name="Фаравел"
+	culture = dunmer
+}
+160361 = {
+	name="Фарелот"
+	culture = dunmer
+}
+160362 = {
+	name="Фаретан"
+	culture = dunmer 
+}
+160363 = {
+	name="Фаротран"
+	culture = dunmer 
+}
+160364 = {
+	name="Фазеран"
+	culture = dunmer
+}
+160365 = {
+	name="Фатирон"
+	culture = dunmer 
+}
+160366 = {
+	name="Фавани"
+	culture = dunmer
+}
+160367 = {
+	name="Фаверан"
+	culture = dunmer
+}
+160368 = {
+	name="Федос"
+	culture = dunmer
+}
+160369 = {
+	name="Фелас"
+	culture = dunmer
+}
+160370 = {
+	name="Фельдер"
+	culture = dunmer
+}
+160371 = {
+	name="Фелс"
+	culture = dunmer
+}
+160372 = {
+	name="Фендин"
+	culture = dunmer
+}
+160373 = {
+	name="Ферерус"
+	culture = dunmer
+}
+160374 = {
+	name="Февур"
+	culture = dunmer
+}
+160375 = {
+	name="Фольвин"
+	culture = dunmer
+}
+160376 = {
+	name="Гадар"
+	culture = dunmer
+}
+160377 = {
+	name="Гален"
+	culture = dunmer
+}
+160378 = {
+	name="Гальс"
+	culture = dunmer
+}
+160379 = {
+	name="Гарер"
+	culture = dunmer
+}
+160380 = {
+	name="Гарил"
+	culture = dunmer
+}
+160381 = {
+	name="Гарвон"
+	culture = dunmer
+}
+160382 = {
+	name="Гавос"
+	culture = dunmer
+}
+160383 = {
+	name="Гавин"
+	culture = dunmer
+}
+160384 = {
+	name="Гидран"
+	culture = dunmer
+}
+160385 = {
+	name="Гиларам"
+	culture = dunmer
+}
+160386 = {
+	name="Гильвани"
+	culture = dunmer
+}
+160387 = {
+	name="Гильвило"
+	culture = dunmer
+}
+160388 = {
+	name="Гимальвел"
+	culture = dunmer
+}
+160389 = {
+	name="Гимайн"
+	culture = dunmer
+}
+160390 = {
+	name="Гинду"
+	culture = dunmer
+}
+160391 = {
+	name="Гинит"
+	culture = dunmer
+}
+160392 = {
+	name="Гирал"
+	culture = dunmer
+}
+160393 = {
+	name="Гиральвел"
+	culture = dunmer
+}
+160394 = {
+	name="Джирандо"
+	culture = dunmer
+}
+160395 = {
+	name="Джирано"
+	culture = dunmer
+}
+160396 = {
+	name="Джирендас"
+	culture = dunmer
+}
+160397 = {
+	name="Гирети"
+	culture = dunmer
+}
+160398 = {
+	name="Джиротран"
+	culture = dunmer
+}
+160399 = {
+	name="Гирвайн"
+	culture = dunmer
+}
+160400 = {
+	name="Гитендас"
+	culture = dunmer
+}
+160401 = {
+	name="Омэйн"
+	culture = dunmer
+}
+160402 = {
+	name="Гитрано"
+	culture = dunmer
+}
+160403 = {
+	name="Гивин"
+	culture = dunmer
+}
+160404 = {
+	name="Гобор"
+	culture = dunmer
+}
+160405 = {
+	name="Голатин"
+	culture = dunmer
+}
+160406 = {
+	name="Гольс"
+	culture = dunmer
+}
+160407 = {
+	name="Горан"
+	culture = dunmer
+}
+160408 = {
+	name="Горвас"
+	culture = dunmer
+}
+160409 = {
+	name="Гульс"
+	culture = dunmer
+}
+160410 = {
+	name="Гуврон"
+	culture = dunmer
+}
+160411 = {
+	name="Хардиль"
+	culture = dunmer
+}
+160412 = {
+	name="Хеладрен"
+	culture = dunmer 
+}
+160413 = {
+	name="Хелеран"
+	culture = dunmer 
+}
+160414 = {
+	name="Хельни"
+	culture = dunmer
+}
+160415 = {
+	name="Хелотан"
+	culture = dunmer 
+}
+160416 = {
+	name="Хелотран"
+	culture = dunmer
+}
+160417 = {
+	name="Хелотрен"
+	culture = dunmer
+}
+160418 = {
+	name="Херандус"
+	culture = dunmer
+}
+160419 = {
+	name="Херендас"
+	culture = dunmer
+}
+160420 = {
+	name="Херотран"
+	culture = dunmer
+}
+160421 = {
+	name="Хлаано"
+	culture = dunmer
+}
+160422 = {
+	name="Хландо"
+	culture = dunmer
+}
+160423 = {
+	name="Хларар"
+	culture = dunmer
+}
+160424 = {
+	name="Хларис"
+	culture = dunmer
+}
+160425 = {
+	name="Хледас"
+	culture = dunmer
+}
+160426 = {
+	name="Хледри"
+	culture = dunmer
+}
+160427 = {
+	name="Ильдрам"
+	culture = dunmer
+}
+160428 = {
+	name="Ильнит"
+	culture = dunmer
+}
+160429 = {
+	name="Имайн"
+	culture = dunmer
+}
+160430 = {
+	name="Индавель"
+	culture = dunmer
+}
+160431 = {
+	name="Индобар"
+	culture = dunmer
+}
+160432 = {
+	name="Индоран"
+	culture = dunmer
+}
+160433 = {
+	name="Индулес"
+	culture = dunmer
+}
+160434 = {
+	name="Инладор"
+	culture = dunmer
+}
+160435 = {
+	name="Ирати"
+	culture = dunmer
+}
+160436 = {
+	name="Ирети"
+	culture = dunmer
+}
+160437 = {
+	name="Лауравения"
+	culture = dunmer
+}
+160438 = {
+	name="Ледд"
+	culture = dunmer
+}
+160439 = {
+	name="Лладри"
+	culture = dunmer
+}
+160440 = {
+	name="Лланду"
+	culture = dunmer
+}
+160441 = {
+	name="Ллендо"
+	culture = dunmer
+}
+160442 = {
+	name="Ллерэйн"
+	culture = dunmer
+}
+160443 = {
+	name="Ллерви"
+	culture = dunmer
+}
+160444 = {
+	name="Ллерин"
+	culture = dunmer
+}
+160445 = {
+	name="Ллорин"
+	culture = dunmer
+}
+160446 = {
+	name="Ллотас"
+	culture = dunmer
+}
+160447 = {
+	name="Ллотри"
+	culture = dunmer
+}
+160448 = {
+	name="Маладас"
+	culture = dunmer
+}
+160449 = {
+	name="Мадальвел"
+	culture = dunmer
+}
+160450 = {
+	name="Мадрион"
+	culture = dunmer
+}
+160451 = {
+	name="Малас"
+	culture = dunmer
+}
+160452 = {
+	name="Малорен"
+	culture = dunmer
+}
+160453 = {
+	name="Малвайн"
+	culture = dunmer
+}
+160454 = {
+	name="Манас"
+	culture = dunmer
+}
+160455 = {
+	name="Манел"
+	culture = dunmer
+}
+160456 = {
+	name="Мано"
+	culture = dunmer
+}
+160457 = {
+	name="Марвэйн"
+	culture = dunmer
+}
+160458 = {
+	name="Марвос"
+	culture = dunmer
+}
+160459 = {
+	name="Мавандес"
+	culture = dunmer
+}
+160460 = {
+	name="Матендис"
+	culture = dunmer
+}
+160461 = {
+	name="Мельс"
+	culture = dunmer
+}
+160462 = {
+	name="Менас"
+	culture = dunmer 
+}
+160463 = {
+	name="Менкеле"
+	culture = dunmer 
+}
+160464 = {
+	name="Мерус"
+	culture = dunmer
+}
+160465 = {
+	name="Милар"
+	culture = dunmer 
+}
+160466 = {
+	name="Мило"
+	culture = dunmer
+}
+160467 = {
+	name="Мирель"
+	culture = dunmer
+}
+160468 = {
+	name="Молор"
+	culture = dunmer
+}
+160469 = {
+	name="Моран"
+	culture = dunmer
+}
+160470 = {
+	name="Надрам"
+	culture = dunmer
+}
+160471 = {
+	name="Надус"
+	culture = dunmer
+}
+160472 = {
+	name="Налин"
+	culture = dunmer
+}
+160473 = {
+	name="Нарос"
+	culture = dunmer
+}
+160474 = {
+	name="Навур"
+	culture = dunmer
+}
+160475 = {
+	name="Недалор"
+	culture = dunmer
+}
+160476 = {
+	name="Неладрен"
+	culture = dunmer
+}
+160477 = {
+	name="Неларам"
+	culture = dunmer
+}
+160478 = {
+	name="Нелет"
+	culture = dunmer
+}
+160479 = {
+	name="Нельвани"
+	culture = dunmer
+}
+160480 = {
+	name="Нельвайн"
+	culture = dunmer
+}
+160481 = {
+	name="Нельвило"
+	culture = dunmer
+}
+160482 = {
+	name="Нерандас"
+	culture = dunmer
+}
+160483 = {
+	name="Неротан"
+	culture = dunmer
+}
+160484 = {
+	name="Неротрен"
+	culture = dunmer
+}
+160485 = {
+	name="Нерус"
+	culture = dunmer
+}
+160486 = {
+	name="Нервион"
+	culture = dunmer
+}
+160487 = {
+	name="Ральвани"
+	culture = dunmer
+}
+160488 = {
+	name="Ральвейн"
+	culture = dunmer
+}
+160489 = {
+	name="Рамарис"
+	culture = dunmer
+}
+160490 = {
+	name="Раморан"
+	culture = dunmer
+}
+160491 = {
+	name="Рамори"
+	culture = dunmer
+}
+160492 = {
+	name="Рамотран"
+	culture = dunmer
+}
+160493 = {
+	name="Рандас"
+	culture = dunmer
+}
+160494 = {
+	name="Рарам"
+	culture = dunmer
+}
+160495 = {
+	name="Ратри"
+	culture = dunmer
+}
+160496 = {
+	name="Редас"
+	culture = dunmer
+}
+160497 = {
+	name="Редотрил"
+	culture = dunmer
+}
+160498 = {
+	name="Реладрен"
+	culture = dunmer
+}
+160499 = {
+	name="Реларис"
+	culture = dunmer
+}
+160500 = {
+	name="Релавель"
+	culture = dunmer
+}
+160501 = {
+	name="Реленим"
+	culture = dunmer
+}
+160502 = {
+	name="Рельним"
+	culture = dunmer
+}
+160503 = {
+	name="Релоро"
+	culture = dunmer
+}
+160504 = {
+	name="Релот"
+	culture = dunmer
+}
+160505 = {
+	name="Рельвани"
+	culture = dunmer
+}
+160506 = {
+	name="Рендо"
+	culture = dunmer
+}
+160507 = {
+	name="Рени"
+	culture = dunmer
+}
+160508 = {
+	name="Реним"
+	culture = dunmer
+}
+160509 = {
+	name="Рерам"
+	culture = dunmer
+}
+160510 = {
+	name="Рервам"
+	culture = dunmer
+}
+160511 = {
+	name="Ретелас"
+	culture = dunmer
+}
+160512 = {
+	name="Ретул"
+	culture = dunmer 
+}
+160513 = {
+	name="Рейяс"
+	culture = dunmer 
+}
+160514 = {
+	name="Рилвейн"
+	culture = dunmer
+}
+160515 = {
+	name="Риндо"
+	culture = dunmer 
+}
+160516 = {
+	name="Ринду"
+	culture = dunmer
+}
+160517 = {
+	name="Ринит"
+	culture = dunmer
+}
+160518 = {
+	name="Ривул"
+	culture = dunmer
+}
+160519 = {
+	name="Рольс"
+	culture = dunmer
+}
+160520 = {
+	name="Романдас"
+	culture = dunmer
+}
+160521 = {
+	name="Ромари"
+	culture = dunmer
+}
+160522 = {
+	name="Ромавель"
+	culture = dunmer
+}
+160523 = {
+	name="Роморан"
+	culture = dunmer
+}
+160524 = {
+	name="Ромотран"
+	culture = dunmer
+}
+160525 = {
+	name="Ротален"
+	culture = dunmer
+}
+160526 = {
+	name="Ротальним"
+	culture = dunmer
+}
+160527 = {
+	name="Роталор"
+	culture = dunmer
+}
+160528 = {
+	name="Ротан"
+	culture = dunmer
+}
+160529 = {
+	name="Ротари"
+	culture = dunmer
+}
+160530 = {
+	name="Ротелот"
+	culture = dunmer
+}
+160531 = {
+	name="Ротеран"
+	culture = dunmer
+}
+160532 = {
+	name="Ротрано"
+	culture = dunmer
+}
+160533 = {
+	name="Ротрен"
+	culture = dunmer
+}
+160534 = {
+	name="Рурвин"
+	culture = dunmer
+}
+160535 = {
+	name="Рион"
+	culture = dunmer
+}
+160536 = {
+	name="Садалас"
+	culture = dunmer
+}
+160537 = {
+	name="Садальвел"
+	culture = dunmer
+}
+160538 = {
+	name="Садас"
+	culture = dunmer
+}
+160539 = {
+	name="Садоро"
+	culture = dunmer
+}
+160540 = {
+	name="Садрало"
+	culture = dunmer
+}
+160541 = {
+	name="Сандрано"
+	culture = dunmer
+}
+160542 = {
+	name="Садрион"
+	culture = dunmer
+}
+160543 = {
+	name="Садрис"
+	culture = dunmer
+}
+160544 = {
+	name="Сала"
+	culture = dunmer
+}
+160545 = {
+	name="Салам"
+	culture = dunmer
+}
+160546 = {
+	name="Сандалас"
+	culture = dunmer
+}
+160547 = {
+	name="Саларен"
+	culture = dunmer
+}
+160548 = {
+	name="Саларон"
+	culture = dunmer
+}
+160549 = {
+	name="Салавел"
+	culture = dunmer
+}
+160550 = {
+	name="Сален"
+	culture = dunmer
+}
+160551 = {
+	name="Саленим"
+	culture = dunmer
+}
+160552 = {
+	name="Сальмин"
+	culture = dunmer
+}
+160553 = {
+	name="Салобар"
+	culture = dunmer
+}
+160554 = {
+	name="Салор"
+	culture = dunmer
+}
+160555 = {
+	name="Сальви"
+	culture = dunmer
+}
+160556 = {
+	name="Самандас"
+	culture = dunmer
+}
+160557 = {
+	name="Сандус"
+	culture = dunmer
+}
+160558 = {
+	name="Сарандус"
+	culture = dunmer
+}
+160559 = {
+	name="Саратрам"
+	culture = dunmer
+}
+160560 = {
+	name="Сарелот"
+	culture = dunmer
+}
+160561 = {
+	name="Саретари"
+	culture = dunmer
+}
+160562 = {
+	name="Саротран"
+	culture = dunmer 
+}
+160563 = {
+	name="Сари"
+	culture = dunmer 
+}
+160564 = {
+	name="Саринит"
+	culture = dunmer
+}
+160565 = {
+	name="Саробар"
+	culture = dunmer 
+}
+160566 = {
+	name="Саротрен"
+	culture = dunmer
+}
+160567 = {
+	name="Сариони"
+	culture = dunmer
+}
+160568 = {
+	name="Сатендас"
+	culture = dunmer
+}
+160569 = {
+	name="Сатис"
+	culture = dunmer
+}
+160570 = {
+	name="Сатрен"
+	culture = dunmer
+}
+160571 = {
+	name="Сатрион"
+	culture = dunmer
+}
+160572 = {
+	name="Савани"
+	culture = dunmer
+}
+160573 = {
+	name="Седрети"
+	culture = dunmer
+}
+160574 = {
+	name="Седри"
+	culture = dunmer
+}
+160575 = {
+	name="Селандас"
+	culture = dunmer
+}
+160576 = {
+	name="Селаро"
+	culture = dunmer
+}
+160577 = {
+	name="Селарис"
+	culture = dunmer
+}
+160578 = {
+	name="Селеш"
+	culture = dunmer
+}
+160579 = {
+	name="Селотан"
+	culture = dunmer
+}
+160580 = {
+	name="Сельвайн"
+	culture = dunmer
+}
+160581 = {
+	name="Сенду"
+	culture = dunmer
+}
+160582 = {
+	name="Сенорил"
+	culture = dunmer
+}
+160583 = {
+	name="Сералас"
+	culture = dunmer
+}
+160584 = {
+	name="Серано"
+	culture = dunmer
+}
+160585 = {
+	name="Сери"
+	culture = dunmer
+}
+160586 = {
+	name="Серотан"
+	culture = dunmer
+}
+160587 = {
+	name="Серван"
+	culture = dunmer
+}
+160588 = {
+	name="Сетандас"
+	culture = dunmer
+}
+160589 = {
+	name="Сетандус"
+	culture = dunmer
+}
+160590 = {
+	name="Сетри"
+	culture = dunmer
+}
+160591 = {
+	name="Суришпи"
+	culture = dunmer
+}
+160592 = {
+	name="Тальдс"
+	culture = dunmer
+}
+160593 = {
+	name="Тедален"
+	culture = dunmer
+}
+160594 = {
+	name="Тедран"
+	culture = dunmer
+}
+160595 = {
+	name="Теландас"
+	culture = dunmer
+}
+160596 = {
+	name="Тельмон"
+	culture = dunmer
+}
+160597 = {
+	name="Тельним"
+	culture = dunmer
+}
+160598 = {
+	name="Телвани"
+	culture = dunmer
+}
+160599 = {
+	name="Тенеран"
+	culture = dunmer
+}
+160600 = {
+	name="Терандас"
+	culture = dunmer
+}
+160601 = {
+	name="Теранo"
+	culture = dunmer
+}
+160602 = {
+	name="Тери"
+	culture = dunmer
+}
+160603 = {
+	name="Териа"
+	culture = dunmer
+}
+160604 = {
+	name="Терилу"
+	culture = dunmer
+}
+160605 = {
+	name="Тервайн"
+	culture = dunmer
+}
+160606 = {
+	name="Талас"
+	culture = dunmer
+}
+160607 = {
+	name="Талор"
+	culture = dunmer
+}
+160608 = {
+	name="Тандо"
+	culture = dunmer
+}
+160609 = {
+	name="Тарам"
+	culture = dunmer
+}
+160610 = {
+	name="Тарион"
+	culture = dunmer
+}
+160611 = {
+	name="Тарис"
+	culture = dunmer
+}
+160612 = {
+	name="Теман"
+	culture = dunmer 
+}
+160613 = {
+	name="Теним"
+	culture = dunmer 
+}
+160614 = {
+	name="Терайн"
+	culture = dunmer
+}
+160615 = {
+	name="Терети"
+	culture = dunmer 
+}
+160616 = {
+	name="Тиландас"
+	culture = dunmer
+}
+160617 = {
+	name="Тиларвель"
+	culture = dunmer
+}
+160618 = {
+	name="Тималвель"
+	culture = dunmer
+}
+160619 = {
+	name="Тиндо"
+	culture = dunmer
+}
+160620 = {
+	name="Тиралас"
+	culture = dunmer
+}
+160621 = {
+	name="Тирелот"
+	culture = dunmer
+}
+160622 = {
+	name="Тирит"
+	culture = dunmer
+}
+160623 = {
+	name="Тиротан"
+	culture = dunmer
+}
+160624 = {
+	name="Тирвэйн"
+	culture = dunmer
+}
+160625 = {
+	name="Тилвур"
+	culture = dunmer
+}
+160626 = {
+	name="Тистар"
+	culture = dunmer
+}
+160627 = {
+	name="Тобор"
+	culture = dunmer
+}
+160628 = {
+	name="Трандел"
+	culture = dunmer
+}
+160629 = {
+	name="Тюнел"
+	culture = dunmer
+}
+160630 = {
+	name="Тиравель"
+	culture = dunmer
+}
+160631 = {
+	name="Улени"
+	culture = dunmer
+}
+160632 = {
+	name="Улессен"
+	culture = dunmer
+}
+160633 = {
+	name="Улом"
+	culture = dunmer
+}
+160634 = {
+	name="Ульвер"
+	culture = dunmer
+}
+160635 = {
+	name="Урнс"
+	culture = dunmer
+}
+160636 = {
+	name="Урвон"
+	culture = dunmer
+}
+160637 = {
+	name="Урвун"
+	culture = dunmer
+}
+160638 = {
+	name="Урвалас"
+	culture = dunmer
+}
+160639 = {
+	name="Увалас"
+	culture = dunmer
+}
+160640 = {
+	name="Увален"
+	culture = dunmer
+}
+160641 = {
+	name="Увалор"
+	culture = dunmer
+}
+160642 = {
+	name="Увани"
+	culture = dunmer
+}
+160643 = {
+	name="Уварам"
+	culture = dunmer
+}
+160644 = {
+	name="Увелет"
+	culture = dunmer
+}
+160645 = {
+	name="Увулас"
+	culture = dunmer
+}
+160646 = {
+	name="Вадрион"
+	culture = dunmer
+}
+160647 = {
+	name="Валаай"
+	culture = dunmer
+}
+160648 = {
+	name="Валас"
+	culture = dunmer
+}
+160649 = {
+	name="Вален"
+	culture = dunmer
+}
+160650 = {
+	name="Вально"
+	culture = dunmer
+}
+160651 = {
+	name="Валор"
+	culture = dunmer
+}
+160652 = {
+	name="Вандо"
+	culture = dunmer
+}
+160653 = {
+	name="Вандрам"
+	culture = dunmer
+}
+160654 = {
+	name="Варо"
+	culture = dunmer
+}
+160655 = {
+	name="Вавас"
+	culture = dunmer
+}
+160656 = {
+	name="Вавин"
+	culture = dunmer
+}
+160657 = {
+	name="Ведарен"
+	culture = dunmer
+}
+160658 = {
+	name="Ведралу"
+	culture = dunmer
+}
+160659 = {
+	name="Ведрано"
+	culture = dunmer
+}
+160660 = {
+	name="Вельни"
+	culture = dunmer
+}
+160661 = {
+	name="Велорен"
+	culture = dunmer
+}
+160662 = {
+	name="Велот"
+	culture = dunmer 
+	used_for_random = no
+	can_appear = no
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 25
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160663 = {
+	name="Велотрери"
+	culture = dunmer 
+}
+160664 = {
+	name="Велотрил"
+	culture = dunmer
+}
+160665 = {
+	name="Вералор"
+	culture = dunmer 
+}
+160666 = {
+	name="Верелас"
+	culture = dunmer
+}
+160667 = {
+	name="Верендас"
+	culture = dunmer
+}
+160668 = {
+	name="Вери"
+	culture = dunmer
+}
+160669 = {
+	name="Верильнит"
+	culture = dunmer
+}
+160670 = {
+	name="Веротан"
+	culture = dunmer
+}
+160671 = {
+	name="Виайк"
+	culture = dunmer
+}
+160672 = {
+	name="Виан"
+	culture = dunmer
+}
+160673 = {
+	name="Вибато"
+	culture = dunmer
+}
+160674 = {
+	name="Видрон"
+	culture = dunmer
+}
+160675 = {
+	name="Вилас"
+	culture = dunmer
+}
+160676 = {
+	name="Винден"
+	culture = dunmer
+}
+160677 = {
+	name="Волос"
+	culture = dunmer
+}
+160678 = {
+	name="Алас"
+	culture = dunmer
+}
+160679 = {
+	name="Аран"
+	culture = dunmer
+}
+160680 = {
+	name="Арус"
+	culture = dunmer
+}
+160681 = {
+	name="Беран"
+	culture = dunmer
+}
+160682 = {
+	name="Дарелет"
+	culture = dunmer
+}
+160683 = {
+	name="Дуло"
+	culture = dunmer
+}
+160684 = {
+	name="Фадатрам"
+	culture = dunmer
+}
+160685 = {
+	name="Фавел"
+	culture = dunmer
+}
+160686 = {
+	name="Гимотран"
+	culture = dunmer
+}
+160687 = {
+	name="Хелан"
+	culture = dunmer
+}
+160688 = {
+	name="Хлерви"
+	culture = dunmer
+}
+160689 = {
+	name="Лландо"
+	culture = dunmer
+}
+160690 = {
+	name="Марвани"
+	culture = dunmer
+}
+160691 = {
+	name="Равиро"
+	culture = dunmer
+}
+160692 = {
+	name="Ретандус"
+	culture = dunmer
+}
+160693 = {
+	name="Салотан"
+	culture = dunmer
+}
+160694 = {
+	name="Салотран"
+	culture = dunmer
+}
+160695 = {
+	name="Салвел"
+	culture = dunmer
+}
+160696 = {
+	name="Самарис"
+	culture = dunmer
+}
+160697 = {
+	name="Сандас"
+	culture = dunmer
+}
+160698 = {
+	name="Телвайн"
+	culture = dunmer
+}
+160699 = {
+	name="Тарис"
+	culture = dunmer
+}
+160700 = {
+	name="Вандус"
+	culture = dunmer
+}
+160701 = {
+	name="Верелним"
+	culture = dunmer
+}
+160702 = {
+	name="Далвилу"
+	culture = dunmer
+}
+160703 = {
+	name="Драд"
+	culture = dunmer
+}
+160704 = {
+	name="Литандас"
+	culture = dunmer
+}
+160705 = {
+	name="Норвало"
+	culture = dunmer
+}
+160706 = {
+	name="Алор"
+	culture = dunmer
+}
+160707 = {
+	name="Дивейн"
+	culture = dunmer
+}
+160708 = {
+	name="Доловас"
+	culture = dunmer
+}
+160709 = {
+	name="Дуар"
+	culture = dunmer
+}
+160710 = {
+	name="Драрара"
+	culture = dunmer
+}
+160711 = {
+	name="Фандас"
+	culture = dunmer
+}
+160712 = {
+	name="Гатариан"
+	culture = dunmer
+}
+160713 = {
+	name="Хлавел"
+	culture = dunmer
+}
+160714 = {
+	name="Лерано"
+	culture = dunmer
+}
+160715 = {
+	name="Ллетро"
+	culture = dunmer
+}
+160716 = {
+	name="Лонаво"
+	culture = dunmer
+}
+160717 = {
+	name="Мальвулис"
+	culture = dunmer
+}
+160718 = {
+	name="Недарен"
+	culture = dunmer
+}
+160719 = {
+	name="Нирандил"
+	culture = dunmer
+}
+160720 = {
+	name="Ралвел"
+	culture = dunmer
+}
+160721 = {
+	name="Ромален"
+	culture = dunmer
+}
+160722 = {
+	name="Селвани"
+	culture = dunmer
+}
+160723 = {
+	name="Серинжи"
+	culture = dunmer
+}
+160724 = {
+	name="Телис"
+	culture = dunmer
+}
+160725 = {
+	name="Теран"
+	culture = dunmer
+}
+160726 = {
+	name="Вамори"
+	culture = dunmer
+}
+160727 = {
+	name="Вереним"
+	culture = dunmer
+}
+160728 = {
+	name="Атерон"
+	culture = dunmer
+}
+160729 = {
+	name="Атис"
+	culture = dunmer
+}
+160730 = {
+	name="Балу"
+	culture = dunmer
+}
+160731 = {
+	name="Дулери"
+	culture = dunmer
+}
+160732 = {
+	name="Эленил"
+	culture = dunmer
+}
+160733 = {
+	name="Фалдрус"
+	culture = dunmer
+}
+160734 = {
+	name="Гирион"
+	culture = dunmer
+}
+160735 = {
+	name="Идрен"
+	culture = dunmer
+}
+160736 = {
+	name="Имиан"
+	culture = dunmer
+}
+160737 = {
+	name="Индарин"
+	culture = dunmer
+}
+160738 = {
+	name="Мейлурил"
+	culture = dunmer
+}
+160739 = {
+	name="Насиал"
+	culture = dunmer
+}
+160740 = {
+	name="Нелорен"
+	culture = dunmer
+}
+160741 = {
+	name="Нетри"
+	culture = dunmer
+}
+160742 = {
+	name="Рендар"
+	culture = dunmer
+}
+160743 = {
+	name="Селот"
+	culture = dunmer
+}
+160744 = {
+	name="Тальвур"
+	culture = dunmer
+}
+160745 = {
+	name="Телендас"
+	culture = dunmer
+}
+160746 = {
+	name="Улен"
+	culture = dunmer
+}
+160747 = {
+	name="Верен"
+	culture = dunmer
+}
+160748 = {
+	name="Нетален"
+	culture = dunmer
+}
+160749 = {
+	name="Нилем"
+	culture = dunmer
+}
+160750 = {
+	name="Нильвон"
+	culture = dunmer
+}
+160751 = {
+	name="Нитрион"
+	culture = dunmer
+}
+160752 = {
+	name="Нолар"
+	culture = dunmer
+}
+160753 = {
+	name="Нотро"
+	culture = dunmer
+}
+160754 = {
+	name="Нотрайон"
+	culture = dunmer
+}
+160755 = {
+	name="Нулен"
+	culture = dunmer
+}
+160756 = {
+	name="Офемален"
+	culture = dunmer
+}
+160757 = {
+	name="Омани"
+	culture = dunmer
+}
+160758 = {
+	name="Омарен"
+	culture = dunmer
+}
+160759 = {
+	name="Ондин"
+	culture = dunmer
+}
+160760 = {
+	name="Онмар"
+	culture = dunmer
+}
+160761 = {
+	name="Орелу"
+	culture = dunmer
+}
+160762 = {
+	name="Орес"
+	culture = dunmer
+}
+160763 = {
+	name="Орейн"
+	culture = dunmer
+}
+160764 = {
+	name="Отралас"
+	culture = dunmer
+}
+160765 = {
+	name="Отробар"
+	culture = dunmer
+}
+160766 = {
+	name="Квинтелла"
+	culture = dunmer
+}
+160767 = {
+	name="Радарис"
+	culture = dunmer
+}
+160768 = {
+	name="Радобар"
+	culture = dunmer
+}
+160769 = {
+	name="Ралаал"
+	culture = dunmer
+}
+160770 = {
+	name="Ралоран"
+	culture = dunmer
+}
+160771 = {
+	name="Ра'Атим"
+	culture = dunmer
+}
+160772 = {
+	name="Дорум"
+	culture = dunmer
+}
+160773 = {
+	name="Садрас"
+	culture = dunmer
+	used_for_random = no
+	can_appear = no
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 23
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160774 = {
+	name="Сальвенду"
+	culture = dunmer
+}
+160775 = {
+	name="Сул"
+	culture = dunmer
+	used_for_random = no
+	can_appear = no
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 24
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160776 = {
+	name="Талвенна"
+	culture = dunmer
+}
+160777 = {
+	name="Дагот"
+	culture = dunmer 
+	
+	used_for_random = no
+	can_appear = no
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 26
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+160778 = {
+	name="Отери"
+	culture = dunmer
+}
+160779 = {
+	name="Мора"
+	culture = dunmer
+}
+160780 = {
+	name="Сота"
+	culture = dunmer
+}
+160781 = {
+	name = "Сандилид"
+	culture = dunmer
+}
+160782 = {
+	name = "Вириан"
+	culture = dunmer
+}

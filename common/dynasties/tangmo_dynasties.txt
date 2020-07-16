@@ -1,0 +1,541 @@
+# Tang Mo Range: 270000-279999
+
+270000 = {
+	name = "Танг Мири"
+	culture = tangmo
+}
+270001 = {
+	name = "Сунг Ква"
+	culture = tangmo
+}
+270002 = {
+	name = "Пхае Дин"
+	culture = tangmo
+}
+270003 = {
+	name = "Вонг Танг"
+	culture = tangmo
+}
+270004 = {
+	name = "Ксао Ита"
+	culture = tangmo
+}
+270005 = {
+	name = "Одо Мири"
+	culture = tangmo
+}
+270006 = {
+	name = "Пинг-Пиа"
+	culture = tangmo
+}
+270007 = {
+	name = "Ванг Цуа"
+	culture = tangmo
+}
+270008 = {
+	name = "Ксао Фанг"
+	culture = tangmo
+}
+270009 = {
+	name = "Танг'ванг"
+	culture = tangmo
+}
+270010 = {
+	name = "Ксинг-Монг"
+	culture = tangmo
+}
+270011 = {
+	name = "Ксао Пианг"
+	culture = tangmo
+}
+270012 = {
+	name = "Вонг Шао"
+	culture = tangmo
+}
+270013 = {
+	name = "Танг'пиа"
+	culture = tangmo
+}
+270014 = {
+	name = "Цао-Цуа"
+	culture = tangmo
+}
+270015 = {
+	name = "Ванг Мо"
+	culture = tangmo
+}
+270016 = {
+	name = "Пинг'цу"
+	culture = tangmo
+}
+270017 = {
+	name = "Ванг-цуа"
+	culture = tangmo
+}
+270018 = {
+	name = "Танг'цу"
+	culture = tangmo
+}
+270019 = {
+	name = "Чжи Фанг"
+	culture = tangmo
+}
+270020 = {
+	name = "Мо'вонг"
+	culture = tangmo
+}
+270021 = {
+	name = "Джан Фанг"
+	culture = tangmo
+}
+270022 = {
+	name = "Као'цуа"
+	culture = tangmo
+}
+270023 = {
+	name = "Диан'монг"
+	culture = tangmo
+}
+270024 = {
+	name = "Мо'цуа"
+	culture = tangmo
+}
+270025 = {
+	name = "Одо-Виет"
+	culture = tangmo
+}
+270026 = {
+	name = "Ванг'монг"
+	culture = tangmo
+}
+270027 = {
+	name = "Танг'мао"
+	culture = tangmo
+}
+270028 = {
+	name = "Дао-Дао"
+	culture = tangmo
+}
+270029 = {
+	name = "Джинг'вонг"
+	culture = tangmo
+}
+270030 = {
+	name = "Чжу-вонг"
+	culture = tangmo
+}
+270031 = {
+	name = "Шао'пиа"
+	culture = tangmo
+}
+270032 = {
+	name = "Као'диан"
+	culture = tangmo
+}
+270033 = {
+	name = "Динг'ца"
+	culture = tangmo
+}
+270034 = {
+	name = "Джинг Шао"
+	culture = tangmo
+}
+270035 = {
+	name = "Цао'виет"
+	culture = tangmo
+}
+270036 = {
+	name = "Чжу Цао"
+	culture = tangmo
+}
+270037 = {
+	name = "Джиа'вонг"
+	culture = tangmo
+}
+270038 = {
+	name = "Дао-пианг"
+	culture = tangmo
+}
+270039 = {
+	name = "Джиа-Диан"
+	culture = tangmo
+}
+270040 = {
+	name = "Ксао'дао"
+	culture = tangmo
+}
+270041 = {
+	name = "Динг'ита"
+	culture = tangmo
+}
+270042 = {
+	name = "Дао'джиан"
+	culture = tangmo
+}
+270043 = {
+	name = "Джан Ита"
+	culture = tangmo
+}
+270044 = {
+	name = "Ванг'лианг"
+	culture = tangmo
+}
+270045 = {
+	name = "Ксинг Цао"
+	culture = tangmo
+}
+270046 = {
+	name = "Чжи Ца"
+	culture = tangmo
+}
+270047 = {
+	name = "Цао Танг"
+	culture = tangmo
+}
+270048 = {
+	name = "Одо Ванг"
+	culture = tangmo
+}
+270049 = {
+	name = "Динг'шао"
+	culture = tangmo
+}
+270050 = {
+	name = "Да Цуа"
+	culture = tangmo
+}
+270051 = {
+	name = "Чжи Мо"
+	culture = tangmo
+}
+270052 = {
+	name = "Да'виен"
+	culture = tangmo
+}
+270053 = {
+	name = "Као Виет"
+	culture = tangmo
+}
+270054 = {
+	name = "Джиа Мао"
+	culture = tangmo
+}
+270055 = {
+	name = "Цао Пианг"
+	culture = tangmo
+}
+270056 = {
+	name = "Цао'ланг"
+	culture = tangmo
+}
+270057 = {
+	name = "Да Ванг"
+	culture = tangmo
+}
+270058 = {
+	name = "Ксао'шао"
+	culture = tangmo
+}
+270059 = {
+	name = "Джан'ванг"
+	culture = tangmo
+}
+270060 = {
+	name = "Шао Цу"
+	culture = tangmo
+}
+270061 = {
+	name = "Ксао'мири"
+	culture = tangmo
+}
+270062 = {
+	name = "Одо'виен"
+	culture = tangmo
+}
+270063 = {
+	name = "Джан'ланг"
+	culture = tangmo
+}
+270064 = {
+	name = "Джиа'виен"
+	culture = tangmo
+}
+270065 = {
+	name = "Као Мао"
+	culture = tangmo
+}
+270066 = {
+	name = "Диан'мири"
+	culture = tangmo
+}
+270067 = {
+	name = "Пхан'вонг"
+	culture = tangmo
+}
+270068 = {
+	name = "Пхан'ло"
+	culture = tangmo
+}
+270069 = {
+	name = "Пхан'хи"
+	culture = tangmo
+}
+270070 = {
+	name = "Хао Нао"
+	culture = tangmo
+}
+270071 = {
+	name = "Руп Ка"
+	culture = tangmo
+}
+270072 = {
+	name = "Лан'дун"
+	culture = tangmo
+}
+270073 = {
+	name = "Лам'кун"
+	culture = tangmo
+}
+270074 = {
+	name = "Хириа'сиап"
+	culture = tangmo
+}
+270075 = {
+	name = "Ка'нут"
+	culture = tangmo
+}
+270076 = {
+	name = "Кан'сака"
+	culture = tangmo
+}
+270077 = {
+	name = "Ка'лан"
+	culture = tangmo
+}
+270078 = {
+	name = "Ма'као"
+	culture = tangmo
+}
+270079 = {
+	name = "Ма'на"
+	culture = tangmo
+}
+270080 = {
+	name = "Да'со"
+	culture = tangmo
+}
+270081 = {
+	name = "Ма'да"
+	culture = tangmo
+}
+270082 = {
+	name = "Ка'чун"
+	culture = tangmo
+}
+270083 = {
+	name = "Ка'лап"
+	culture = tangmo
+}
+270084 = {
+	name = "Унг'пад"
+	culture = tangmo
+}
+270085 = {
+	name = "Унг'со"
+	culture = tangmo
+}
+270086 = {
+	name = "Унг'висит"
+	culture = tangmo
+}
+270087 = {
+	name = "Унг'пхан"
+	culture = tangmo
+}
+270088 = {
+	name = "Унг'до"
+	culture = tangmo
+}
+270089 = {
+	name = "Унг'монг"
+	culture = tangmo
+}
+270090 = {
+	name = "Унг'виен"
+	culture = tangmo
+}
+270091 = {
+	name = "Тхам'лек"
+	culture = tangmo
+}
+270092 = {
+	name = "Тхам Тхам"
+	culture = tangmo
+}
+270093 = {
+	name = "Тхам'до"
+	culture = tangmo
+}
+270094 = {
+	name = "Тхам'виен"
+	culture = tangmo
+}
+270095 = {
+	name = "Тхам'мири"
+	culture = tangmo
+}
+270096 = {
+	name = "Леек'мао"
+	culture = tangmo
+}
+270097 = {
+	name = "Леек'ло"
+	culture = tangmo
+}
+270098 = {
+	name = "Леек'вонг"
+	culture = tangmo
+}
+270099 = {
+	name = "Леек'пиа"
+	culture = tangmo
+}
+270100 = {
+	name = "Леек'тан"
+	culture = tangmo
+}
+270101 = {
+	name = "Сури'кол"
+	culture = tangmo
+}
+270102 = {
+	name = "Сури'цу"
+	culture = tangmo
+}
+270103 = {
+	name = "Сури'вонг"
+	culture = tangmo
+}
+270104 = {
+	name = "Сури'ланг"
+	culture = tangmo
+}
+270105 = {
+	name = "Пхай'лао"
+	culture = tangmo
+}
+270106 = {
+	name = "Пхай'дан"
+	culture = tangmo
+}
+270107 = {
+	name = "Пхай'дай"
+	culture = tangmo
+}
+270108 = {
+	name = "Пхай'лар"
+	culture = tangmo
+}
+270109 = {
+	name = "Лар Мо"
+	culture = tangmo
+}
+270110 = {
+	name = "Пхай Мо"
+	culture = tangmo
+}
+270111 = {
+	name = "Бак Мо"
+	culture = tangmo
+}
+270112 = {
+	name = "Вонг Мо"
+	culture = tangmo
+}
+270113 = {
+	name = "Дао'дай"
+	culture = tangmo
+}
+270114 = {
+	name = "Дао'лоа"
+	culture = tangmo
+}
+270115 = {
+	name = "Дао'бар"
+	culture = tangmo
+}
+270116 = {
+	name = "Дао'чун"
+	culture = tangmo
+}
+270117 = {
+	name = "Конг'кул"
+	culture = tangmo
+}
+270118 = {
+	name = "Конг'тхан"
+	culture = tangmo
+}
+270119 = {
+	name = "Конг'плой"
+	culture = tangmo
+}
+270120 = {
+	name = "Конг'айя"
+	culture = tangmo
+}
+270121 = {
+	name = "Пром'ва"
+	culture = tangmo
+}
+270122 = {
+	name = "Пром'лун"
+	culture = tangmo
+}
+270123 = {
+	name = "Пром'дао"
+	culture = tangmo
+}
+270124 = {
+	name = "Пром'ита"
+	culture = tangmo
+}
+270125 = {
+	name = "Као Танг"
+	culture = tangmo
+}
+270126 = {
+	name = "Шао'виен"
+	culture = tangmo
+}
+270127 = {
+	name = "Сак'тхан"
+	culture = tangmo
+}
+270128 = {
+	name = "Си'ри"
+	culture = tangmo
+}
+270129 = {
+	name = "Сан'ти"
+	culture = tangmo
+}
+270130 = {
+	name = "Плоу'лут"
+	culture = tangmo
+}
+
+270131 = {
+	name = "Лао-зу"
+	culture = tangmo
+}
+
+270132 = {
+	name = "Ку-Чао"
+	culture = tangmo
+}
+
+270133 = {
+	name = "Да-Бьян"
+	culture = tangmo
+}

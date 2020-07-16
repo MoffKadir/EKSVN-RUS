@@ -1,0 +1,207 @@
+#Dwemer Range: 340000-349999
+
+#DWEMER
+340000 = {
+	name="Багарн"
+	culture = dwemer
+}
+340001 = {
+	name="Мезалф"
+	culture = dwemer
+}
+340002 = {
+	name="Стунгнтумц"
+	culture = dwemer
+}
+340003 = {
+	name="Мзанч"
+	culture = dwemer
+}
+340004 = {
+	name="Ичоморн"
+	culture = dwemer
+}
+340005 = {
+	name="Козлурч"
+	culture = dwemer
+}
+340006 = {
+	name="Нхенард"
+	culture = dwemer
+}
+340007 = {
+	name="Ирезлурч"
+	culture = dwemer
+}
+340008 = {
+	name="Джагарн"
+	culture = dwemer
+}
+340009 = {
+	name="Колчанф"
+	culture = dwemer
+}
+340010 = {
+	name="Илезлурч"
+	culture = dwemer
+}
+340011 = {
+	name="Ярач"
+	culture = dwemer
+}
+340012 = {
+	name="Крерач"
+	culture = dwemer
+}
+340013 = {
+	name="Нчуварн"
+	culture = dwemer
+}
+340014 = {
+	name="Кареветч"
+	culture = dwemer
+}
+340015 = {
+	name="Стузлурч"
+	culture = dwemer
+}
+340016 = {
+	name="Рамротц"
+	culture = dwemer
+}
+340017 = {
+	name="Нромрорн"
+	culture = dwemer
+}
+340018 = {
+	name="Мзанч"
+	culture = dwemer
+}
+340019 = {
+    name="Джлетарн"
+	culture = dwemer
+}
+340020 = {
+    name ="Мзанруз"
+	culture = dwemer
+}
+340021 = {
+    name ="Крегросч"
+	culture = dwemer
+}
+340022 = {
+    name ="Друварн"
+	culture = dwemer
+}
+340023 = {
+    name ="Изуларф"
+	culture = dwemer
+}
+340024 = {
+    name ="Нхенразг"
+	culture = dwemer
+}
+340025 = {
+    name ="Чразалф"
+	culture = dwemer
+}
+340026 = {
+    name ="Изебалн"
+	culture = dwemer
+}
+340027 = {
+    name ="Бреморн"
+	culture = dwemer
+}
+340028 = {
+    name ="Стурач"
+	culture = dwemer
+}
+340029 = {
+    name ="Дзребнанч"
+	culture = dwemer
+}
+340030 = {
+    name ="Друхурз"
+	culture = dwemer
+}
+340031 = {
+    name ="Радлин"
+	culture = dwemer
+}
+340032 = {
+    name ="Асралрохн"
+	culture = dwemer
+}
+340033 = {
+    name ="Азадчан"
+	culture = dwemer
+}
+340034 = {
+    name ="Ратвар"
+	culture = dwemer
+}
+340035 = {
+    name ="Бнорач"
+	culture = dwemer
+}
+340036 = {
+    name = "Тзезхурз"
+	culture = dwemer
+}
+340037 = {
+    name ="Тзезчин"
+	culture = dwemer
+}
+340038 = {
+    name ="Кохретз"
+	culture = dwemer
+}
+340039 = {
+    name ="Кратурзч"
+	culture = dwemer
+}
+340040 = {
+    name ="Стувнорз"
+	culture = dwemer
+}
+340041 = {
+    name ="Каретчатз"
+	culture = dwemer
+}
+340042 = {
+    name ="Инрагнерз"
+	culture = dwemer
+}
+340043 = {
+    name ="Стунринн"
+	culture = dwemer
+}
+340044 = {
+    name ="Менринн"
+	culture = dwemer
+}
+340045 = {
+    name ="Ралчанф"
+	culture = dwemer
+}
+340046 = {
+    name ="Бретвар"
+	culture = dwemer
+}
+340047 = {
+    name ="Брефрач"
+	culture = dwemer
+}
+340048 = {
+    name ="Гранруз"
+	culture = dwemer
+}
+340049 = {
+    name ="Бнозалф"
+	culture = dwemer
+}
+340050 = {
+    name ="Дзренруз"
+	culture = dwemer
+}

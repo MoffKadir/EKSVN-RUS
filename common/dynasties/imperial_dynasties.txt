@@ -1,0 +1,2366 @@
+#Imperial Range: 20000-29999
+
+20000 = {
+	name="Абаконис"
+	culture = imperial
+}
+
+20001 = {
+	name="Абалий"
+	culture = imperial
+}
+
+20002 = {
+	name="Абелий"
+	culture = imperial
+}
+
+20003 = {
+	name="Абитий"
+	culture = imperial
+}
+
+20004 = {
+	name="Аккий"
+	culture = imperial
+}
+
+20005 = {
+	name="Акиций"
+	culture = imperial
+}
+
+20006 = {
+	name="Ацилий"
+	culture = imperial
+}
+
+20007 = {
+	name="Эрептим"
+	culture = imperial
+}
+
+20008 = {
+	name="Эресий"
+	culture = imperial
+}
+
+20009 = {
+	name="Аэрий"
+	culture = imperial
+}
+
+20010 = {
+	name="Афармевус"
+	culture = imperial
+}
+
+20011 = {
+	name="Афентий"
+	culture = imperial
+}
+
+20012 = {
+	name="Аферус"
+	culture = imperial
+}
+
+20013 = {
+	name="Афиэль"
+	culture = imperial
+}
+
+20014 = {
+	name="Афраний"
+	culture = imperial
+}
+
+20015 = {
+	name="Афравикус"
+	culture = imperial
+}
+
+20016 = {
+	name="Афренций"
+	culture = imperial
+}
+
+20017 = {
+	name="Афрорус"
+	culture = imperial
+}
+
+20018 = {
+	name="Агатиотус"
+	culture = imperial
+}
+
+20019 = {
+	name="Агициан"
+	culture = imperial
+}
+
+20020 = {
+	name="Агитулиан"
+	culture = imperial
+}
+
+20021 = {
+	name="Аграспус"
+	culture = imperial
+}
+
+20022 = {
+	name="Агратрус"
+	culture = imperial
+}
+
+20023 = {
+	name="Агревус"
+	culture = imperial
+}
+
+20024 = {
+	name="Агронис"
+	culture = imperial
+}
+
+20025 = {
+	name="Агрудилий"
+	culture = imperial
+}
+
+20026 = {
+	name="Агруинтус"
+	culture = imperial
+}
+
+20027 = {
+	name="Альбарниан"
+	culture = imperial
+}
+
+20028 = {
+	name="Альбуттиан"
+	culture = imperial
+}
+
+20029 = {
+	name="Аллектус"
+	culture = imperial
+}
+
+20030 = {
+	name="Аллейус"
+	culture = imperial
+}
+
+20031 = {
+	name="Амарус"
+	culture = imperial
+}
+
+20032 = {
+	name="Аматий"
+	culture = imperial
+}
+
+20033 = {
+	name="Амедий"
+	culture = imperial
+}
+
+20034 = {
+	name="Амеренций"
+	culture = imperial
+}
+
+20035 = {
+	name="Амиулусус"
+	culture = imperial
+}
+
+20036 = {
+	name="Амнептим"
+	culture = imperial
+}
+
+20037 = {
+	name="Амнис"
+	culture = imperial
+}
+
+20038 = {
+	name="Амнтус"
+	culture = imperial
+}
+
+20039 = {
+	name="Аналий"
+	culture = imperial
+}
+
+20040 = {
+	name="Анатиотус"
+	culture = imperial
+}
+
+20041 = {
+	name="Анкрус"
+	culture = imperial
+}
+
+20042 = {
+	name="Андроникус"
+	culture = imperial
+}
+
+20043 = {
+	name="Андус"
+	culture = imperial
+}
+
+20044 = {
+	name="Анентий"
+	culture = imperial
+}
+
+20045 = {
+	name="Ангедус"
+	culture = imperial
+}
+
+20046 = {
+	name="Ангиэль"
+	culture = imperial
+}
+
+20047 = {
+	name="Ангирус"
+	culture = imperial
+}
+
+20048 = {
+	name="Ангий"
+	culture = imperial
+}
+
+20049 = {
+	name="Ангоний"
+	culture = imperial
+}
+
+20050 = {
+	name="Анициан"
+	culture = imperial
+}
+
+20051 = {
+	name="Аним"
+	culture = imperial
+}
+
+20052 = {
+	name="Аниум"
+	culture = imperial
+}
+
+20053 = {
+	name="Анниум"
+	culture = imperial
+}
+
+20054 = {
+	name="Анний"
+	culture = imperial
+}
+
+20055 = {
+	name="Антаболис"
+	culture = imperial
+}
+
+20056 = {
+	name="Антоний"
+	culture = imperial
+}
+
+20057 = {
+	name="Арий"
+	culture = imperial
+}
+
+20058 = {
+	name="Арталвий"
+	culture = imperial
+}
+
+20059 = {
+	name="Артеллиан"
+	culture = imperial
+}
+
+20060 = {
+	name="Артициан"
+	culture = imperial
+}
+
+20061 = {
+	name="Артиум"
+	culture = imperial
+}
+
+20062 = {
+	name="Арторий"
+	culture = imperial
+}
+
+20063 = {
+	name="Артуфус"
+	culture = imperial
+}
+
+20064 = {
+	name="Артус"
+	culture = imperial
+}
+
+20065 = {
+	name="Атициан"
+	culture = imperial
+}
+
+20066 = {
+	name="Атирриум"
+	culture = imperial
+}
+
+20067 = {
+	name="Атий"
+	culture = imperial
+}
+
+20068 = {
+	name="Атрий"
+	culture = imperial
+}
+
+20069 = {
+	name="Аттий"
+	culture = imperial
+}
+
+20070 = {
+	name="Ауррус"
+	culture = imperial
+}
+
+20071 = {
+	name="Авидий"
+	culture = imperial
+}
+
+20072 = {
+	name="Аксий"
+	culture = imperial
+}
+
+20073 = {
+	name="Бений"
+	culture = imperial
+}
+
+20074 = {
+	name="Беллиенус"
+	culture = imperial
+}
+
+20075 = {
+	name="Бенанус"
+	culture = imperial
+}
+
+20076 = {
+	name="Бенитрий"
+	culture = imperial
+}
+
+20077 = {
+	name="Беноний"
+	culture = imperial
+}
+
+20078 = {
+	name="Брадус"
+	culture = imperial
+}
+
+20079 = {
+	name="Бралерий"
+	culture = imperial
+}
+
+20080 = {
+	name="Бралий"
+	culture = imperial
+}
+
+20081 = {
+	name="Братиотус"
+	culture = imperial
+}
+
+20082 = {
+	name="Бревус"
+	culture = imperial
+}
+
+20083 = {
+	name="Бридус"
+	culture = imperial
+}
+
+20084 = {
+	name="Бролус"
+	culture = imperial
+}
+
+20085 = {
+	name="Буртилий"
+	culture = imperial
+}
+
+20086 = {
+	name="Кадиузус"
+	culture = imperial
+}
+
+20087 = {
+	name="Кареллий"
+	culture = imperial
+}
+
+20088 = {
+	name="Цезенний"
+	culture = imperial
+}
+
+20089 = {
+	name="Кагрий"
+	culture = imperial
+}
+
+20090 = {
+	name="Калидий"
+	culture = imperial
+}
+
+20091 = {
+	name="Каллидус"
+	culture = imperial
+}
+
+20092 = {
+	name="Каллонус"
+	culture = imperial
+}
+
+20093 = {
+	name="Калус"
+	culture = imperial
+}
+
+20094 = {
+	name="Карий"
+	culture = imperial
+}
+
+20095 = {
+	name="Катаний"
+	culture = imperial
+}
+
+20096 = {
+	name="Катиотус"
+	culture = imperial
+}
+
+20097 = {
+	name="Катий"
+	culture = imperial
+}
+
+20098 = {
+	name="Цедус"
+	culture = imperial
+}
+
+20099 = {
+	name="Келата"
+	culture = imperial
+}
+
+20100 = {
+	name="Церуния"
+	culture = imperial
+}
+
+20101 = {
+	name="Чений"
+	culture = imperial
+}
+
+20102 = {
+	name="Чекс"
+	culture = imperial
+}
+
+20103 = {
+	name="Чейнослин"
+	culture = imperial
+}
+
+20104 = {
+	name="Кинес"
+	culture = imperial
+}
+
+20105 = {
+	name="Цинтус"
+	culture = imperial
+}
+
+20106 = {
+	name="Сципий"
+	culture = imperial
+}
+
+20107 = {
+	name="Цитрий"
+	culture = imperial
+}
+
+20108 = {
+	name="Клевий"
+	culture = imperial
+}
+
+20109 = {
+	name="Клерус"
+	culture = imperial
+}
+
+20110 = {
+	name="Клиум"
+	culture = imperial
+}
+
+20111 = {
+	name="Клосий"
+	culture = imperial
+}
+
+20112 = {
+	name="Клутумнус"
+	culture = imperial
+}
+
+20113 = {
+	name="Книсия"
+	culture = imperial
+}
+
+20114 = {
+	name="Книум"
+	culture = imperial
+}
+
+20115 = {
+	name="Кний"
+	culture = imperial
+}
+
+20116 = {
+	name="Кололлий"
+	culture = imperial
+}
+
+20117 = {
+	name="Колус"
+	culture = imperial
+}
+
+20118 = {
+	name="Конциатий"
+	culture = imperial
+}
+
+20119 = {
+	name="Конициан"
+	culture = imperial
+}
+
+20120 = {
+	name="Корриум"
+	culture = imperial
+}
+
+20121 = {
+	name="Косадес"
+	culture = imperial
+}
+
+20122 = {
+	name="Крацонис"
+	culture = imperial
+}
+
+20123 = {
+	name="Крицус"
+	culture = imperial
+}
+
+20124 = {
+	name="Кридий"
+	culture = imperial
+}
+
+20125 = {
+	name="Криэль"
+	culture = imperial
+}
+
+20126 = {
+	name="Кронис"
+	culture = imperial
+}
+
+20127 = {
+	name="Крунус"
+	culture = imperial
+}
+
+20128 = {
+	name="Куллинан"
+	culture = imperial
+}
+
+20129 = {
+	name="Даннус"
+	culture = imperial
+}
+
+20130 = {
+	name="Дареллиун"
+	culture = imperial
+}
+
+20131 = {
+	name="Деканий"
+	culture = imperial
+}
+
+20132 = {
+	name="Децимус"
+	culture = imperial
+}
+
+20133 = {
+	name="Делитиан"
+	culture = imperial
+}
+
+20134 = {
+	name="Дениан"
+	culture = imperial
+}
+
+20135 = {
+	name="Дергий"
+	culture = imperial
+}
+
+20136 = {
+	name="Дезидений"
+	culture = imperial
+}
+
+20137 = {
+	name="Декс"
+	culture = imperial
+}
+
+20138 = {
+	name="Донтон"
+	culture = imperial
+}
+
+20139 = {
+	name="Драконис"
+	culture = imperial
+}
+
+20140 = {
+	name="Дридус"
+	culture = imperial
+}
+
+20141 = {
+	name="Дронис"
+	culture = imperial
+}
+
+20142 = {
+	name="Друспидий"
+	culture = imperial
+}
+
+20143 = {
+	name="Дулий"
+	culture = imperial
+}
+
+20144 = {
+	name="Дуроний"
+	culture = imperial
+}
+
+20145 = {
+	name="Дукс"
+	culture = imperial
+}
+
+20146 = {
+	name="Эгересий"
+	culture = imperial
+}
+
+20147 = {
+	name="Эгекс"
+	culture = imperial
+}
+
+20148 = {
+	name="Эгнаций"
+	culture = imperial
+}
+
+20149 = {
+	name="Эниний"
+	culture = imperial
+}
+
+20150 = {
+	name="Энтий"
+	culture = imperial
+}
+
+20151 = {
+	name="Эсдедий"
+	culture = imperial
+}
+
+20152 = {
+	name="Эсдерентий"
+	culture = imperial
+}
+
+20153 = {
+	name="Эсдрекус"
+	culture = imperial
+}
+
+20154 = {
+	name="Эсидиел"
+	culture = imperial
+}
+
+20155 = {
+	name="Эсидий"
+	culture = imperial
+}
+
+20156 = {
+	name="Эсиний"
+	culture = imperial
+}
+
+20157 = {
+	name="Эсирриум"
+	culture = imperial
+}
+
+20158 = {
+	name="Ивик"
+	culture = imperial
+}
+
+20159 = {
+	name="Фасиан"
+	culture = imperial
+}
+
+20160 = {
+	name="Фалерий"
+	culture = imperial
+}
+
+20161 = {
+	name="Фальвий"
+	culture = imperial
+}
+
+20162 = {
+	name="Фамалий"
+	culture = imperial
+}
+
+20163 = {
+	name="Фаусейус"
+	culture = imperial
+}
+
+20164 = {
+	name="Фауст"
+	culture = imperial
+}
+
+20165 = {
+	name="Фавоний"
+	culture = imperial
+}
+
+20166 = {
+	name="Феланнус"
+	culture = imperial
+}
+
+20167 = {
+	name="Флаккус"
+	culture = imperial
+}
+
+20168 = {
+	name="Флаеус"
+	culture = imperial
+}
+
+20169 = {
+	name="Флалвий"
+	culture = imperial
+}
+
+20170 = {
+	name="Фларугрий"
+	culture = imperial
+}
+
+20171 = {
+	name="Флавоний"
+	culture = imperial
+}
+
+20172 = {
+	name="Флавус"
+	culture = imperial
+}
+
+20173 = {
+	name="Флитрий"
+	culture = imperial
+}
+
+20174 = {
+	name="Флоний"
+	culture = imperial
+}
+
+20175 = {
+	name="Флорий"
+	culture = imperial
+}
+
+20176 = {
+	name="Форриум"
+	culture = imperial
+}
+
+20177 = {
+	name="Фульбенус"
+	culture = imperial
+}
+
+20178 = {
+	name="Фульциний"
+	culture = imperial
+}
+
+20179 = {
+	name="Фуротис"
+	culture = imperial
+}
+
+20180 = {
+	name="Габенагус"
+	culture = imperial
+}
+
+20181 = {
+	name="Галенус"
+	culture = imperial
+}
+
+20182 = {
+	name="Галленус"
+	culture = imperial
+}
+
+20183 = {
+	name="Гавикус"
+	culture = imperial
+}
+
+20184 = {
+	name="Гавиний"
+	culture = imperial
+}
+
+20185 = {
+	name="Гим"
+	culture = imperial
+}
+
+20186 = {
+	name="Глаевий"
+	culture = imperial
+}
+
+20187 = {
+	name="Гледус"
+	culture = imperial
+}
+
+20188 = {
+	name="Глидий"
+	culture = imperial
+}
+
+20189 = {
+	name="Глонис"
+	culture = imperial
+}
+
+20190 = {
+	name="Глориозус"
+	culture = imperial
+}
+
+20191 = {
+	name="Глуфус"
+	culture = imperial
+}
+
+20192 = {
+	name="Граний"
+	culture = imperial
+}
+
+20193 = {
+	name="Граций"
+	culture = imperial
+}
+
+20194 = {
+	name="Гратус"
+	culture = imperial
+}
+
+20195 = {
+	name="Гравиус"
+	culture = imperial
+}
+
+20196 = {
+	name="Гриниус"
+	culture = imperial
+}
+
+20197 = {
+	name="Ханотепулус"
+	culture = imperial
+}
+
+20198 = {
+	name="Ханус"
+	culture = imperial
+}
+
+20199 = {
+	name="Хармевус"
+	culture = imperial
+}
+
+20200 = {
+	name="Херенний"
+	culture = imperial
+}
+
+20201 = {
+	name="Херс"
+	culture = imperial
+}
+
+20202 = {
+	name="Хертариан"
+	culture = imperial
+}
+
+20203 = {
+	name="Хирриум"
+	culture = imperial
+}
+
+20204 = {
+	name="Горатиус"
+	culture = imperial
+}
+
+20205 = {
+	name="Хосидий"
+	culture = imperial
+}
+
+20206 = {
+	name="Хосидус"
+	culture = imperial
+}
+
+20207 = {
+	name="Идаккус"
+	culture = imperial
+}
+
+20208 = {
+	name="Идиум"
+	culture = imperial
+}
+
+20209 = {
+	name="Идолус"
+	culture = imperial
+}
+
+20210 = {
+	name="Идорриум"
+	culture = imperial
+}
+
+20211 = {
+	name="Идузоний"
+	culture = imperial
+}
+
+20212 = {
+	name="Инаконис"
+	culture = imperial
+}
+
+20213 = {
+	name="Иниан"
+	culture = imperial
+}
+
+20214 = {
+	name="Иниум"
+	culture = imperial
+}
+
+20215 = {
+	name="Инотрус"
+	culture = imperial
+}
+
+20216 = {
+	name="Инвентий"
+	culture = imperial
+}
+
+20217 = {
+	name="Джаконис"
+	culture = imperial
+}
+
+20218 = {
+	name="Яннус"
+	culture = imperial
+}
+
+20219 = {
+	name="Джеранус"
+	culture = imperial
+}
+
+20220 = {
+	name="Юканис"
+	culture = imperial
+}
+
+20221 = {
+	name="Юллалиан"
+	culture = imperial
+}
+
+20222 = {
+	name="Юний"
+	culture = imperial
+}
+
+20223 = {
+	name="Юстиниан"
+	culture = imperial
+}
+
+20224 = {
+	name="Кений"
+	culture = imperial
+}
+
+20225 = {
+	name="Хаконис"
+	culture = imperial
+}
+
+20226 = {
+	name="Хагрий"
+	culture = imperial
+}
+
+20227 = {
+	name="Хирий"
+	culture = imperial
+}
+
+20228 = {
+	name="Хиум"
+	culture = imperial
+}
+
+20229 = {
+	name="Хонис"
+	culture = imperial
+}
+
+20230 = {
+	name="Хоний"
+	culture = imperial
+}
+
+20231 = {
+	name="Кирус"
+	culture = imperial
+}
+
+20232 = {
+	name="Лецинний"
+	culture = imperial
+}
+
+20233 = {
+	name="Лаэний"
+	culture = imperial
+}
+
+20234 = {
+	name="Лафтрий"
+	culture = imperial
+}
+
+20235 = {
+	name="Лалелий"
+	culture = imperial
+}
+
+20236 = {
+	name="Леонтиулонус"
+	culture = imperial
+}
+
+20237 = {
+	name="Лептим"
+	culture = imperial
+}
+
+20238 = {
+	name="Лерус"
+	culture = imperial
+}
+
+20239 = {
+	name="Лекс"
+	culture = imperial
+}
+
+20240 = {
+	name="Логеллус"
+	culture = imperial
+}
+
+20241 = {
+	name="Лонгус"
+	culture = imperial
+}
+
+20242 = {
+	name="Лорей"
+	culture = imperial
+}
+
+20243 = {
+	name="Лостус"
+	culture = imperial
+}
+
+20244 = {
+	name="Ловидикуса"
+	culture = imperial
+}
+
+20245 = {
+	name="Лунтий"
+	culture = imperial
+}
+
+20246 = {
+	name="Люсиус"
+	culture = imperial
+}
+
+20247 = {
+	name="Лукс"
+	culture = imperial
+}
+
+20248 = {
+	name="Маэний"
+	culture = imperial
+}
+
+20249 = {
+	name="Магий"
+	culture = imperial
+}
+
+20250 = {
+	name="Маллий"
+	culture = imperial
+}
+
+20251 = {
+	name="Мантедий"
+	culture = imperial
+}
+
+20252 = {
+	name="Маренний"
+	culture = imperial
+}
+
+20253 = {
+	name="Марий"
+	culture = imperial
+}
+
+20254 = {
+	name="Матий"
+	culture = imperial
+}
+
+20255 = {
+	name="Максимус"
+	culture = imperial
+}
+
+20256 = {
+	name="Мелий"
+	culture = imperial
+}
+
+20257 = {
+	name="Менаний"
+	culture = imperial
+}
+
+20258 = {
+	name="Мерций"
+	culture = imperial
+}
+
+20259 = {
+	name="Мерус"
+	culture = imperial
+}
+
+20260 = {
+	name="Мевурейус"
+	culture = imperial
+}
+
+20261 = {
+	name="Минтус"
+	culture = imperial
+}
+
+20262 = {
+	name="Монаконис"
+	culture = imperial
+}
+
+20263 = {
+	name="Монорриум"
+	culture = imperial
+}
+
+20264 = {
+	name="Монрий"
+	culture = imperial
+}
+
+20265 = {
+	name="Мусилхиотус"
+	culture = imperial
+}
+
+20266 = {
+	name="Муспидий"
+	culture = imperial
+}
+
+20267 = {
+	name="Муссиллий"
+	culture = imperial
+}
+
+20268 = {
+	name="Мидиэль"
+	culture = imperial
+}
+
+20269 = {
+	name="Мидирриум"
+	culture = imperial
+}
+
+20270 = {
+	name="Мидрий"
+	culture = imperial
+}
+
+20271 = {
+	name="Нанус"
+	culture = imperial
+}
+
+20272 = {
+	name="Нентий"
+	culture = imperial
+}
+
+20273 = {
+	name="Нентус"
+	culture = imperial
+}
+
+20274 = {
+	name="Нигидус"
+	culture = imperial
+}
+
+20275 = {
+	name="Нигилий"
+	culture = imperial
+}
+
+20276 = {
+	name="Нигиум"
+	culture = imperial
+}
+
+20277 = {
+	name="Нонаконис"
+	culture = imperial
+}
+
+20278 = {
+	name="Нонентий"
+	culture = imperial
+}
+
+20279 = {
+	name="Ноний"
+	culture = imperial
+}
+
+20280 = {
+	name="Нонуфус"
+	culture = imperial
+}
+
+20281 = {
+	name="Носидий"
+	culture = imperial
+}
+
+20282 = {
+	name="Нуцций"
+	culture = imperial
+}
+
+20283 = {
+	name="Нуццусий"
+	culture = imperial
+}
+
+20284 = {
+	name="Нункий"
+	culture = imperial
+}
+
+20285 = {
+	name="Нунерий"
+	culture = imperial
+}
+
+20286 = {
+	name="Оирриум"
+	culture = imperial
+}
+
+20287 = {
+	name="Ольциэль"
+	culture = imperial
+}
+
+20288 = {
+	name="Ольциналий"
+	culture = imperial
+}
+
+20289 = {
+	name="Ольциний"
+	culture = imperial
+}
+
+20290 = {
+	name="Ольцирриум"
+	culture = imperial
+}
+
+20291 = {
+	name="Ольциум"
+	culture = imperial
+}
+
+20292 = {
+	name="Оледий"
+	culture = imperial
+}
+
+20293 = {
+	name="Олерус"
+	culture = imperial
+}
+
+20294 = {
+	name="Олус"
+	culture = imperial
+}
+
+20295 = {
+	name="Онтрус"
+	culture = imperial
+}
+
+20296 = {
+	name="Оний"
+	culture = imperial
+}
+
+20297 = {
+	name="Опсий"
+	culture = imperial
+}
+
+20298 = {
+	name="Ораконис"
+	culture = imperial
+}
+
+20299 = {
+	name="Ораний"
+	culture = imperial
+}
+
+20300 = {
+	name="Орептим"
+	culture = imperial
+}
+
+20301 = {
+	name="Орий"
+	culture = imperial
+}
+
+20302 = {
+	name="Осалий"
+	culture = imperial
+}
+
+20303 = {
+	name="Осициан"
+	culture = imperial
+}
+
+20304 = {
+	name="Остим"
+	culture = imperial
+}
+
+20305 = {
+	name="Остиум"
+	culture = imperial
+}
+
+20306 = {
+	name="Осторий"
+	culture = imperial
+}
+
+20307 = {
+	name="Отиум"
+	culture = imperial
+}
+
+20308 = {
+	name="Отиустирис"
+	culture = imperial
+}
+
+20309 = {
+	name="Оттим"
+	culture = imperial
+}
+
+20310 = {
+	name="Оттус"
+	culture = imperial
+}
+
+20311 = {
+	name="Паленикс"
+	culture = imperial
+}
+
+20312 = {
+	name="Папий"
+	culture = imperial
+}
+
+20313 = {
+	name="Патермевус"
+	culture = imperial
+}
+
+20314 = {
+	name="Пакс"
+	culture = imperial
+}
+
+20315 = {
+	name="Пелелий"
+	culture = imperial
+}
+
+20316 = {
+	name="Перезий"
+	culture = imperial
+}
+
+20317 = {
+	name="Петавикус"
+	culture = imperial
+}
+
+20318 = {
+	name="Петикус"
+	culture = imperial
+}
+
+20319 = {
+	name="Петиэль"
+	culture = imperial
+}
+
+20320 = {
+	name="Петилий"
+	culture = imperial
+}
+
+20321 = {
+	name="Петорриум"
+	culture = imperial
+}
+
+20322 = {
+	name="Певенгий"
+	culture = imperial
+}
+
+20323 = {
+	name="Певевус"
+	culture = imperial
+}
+
+20324 = {
+	name="Фаллустрий"
+	culture = imperial
+}
+
+20325 = {
+	name="Федий"
+	culture = imperial
+}
+
+20326 = {
+	name="Фициан"
+	culture = imperial
+}
+
+20327 = {
+	name="Филаконис"
+	culture = imperial
+}
+
+20328 = {
+	name="Филидус"
+	culture = imperial
+}
+
+20329 = {
+	name="Пициан"
+	culture = imperial
+}
+
+20330 = {
+	name="Плалоций"
+	culture = imperial
+}
+
+20331 = {
+	name="Платорий"
+	culture = imperial
+}
+
+20332 = {
+	name="Плиний"
+	culture = imperial
+}
+
+20333 = {
+	name="Плотий"
+	culture = imperial
+}
+
+20334 = {
+	name="Полус"
+	culture = imperial
+}
+
+20335 = {
+	name="Поний"
+	culture = imperial
+}
+
+20336 = {
+	name="Понтаниан"
+	culture = imperial
+}
+
+20337 = {
+	name="Попиллус"
+	culture = imperial
+}
+
+20338 = {
+	name="Посукейус"
+	culture = imperial
+}
+
+20339 = {
+	name="Праллустий"
+	culture = imperial
+}
+
+20340 = {
+	name="Предий"
+	culture = imperial
+}
+
+20341 = {
+	name="Прелий"
+	culture = imperial
+}
+
+20342 = {
+	name="Прентус"
+	culture = imperial
+}
+
+20343 = {
+	name="Прекс"
+	culture = imperial
+}
+
+20344 = {
+	name="Пунарус"
+	culture = imperial
+}
+
+20345 = {
+	name="Пундус"
+	culture = imperial
+}
+
+20346 = {
+	name="Пуниэль"
+	culture = imperial
+}
+
+20347 = {
+	name="Пуросидус"
+	culture = imperial
+}
+
+20348 = {
+	name="Пурусейус"
+	culture = imperial
+}
+
+20349 = {
+	name="Кваний"
+	culture = imperial
+}
+
+20350 = {
+	name="Кваспус"
+	culture = imperial
+}
+
+20351 = {
+	name="Квинтилий"
+	culture = imperial
+}
+
+20352 = {
+	name="Квинтиллиус"
+	culture = imperial
+}
+
+20353 = {
+	name="Квинт"
+	culture = imperial
+}
+
+20354 = {
+	name="Рарус"
+	culture = imperial
+}
+
+20355 = {
+	name="Рептим"
+	culture = imperial
+}
+
+20356 = {
+	name="Риан"
+	culture = imperial
+}
+
+20357 = {
+	name="Риенус"
+	culture = imperial
+}
+
+20358 = {
+	name="Рилиан"
+	culture = imperial
+}
+
+20359 = {
+	name="Ронис"
+	culture = imperial
+}
+
+20360 = {
+	name="Росций"
+	culture = imperial
+}
+
+20361 = {
+	name="Руфус"
+	culture = imperial
+}
+
+20362 = {
+	name="Рулициан"
+	culture = imperial
+}
+
+20363 = {
+	name="Рунеллий"
+	culture = imperial
+}
+
+20364 = {
+	name="Русоний"
+	culture = imperial
+}
+
+20365 = {
+	name="Саккус"
+	culture = imperial
+}
+
+20366 = {
+	name="Саллустий"
+	culture = imperial
+}
+
+20367 = {
+	name="Салвий"
+	culture = imperial
+}
+
+20368 = {
+	name="Сцерий"
+	culture = imperial
+}
+
+20369 = {
+	name="Сенрий"
+	culture = imperial
+}
+
+20370 = {
+	name="Сентий"
+	culture = imperial
+}
+
+20371 = {
+	name="Септиний"
+	culture = imperial
+}
+
+20372 = {
+	name="Серий"
+	culture = imperial
+}
+
+20373 = {
+	name="Сестий"
+	culture = imperial
+}
+
+20374 = {
+	name="Секстус"
+	culture = imperial
+}
+
+20375 = {
+	name="Сиалий"
+	culture = imperial
+}
+
+20376 = {
+	name="Сибассий"
+	culture = imperial
+}
+
+20377 = {
+	name="Сегоний"
+	culture = imperial
+}
+
+20378 = {
+	name="Сирулиулус"
+	culture = imperial
+}
+
+20379 = {
+	name="Спурий"
+	culture = imperial
+}
+
+20380 = {
+	name="Статлилий"
+	culture = imperial
+}
+
+20381 = {
+	name="Сторриум"
+	culture = imperial
+}
+
+20382 = {
+	name="Судрий"
+	culture = imperial
+}
+
+20383 = {
+	name="Таланиан"
+	culture = imperial
+}
+
+20384 = {
+	name="Тартус"
+	culture = imperial
+}
+
+20385 = {
+	name="Тептим"
+	culture = imperial
+}
+
+20386 = {
+	name="Терентий"
+	culture = imperial
+}
+
+20387 = {
+	name="Тициан"
+	culture = imperial
+}
+
+20388 = {
+	name="Тидус"
+	culture = imperial
+}
+
+20389 = {
+	name="Тирагрий"
+	culture = imperial
+}
+
+20390 = {
+	name="Титул"
+	culture = imperial
+}
+
+20391 = {
+	name="Трагус"
+	culture = imperial
+}
+
+20392 = {
+	name="Требатий"
+	culture = imperial
+}
+
+20393 = {
+	name="Требиалий"
+	culture = imperial
+}
+
+20394 = {
+	name="Требициан"
+	culture = imperial
+}
+
+20395 = {
+	name="Требуинтус"
+	culture = imperial
+}
+
+20396 = {
+	name="Требунтий"
+	culture = imperial
+}
+
+20397 = {
+	name="Тросидий"
+	culture = imperial
+}
+
+20398 = {
+	name="Труианд"
+	culture = imperial
+}
+
+20399 = {
+	name="Туфус"
+	culture = imperial
+}
+
+20400 = {
+	name="Туллий"
+	culture = imperial
+}
+
+20401 = {
+	name="Тулосидус"
+	culture = imperial
+}
+
+20402 = {
+	name="Тунифус"
+	culture = imperial
+}
+
+20403 = {
+	name="Туравикус"
+	culture = imperial
+}
+
+20404 = {
+	name="Турриан"
+	culture = imperial
+}
+
+20405 = {
+	name="Турусоний"
+	culture = imperial
+}
+
+20406 = {
+	name="Умалий"
+	culture = imperial
+}
+
+20407 = {
+	name="Уматрус"
+	culture = imperial
+}
+
+20408 = {
+	name="Убептим"
+	culture = imperial
+}
+
+20409 = {
+	name="Убересий"
+	culture = imperial
+}
+
+20410 = {
+	name="Умбралвий"
+	culture = imperial
+}
+
+20411 = {
+	name="Умбранокс"
+	culture = imperial
+}
+
+20412 = {
+	name="Умбротус"
+	culture = imperial
+}
+
+20413 = {
+	name="Умиэль"
+	culture = imperial
+}
+
+20414 = {
+	name="Умитуллий"
+	culture = imperial
+}
+
+20415 = {
+	name="Умиум"
+	culture = imperial
+}
+
+20416 = {
+	name="Уморриум"
+	culture = imperial
+}
+
+20417 = {
+	name="Уонис"
+	culture = imperial
+}
+
+20418 = {
+	name="Урелий"
+	culture = imperial
+}
+
+20419 = {
+	name="Урентий"
+	culture = imperial
+}
+
+20420 = {
+	name="Ургелиан"
+	culture = imperial
+}
+
+20421 = {
+	name="Уриэль"
+	culture = imperial
+}
+
+20422 = {
+	name="Уроний"
+	culture = imperial
+}
+
+20423 = {
+	name="Уртий"
+	culture = imperial
+}
+
+20424 = {
+	name="Уулентанус"
+	culture = imperial
+}
+
+20425 = {
+	name="Валаконис"
+	culture = imperial
+}
+
+20426 = {
+	name="Валерий"
+	culture = imperial
+}
+
+20427 = {
+	name="Валий"
+	culture = imperial
+}
+
+20428 = {
+	name="Валодий"
+	culture = imperial
+}
+
+20429 = {
+	name="Валус"
+	culture = imperial
+}
+
+20430 = {
+	name="Ванедий"
+	culture = imperial
+}
+
+20431 = {
+	name="Ванигилий"
+	culture = imperial
+}
+
+20432 = {
+	name="Вантиний"
+	culture = imperial
+}
+
+20433 = {
+	name="Ванус"
+	culture = imperial
+}
+
+20434 = {
+	name="Вариан"
+	culture = imperial
+}
+
+20435 = {
+	name="Варициан"
+	culture = imperial
+}
+
+20436 = {
+	name="Васавикус"
+	culture = imperial
+}
+
+20437 = {
+	name="Васиум"
+	culture = imperial
+}
+
+20438 = {
+	name="Вассинус"
+	culture = imperial
+}
+
+20439 = {
+	name="Васуфус"
+	culture = imperial
+}
+
+20440 = {
+	name="Ведий"
+	culture = imperial
+}
+
+20441 = {
+	name="Велептим"
+	culture = imperial
+}
+
+20442 = {
+	name="Велиум"
+	culture = imperial
+}
+
+20443 = {
+	name="Велонис"
+	culture = imperial
+}
+
+20444 = {
+	name="Вельвус"
+	culture = imperial
+}
+
+20445 = {
+	name="Веритулий"
+	culture = imperial
+}
+
+20446 = {
+	name="Верус"
+	culture = imperial
+}
+
+20447 = {
+	name="Весул"
+	culture = imperial
+}
+
+20448 = {
+	name="Вициулус"
+	culture = imperial
+}
+
+20449 = {
+	name="Винисий"
+	culture = imperial
+}
+
+20450 = {
+	name="Виний"
+	culture = imperial
+}
+
+20451 = {
+	name="Вителлий"
+	culture = imperial
+}
+
+20452 = {
+	name="Витирус"
+	culture = imperial
+}
+
+20453 = {
+	name="Витоний"
+	culture = imperial
+}
+
+20454 = {
+	name="Вонаний"
+	culture = imperial
+}
+
+20455 = {
+	name="Вонекс"
+	culture = imperial
+}
+
+20456 = {
+	name="Вониэль"
+	culture = imperial
+}
+
+20457 = {
+	name="Воний"
+	culture = imperial
+}
+
+20458 = {
+	name="Вориан"
+	culture = imperial
+}
+
+20459 = {
+	name="Вунекс"
+	culture = imperial
+}
+
+20460 = {
+	name="Вуннис"
+	culture = imperial
+}
+
+20461 = {
+	name="Вунтус"
+	culture = imperial
+}
+
+20462 = {
+	name="Воррриум"
+	culture = imperial
+}
+
+20463 = {
+	name="Вотевус"
+	culture = imperial
+}
+
+20464 = {
+	name="Вотрус"
+	culture = imperial
+}
+20465 = {
+	name = "Бравиллий"
+	culture = imperial
+}
+20466 = {
+	name = "Нихилус" #Corruption of Latin "nihil", for nothing. Used by Bede to represent "zero".
+	culture = imperial
+}
+20467 = {
+	name = "Тасус"
+	culture = imperial
+}
+20468 = {
+	name = "Понтикус"
+	culture = imperial
+}
+20469 = {
+	name = "Зенас"
+	culture = imperial
+}
+20470 = {
+	name = "Лупус"
+	culture = imperial
+}
+20471 = {
+	name = "Августус"
+	culture = imperial
+}
+20472 = {
+	name = "Донитикус"
+	culture = imperial
+}
+20473 = { #Intentional Duplicate
+	name = "Терентиус"
+	culture = imperial
+}
+20474 = {
+	name = "Каереллиус"
+	culture = imperial
+}

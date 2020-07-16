@@ -1,0 +1,566 @@
+# Tsaesci Range: 240000-249999
+
+240000 = {
+	name = "Встириелаес"
+	culture = tsaesci
+}
+240001 = {
+	name = "Тксилие"
+	culture = tsaesci
+}
+240002 = {
+	name = "Бивао"
+	culture = tsaesci
+}
+240003 = {
+	name = "Занарма"
+	culture = tsaesci
+}
+240004 = {
+	name = "Тензерквайе"
+	culture = tsaesci
+}
+240005 = {
+	name = "Всусиес"
+	culture = tsaesci
+}
+240006 = {
+	name = "Вес"
+	culture = tsaesci
+}
+240007 = {
+	name = "Кас"
+	culture = tsaesci
+}
+240008 = {
+	name = "Квоу"
+	culture = tsaesci
+}
+240009 = {
+	name = "Мдже"
+	culture = tsaesci
+}
+240010 = {
+	name = "Квух"
+	culture = tsaesci
+}
+240011 = {
+	name = "Лин"
+	culture = tsaesci
+}
+240012 = {
+	name = "Шайе"
+	culture = tsaesci
+}
+240013 = {
+	name = "Кумуи"
+	culture = tsaesci
+}
+240014 = {
+	name = "Нивае"
+	culture = tsaesci
+}
+240015 = {
+	name = "Мирое"
+	culture = tsaesci
+}
+240016 = {
+	name = "Вимей"
+	culture = tsaesci
+}
+240017 = {
+	name = "Намай"
+	culture = tsaesci
+}
+240018 = {
+	name = "Куме"
+	culture = tsaesci
+}
+240019 = {
+	name = "Квуонна"
+	culture = tsaesci
+}
+240020 = {
+	name = "Квумир"
+	culture = tsaesci
+}
+240021 = {
+	name = "Кводжоми"
+	culture = tsaesci
+}
+240022 = {
+	name = "Квеор"
+	culture = tsaesci
+}
+240023 = {
+	name = "Кворра"
+	culture = tsaesci
+}
+240024 = {
+	name = "Чорак"
+	culture = tsaesci
+}
+240025 = {
+	name = "Ноквак"
+	culture = tsaesci
+}
+240026 = {
+	name = "Уорак"
+	culture = tsaesci
+}
+240027 = {
+	name = "Оквуок"
+	culture = tsaesci
+}
+240028 = {
+	name = "Юек"
+	culture = tsaesci
+}
+240029 = {
+	name = "Димор"
+	culture = tsaesci
+}
+240030 = {
+	name = "Комур"
+	culture = tsaesci
+}
+240031 = {
+	name = "Уквоумор"
+	culture = tsaesci
+}
+240032 = {
+	name = "Квеумор"
+	culture = tsaesci
+}
+240033 = {
+	name = "Квирор"
+	culture = tsaesci
+}
+240034 = {
+	name = "Кисаор"
+	culture = tsaesci
+}
+240035 = {
+	name = "Джокур"
+	culture = tsaesci
+}
+240036 = {
+	name = "Джомуор"
+	culture = tsaesci
+}
+240037 = {
+	name = "Коуор"
+	culture = tsaesci
+}
+240038 = {
+	name = "Куму"
+	culture = tsaesci
+}
+240039 = {
+	name = "Наарай"
+	culture = tsaesci
+}
+240040 = {
+	name = "Оурма"
+	culture = tsaesci
+}
+240041 = {
+	name = "Иоджор"
+	culture = tsaesci
+}
+240042 = {
+	name = "Мурак"
+	culture = tsaesci
+}
+240043 = {
+	name = "Зирак"
+	culture = tsaesci
+}
+240044 = {
+	name = "Виаес"
+	culture = tsaesci
+}
+240045 = {
+	name = "Нудаей"
+	culture = tsaesci
+}
+240046 = {
+	name = "Джамеви"
+	culture = tsaesci
+}
+240047 = {
+	name = "Алаири"
+	culture = tsaesci
+}
+240048 = {
+	name = "Мджци"
+	culture = tsaesci
+}
+240049 = {
+	name = "Цао"
+	culture = tsaesci
+}
+240050 = {
+	name = "Смиивс"
+	culture = tsaesci
+}
+240051 = {
+	name = "Ксми"
+	culture = tsaesci
+}
+240052 = {
+	name = "Овсире"
+	culture = tsaesci
+}
+240053 = {
+	name = "Аурн"
+	culture = tsaesci
+}
+240054 = {
+	name = "Вксоа"
+	culture = tsaesci
+}
+240055 = {
+	name = "Ввсас"
+	culture = tsaesci
+}
+240056 = {
+	name = "Катвси"
+	culture = tsaesci
+}
+240057 = {
+	name = "Встириу"
+	culture = tsaesci
+}
+240058 = {
+	name = "Цау"
+	culture = tsaesci
+}
+240059 = {
+	name = "Уссам"
+	culture = tsaesci
+}
+240060 = {
+	name = "Ссмир"
+	culture = tsaesci
+}
+240061 = {
+	name = "Лейс"
+	culture = tsaesci
+}
+240062 = {
+	name = "Кисаему"
+	culture = tsaesci
+}
+240063 = {
+	name = "Верксандаес"
+	culture = tsaesci
+}
+240064 = {
+	name = "Виаес"
+	culture = tsaesci
+}
+240065 = {
+	name = "Саммо"
+	culture = tsaesci
+}
+240066 = {
+	name = "Ору"
+	culture = tsaesci
+}
+240067 = {
+	name = "Отру"
+	culture = tsaesci
+}
+240068 = {
+	name = "Котту"
+	culture = tsaesci
+}
+240069 = {
+	name = "Оуру"
+	culture = tsaesci
+}
+240070 = {
+	name = "Оджджау"
+	culture = tsaesci
+}
+240071 = {
+	name = "Уми"
+	culture = tsaesci
+}
+240072 = {
+	name = "Иору"
+	culture = tsaesci
+}
+240073 = {
+	name = "Одду"
+	culture = tsaesci
+}
+240074 = {
+	name = "Когфу"
+	culture = tsaesci
+}
+240075 = {
+	name = "Кофу"
+	culture = tsaesci
+}
+240076 = {
+	name = "Нору"
+	culture = tsaesci
+}
+240077 = {
+	name = "Лиоу"
+	culture = tsaesci
+}
+240078 = {
+	name = "Лоу"
+	culture = tsaesci
+}
+240079 = {
+	name = "Лу"
+	culture = tsaesci
+}
+240080 = {
+	name = "Улла"
+	culture = tsaesci
+}
+240081 = {
+	name = "Иру"
+	culture = tsaesci
+}
+240082 = {
+	name = "Орау"
+	culture = tsaesci
+}
+240083 = {
+	name = "Смсия"
+	culture = tsaesci
+}
+240084 = {
+	name = "Цимио"
+	culture = tsaesci
+}
+240085 = {
+	name = "Цауро"
+	culture = tsaesci
+}
+240086 = {
+	name = "Всиридж"
+	culture = tsaesci
+}
+240087 = {
+	name = "Джнсир"
+	culture = tsaesci
+}
+240088 = {
+	name = "Вджси"
+	culture = tsaesci
+}
+240089 = {
+	name = "Джис"
+	culture = tsaesci
+}
+240090 = {
+	name = "Ируао"
+	culture = tsaesci
+}
+240091 = {
+	name = "Царидж"
+	culture = tsaesci
+}
+240092 = {
+	name = "Торай"
+	culture = tsaesci
+}
+240093 = {
+	name = "Мельси"
+	culture = tsaesci
+}
+240094 = {
+	name = "Кволерин"
+	culture = tsaesci
+}
+240095 = {
+	name = "Бортаса"
+	culture = tsaesci
+}
+240096 = {
+	name = "Фосельджар"
+	culture = tsaesci
+}
+240097 = {
+	name = "Айроан"
+	culture = tsaesci
+}
+240098 = {
+	name = "Квовас"
+	culture = tsaesci
+}
+240099 = {
+	name = "Ванданне"
+	culture = tsaesci
+}
+240100 = {
+	name = "Солуае"
+	culture = tsaesci
+}
+240101 = {
+	name = "Лутакаго"
+	culture = tsaesci
+}
+240102 = {
+	name = "Саеливак"
+	culture = tsaesci
+}
+240103 = {
+	name = "Уозорбесаес"
+	culture = tsaesci
+}
+240104 = {
+	name = "Шайзуртаес"
+	culture = tsaesci
+}
+240105 = {
+	name = "Линзатудо"
+	culture = tsaesci
+}
+240106 = {
+	name = "Зилеси"
+	culture = tsaesci
+}
+240107 = {
+	name = "Джвасо"
+	culture = tsaesci
+}
+240108 = {
+	name = "Джванас"
+	culture = tsaesci
+}
+240109 = {
+	name = "Всордунес"
+	culture = tsaesci
+}
+240110 = {
+	name = "Бензитас"
+	culture = tsaesci
+}
+240111 = {
+	name = "Саргорваес"
+	culture = tsaesci
+}
+240112 = {
+	name = "Твкаси"
+	culture = tsaesci
+}
+240113 = {
+	name = "Квимнеснис"
+	culture = tsaesci
+}
+240114 = {
+	name = "Сормаес"
+	culture = tsaesci
+}
+240115 = {
+	name = "Дево"
+	culture = tsaesci
+}
+240116 = {
+	name = "Мтайе"
+	culture = tsaesci
+}
+240117 = {
+	name = "Норсосие"
+	culture = tsaesci
+}
+240118 = {
+	name = "Дансайе"
+	culture = tsaesci
+}
+240119 = {
+	name = "Джсмори"
+	culture = tsaesci
+}
+240120 = {
+	name = "Колириу"
+	culture = tsaesci
+}
+240121 = {
+	name = "Тарлилиелнос"
+	culture = tsaesci
+}
+240122 = {
+	name = "Оквилиелсис"
+	culture = tsaesci
+}
+240123 = {
+	name = "Тармин"
+	culture = tsaesci
+}
+240124 = {
+	name = "Матени"
+	culture = tsaesci
+}
+240125 = {
+	name = "Артадавас"
+	culture = tsaesci
+}
+240126 = {
+	name = "Донайе"
+	culture = tsaesci
+}
+240127 = {
+	name = "Чорлинг"
+	culture = tsaesci
+}
+240128 = {
+	name = "Дму"
+	culture = tsaesci
+}
+240129 = {
+	name = "Твморис"
+	culture = tsaesci
+}
+240130 = {
+	name = "Зандорлаес"
+	culture = tsaesci
+}
+240131 = {
+	name = "Днселион"
+	culture = tsaesci
+}
+240132 = {
+	name = "Оурдуриземелис"
+	culture = tsaesci
+}
+240133 = {
+	name = "Косторитендайе"
+	culture = tsaesci
+}
+240134 = {
+	name = "Аксмирзаласт"
+	culture = tsaesci
+}
+240135 = {
+	name = "Джмселсис"
+	culture = tsaesci
+}
+240136 = {
+	name = "Артелмас"
+	culture = tsaesci
+}
+240137 = {
+	name = "Гмортаг"
+	culture = tsaesci
+}
+240138 = {
+	name = "Диваео"
+	culture = tsaesci
+}
+240139 = {
+	name = "Мтосние"
+	culture = tsaesci
+}
+240140 = {
+	name = "Нтрарас"
+	culture = tsaesci
+}

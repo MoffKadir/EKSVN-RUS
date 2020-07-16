@@ -1,0 +1,136 @@
+540000 = {
+	name="Каидик"
+	culture="sload"
+}
+540001 = {
+	name="Накста"
+	culture="sload"
+}
+540002 = {
+	name="Бариш"
+	culture="sload"
+}
+540003 = {
+	name="Фа'атра"
+	culture="sload"
+}
+540004 = {
+	name="Фальозик"
+	culture="sload"
+}
+540005 = {
+	name="Андилиак"
+	culture="sload"
+}
+540006 = {
+	name="Хестилик"
+	culture="sload"
+}
+540007 = {
+	name="Геджалли"
+	culture="sload"
+}
+540008 = {
+	name="Гнуда"
+	culture="sload"
+}
+540009 = {
+	name="Горенсла"
+	culture="sload"
+}
+540010 = {
+	name="Иллип"
+	culture="sload"
+}
+540011 = {
+	name="Инижик"
+	culture="sload"
+}
+540012 = {
+	name="Джахибакти"
+	culture="sload"
+}
+540013 = {
+	name="Джалисси"
+	culture="sload"
+}
+540014 = {
+	name="Джанк"
+	culture="sload"
+}
+540015 = {
+	name="Шел"
+	culture="sload"
+}
+540016 = {
+	name="Джирамма"
+	culture="sload"
+}
+540017 = {
+	name="Каджитир"
+	culture="sload"
+}
+540018 = {
+	name="Калтеммик"
+	culture="sload"
+}
+540019 = {
+	name="Масрии"
+	culture="sload"
+}
+540020 = {
+	name="Нокко"
+	culture="sload"
+}
+540021 = {
+	name="Одоминик"
+	culture="sload"
+}
+540022 = {
+	name="Куалаппа"
+	culture="sload"
+}
+540023 = {
+	name="Кунаалак"
+	culture="sload"
+}
+540024 = {
+	name="Рамеш"
+	culture="sload"
+}
+540025 = {
+	name="Триниви"
+	culture="sload"
+}
+540026 = {
+	name="Урдош"
+	culture="sload"
+}
+540027 = {
+	name="Уторади"
+	culture="sload"
+}
+540028 = {
+	name="Вандерияр"
+	culture="sload"
+}
+540029 = {
+	name="Вермилик"
+	culture="sload"
+}
+540030 = {
+	name="Виджилаки"
+	culture="sload"
+}
+540031 = {
+	name="Восади"
+	culture="sload"
+}
+540032 = {
+	name="Десилиджик"
+	culture="sload"
+}
+540033 = {
+	name="Бесади"
+	culture="sload"
+}

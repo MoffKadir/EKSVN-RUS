@@ -1,0 +1,321 @@
+# quey Range: 30000-39999
+
+30000 = {
+	name = "Десер"
+	culture = quey
+}
+30001 = {
+	name = "Мадар"
+	culture = quey
+}
+30002 = {
+	name = "Бирсер"
+	culture = quey
+}
+30003 = {
+	name = "Солмор"
+	culture = quey
+}
+30004 = {
+	name = "Тираш"
+	culture = quey
+}
+30005 = {
+	name = "Баррак"
+	culture = quey
+}
+30006 = {
+	name = "Маунд"
+	culture = quey
+}
+30007 = {
+	name = "Бирвар"
+	culture = quey
+}
+30008 = {
+	name = "Хелвар"
+	culture = quey
+}
+30009 = {
+	name = "Лумор"
+	culture = quey
+}
+30010 = {
+	name = "Наден"
+	culture = quey
+}
+30011 = {
+	name = "Квумор"
+	culture = quey
+}
+30012 = {
+	name = "Бирким"
+	culture = quey
+}
+30013 = {
+	name = "Пхараш"
+	culture = quey
+}
+30014 = {
+	name = "Латан"
+	culture = quey
+}
+30015 = {
+	name = "Диким"
+	culture = quey
+}
+30016 = {
+	name = "Дидар"
+	culture = quey
+}
+30017 = {
+	name = "Ксилсер"
+	culture = quey
+}
+30018 = {
+	name = "Наунд"
+	culture = quey
+}
+30019 = {
+	name = "Заджден"
+	culture = quey
+}
+30020 = {
+	name = "Бирбел"
+	culture = quey
+}
+30021 = {
+	name = "Бараш"
+	culture = quey
+}
+30022 = {
+	name = "Нуна"
+	culture = quey
+}
+30023 = {
+	name = "Джилрад"
+	culture = quey
+}
+30024 = {
+	name = "Детор"
+	culture = quey
+}
+30025 = {
+	name = "Барсер"
+	culture = quey
+}
+30026 = {
+	name = "Надар"
+	culture = quey
+}
+30027 = {
+	name = "Хесрим"
+	culture = quey
+}
+30028 = {
+	name = "Шемор"
+	culture = quey
+}
+30029 = {
+	name = "Бартор"
+	culture = quey
+}
+30030 = {
+	name = "Дина"
+	culture = quey
+}
+30031 = {
+	name = "Барким"
+	culture = quey
+}
+30032 = {
+	name = "Джиким"
+	culture = quey
+}
+30033 = {
+	name = "Сосай"
+	culture = quey
+}
+30034 = {
+	name = "Дерад"
+	culture = quey
+}
+30035 = {
+	name = "Натан"
+	culture = quey
+}
+30036 = {
+	name = "Лихтан"
+	culture = quey
+}
+30037 = {
+	name = "Зутраш"
+	culture = quey
+}
+30038 = {
+	name = "Лиррим"
+	culture = quey
+}
+30039 = {
+	name = "Тураш"
+	culture = quey
+}
+30040 = {
+	name = "Дорум"
+	culture = quey
+}
+30041 = {
+	name = "Наким"
+	culture = quey
+}
+30042 = {
+	name = "Зерум"
+	culture = quey
+}
+30043 = {
+	name = "Барна"
+	culture = quey
+}
+30044 = {
+	name = "Бириер"
+	culture = quey
+}
+30045 = {
+	name = "Хачон"
+	culture = quey
+}
+30046 = {
+	name = "Бихден"
+	culture = quey
+}
+30047 = {
+	name = "Лирсер"
+	culture = quey
+}
+30048 = {
+	name = "Девар"
+	culture = quey
+}
+30049 = {
+	name = "Иосрет"
+	culture = quey
+}
+30050 = {
+	name = "Бархон"
+	culture = quey
+}
+30051 = {
+	name = "Кетор"
+	culture = quey
+}
+30052 = {
+	name = "Тиром"
+	culture = quey
+}
+30053 = {
+	name = "Корак"
+	culture = quey
+}
+30054 = {
+	name = "Марунт"
+	culture = quey
+}
+30055 = {
+	name = "Долрен"
+	culture = quey
+}
+30056 = {
+	name = "Нохон"
+	culture = quey
+}
+30057 = {
+	name = "Джатким"
+	culture = quey
+}
+30058 = {
+	name = "Нарен"
+	culture = quey
+}
+30059 = {
+	name = "Сераш"
+	culture = quey
+}
+30060 = {
+	name = "Налор"
+	culture = quey
+}
+30061 = {
+	name = "Серром"
+	culture = quey
+}
+30062 = {
+	name = "Нарум"
+	culture = quey
+}
+30063 = {
+	name = "Лирна"
+	culture = quey
+}
+30064 = {
+	name = "Дераш"
+	culture = quey
+}
+30065 = {
+	name = "Зинден"
+	culture = quey
+}
+30066 = {
+	name = "Бирквуа"
+	culture = quey
+}
+30067 = {
+	name = "Набур"
+	culture = quey
+}
+30068 = {
+	name = "Найер"
+	culture = quey
+}
+30069 = {
+	name = "Лештор"
+	culture = quey
+}
+30070 = {
+	name = "Негдар"
+	culture = quey
+}
+30071 = {
+	name = "Хатор"
+	culture = quey
+}
+30072 = {
+	name = "Нараш"
+	culture = quey
+}
+30073 = {
+	name = "Ксамдар"
+	culture = quey
+}
+30074 = {
+	name = "Лирким"
+	culture = quey
+}
+30075 = {
+	name = "Бирхон"
+	culture = quey
+}
+
+30076 = {
+	name = "Шиломид"
+	culture = quey
+}
+
+30077 = {
+	name = "Нарашид"
+	culture = quey
+}
+
+30078 = {
+	name = "Тасидид"
+	culture = quey
+}

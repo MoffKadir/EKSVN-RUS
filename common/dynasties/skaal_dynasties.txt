@@ -1,0 +1,300 @@
+#Skaal Range: 80000-89999
+
+#Skaal Range: 80000-89999
+
+80001 = {
+	name="Хардгард"
+	culture = skaal
+}
+80002 = {
+	name="Ледяная Грива"
+	culture = skaal
+}
+80003 = {
+	name="Белобородый"
+	culture = skaal
+}
+80004 = {
+	name="Жирные Руки"
+	culture = skaal
+}
+80005 = {
+	name="Клык Сердца"
+	culture = skaal
+}
+80006 = {
+	name="Ветроглазый"
+	culture = skaal
+}
+80007 = {
+	name="Волчий Бег"
+	culture = skaal
+}
+80009 = {
+	name="Снежная Песнь"
+	culture = skaal
+}
+80010 = {
+	name="Длинный Зуб"
+	culture = skaal
+}
+80011 = {
+	name="Сладкая Доля"
+	culture = skaal
+}
+80012 = {
+	name="Серая Волна"
+	culture = skaal
+}
+80013 = {
+	name="Хирстаанг"
+	culture = skaal
+}
+80014 = {
+	name="Моэсринг"
+	culture = skaal
+}
+80015 = {
+	name="Гандрунг"
+	culture = skaal
+}
+80016 = {
+	name="Бенконг"
+	culture = skaal
+}
+80017 = {
+	name="Фьординг"
+	culture = skaal
+}
+80018 = {
+	name="Сын Крови"
+	culture = skaal
+}
+80019 = {
+	name="Фелсаад"
+	culture = skaal
+}
+80020 = {
+	name="Фьялдинг"
+	culture = skaal
+}
+80021 = {
+	name="Хозяин Кургана"
+	culture = skaal
+}
+80022 = {
+	name="Вихтбрейк"
+	culture = skaal
+}
+80023 = {
+	name="Морская песня"
+	culture = skaal
+}
+80024 = {
+	name="Снежный охотник"
+	culture = skaal
+}
+80025 = {
+	name="Ледяной пловец"
+	culture = skaal
+}
+80026 = {
+	name="Дитё медведя"
+	culture = skaal
+}
+80027 = {
+	name="Курганорожденный"
+	culture = skaal
+}
+80028 = {
+	name="Сагасонг"
+	culture = skaal
+}
+80029 = {
+	name="Ветрокрылый"
+	culture = skaal
+}
+80030 = {
+	name="Небесный охотник"
+	culture = skaal
+}
+80031 = {
+	name="Боарсфивт"
+	culture = skaal
+}
+80032 = {
+	name="Быстрое копье"
+	culture = skaal
+}
+80033 = {
+	name="Высокая древесина"
+	culture = skaal
+}
+80034 = {
+	name="Нарисованный очаг"
+	culture = skaal
+}
+80035 = {
+	name="Крэгстрайд"
+	culture = skaal
+}
+80036 = {
+	name="Волкодав"
+	culture = skaal
+}
+80037 = {
+	name="Нога тундры"
+	culture = skaal
+}
+80038 = {
+	name="Говорящий мо зверями"
+	culture = skaal
+}
+80039 = {
+	name="Снежный заяц"
+	culture = skaal
+}
+80040 = {
+	name="Мокрый снег"
+	culture = skaal
+}
+80041 = {
+	name="Танцор"
+	culture = skaal
+}
+80042 = {
+	name="Речной ходок"
+	culture = skaal
+}
+80043 = {
+	name="Сгоревшая луна"
+	culture = skaal
+}
+80044 = {
+	name="Дикий искатель"
+	culture = skaal
+}
+80045 = {
+	name="Укротитель снега"
+	culture = skaal
+}
+80046 = {
+	name="Облачный грохот"
+	culture = skaal
+}
+80047 = {
+	name="Белый волк"
+	culture = skaal
+}
+80048 = {
+	name="Серый капюшон"
+	culture = skaal
+}
+80049 = {
+	name="Хоркер"
+	culture = skaal
+}
+80050 = {
+	name="Исильд"
+	culture = skaal
+}
+80051 = {
+	name="Исинфир"
+	culture = skaal
+}
+80052 = {
+	name="Харстад"
+	culture = skaal
+}
+80053 = {
+	name="Тронд"
+	culture = skaal
+}
+80054 = {
+	name="Игнир"
+	culture = skaal
+}
+80055 = {
+	name="Сильный Сталхрим"
+	culture = skaal
+}
+80056 = {
+	name="Колбьорн"
+	culture = skaal
+}
+80057 = {
+	name="Наблюдатель неба"
+	culture = skaal
+}
+80058 = {
+	name="Снежный искатель"
+	culture = skaal
+}
+80059 = {
+	name="Вармтач"
+	culture = skaal
+}
+80060 = {
+	name="Золотая грива"
+	culture = skaal
+}
+80061 = {
+	name="Белое небо"
+	culture = skaal
+}
+80062 = {
+	name="Красное копье"
+	culture = skaal
+}
+80063 = {
+	name="Ловец грома"
+	culture = skaal
+}
+80064 = {
+	name="Эльфоненавистник"
+	culture = skaal
+}
+80065 = {
+	name="Холодоносец"
+	culture = skaal
+}
+80066 = {
+	name="Певчий олень"
+	culture = skaal
+}
+80067 = {
+	name="Дальний ходок"
+	culture = skaal
+}
+80068 = {
+	name="Проклятье гигантов"
+	culture = skaal
+}
+80069 = {
+	name="Убийца троллей"
+	culture = skaal
+}
+80070 = {
+	name="Строитель зала"
+	culture = skaal
+}
+80071 = {
+	name="Веселая медовуха"
+	culture = skaal
+}
+80072 = {
+	name="Береговой"
+	culture = skaal
+}
+80073 = {
+	name="Коснувшийся Луны"
+	culture = skaal
+}
+80074 = {
+	name="Проклятая Луна"
+	culture = skaal
+}
+80075 = {
+	name="Волчьи глаза"
+	culture = skaal
+}

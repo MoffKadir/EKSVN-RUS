@@ -1,0 +1,872 @@
+#Orsimer Range: 140000-149999
+
+140001 = {
+	name="Нагорм"
+	culture = orsimer
+}
+140002 = {
+	name="Багдуб"
+	culture = orsimer
+}
+140003 = {
+	name="Бульфим"
+	culture = orsimer
+}
+140004 = {
+	name="Ульфиш"
+	culture = orsimer
+}
+140005 = {
+	name="Агадбу"
+	culture = orsimer
+}
+140006 = {
+	name="Аглак"
+	culture = orsimer
+}
+140007 = {
+	name="Агум"
+	culture = orsimer
+}
+140008 = {
+	name="Атумф"
+	culture = orsimer
+}
+140009 = {
+	name="Азорку"
+	culture = orsimer
+}
+140010 = {
+	name="Бадбу"
+	culture = orsimer
+}
+140011 = {
+	name="Баграт"
+	culture = orsimer
+}
+140012 = {
+	name="Багул"
+	culture = orsimer
+}
+140013 = {
+	name="Бамог"
+	culture = orsimer
+}
+140014 = {
+	name="Бар"
+	culture = orsimer
+}
+140015 = {
+	name="Баргамф"
+	culture = orsimer
+}
+140016 = {
+	name="Башнаг"
+	culture = orsimer
+}
+140017 = {
+	name="Бэт"
+	culture = orsimer
+}
+140018 = {
+	name="Батул"
+	culture = orsimer
+}
+140019 = {
+	name="Бога"
+	culture = orsimer
+}
+140020 = {
+	name="Багамах"
+	culture = orsimer
+}
+140021 = {
+	name="Бохарц"
+	culture = orsimer
+}
+140022 = {
+	name="Богла"
+	culture = orsimer
+}
+140023 = {
+	name="Боглар"
+	culture = orsimer
+}
+140024 = {
+	name="Богрол"
+	culture = orsimer
+}
+140025 = {
+	name="Богук"
+	culture = orsimer
+}
+140026 = {
+	name="Бол"
+	culture = orsimer
+}
+140027 = {
+	name="Болак"
+	culture = orsimer
+}
+140028 = {
+	name="Борбог"
+	culture = orsimer
+}
+140029 = {
+	name="Борбул"
+	culture = orsimer
+}
+140030 = {
+	name="Буг"
+	culture = orsimer
+}
+140031 = {
+	name="Бугарн"
+	culture = orsimer
+}
+140032 = {
+	name="Буляг"
+	culture = orsimer
+}
+140033 = {
+	name="Буларз"
+	culture = orsimer
+}
+140034 = {
+	name="Булфиш"
+	culture = orsimer
+}
+140035 = {
+	name="Бурбуг"
+	culture = orsimer
+}
+140036 = {
+	name="Буриш"
+	culture = orsimer
+}
+140037 = {
+	name="Бурол"
+	culture = orsimer
+}
+140038 = {
+	name="Бузга"
+	culture = orsimer
+}
+140039 = {
+	name="Дугул"
+	culture = orsimer
+}
+140040 = {
+	name="Дул"
+	culture = orsimer
+}
+140041 = {
+	name="Дула"
+	culture = orsimer
+}
+140042 = {
+	name="Дулоб"
+	culture = orsimer
+}
+140043 = {
+	name="Думул"
+	culture = orsimer
+}
+140044 = {
+	name="Дурог"
+	culture = orsimer
+}
+140045 = {
+	name="Дуруг"
+	culture = orsimer
+}
+140046 = {
+	name="Душ"
+	culture = orsimer
+}
+140047 = {
+	name="Гашель"
+	culture = orsimer
+}
+140048 = {
+	name="Гат"
+	culture = orsimer
+}
+140049 = {
+	name="Гхаш"
+	culture = orsimer
+}
+140050 = {
+	name="Гасгарзол"
+	culture = orsimer
+}
+140051 = {
+	name="Голфим"
+	culture = orsimer
+}
+140052 = {
+	name="Голоб"
+	culture = orsimer
+}
+140053 = {
+	name="Горак"
+	culture = orsimer
+}
+140054 = {
+	name="Глорзуф"
+	culture = orsimer
+}
+140055 = {
+	name="Глюк"
+	culture = orsimer
+}
+140056 = {
+	name="Глуркуб"
+	culture = orsimer
+}
+140057 = {
+	name="Гор"
+	culture = orsimer
+}
+140058 = {
+	name="Горзог"
+	culture = orsimer
+}
+140059 = {
+	name="Грамбак"
+	culture = orsimer
+}
+140060 = {
+	name="Грузгоб"
+	culture = orsimer
+}
+140061 = {
+	name="Гульфим"
+	culture = orsimer
+}
+140062 = {
+	name="Гурах"
+	culture = orsimer
+}
+140063 = {
+	name="Гурюб"
+	culture = orsimer
+}
+140064 = {
+	name="Кашуг"
+	culture = orsimer
+}
+140065 = {
+	name="Хагдум"
+	culture = orsimer
+}
+140066 = {
+	name="Харбуш"
+	culture = orsimer
+}
+140067 = {
+	name="Харц"
+	culture = orsimer
+}
+140068 = {
+	name="Кхаш"
+	culture = orsimer
+}
+140069 = {
+	name="Хашнар"
+	culture = orsimer
+}
+140070 = {
+	name="Хатуб"
+	culture = orsimer
+}
+140071 = {
+	name="Хазор"
+	culture = orsimer
+}
+140072 = {
+	name="Лаг"
+	culture = orsimer
+}
+140073 = {
+	name="Лагдуб"
+	culture = orsimer
+}
+140074 = {
+	name="Ларгум"
+	culture = orsimer
+}
+140075 = {
+	name="Лазгарн"
+	culture = orsimer
+}
+140076 = {
+	name="Логхаш"
+	culture = orsimer
+}
+140077 = {
+	name="Логоб"
+	culture = orsimer
+}
+140078 = {
+	name="Лорга"
+	culture = orsimer
+}
+140079 = {
+	name="Лумбук"
+	culture = orsimer
+}
+140080 = {
+	name="Лумоб"
+	culture = orsimer
+}
+140081 = {
+	name="Луркул"
+	culture = orsimer
+}
+140082 = {
+	name="Люрн"
+	culture = orsimer
+}
+140083 = {
+	name="Лузган"
+	culture = orsimer
+}
+140084 = {
+	name="Магар"
+	culture = orsimer
+}
+140085 = {
+	name="Магриш"
+	culture = orsimer
+}
+140086 = {
+	name="Мар"
+	culture = orsimer
+}
+140087 = {
+	name="Мароб"
+	culture = orsimer
+}
+140088 = {
+	name="Машнар"
+	culture = orsimer
+}
+140089 = {
+	name="Могдук"
+	culture = orsimer
+}
+140090 = {
+	name="Могах"
+	culture = orsimer
+}
+140091 = {
+	name="Мугол"
+	culture = orsimer
+}
+140092 = {
+	name="Мук"
+	culture = orsimer
+}
+140093 = {
+	name="Мулах"
+	culture = orsimer
+}
+140094 = {
+	name="Мургол"
+	culture = orsimer
+}
+140095 = {
+	name="Мургюб"
+	culture = orsimer
+}
+140096 = {
+	name="Мурц"
+	culture = orsimer
+}
+140097 = {
+	name="Музгоб"
+	culture = orsimer
+}
+140098 = {
+	name="Музгуб"
+	culture = orsimer
+}
+140099 = {
+	name="Огар"
+	culture = orsimer
+}
+140100 = {
+	name="Огдуб"
+	culture = orsimer
+}
+140101 = {
+	name="Огдум"
+	culture = orsimer
+}
+140102 = {
+	name="Олор"
+	culture = orsimer
+}
+140103 = {
+	name="Олурба"
+	culture = orsimer
+}
+140104 = {
+	name="Орбума"
+	culture = orsimer
+}
+140105 = {
+	name="Римф"
+	culture = orsimer
+}
+140106 = {
+	name="Ругоб"
+	culture = orsimer
+}
+140107 = {
+	name="Руш"
+	culture = orsimer
+}
+140108 = {
+	name="Рушуб"
+	culture = orsimer
+}
+140109 = {
+	name="Шадбук"
+	culture = orsimer
+}
+140110 = {
+	name="Шагдуб"
+	culture = orsimer
+}
+140111 = {
+	name="Шагдулг"
+	culture = orsimer
+}
+140112 = {
+	name="Шаграк"
+	culture = orsimer
+}
+140113 = {
+	name="Шаграмф"
+	culture = orsimer
+}
+140114 = {
+	name="Шак"
+	culture = orsimer
+}
+140115 = {
+	name="Шам"
+	culture = orsimer
+}
+140116 = {
+	name="Шамуб"
+	culture = orsimer
+}
+140117 = {
+	name="Шарбаг"
+	culture = orsimer
+}
+140118 = {
+	name="Шарга"
+	culture = orsimer
+}
+140119 = {
+	name="Шароб"
+	culture = orsimer
+}
+140120 = {
+	name="Шаролг"
+	culture = orsimer
+}
+140121 = {
+	name="Шат"
+	culture = orsimer
+}
+140122 = {
+	name="Шатуб"
+	culture = orsimer
+}
+140123 = {
+	name="Шазог"
+	culture = orsimer
+}
+140124 = {
+	name="Шуг"
+	culture = orsimer
+}
+140125 = {
+	name="Шугарц"
+	culture = orsimer
+}
+140126 = {
+	name="Шугам"
+	culture = orsimer
+}
+140127 = {
+	name="Шула"
+	culture = orsimer
+}
+140128 = {
+	name="Шулор"
+	culture = orsimer
+}
+140129 = {
+	name="Шумба"
+	culture = orsimer
+}
+140130 = {
+	name="Шузгуб"
+	culture = orsimer
+}
+140131 = {
+	name="Скандер"
+	culture = orsimer
+}
+140132 = {
+	name="Шагарц"
+	culture = orsimer
+}
+140133 = {
+	name="Снагду"
+	culture = orsimer
+}
+140134 = {
+	name="Уфтамп"
+	culture = orsimer
+}
+140135 = {
+	name="Уфтарц"
+	culture = orsimer
+}
+140136 = {
+	name="Угрума"
+	culture = orsimer
+}
+140137 = {
+	name="Уляр"
+	culture = orsimer
+}
+140138 = {
+	name="Ульфимф"
+	culture = orsimer
+}
+140139 = {
+	name="Юргак"
+	culture = orsimer
+}
+140140 = {
+	name="Ушар"
+	culture = orsimer
+}
+140141 = {
+	name="Ушуг"
+	culture = orsimer
+}
+140142 = {
+	name="Ушул"
+	culture = orsimer
+}
+140143 = {
+	name="Ужгурн"
+	culture = orsimer
+}
+140144 = {
+	name="Узук"
+	culture = orsimer
+}
+140145 = {
+	name="Йагарц"
+	culture = orsimer
+}
+140146 = {
+	name="Йак"
+	culture = orsimer
+}
+140147 = {
+	name="Йаргул"
+	culture = orsimer
+}
+140148 = {
+	name="Йарзол"
+	culture = orsimer
+}
+140149 = {
+	name="Трейлслаг"
+	culture = orsimer
+}
+140150 = {
+	name="Барот"
+	culture = orsimer
+}
+140151 = {
+	name="Коблуг"
+	culture = orsimer
+}
+140152 = {
+	name="Марад"
+	culture = orsimer
+}
+140153 = {
+	name="Могак"
+	culture = orsimer
+}
+140154 = {
+	name="Орум"
+	culture = orsimer
+}
+140155 = {
+	name="Шургак"
+	culture = orsimer
+}
+140156 = {
+	name="Агамф"
+	culture = orsimer
+}
+140157 = {
+	name="Барак"
+	culture = orsimer
+}
+140158 = {
+	name="Баргол"
+	culture = orsimer
+}
+140159 = {
+	name="Барг"
+	culture = orsimer
+}
+140160 = {
+	name="Больгар"
+	culture = orsimer
+}
+140161 = {
+	name="Бонк"
+	culture = orsimer
+}
+140162 = {
+	name="Брок"
+	culture = orsimer
+}
+140163 = {
+	name="Буглумп"
+	culture = orsimer
+}
+140164 = {
+	name="Бамп"
+	culture = orsimer
+}
+140165 = {
+	name="Бура"
+	culture = orsimer
+}
+140166 = {
+	name="Бурбог"
+	culture = orsimer
+}
+140167 = {
+	name="Кромгаг"
+	culture = orsimer
+}
+140168 = {
+	name="Драгол"
+	culture = orsimer
+}
+140169 = {
+	name="Галаш"
+	culture = orsimer
+}
+140170 = {
+	name="Гаморн"
+	culture = orsimer
+}
+140171 = {
+	name="Гаш"
+	culture = orsimer
+}
+140172 = {
+	name="Гарз"
+	culture = orsimer
+}
+140173 = {
+	name="Гот"
+	culture = orsimer
+}
+140174 = {
+	name="Глурзог"
+	culture = orsimer
+}
+140175 = {
+	name="Голпок"
+	culture = orsimer
+}
+140176 = {
+	name="Гонк"
+	culture = orsimer
+}
+140177 = {
+	name="Грулам"
+	culture = orsimer
+}
+140178 = {
+	name="Хубраг"
+	culture = orsimer
+}
+140179 = {
+	name="Каш"
+	culture = orsimer
+}
+140180 = {
+	name="Могул"
+	culture = orsimer
+}
+140181 = {
+	name="Малог"
+	culture = orsimer
+}
+140182 = {
+	name="Моргрумп"
+	culture = orsimer
+}
+140183 = {
+	name="Мургак"
+	culture = orsimer
+}
+140184 = {
+	name="Наубек"
+	culture = orsimer
+}
+140185 = {
+	name="Оркулг"
+	culture = orsimer
+}
+140186 = {
+	name="Оркул"
+	culture = orsimer
+}
+140187 = {
+	name="Рагдуш"
+	culture = orsimer
+}
+140188 = {
+	name="Шадборгоб"
+	culture = orsimer
+}
+140189 = {
+	name="Шагк"
+	culture = orsimer
+}
+140190 = {
+	name="Шелоб"
+	culture = orsimer
+}
+140191 = {
+	name="Шатур"
+	culture = orsimer
+}
+140192 = {
+	name="Гуш"
+	culture = orsimer
+}
+140193 = {
+	name="Шура"
+	culture = orsimer
+}
+140194 = {
+	name="Угдуб"
+	culture = orsimer
+}
+140195 = {
+	name="Ургаш"
+	culture = orsimer
+}
+140196 = {
+	name="Узгаш"
+	culture = orsimer
+}
+140197 = {
+	name="Узуг"
+	culture = orsimer
+}
+140198 = {
+	name="Йаруг"
+	culture = orsimer
+}
+140199 = {
+	name="Шугурз"
+	culture = orsimer
+}
+140200 = {
+	name="Багол"
+	culture = orsimer
+}
+140201 = {
+	name="Барка"
+	culture = orsimer
+}
+140202 = {
+	name="Бурзаг"
+	culture = orsimer
+}
+140203 = {
+	name="Душник"
+	culture = orsimer
+}
+140204 = {
+	name="Гортвог"
+	culture = orsimer
+}
+140205 = {
+	name="Ларгаш"
+	culture = orsimer
+}
+140206 = {
+	name="Нолоб"
+	culture = orsimer
+}
+140207 = {
+	name="Шаргак"
+	culture = orsimer
+}
+140208 = {
+	name="Шуб"
+	culture = orsimer
+}
+140209 = {
+	name="Шуркул"
+	culture = orsimer
+}
+140210 = {
+	name="Йал"
+	culture = orsimer
+}
+140211 = {
+	name="Тумнош"
+	culture = orsimer
+}
+140212 = {
+	name="Идрун"
+	culture = orsimer
+}
+140213 = {
+	name="Лургаш"
+	culture = orsimer
+}
+140214 = {
+	name="Баркбит"
+	culture = orsimer
+}
+140215 = {
+	name="Друблог"
+	culture = orsimer
+}
+140216 = {
+	name="Оуатбоунт"
+	culture = orsimer
+}
+140217 = {
+	name = "Кровавый клык"
+	culture = orsimer
+	used_for_random = no
+	can_appear = no
+}

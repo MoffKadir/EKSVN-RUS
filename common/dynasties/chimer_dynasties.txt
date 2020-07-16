@@ -1,0 +1,607 @@
+# Chimer Range: 310000 - 319999 - Randomly generated from a combination of Altmer prefixes and dunmer suffixes
+
+310000 = {
+	name="Укалу"
+	culture = chimer
+}
+310001 = {
+	name="Тунванни"
+	culture = chimer
+}
+310002 = {
+	name="Аререти"
+	culture = chimer
+}
+310003 = {
+	name="Ареванни"
+	culture = chimer
+}
+310004 = {
+	name="Моториль"
+	culture = chimer
+}
+310005 = {
+	name="Моталу"
+	culture = chimer
+}
+310006 = {
+	name="Укдрет"
+	culture = chimer
+}
+310007 = {
+	name="Йанванни"
+	culture = chimer
+}
+310008 = {
+	name="Ангдрас"
+	culture = chimer
+}
+310009 = {
+	name="Анканни"
+	culture = chimer
+}
+310010 = {
+	name="Ангоран"
+	culture = chimer
+}
+310011 = {
+	name="Арарано"
+	culture = chimer
+}
+310012 = {
+	name="Арадорил"
+	culture = chimer
+}
+310013 = {
+	name="Арадас"
+	culture = chimer
+}
+310014 = {
+	name="Ангрети"
+	culture = chimer
+}
+310015 = {
+	name="Анкдас"
+	culture = chimer
+}
+310016 = {
+	name="Анкалу"
+	culture = chimer
+}
+310017 = {
+	name="Арани"
+	culture = chimer
+}
+310018 = {
+	name="Араоран"
+	culture = chimer
+}
+310019 = {
+	name="Арас"
+	culture = chimer
+}
+310020 = {
+	name="Арарес"
+	culture = chimer
+}
+310021 = {
+	name="Аранит"
+	culture = chimer
+}
+310022 = {
+	name="Аредас"
+	culture = chimer
+}
+310023 = {
+	name="Араванни"
+	culture = chimer
+}
+310024 = {
+	name="Арарети"
+	culture = chimer
+}
+310025 = {
+	name="Аралу"
+	culture = chimer
+}
+310026 = {
+	name="Араети"
+	culture = chimer
+}
+310027 = {
+	name="Арадрет"
+	culture = chimer
+}
+
+310028 = {
+	name="Арадрас"
+	culture = chimer
+}
+310029 = {
+	name="Ангрес"
+	culture = chimer
+}
+310030 = {
+	name="Ангорил"
+	culture = chimer
+}
+310031 = {
+	name="Анграс"
+	culture = chimer
+}
+310032 = {
+	name="Ангнит"
+	culture = chimer
+}
+310033 = {
+	name="Анганни"
+	culture = chimer
+}
+310034 = {
+	name="Ангдорил"
+	culture = chimer
+}
+310035 = {
+	name="Анкдрас"
+	culture = chimer
+}
+310036 = {
+	name="Ансети"
+	culture = chimer
+}
+310037 = {
+	name="Анкорил"
+	culture = chimer
+}
+310038 = {
+	name="Анкванни"
+	culture = chimer
+}
+310039 = {
+	name="Анкрано"
+	culture = chimer
+}
+310040 = {
+	name="Анкрас"
+	culture = chimer
+}
+310041 = {
+	name="Аркоран"
+	culture = chimer
+}
+310042 = {
+	name="Аркорил"
+	culture = chimer
+}
+310043 = {
+	name="Аркдас"
+	culture = chimer
+}
+310044 = {
+	name="Арельдрет"
+	culture = chimer
+}
+310045 = {
+	name="Арелани"
+	culture = chimer
+}
+310046 = {
+	name="Арелдорил"
+	culture = chimer
+}
+310047 = {
+	name="Арелрано"
+	culture = chimer
+}
+310048 = {
+	name="Арканни"
+	culture = chimer
+}
+310049 = {
+	name="Арелоран"
+	culture = chimer
+}
+310050 = {
+	name="Дирдрас"
+	culture = chimer
+}
+310051 = {
+	name="Дирдрет"
+	culture = chimer
+}
+310052 = {
+	name="Дирнит"
+	culture = chimer
+}
+310053 = {
+	name="Дирети"
+	culture = chimer
+}
+310054 = {
+	name="Диралу"
+	culture = chimer
+}
+310055 = {
+	name="Аркрано"
+	culture = chimer
+}
+310056 = {
+	name="Аркети"
+	culture = chimer
+}
+310057 = {
+	name="Аркрети"
+	culture = chimer
+}
+310058 = {
+	name="Аркрес"
+	culture = chimer
+}
+310059 = {
+	name="Аркванни"
+	culture = chimer
+}
+310060 = {
+	name="Дирдас"
+	culture = chimer
+}
+310061 = {
+	name="Аркани"
+	culture = chimer
+}
+310062 = {
+	name="Аркдорил"
+	culture = chimer
+}
+310063 = {
+	name="Аркдрет"
+	culture = chimer
+}
+310064 = {
+	name="Аркдрас"
+	culture = chimer
+}
+310065 = {
+	name="Аркнит"
+	culture = chimer
+}
+310066 = {
+	name="Аркалу"
+	culture = chimer
+}
+310067 = {
+	name="Арерас"
+	culture = chimer
+}
+310068 = {
+	name="Ареорил"
+	culture = chimer
+}
+310069 = {
+	name="Ареоран"
+	culture = chimer
+}
+310070 = {
+	name="Аренит"
+	culture = chimer
+}
+310071 = {
+	name="Арелети"
+	culture = chimer
+}
+310072 = {
+	name="Арелрас"
+	culture = chimer
+}
+310073 = {
+	name="Арелорил"
+	culture = chimer
+}
+310074 = {
+	name="Арелнит"
+	culture = chimer
+}
+310075 = {
+	name="Дироран"
+	culture = chimer
+}
+310076 = {
+	name="Дирорил"
+	culture = chimer
+}
+310077 = {
+	name="Диррас"
+	culture = chimer
+}
+310078 = {
+	name="Диррано"
+	culture = chimer
+}
+310079 = {
+	name="Диррети"
+	culture = chimer
+}
+310080 = {
+	name="Дирванни"
+	culture = chimer
+}
+310081 = {
+	name="Мотани"
+	culture = chimer
+}
+310082 = {
+	name="Мотдас"
+	culture = chimer
+}
+310083 = {
+	name="Мотдорил"
+	culture = chimer
+}
+310084 = {
+	name="Модрас"
+	culture = chimer
+}
+310085 = {
+	name="Мотети"
+	culture = chimer
+}
+310086 = {
+	name="Моторан"
+	culture = chimer
+}
+310087 = {
+	name="Мотрано"
+	culture = chimer
+}
+310088 = {
+	name="Мотрас"
+	culture = chimer
+}
+310089 = {
+	name="Мотрети"
+	culture = chimer
+}
+310090 = {
+	name="Мотванни"
+	culture = chimer
+}
+310091 = {
+	name="Йанрети"
+	culture = chimer
+}
+310092 = {
+	name="Йанрас"
+	culture = chimer
+}
+310093 = {
+	name="Йанорил"
+	culture = chimer
+}
+310094 = {
+	name="Йаноран"
+	culture = chimer
+}
+310095 = {
+	name="Йаннит"
+	culture = chimer
+}
+310096 = {
+	name="Йанети"
+	culture = chimer
+}
+310097 = {
+	name="Укванни"
+	culture = chimer
+}
+310098 = {
+	name="Йаналу"
+	culture = chimer
+}
+310099 = {
+	name="Йананни"
+	culture = chimer
+}
+310100 = {
+	name="Йандас"
+	culture = chimer
+}
+310101 = {
+	name="Йандрас"
+	culture = chimer
+}
+310102 = {
+	name="Укнит"
+	culture = chimer
+}
+310103 = {
+	name="Укоран"
+	culture = chimer
+}
+310104 = {
+	name="Укорил"
+	culture = chimer
+}
+310105 = {
+	name="Украс"
+	culture = chimer
+}
+310106 = {
+	name="Укрети"
+	culture = chimer
+}
+310107 = {
+	name="Укдорил"
+	culture = chimer
+}
+310108 = {
+	name="Укдрас"
+	culture = chimer
+}
+310109 = {
+	name="Укети"
+	culture = chimer
+}
+310110 = {
+	name="Укрес"
+	culture = chimer
+}
+310111 = {
+	name="Туноран"
+	culture = chimer
+}
+310112 = {
+	name="Тунорил"
+	culture = chimer
+}
+310113 = {
+	name="Тунрас"
+	culture = chimer
+}
+310114 = {
+	name="Тунрети"
+	culture = chimer
+}
+310115 = {
+	name="Укани"
+	culture = chimer
+}
+310116 = {
+	name="Аканни"
+	culture = chimer
+}
+310117 = {
+	name="Акдас"
+	culture = chimer
+}
+310118 = {
+	name="Тунанни"
+	culture = chimer
+}
+310119 = {
+	name="Тандрас"
+	culture = chimer
+}
+310120 = {
+	name="Тандрет"
+	culture = chimer
+}
+310121 = {
+	name="Танети"
+	culture = chimer
+}
+310122 = {
+	name="Тилети"
+	culture = chimer
+}
+310123 = {
+	name="Тилнит"
+	culture = chimer
+}
+310124 = {
+	name="Тилоран"
+	culture = chimer
+}
+310125 = {
+	name="Тилорил"
+	culture = chimer
+}
+310126 = {
+	name="Тильрас"
+	culture = chimer
+}
+310127 = {
+	name="Тильванни"
+	culture = chimer
+}
+310128 = {
+	name="Туналу"
+	culture = chimer
+}
+310129 = {
+	name="Тилдрет"
+	culture = chimer
+}
+310130 = {
+	name="Тилдрас"
+	culture = chimer
+}
+310131 = {
+	name="Тилдорил"
+	culture = chimer
+}
+310132 = {
+	name="Тилани"
+	culture = chimer
+}
+310133 = {
+	name="Танванни"
+	culture = chimer
+}
+310134 = {
+	name="Танрети"
+	culture = chimer
+}
+310135 = {
+	name="Танрас"
+	culture = chimer
+}
+310136 = {
+	name="Орнит"
+	culture = chimer
+}
+310137 = {
+	name="Ормрети"
+	culture = chimer
+}
+310138 = {
+	name="Ормрас"
+	culture = chimer
+}
+310139 = {
+	name="Орванни"
+	culture = chimer
+}
+310140 = {
+	name="Оррас"
+	culture = chimer
+}
+310141 = {
+	name="Оррано"
+	culture = chimer
+}
+310142 = {
+	name="Тандрет"
+	culture = chimer
+}
+310143 = {
+	name="Ормани"
+	culture = chimer
+}
+310144 = {
+	name="Ормдас"
+	culture = chimer
+}
+310145 = {
+	name="Ормдорил"
+	culture = chimer
+}
+310146 = {
+	name="Ормдрет"
+	culture = chimer
+}
+310147 = {
+	name="Орморан"
+	culture = chimer
+}
+310148 = {
+	name="Орморил"
+	culture = chimer
+}
+310149 = {
+	name="Ордас"
+	culture = chimer
+}
+310150 = {
+	name="Арельдас"
+	culture = chimer
+}

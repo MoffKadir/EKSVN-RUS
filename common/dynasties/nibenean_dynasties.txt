@@ -1,0 +1,2069 @@
+#Nibenean Range: 3-9999
+
+1 = {
+	name="Септим"
+	used_for_random = no
+	can_appear = no
+
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 2
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+2 = {
+	name="Сиродил" #Formerly Dor, please do not revert this; it wasn't a mistake.
+	used_for_random = no
+	can_appear = no
+
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 0
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+3 = {
+	name="Эбиниан"
+	culture=nibenean
+}
+
+4 = {
+	name="Афрараниан"
+	culture=nibenean
+}
+
+5 = {
+	name="Афрарунцейан"
+	culture=nibenean
+}
+
+6 = {
+	name="Афратрасо"
+	culture=nibenean
+}
+
+7 = {
+	name="Афелиан"
+	culture=nibenean
+}
+
+8 = {
+	name="Афрокрина"
+	culture=nibenean
+}
+
+9 = {
+	name="Афрогиан"
+	culture=nibenean
+}
+
+10 = {
+	name="Афромина"
+	culture=nibenean
+}
+
+11 = {
+	name="Афораниан"
+	culture=nibenean
+}
+
+12 = {
+	name="Афрониан"
+	culture=nibenean
+}
+
+13 = {
+	name="Афуко"
+	culture=nibenean
+}
+
+14 = {
+	name="Айна"
+	culture=nibenean
+}
+
+15 = {
+	name="Айниан"
+	culture=nibenean
+}
+
+16 = {
+	name="Альфена"
+	culture=nibenean
+}
+
+17 = {
+	name="Амалиан"
+	culture=nibenean
+}
+
+18 = {
+	name="Амеччи"
+	culture=nibenean
+}
+
+19 = {
+	name="Амема"
+	culture=nibenean
+}
+
+20 = {
+	name="Армендиан"
+	culture=nibenean
+}
+
+21 = {
+	name="Амимина"
+	culture=nibenean
+}
+
+22 = {
+	name="Аморито"
+	culture=nibenean
+}
+
+23 = {
+	name="Амотиан"
+	culture=nibenean
+}
+
+24 = {
+	name="Амфиан"
+	culture=nibenean
+}
+
+25 = {
+	name="Амфиниан"
+	culture=nibenean
+}
+
+26 = {
+	name="Амфира"
+	culture=nibenean
+}
+
+27 = {
+	name="Амфокрина"
+	culture=nibenean
+}
+
+28 = {
+	name="Амфоптор"
+	culture=nibenean
+}
+
+29 = {
+	name="Амфорана"
+	culture=nibenean
+}
+
+30 = {
+	name="Амфиниччи"
+	culture=nibenean
+}
+
+31 = {
+	name="Амуриан"
+	culture=nibenean
+}
+
+32 = {
+	name="Амусо"
+	culture=nibenean
+}
+
+33 = {
+	name="Амиччи"
+	culture=nibenean
+}
+
+34 = {
+	name="Анхариан"
+	culture=nibenean
+}
+
+35 = {
+	name="Апиниан"
+	culture=nibenean
+}
+
+36 = {
+	name="Арабо"
+	culture=nibenean
+}
+
+37 = {
+	name="Араро"
+	culture=nibenean
+}
+
+38 = {
+	name="Аркадиан"
+	culture=nibenean
+}
+
+39 = {
+	name="Аркато"
+	culture=nibenean
+}
+
+40 = {
+	name="Аркецейан"
+	culture=nibenean
+}
+
+41 = {
+	name="Арцептор"
+	culture=nibenean
+}
+
+42 = {
+	name="Аркисиан"
+	culture=nibenean
+}
+
+43 = {
+	name="Аркори"
+	culture=nibenean
+}
+
+44 = {
+	name="Аркотрасо"
+	culture=nibenean
+}
+
+45 = {
+	name="Аркуро"
+	culture=nibenean
+}
+
+46 = {
+	name="Аредиан"
+	culture=nibenean
+}
+
+47 = {
+	name="Арема"
+	culture=nibenean
+}
+
+48 = {
+	name="Аретино"
+	culture=nibenean
+}
+
+49 = {
+	name="Аревейн"
+	culture=nibenean
+}
+
+50 = {
+	name="Ариан"
+	culture=nibenean
+}
+
+51 = {
+	name="Аритрасо"
+	culture=nibenean
+}
+
+52 = {
+	name="Армалли"
+	culture=nibenean
+}
+
+53 = {
+	name="Армарвейн"
+	culture=nibenean
+}
+
+54 = {
+	name="Армасма"
+	culture=nibenean
+}
+
+55 = {
+	name="Армесиан"
+	culture=nibenean
+}
+
+56 = {
+	name="Армеччи"
+	culture=nibenean
+}
+
+57 = {
+	name="Армена"
+	culture=nibenean
+}
+
+58 = {
+	name="Армери"
+	culture=nibenean
+}
+
+59 = {
+	name="Арметиан"
+	culture=nibenean
+}
+
+60 = {
+	name="Седриан"
+	culture=nibenean
+}
+
+61 = {
+	name="Армифиан"
+	culture=nibenean
+}
+
+62 = {
+	name="Армито"
+	culture=nibenean
+}
+
+63 = {
+	name="Армулли"
+	culture=nibenean
+}
+
+64 = {
+	name="Армигано"
+	culture=nibenean
+}
+
+65 = {
+	name="Арминиччи"
+	culture=nibenean
+}
+
+66 = {
+	name="Ародниан"
+	culture=nibenean
+}
+
+67 = {
+	name="Ароптор"
+	culture=nibenean
+}
+
+68 = {
+	name="Аросаейан"
+	culture=nibenean
+}
+
+69 = {
+	name="Арриан"
+	culture=nibenean
+}
+
+70 = {
+	name="Арториан"
+	culture=nibenean
+}
+
+71 = {
+	name="Аругано"
+	culture=nibenean
+}
+
+72 = {
+	name="Арвейн"
+	culture=nibenean
+}
+
+73 = {
+	name="Арилериан"
+	culture=nibenean
+}
+
+74 = {
+	name="Атарвейн"
+	culture=nibenean
+}
+
+75 = {
+	name="Атейан"
+	culture=nibenean
+}
+
+76 = {
+	name="Атена"
+	culture=nibenean
+}
+
+77 = {
+	name="Атоко"
+	culture=nibenean
+}
+
+78 = {
+	name="Атосизо"
+	culture=nibenean
+}
+
+79 = {
+	name="Атотрасо"
+	culture=nibenean
+}
+
+80 = {
+	name="Атутелли"
+	culture=nibenean
+}
+
+81 = {
+	name="Аули"
+	culture=nibenean
+}
+
+82 = {
+	name="Аума"
+	culture=nibenean
+}
+
+83 = {
+	name="Авриан"
+	culture=nibenean
+}
+
+84 = {
+	name="Аурра"
+	culture=nibenean
+}
+
+85 = {
+	name="Аурунсейан"
+	culture=nibenean
+}
+
+86 = {
+	name="Авториан"
+	culture=nibenean
+}
+
+87 = {
+	name="Авагори"
+	culture=nibenean
+}
+
+88 = {
+	name="Авафиан"
+	culture=nibenean
+}
+
+89 = {
+	name="Авендиан"
+	culture=nibenean
+}
+
+90 = {
+	name="Авениччи"
+	culture=nibenean
+}
+
+91 = {
+	name="Авефиан"
+	culture=nibenean
+}
+
+92 = {
+	name="Авирониан"
+	culture=nibenean
+}
+
+93 = {
+	name="Авокро"
+	culture=nibenean
+}
+
+94 = {
+	name="Авураниан"
+	culture=nibenean
+}
+
+95 = {
+	name="Ависиан"
+	culture=nibenean
+}
+
+96 = {
+	name="Авигано"
+	culture=nibenean
+}
+
+97 = {
+	name="Аубиниан"
+	culture=nibenean
+}
+
+98 = {
+	name="Аулериан"
+	culture=nibenean
+}
+
+99 = {
+	name="Аутрасо"
+	culture=nibenean
+}
+
+100 = {
+	name="Аувейн"
+	culture=nibenean
+}
+
+101 = {
+	name="Багиан"
+	culture=nibenean
+}
+
+102 = {
+	name="Бара"
+	culture=nibenean
+}
+
+103 = {
+	name="Барана"
+	culture=nibenean
+}
+
+104 = {
+	name="Бецейан"
+	culture=nibenean
+}
+
+105 = {
+	name="Биччи"
+	culture=nibenean
+}
+
+106 = {
+	name="Бигано"
+	culture=nibenean
+}
+
+107 = {
+	name="Биндиан"
+	culture=nibenean
+}
+
+108 = {
+	name="Блацие"
+	culture=nibenean
+}
+
+109 = {
+	name="Бландиан"
+	culture=nibenean
+}
+
+110 = {
+	name="Блано"
+	culture=nibenean
+}
+
+111 = {
+	name="Бларо"
+	culture=nibenean
+}
+
+112 = {
+	name="Блебо"
+	culture=nibenean
+}
+
+113 = {
+	name="Бледано"
+	culture=nibenean
+}
+
+114 = {
+	name="Блобиниан"
+	culture=nibenean
+}
+
+115 = {
+	name="Блогано"
+	culture=nibenean
+}
+
+116 = {
+	name="Блониан"
+	culture=nibenean
+}
+
+117 = {
+	name="Блотрасо"
+	culture=nibenean
+}
+
+118 = {
+	name="Блусма"
+	culture=nibenean
+}
+
+119 = {
+	name="Блукрина"
+	culture=nibenean
+}
+
+120 = {
+	name="Блуниччи"
+	culture=nibenean
+}
+
+121 = {
+	name="Бома"
+	culture=nibenean
+}
+
+122 = {
+	name="Бусиан"
+	culture=nibenean
+}
+
+123 = {
+	name="Бубиниан"
+	culture=nibenean
+}
+
+124 = {
+	name="Каэлиан"
+	culture=nibenean
+}
+
+125 = {
+	name="Каэреллиан"
+	culture=nibenean
+}
+
+126 = {
+	name="Калидиан"
+	culture=nibenean
+}
+
+127 = {
+	name="Карбо"
+	culture=nibenean
+}
+
+128 = {
+	name="Каро"
+	culture=nibenean
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 27
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+129 = {
+	name="Картиан"
+	culture=nibenean
+}
+
+130 = {
+	name="Карвейн"
+	culture=nibenean
+}
+
+131 = {
+	name="Катиан"
+	culture=nibenean
+}
+
+132 = {
+	name="Катрасо"
+	culture=nibenean
+}
+
+133 = {
+	name="Цесиан"
+	culture=nibenean
+}
+
+134 = {
+	name="Цефена"
+	culture=nibenean
+}
+
+135 = {
+	name="Цено"
+	culture=nibenean
+}
+
+136 = {
+	name="Церо"
+	culture=nibenean
+}
+
+137 = {
+	name="Сидиан"
+	culture=nibenean
+}
+
+138 = {
+	name="Цифена"
+	culture=nibenean
+}
+
+139 = {
+	name="Цинна"
+	culture=nibenean
+}
+
+140 = {
+	name="Цивелло"
+	culture=nibenean
+}
+
+141 = {
+	name="Цосие"
+	culture=nibenean
+}
+
+142 = {
+	name="Кондиан"
+	culture=nibenean
+}
+
+143 = {
+	name="Косма"
+	culture=nibenean
+}
+
+144 = {
+	name="Краниан"
+	culture=nibenean
+}
+
+145 = {
+	name="Краро"
+	culture=nibenean
+}
+
+146 = {
+	name="Крациан"
+	culture=nibenean
+}
+
+147 = {
+	name="Кребро"
+	culture=nibenean
+}
+
+148 = {
+	name="Крито"
+	culture=nibenean
+}
+
+149 = {
+	name="Кробо"
+	culture=nibenean
+}
+
+150 = {
+	name="Цаллиан"
+	culture=nibenean
+}
+
+151 = {
+	name="Каптор"
+	culture=nibenean
+	
+	coat_of_arms = { 
+		template = 0
+		layer = {
+			texture = 4
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 0
+			color = 0
+		}
+	}
+}
+
+152 = {
+	name="Курио"
+	culture=nibenean
+}
+
+153 = {
+	name="Денулиан"
+	culture=nibenean
+}
+
+154 = {
+	name="Дерана"
+	culture=nibenean
+}
+
+155 = {
+	name="Дераниан"
+	culture=nibenean
+}
+
+156 = {
+	name="Дилериан"
+	culture=nibenean
+}
+
+157 = {
+	name="Дома"
+	culture=nibenean
+}
+
+158 = {
+	name="Домиан"
+	culture=nibenean
+}
+
+159 = {
+	name="Дониан"
+	culture=nibenean
+}
+
+160 = {
+	name="Дурониан"
+	culture=nibenean
+}
+
+161 = {
+	name="Дутрасо"
+	culture=nibenean
+}
+
+162 = {
+	name="Дителли"
+	culture=nibenean
+}
+
+163 = {
+	name="Эфабо"
+	culture=nibenean
+}
+
+164 = {
+	name="Эфасиан"
+	culture=nibenean
+}
+
+165 = {
+	name="Эфакро"
+	culture=nibenean
+}
+
+166 = {
+	name="Эфана"
+	culture=nibenean
+}
+
+167 = {
+	name="Эфели"
+	culture=nibenean
+}
+
+168 = {
+	name="Эфендиан"
+	culture=nibenean
+}
+
+169 = {
+	name="Эфефиан"
+	culture=nibenean
+}
+
+170 = {
+	name="Эферана"
+	culture=nibenean
+}
+
+171 = {
+	name="Эфиниччи"
+	culture=nibenean
+}
+
+172 = {
+	name="Эфирана"
+	culture=nibenean
+}
+
+173 = {
+	name="Эфивейн"
+	culture=nibenean
+}
+
+174 = {
+	name="Эфусейан"
+	culture=nibenean
+}
+
+175 = {
+	name="Эфиниан"
+	culture=nibenean
+}
+
+176 = {
+	name="Эйто"
+	culture=nibenean
+}
+
+177 = {
+	name="Энафиан"
+	culture=nibenean
+}
+
+178 = {
+	name="Эндарио"
+	culture=nibenean
+}
+
+179 = {
+	name="Энецо"
+	culture=nibenean
+}
+
+180 = {
+	name="Энилериан"
+	culture=nibenean
+}
+
+181 = {
+	name="Эногори"
+	culture=nibenean
+}
+
+182 = {
+	name="Энорана"
+	culture=nibenean
+}
+
+183 = {
+	name="Эноразо"
+	culture=nibenean
+}
+
+184 = {
+	name="Энорунсейан"
+	culture=nibenean
+}
+
+185 = {
+	name="Энуччи"
+	culture=nibenean
+}
+
+186 = {
+	name="Эогиан"
+	culture=nibenean
+}
+
+187 = {
+	name="Эома"
+	culture=nibenean
+}
+
+188 = {
+	name="Эвкро"
+	culture=nibenean
+}
+
+189 = {
+	name="Эвгиан"
+	culture=nibenean
+}
+
+190 = {
+	name="Эвразо"
+	culture=nibenean
+}
+
+191 = {
+	name="Фалериан"
+	culture=nibenean
+}
+
+192 = {
+	name="Фасисо"
+	culture=nibenean
+}
+
+193 = {
+	name="Фецие"
+	culture=nibenean
+}
+
+194 = {
+	name="Фесиниан"
+	culture=nibenean
+}
+
+195 = {
+	name="Фекрина"
+	culture=nibenean
+}
+
+196 = {
+	name="Фисиан"
+	culture=nibenean
+}
+
+197 = {
+	name="Филли"
+	culture=nibenean
+}
+
+198 = {
+	name="Фирбо"
+	culture=nibenean
+}
+
+199 = {
+	name="Фиториан"
+	culture=nibenean
+}
+
+200 = {
+	name="Флафена"
+	culture=nibenean
+}
+
+201 = {
+	name="Флесейан"
+	culture=nibenean
+}
+
+202 = {
+	name="Флесиан"
+	culture=nibenean
+}
+
+203 = {
+	name="Флориан"
+	culture=nibenean
+}
+
+204 = {
+	name="Фландиан"
+	culture=nibenean
+}
+
+205 = {
+	name="Фосейан"
+	culture=nibenean
+}
+
+206 = {
+	name="Фораниан"
+	culture=nibenean
+}
+
+207 = {
+	name="Фотор"
+	culture=nibenean
+}
+
+208 = {
+	name="Фурвейн"
+	culture=nibenean
+}
+
+209 = {
+	name="Габиниан"
+	culture=nibenean
+}
+
+210 = {
+	name="Гаррана"
+	culture=nibenean
+}
+
+211 = {
+	name="Гасисо"
+	culture=nibenean
+}
+
+212 = {
+	name="Гасма"
+	culture=nibenean
+}
+
+213 = {
+	name="Гатрасо"
+	culture=nibenean
+}
+
+214 = {
+	name="Джесейан"
+	culture=nibenean
+}
+
+215 = {
+	name="Джиордано"
+	culture=nibenean
+}
+
+216 = {
+	name="Гизо"
+	culture=nibenean
+}
+
+217 = {
+	name="Готазо"
+	culture=nibenean
+}
+
+218 = {
+	name="Грефена"
+	culture=nibenean
+}
+
+219 = {
+	name="Грегори"
+	culture=nibenean
+}
+
+220 = {
+	name="Грелериан"
+	culture=nibenean
+}
+
+221 = {
+	name="Греториан"
+	culture=nibenean
+}
+
+222 = {
+	name="Гритрасо"
+	culture=nibenean
+}
+
+223 = {
+	name="Гровейн"
+	culture=nibenean
+}
+
+224 = {
+	name="Гручо"
+	culture=nibenean
+}
+
+225 = {
+	name="Грисейан"
+	culture=nibenean
+}
+
+226 = {
+	name="Грирасо"
+	culture=nibenean
+}
+
+227 = {
+	name="Гривейн"
+	culture=nibenean
+}
+
+228 = {
+	name="Гугиан"
+	culture=nibenean
+}
+
+229 = {
+	name="Хабо"
+	culture=nibenean
+}
+
+230 = {
+	name="Хагано"
+	culture=nibenean
+}
+
+231 = {
+	name="Харсиниан"
+	culture=nibenean
+}
+
+232 = {
+	name="Хателли"
+	culture=nibenean
+}
+
+233 = {
+	name="Хатериан"
+	culture=nibenean
+}
+
+234 = {
+	name="Хелиан"
+	culture=nibenean
+}
+
+235 = {
+	name="Херенниан"
+	culture=nibenean
+}
+
+236 = {
+	name="Хиллиан"
+	culture=nibenean
+}
+
+237 = {
+	name="Хорбо"
+	culture=nibenean
+}
+
+238 = {
+	name="Хоро"
+	culture=nibenean
+}
+
+239 = {
+	name="Хури"
+	culture=nibenean
+}
+
+240 = {
+	name="Хусизо"
+	culture=nibenean
+}
+
+241 = {
+	name="Лели"
+	culture=nibenean
+}
+
+242 = {
+	name="Леотелли"
+	culture=nibenean
+}
+
+243 = {
+	name="Лето"
+	culture=nibenean
+}
+
+244 = {
+	name="Лициан"
+	culture=nibenean
+}
+
+245 = {
+	name="Лири"
+	culture=nibenean
+}
+
+246 = {
+	name="Лисизо"
+	culture=nibenean
+}
+
+247 = {
+	name="Ливейн"
+	culture=nibenean
+}
+
+248 = {
+	name="Логори"
+	culture=nibenean
+}
+
+249 = {
+	name="Лоллиан"
+	culture=nibenean
+}
+
+250 = {
+	name="Лотино"
+	culture=nibenean
+}
+
+251 = {
+	name="Луцина"
+	culture=nibenean
+}
+
+252 = {
+	name="Лугори"
+	culture=nibenean
+}
+
+253 = {
+	name="Лундиан"
+	culture=nibenean
+}
+
+254 = {
+	name="Лютрасо"
+	culture=nibenean
+}
+
+255 = {
+	name="Лимина"
+	culture=nibenean
+}
+
+256 = {
+	name="Мабо"
+	culture=nibenean
+}
+
+257 = {
+	name="Макрина"
+	culture=nibenean
+}
+
+258 = {
+	name="Макро"
+	culture=nibenean
+}
+
+259 = {
+	name="Магиан"
+	culture=nibenean
+}
+
+260 = {
+	name="Мали"
+	culture=nibenean
+}
+
+261 = {
+	name="Мариан"
+	culture=nibenean
+}
+
+262 = {
+	name="Маро"
+	culture=nibenean
+}
+
+263 = {
+	name="Марунсейан"
+	culture=nibenean
+}
+
+264 = {
+	name="Матиан"
+	culture=nibenean
+}
+
+265 = {
+	name="Мефена"
+	culture=nibenean
+}
+
+266 = {
+	name="Мефениан"
+	culture=nibenean
+}
+
+267 = {
+	name="Мелиссаейан"
+	culture=nibenean
+}
+
+268 = {
+	name="Меро"
+	culture=nibenean
+}
+
+269 = {
+	name="Мерониан"
+	culture=nibenean
+}
+
+270 = {
+	name="Мико"
+	culture=nibenean
+}
+
+271 = {
+	name="Мидо"
+	culture=nibenean
+}
+
+272 = {
+	name="Миниччи"
+	culture=nibenean
+}
+
+273 = {
+	name="Морваин"
+	culture=nibenean
+}
+
+274 = {
+	name="Моциан"
+	culture=nibenean
+}
+
+275 = {
+	name="Муко"
+	culture=nibenean
+}
+
+276 = {
+	name="Муниан"
+	culture=nibenean
+}
+
+277 = {
+	name="Муно"
+	culture=nibenean
+}
+
+278 = {
+	name="Миро"
+	culture=nibenean
+}
+
+279 = {
+	name="Мирунсейан"
+	culture=nibenean
+}
+
+280 = {
+	name="Мирвайн"
+	culture=nibenean
+}
+
+281 = {
+	name="Орагори"
+	culture=nibenean
+}
+
+282 = {
+	name="Ораниан"
+	culture=nibenean
+}
+
+283 = {
+	name="Орето"
+	culture=nibenean
+}
+
+284 = {
+	name="Оридано"
+	culture=nibenean
+}
+
+285 = {
+	name="Орито"
+	culture=nibenean
+}
+
+286 = {
+	name="Оруниан"
+	culture=nibenean
+}
+
+287 = {
+	name="Пабиниан"
+	culture=nibenean
+}
+
+288 = {
+	name="Паграно"
+	culture=nibenean
+}
+
+289 = {
+	name="Патрейан"
+	culture=nibenean
+}
+
+290 = {
+	name="Пебо"
+	culture=nibenean
+}
+
+291 = {
+	name="Пелагиан"
+	culture=nibenean
+}
+
+292 = {
+	name="Пели"
+	culture=nibenean
+}
+
+293 = {
+	name="Петилиан"
+	culture=nibenean
+}
+
+294 = {
+	name="Пето"
+	culture=nibenean
+}
+
+295 = {
+	name="Фесо"
+	culture=nibenean
+}
+
+296 = {
+	name="Фето"
+	culture=nibenean
+}
+
+297 = {
+	name="Филида"
+	culture=nibenean
+}
+
+298 = {
+	name="Фито"
+	culture=nibenean
+}
+
+299 = {
+	name="Форана"
+	culture=nibenean
+}
+
+300 = {
+	name="Форвейн"
+	culture=nibenean
+}
+
+301 = {
+	name="Фурониан"
+	culture=nibenean
+}
+
+302 = {
+	name="Фигано"
+	culture=nibenean
+}
+
+303 = {
+	name="Филлиан"
+	culture=nibenean
+}
+
+304 = {
+	name="Фиптор"
+	culture=nibenean
+}
+
+305 = {
+	name="Пибо"
+	culture=nibenean
+}
+
+306 = {
+	name="Пикро"
+	culture=nibenean
+}
+
+307 = {
+	name="Пидиан"
+	culture=nibenean
+}
+
+308 = {
+	name="Пилли"
+	culture=nibenean
+}
+
+309 = {
+	name="Плагори"
+	culture=nibenean
+}
+
+310 = {
+	name="Плебо"
+	culture=nibenean
+}
+
+311 = {
+	name="Плеро"
+	culture=nibenean
+}
+
+312 = {
+	name="Плилли"
+	culture=nibenean
+}
+
+313 = {
+	name="Плиниан"
+	culture=nibenean
+}
+
+314 = {
+	name="Плониан"
+	culture=nibenean
+}
+
+315 = {
+	name="Плорбо"
+	culture=nibenean
+}
+
+316 = {
+	name="Плоториан"
+	culture=nibenean
+}
+
+317 = {
+	name="Плуцо"
+	culture=nibenean
+}
+
+318 = {
+	name="Плукрина"
+	culture=nibenean
+}
+
+319 = {
+	name="Пракро"
+	culture=nibenean
+}
+
+320 = {
+	name="Претелли"
+	culture=nibenean
+}
+
+321 = {
+	name="Прециан"
+	culture=nibenean
+}
+
+322 = {
+	name="Превиан"
+	culture=nibenean
+}
+
+323 = {
+	name="Приро"
+	culture=nibenean
+}
+
+324 = {
+	name="Процо"
+	culture=nibenean
+}
+
+325 = {
+	name="Пролли"
+	culture=nibenean
+}
+
+326 = {
+	name="Прибо"
+	culture=nibenean
+}
+
+327 = {
+	name="Приллиан"
+	culture=nibenean
+}
+
+328 = {
+	name="Приптор"
+	culture=nibenean
+}
+
+329 = {
+	name="Пуллиан"
+	culture=nibenean
+}
+
+330 = {
+	name="Куарра"
+	culture=nibenean
+}
+
+331 = {
+	name="Рилериан"
+	culture=nibenean
+}
+
+332 = {
+	name="Розентиан"
+	culture=nibenean
+}
+
+333 = {
+	name="Скасейан"
+	culture=nibenean
+}
+
+334 = {
+	name="Скацо"
+	culture=nibenean
+}
+
+335 = {
+	name="Сцима"
+	culture=nibenean
+}
+
+336 = {
+	name="Сцимиан"
+	culture=nibenean
+}
+
+337 = {
+	name="Сцимиччи"
+	culture=nibenean
+}
+
+338 = {
+	name="Сциминиан"
+	culture=nibenean
+}
+
+339 = {
+	name="Скиниан"
+	culture=nibenean
+}
+
+340 = {
+	name="Скофена"
+	culture=nibenean
+}
+
+341 = {
+	name="Скогори"
+	culture=nibenean
+}
+
+342 = {
+	name="Скоро"
+	culture=nibenean
+}
+
+343 = {
+	name="Скосизо"
+	culture=nibenean
+}
+
+344 = {
+	name="Скрибониан"
+	culture=nibenean
+}
+
+345 = {
+	name="Скримиан"
+	culture=nibenean
+}
+
+346 = {
+	name="Скуцо"
+	culture=nibenean
+}
+
+347 = {
+	name="Скулиан"
+	culture=nibenean
+}
+
+348 = {
+	name="Скузо"
+	culture=nibenean
+}
+
+349 = {
+	name="Скигори"
+	culture=nibenean
+}
+
+350 = {
+	name="Секуниан"
+	culture=nibenean
+}
+
+351 = {
+	name="Сефена"
+	culture=nibenean
+}
+
+352 = {
+	name="Селли"
+	culture=nibenean
+}
+
+353 = {
+	name="Сигори"
+	culture=nibenean
+}
+
+354 = {
+	name="Синиан"
+	culture=nibenean
+}
+
+355 = {
+	name="Сиро"
+	culture=nibenean
+}
+
+356 = {
+	name="Софиан"
+	culture=nibenean
+}
+
+357 = {
+	name="Сосиан"
+	culture=nibenean
+}
+
+358 = {
+	name="Статлилиан"
+	culture=nibenean
+}
+
+359 = {
+	name="Стениан"
+	culture=nibenean
+}
+
+360 = {
+	name="Стето"
+	culture=nibenean
+}
+
+361 = {
+	name="Стизма"
+	culture=nibenean
+}
+
+362 = {
+	name="Стофиан"
+	culture=nibenean
+}
+
+363 = {
+	name="Стубиниан"
+	culture=nibenean
+}
+
+364 = {
+	name="Стуто"
+	culture=nibenean
+}
+
+365 = {
+	name="Стито"
+	culture=nibenean
+}
+
+366 = {
+	name="Судано"
+	culture=nibenean
+}
+
+367 = {
+	name="Тремеллиан"
+	culture=nibenean
+}
+
+368 = {
+	name="Трерониан"
+	culture=nibenean
+}
+
+369 = {
+	name="Тресейан"
+	culture=nibenean
+}
+
+370 = {
+	name="Трондиан"
+	culture=nibenean
+}
+
+371 = {
+	name="Трори"
+	culture=nibenean
+}
+
+372 = {
+	name="Траптор"
+	culture=nibenean
+}
+
+373 = {
+	name="Трилиан"
+	culture=nibenean
+}
+
+374 = {
+	name="Ураниан"
+	culture=nibenean
+}
+
+375 = {
+	name="Ургусизо"
+	culture=nibenean
+}
+
+376 = {
+	name="Урирунсейан"
+	culture=nibenean
+}
+
+377 = {
+	name="Уролли"
+	culture=nibenean
+}
+
+378 = {
+	name="Уругиан"
+	culture=nibenean
+}
+
+379 = {
+	name="Валентиан"
+	culture=nibenean
+}
+
+380 = {
+	name="Валга"
+	culture=nibenean
+}
+
+381 = {
+	name="Валиан"
+	culture=nibenean
+}
+
+382 = {
+	name="Вандасиан"
+	culture=nibenean
+}
+
+383 = {
+	name="Вара"
+	culture=nibenean
+}
+
+384 = {
+	name="Варо"
+	culture=nibenean
+}
+
+385 = {
+	name="Варапатер"
+	culture=nibenean
+}
+
+386 = {
+	name="Вендиччи"
+	culture=nibenean
+}
+
+387 = {
+	name="Верна"
+	culture=nibenean
+}
+
+388 = {
+	name="Весниан"
+	culture=nibenean
+}
+
+389 = {
+	name="Виччи"
+	culture=nibenean
+}
+
+390 = {
+	name="Видусиан"
+	culture=nibenean
+}
+
+391 = {
+	name="Вили"
+	culture=nibenean
+}
+
+392 = {
+	name="Вимина"
+	culture=nibenean
+}
+
+393 = {
+	name="Винисиан"
+	culture=nibenean
+}
+
+394 = {
+	name="Винипатер"
+	culture=nibenean
+}
+
+395 = {
+	name="Вириан"
+	culture=nibenean
+}
+
+396 = {
+	name="Вителлиан"
+	culture=nibenean
+}
+
+397 = {
+	name="Восиан"
+	culture=nibenean
+}
+
+398 = {
+	name="Вогиан"
+	culture=nibenean
+}
+
+399 = {
+	name="Восаейан"
+	culture=nibenean
+}
+
+400 = {
+	name="Вурито"
+	culture=nibenean
+}
+
+401 = {
+	name="Вутино"
+	culture=nibenean
+}
+
+402 = {
+	name="Вуциан"
+	culture=nibenean
+}
+403 = {
+	name="Терентиан"
+	culture=nibenean
+}
+404 = {
+	name="Вирия"
+	culture=nibenean
+}

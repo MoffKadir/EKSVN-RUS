@@ -1,0 +1,286 @@
+#Po Tun Range: 290000-299999
+
+290000 = {
+	name = "Даксу Адмани"
+	culture = potun
+}
+290001 = {
+	name = "Вимала Бидала"
+	culture = potun
+}
+290002 = {
+	name = "Пратибха Пускара"
+	culture = potun
+}
+290003 = {
+	name = "Зукра Ниса"
+	culture = potun
+}
+290004 = {
+	name = "Амита Аманита"
+	culture = potun
+}
+290005 = {
+	name = "Айса Дарсана"
+	culture = potun
+}
+290006 = {
+	name = "Ина Аскаруа"
+	culture = potun
+}
+290007 = {
+	name = "Ананта Ананда"
+	culture = potun
+}
+290008 = {
+	name = "Абджа Вуагхра"
+	culture = potun
+}
+290009 = {
+	name = "Ананта Куджа"
+	culture = potun
+}
+290010 = {
+	name = "Бхадра Дам"
+	culture = potun
+}
+290011 = {
+	name = "Рохат Тара"
+	culture = potun
+}
+290012 = {
+	name = "Кхару Кунда"
+	culture = potun
+}
+290013 = {
+	name = "Акала Бхас"
+	culture = potun
+}
+290014 = {
+	name = "Хирануа Аруна"
+	culture = potun
+}
+290015 = {
+	name = "Асракхадира"
+	culture = potun
+}
+290016 = {
+	name = "Асранта Акта"
+	culture = potun
+}
+290017 = {
+	name = "Пата-Сарпа Джити"
+	culture = potun
+}
+290018 = {
+	name = "Длипа Капала"
+	culture = potun
+}
+290019 = {
+	name = "Асранта Касу"
+	culture = potun
+}
+290020 = {
+	name = "Сат Ануракти"
+	culture = potun
+}
+290021 = {
+	name = "Аманда Дайва"
+	culture = potun
+}
+290022 = {
+	name = "Кхиати Ламбхака"
+	culture = potun
+}
+290023 = {
+	name = "Асита Акта"
+	culture = potun
+}
+290024 = {
+	name = "Мадху Набха"
+	culture = potun
+}
+290025 = {
+	name = "Ангаракамани"
+	culture = potun
+}
+290026 = {
+	name = "Дхира Абдхи"
+	culture = potun
+}
+290027 = {
+	name = "Зиама Мурали"
+	culture = potun
+}
+290028 = {
+	name = "Визала Анадух"
+	culture = potun
+}
+290029 = {
+	name = "Калуа Сугати"
+	culture = potun
+}
+290030 = {
+	name = "Кхару Абджа"
+	culture = potun
+}
+290031 = {
+	name = "Вуакта Дара"
+	culture = potun
+}
+290032 = {
+	name = "Амита Аманита"
+	culture = potun
+}
+290033 = {
+	name = "Анади Сампад"
+	culture = potun
+}
+290034 = {
+	name = "Праджа Найака"
+	culture = potun
+}
+290035 = {
+	name = "Джава Гаду"
+	culture = potun
+}
+290036 = {
+	name = "Пата Патала"
+	culture = potun
+}
+290037 = {
+	name = "Бхавуа Арджуна"
+	culture = potun
+}
+290038 = {
+	name = "Визада Рави"
+	culture = potun
+}
+290039 = {
+	name = "Нилака Дива"
+	culture = potun
+}
+290040 = {
+	name = "Апджа Кала"
+	culture = potun
+}
+290041 = {
+	name = "Гулика Джира"
+	culture = potun
+}
+290042 = {
+	name = "Кару Асая"
+	culture = potun
+}
+290043 = {
+	name = "Кандака Карута"
+	culture = potun
+}
+290044 = {
+	name = "Раджата Мала"
+	culture = potun
+}
+290045 = {
+	name = "Амита Абдхи"
+	culture = potun
+}
+290046 = {
+	name = "Бхала Чанда"
+	culture = potun
+}
+290047 = {
+	name = "Сураса Мадху"
+	culture = potun
+}
+290048 = {
+	name = "Зубхра Асаута"
+	culture = potun
+}
+290049 = {
+	name = "Вази Данава"
+	culture = potun
+}
+290050 = {
+	name = "Нитарам Пурна"
+	culture = potun
+}
+290051 = {
+	name = "Зван Абхика"
+	culture = potun
+}
+290052 = {
+	name = "Сундара Самудра"
+	culture = potun
+}
+290053 = {
+	name = "Визада Визасана"
+	culture = potun
+}
+290054 = {
+	name = "Ардха Пурна"
+	culture = potun
+}
+290055 = {
+	name = "Хамса Азани"
+	culture = potun
+}
+290056 = {
+	name = "Визада Дипти"
+	culture = potun
+}
+290057 = {
+	name = "Сундара Индрадхану"
+	culture = potun
+}
+290058 = {
+	name = "Суварнакара"
+	culture = potun
+}
+290059 = {
+	name = "Китра Бидалика"
+	culture = potun
+}
+290060 = {
+	name = "Джалакарман Бидала"
+	culture = potun
+}
+290061 = {
+	name = "Вивекин Паразу"
+	culture = potun
+}
+290062 = {
+	name = "Сантаптакамикара"
+	culture = potun
+}
+290063 = {
+	name = "Анадхика Кит"
+	culture = potun
+}
+290064 = {
+	name = "Навина Варса"
+	culture = potun
+}
+290065 = {
+	name = "Раджита Карута"
+	culture = potun
+}
+290066 = {
+	name = "Мадху Пуспа"
+	culture = potun
+}
+290067 = {
+	name = "Анантака Дайви"
+	culture = potun
+}
+290068 = {
+	name = "Кетана Джанана"
+	culture = potun
+}
+290069 = {
+	name = "Хайма Ха"
+	culture = potun
+}
+290070 = {
+	name = "Антима Китра"
+	culture = potun
+}
