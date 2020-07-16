@@ -1,0 +1,1343 @@
+#CODE;ENGLISH;x
+emperor_foa_female;Ваше Величество;x #Императорское
+tribal_duchy_of_mordvin;Племя;x
+tribal_duchy_of_east_slavic;Племя;x
+tribal_duchy_east_slavic;Племя;x
+tribal_duchy_of_ilmenian;Племя;x
+tribal_duchy_ilmenian;Племя;x
+tribal_duchy_of_severian;Племя;x
+tribal_duchy_severian;Племя;x
+tribal_duchy_of_volhynian;Племя;x
+tribal_duchy_volhynian;Племя;x
+tribal_duchy_of_russian;Племя;x
+tribal_duchy_russian;Племя;x
+tribal_duchy_of_cuman;Племя;x
+tribal_duchy_of_pecheneg;Племя;x
+tribal_duchy_mordvin;Племя;x
+tribal_duchy_cuman;Племя;x
+tribal_duchy_pecheneg;Племя;x
+tribal_king_east_slavic;Верховный вождь;x
+tribal_king_female_east_slavic;Предводительница;x
+tribal_kingdom_of_east_slavic;Племенной союз;x
+tribal_kingdom_east_slavic;Племенной союз;x
+tribal_kingdom_ilmenian;Племенной союз;x
+tribal_kingdom_of_ilmenian;Племенной союз;x
+tribal_kingdom_severian;Племенной союз;x
+tribal_kingdom_of_severian;Племенной союз;x
+tribal_kingdom_volhynian;Племенной союз;x
+tribal_kingdom_of_volhynian;Племенной союз;x
+tribal_kingdom_russian;Племенной союз;x
+tribal_kingdom_of_russian;Племенной союз;x
+tribal_duke_east_slavic;Вождь;x
+tribal_duke_female_east_slavic;Предводительница;x
+temple_count_female_sunni;Шейха;x
+city_king_female_muslim;Вали-малика;x
+city_duke_female_muslim;Вали-эмира;x
+nomadic_count;Вождь;x
+nomadic_count_female;Предводительница;x
+nomadic_county_of;Удел;x
+nomadic_county;Удел;x
+tribal_kingdom_of_north_germanic;Конунгство;x
+tribal_kingdom_north_germanic;Конунгство;x
+kingdom_of_north_germanic;Конунгство;x
+kingdom_north_germanic;Конунгство;x
+tribal_kingdom_of_norse;Конунгство;x
+tribal_kingdom_norse;Конунгство;x
+kingdom_of_norse;Конунгство;x
+kingdom_norse;Конунгство;x
+tribal_kingdom_of_swedish;Конунгство;x
+tribal_kingdom_swedish;Конунгство;x
+kingdom_of_swedish;Конунгство;x
+kingdom_swedish;Конунгство;x
+tribal_kingdom_of_norwegian;Конунгство;x
+tribal_kingdom_norwegian;Конунгство;x
+kingdom_of_norwegian;Конунгство;x
+kingdom_norwegian;Конунгство;x
+tribal_kingdom_of_danish;Конунгство;x
+tribal_kingdom_danish;Конунгство;x
+kingdom_of_danish;Конунгство;x
+kingdom_danish;Конунгство;x
+family_palace_baron_finno_ugric;Боярин;x
+family_palace_baron_east_slavic;Боярин;x
+family_palace_baron_ilmenian;Боярин;x
+family_palace_baron_severian;Боярин;x
+family_palace_baron_volhynian;Боярин;x
+family_palace_baron_russian;Боярин;x
+family_palace_baron_east_african;Купец;x
+family_palace_baron_west_african;Купец;x
+family_palace_baron_mesoamerican;Купец;x
+family_palace_baron_arabic;Купец;x
+family_palace_baron_iranian;Купец;x
+city_baron_foa_east_slavic;Ваше Благородие;x #Ваша Честь
+city_baron_foa_ilmenian;Ваше Благородие;x #Ваша Честь
+city_baron_foa_severian;Ваше Благородие;x #Ваша Честь
+city_baron_foa_volhynian;Ваше Благородие;x #Ваша Честь
+city_baron_foa_russian;Ваше Благородие;x #Ваша Честь
+family_palace_baron_foa_east_slavic;Ваше Благородие;x #Достопочтенный гражданин
+family_palace_baron_female_east_slavic;Барышня;x
+family_palace_count_female_east_slavic;Барышня;x
+family_palace_duke_female_east_slavic;Барышня;x
+family_palace_king_female_east_slavic;Барышня;x
+family_palace_baron_female_ilmenian;Барышня;x
+family_palace_count_female_ilmenian;Барышня;x
+family_palace_duke_female_ilmenian;Барышня;x
+family_palace_king_female_ilmenian;Барышня;x
+family_palace_baron_female_severian;Барышня;x
+family_palace_count_female_severian;Барышня;x
+family_palace_duke_female_severian;Барышня;x
+family_palace_king_female_severian;Барышня;x
+family_palace_baron_female_volhynian;Барышня;x
+family_palace_count_female_volhynian;Барышня;x
+family_palace_duke_female_volhynian;Барышня;x
+family_palace_king_female_volhynian;Барышня;x
+family_palace_baron_female_russian;Барышня;x
+family_palace_count_female_russian;Барышня;x
+family_palace_duke_female_russian;Барышня;x
+family_palace_king_female_russian;Барышня;x
+city_baron_female_east_slavic;Барышня;x
+city_count_female_east_slavic;Посадница;x
+city_duke_female_east_slavic;Посадница;x
+city_king_female_east_slavic;Посадница;x
+city_emperor_female_east_slavic;Посадница;x
+family_palace_count_east_slavic;Боярин;x
+family_palace_count_foa_east_slavic;Ваше Благородие;x
+city_emperor_foa_east_slavic;Посадник;x
+city_king_foa_east_slavic;Посадник;x
+city_duke_foa_east_slavic;Посадник;x
+city_count_foa_east_slavic;Посадник;x
+city_baron_female_ilmenian;Барышня;x
+city_count_female_ilmenian;Посадница;x
+city_duke_female_ilmenian;Посадница;x
+city_king_female_ilmenian;Посадница;x
+city_emperor_female_ilmenian;Посадница;x
+family_palace_count_ilmenian;Боярин;x
+family_palace_count_foa_ilmenian;Ваше Благородие;x
+city_emperor_foa_ilmenian;Посадник;x
+city_king_foa_ilmenian;Посадник;x
+city_duke_foa_ilmenian;Посадник;x
+city_count_foa_ilmenian;Посадник;x
+city_baron_female_severian;Барышня;x
+city_count_female_severian;Посадница;x
+city_duke_female_severian;Посадница;x
+city_king_female_severian;Посадница;x
+city_emperor_female_severian;Посадница;x
+family_palace_count_severian;Боярин;x
+family_palace_count_foa_severian;Ваше Благородие;x
+city_emperor_foa_severian;Посадник;x
+city_king_foa_severian;Посадник;x
+city_duke_foa_severian;Посадник;x
+city_count_foa_severian;Посадник;x
+city_baron_female_volhynian;Барышня;x
+city_count_female_volhynian;Посадница;x
+city_duke_female_volhynian;Посадница;x
+city_king_female_volhynian;Посадница;x
+city_emperor_female_volhynian;Посадница;x
+family_palace_count_volhynian;Боярин;x
+family_palace_count_foa_volhynian;Ваше Благородие;x
+city_emperor_foa_volhynian;Посадник;x
+city_king_foa_volhynian;Посадник;x
+city_duke_foa_volhynian;Посадник;x
+city_count_foa_volhynian;Посадник;x
+city_baron_female_russian;Барышня;x
+city_count_female_russian;Посадница;x
+city_duke_female_russian;Посадница;x
+city_king_female_russian;Посадница;x
+city_emperor_female_russian;Посадница;x
+family_palace_count_russian;Боярин;x
+family_palace_count_foa_russian;Ваше Благородие;x
+city_emperor_foa_russian;Посадник;x
+city_king_foa_russian;Посадник;x
+city_duke_foa_russian;Посадник;x
+city_count_foa_russian;Посадник;x
+emperor_title_prince_foa;Ваше Высочество;x #Императорское
+emperor_title_prince_foa_female;Ваше Высочество;x #Императорское
+king_title_prince_foa;Ваше Высочество;x
+king_title_prince_foa_female;Ваше Высочество;x
+duke_title_prince_foa;Ваше Высочество;x
+duke_title_prince_foa_female;Ваше Высочество;x
+family_palace_count_female;Леди;x
+city_count_female;Леди;x
+barony_of_east_slavic;Имение;x
+barony_east_slavic;Имение;x
+baron_east_slavic;Боярин;x
+baron_female_east_slavic;Боярыня;x
+baron_title_ruler_consort_east_slavic;Боярин;x
+baron_title_ruler_consort_female_east_slavic;Боярыня;x
+tribal_baron_east_slavic;Боярин;x
+tribal_baron_female_east_slavic;Боярыня;x
+tribal_baron_title_ruler_consort_east_slavic;Боярин;x
+tribal_baron_title_ruler_consort_female_east_slavic;Боярыня;x
+tribal_county_of_east_slavic;Удел;x
+tribal_county_east_slavic;Удел;x
+county_of_east_slavic;Удельное княжество;x
+county_east_slavic;Удельное княжество;x
+count_east_slavic;Удельный князь;x
+count_female_east_slavic;Удельная княгиня;x
+count_title_ruler_consort_east_slavic;Удельный князь;x
+count_title_ruler_consort_female_east_slavic;Удельная княгиня;x
+duchy_of_east_slavic;Княжество;x
+duchy_east_slavic;Княжество;x
+duke_east_slavic;Князь;x
+duke_female_east_slavic;Княгиня;x
+duke_title_ruler_consort_east_slavic;Князь;x
+duke_title_ruler_consort_female_east_slavic;Княгиня;x
+kingdom_of_east_slavic;Великое княжество;x
+kingdom_east_slavic;Великое княжество;x
+king_east_slavic;Великий князь;x
+king_female_east_slavic;Великая княгиня;x
+king_title_prince_east_slavic;Великий княжич;x
+king_title_prince_female_east_slavic;Великая княжна;x
+empire_of_east_slavic;Царство;x
+empire_east_slavic;Царство;x
+emperor_east_slavic;Царь;x
+emperor_female_east_slavic;Царица;x
+emperor_title_prince_east_slavic;Царевич;x
+emperor_title_prince_female_east_slavic;Царевна;x
+tribal_empire_of_east_slavic;Царство;x
+tribal_empire_east_slavic;Царство;x
+tribal_emperor_east_slavic;Царь;x
+tribal_emperor_female_east_slavic;Царица;x
+tribal_emperor_title_ruler_consort_female_east_slavic;Царица;x
+city_baron_east_slavic;Тысяцкий;x
+city_count_east_slavic;Посадник;x
+city_duke_east_slavic;Посадник;x #Главный посадник
+city_count_title_ruler_consort_female_east_slavic;Посадница;x
+city_duke_title_ruler_consort_female_east_slavic;Посадница;x
+city_king_title_ruler_consort_female_east_slavic;Посадница;x
+city_emperor_title_ruler_consort_female_east_slavic;Посадница;x
+city_kingdom_of_east_slavic;Торговый союз;x
+city_kingdom_east_slavic;Торговый союз;x
+city_king_east_slavic;Посадник;x #Верховный посадник
+city_emperor_east_slavic;Посадник;x
+job_marshal_east_slavic;Воевода;x
+job_treasurer_east_slavic;Тиун;x
+job_chancellor_east_slavic;Дьяк;x
+city_job_marshal_east_slavic;Воевода;x
+city_job_treasurer_east_slavic;Тиун;x
+city_job_chancellor_east_slavic;Дьяк;x
+tribal_job_marshal_east_slavic;Воевода;x
+tribal_job_treasurer_east_slavic;Тиун;x
+tribal_job_chancellor_east_slavic;Дьяк;x
+tribal_job_spiritual_slavic_pagan;Волхв;x
+tribal_job_spiritual_slavic_pagan_reformed;Волхв;x
+vice_royalty_barony_of_east_slavic;Поместье;x
+vice_royalty_county_of_east_slavic;Погост;x
+vice_royalty_duchy_of_east_slavic;Уезд;x
+vice_royalty_kingdom_of_east_slavic;Наместничество;x
+vice_royalty_empire_of_east_slavic;Великое наместничество;x
+vice_royalty_baron_east_slavic;Подручник;x
+vice_royalty_count_east_slavic;Наместник;x
+vice_royalty_duke_east_slavic;Князь-наместник;x
+vice_royalty_king_east_slavic;Государев наместник;x
+vice_royalty_emperor_east_slavic;Великий наместник;x
+vice_royalty_baron_female_east_slavic;Подручница;x
+vice_royalty_count_female_east_slavic;Наместница;x
+vice_royalty_duke_female_east_slavic;Княгиня-наместница;x
+vice_royalty_king_female_east_slavic;Государева наместница;x
+vice_royalty_emperor_female_east_slavic;Великая наместница;x
+tribal_vice_royalty_barony_of_east_slavic;Поместье;x
+tribal_vice_royalty_county_of_east_slavic;Погост;x
+tribal_vice_royalty_duchy_of_east_slavic;Уезд;x
+tribal_vice_royalty_kingdom_of_east_slavic;Наместничество;x
+tribal_vice_royalty_empire_of_east_slavic;Великое наместничество;x
+tribal_vice_royalty_baron_east_slavic;Подручник;x
+tribal_vice_royalty_count_east_slavic;Наместник;x
+tribal_vice_royalty_duke_east_slavic;Князь-наместник;x
+tribal_vice_royalty_king_east_slavic;Государев наместник;x
+tribal_vice_royalty_emperor_east_slavic;Великий наместник;x
+tribal_vice_royalty_baron_female_east_slavic;Подручница;x
+tribal_vice_royalty_count_female_east_slavic;Наместница;x
+tribal_vice_royalty_duke_female_east_slavic;Княгиня-наместница;x
+tribal_vice_royalty_king_female_east_slavic;Государева наместница;x
+tribal_vice_royalty_emperor_female_east_slavic;Великая наместница;x
+city_vice_royalty_county_of_east_slavic;Погост;x
+barony_of_ilmenian;Имение;x
+barony_ilmenian;Имение;x
+baron_ilmenian;Боярин;x
+baron_female_ilmenian;Боярыня;x
+baron_title_ruler_consort_ilmenian;Боярин;x
+baron_title_ruler_consort_female_ilmenian;Боярыня;x
+tribal_baron_ilmenian;Боярин;x
+tribal_baron_female_ilmenian;Боярыня;x
+tribal_baron_title_ruler_consort_ilmenian;Боярин;x
+tribal_baron_title_ruler_consort_female_ilmenian;Боярыня;x
+tribal_county_of_ilmenian;Удел;x
+tribal_county_ilmenian;Удел;x
+county_of_ilmenian;Удельное княжество;x
+county_ilmenian;Удельное княжество;x
+count_ilmenian;Удельный князь;x
+count_female_ilmenian;Удельная княгиня;x
+count_title_ruler_consort_ilmenian;Удельный князь;x
+count_title_ruler_consort_female_ilmenian;Удельная княгиня;x
+duchy_of_ilmenian;Княжество;x
+duchy_ilmenian;Княжество;x
+duke_ilmenian;Князь;x
+duke_female_ilmenian;Княгиня;x
+duke_title_ruler_consort_ilmenian;Князь;x
+duke_title_ruler_consort_female_ilmenian;Княгиня;x
+kingdom_of_ilmenian;Великое княжество;x
+kingdom_ilmenian;Великое княжество;x
+king_ilmenian;Великий князь;x
+king_female_ilmenian;Великая княгиня;x
+king_title_prince_ilmenian;Великий княжич;x
+king_title_prince_female_ilmenian;Великая княжна;x
+empire_of_ilmenian;Царство;x
+empire_ilmenian;Царство;x
+emperor_ilmenian;Царь;x
+emperor_female_ilmenian;Царица;x
+emperor_title_prince_ilmenian;Царевич;x
+emperor_title_prince_female_ilmenian;Царевна;x
+tribal_empire_of_ilmenian;Царство;x
+tribal_empire_ilmenian;Царство;x
+tribal_emperor_ilmenian;Царь;x
+tribal_emperor_female_ilmenian;Царица;x
+tribal_emperor_title_ruler_consort_female_ilmenian;Царица;x
+city_baron_ilmenian;Тысяцкий;x
+city_count_ilmenian;Посадник;x
+city_duke_ilmenian;Посадник;x #Главный посадник
+city_count_title_ruler_consort_female_ilmenian;Посадница;x
+city_duke_title_ruler_consort_female_ilmenian;Посадница;x
+city_king_title_ruler_consort_female_ilmenian;Посадница;x
+city_emperor_title_ruler_consort_female_ilmenian;Посадница;x
+city_kingdom_of_ilmenian;Торговый союз;x
+city_kingdom_ilmenian;Торговый союз;x
+city_king_ilmenian;Посадник;x #Верховный посадник
+city_emperor_ilmenian;Посадник;x
+job_marshal_ilmenian;Воевода;x
+job_treasurer_ilmenian;Тиун;x
+job_chancellor_ilmenian;Дьяк;x
+city_job_marshal_ilmenian;Воевода;x
+city_job_treasurer_ilmenian;Тиун;x
+city_job_chancellor_ilmenian;Дьяк;x
+tribal_job_marshal_ilmenian;Воевода;x
+tribal_job_treasurer_ilmenian;Тиун;x
+tribal_job_chancellor_ilmenian;Дьяк;x
+tribal_job_spiritual_slavic_pagan;Волхв;x
+tribal_job_spiritual_slavic_pagan_reformed;Волхв;x
+vice_royalty_barony_of_ilmenian;Поместье;x
+vice_royalty_county_of_ilmenian;Погост;x
+vice_royalty_duchy_of_ilmenian;Уезд;x
+vice_royalty_kingdom_of_ilmenian;Наместничество;x
+vice_royalty_empire_of_ilmenian;Великое наместничество;x
+vice_royalty_baron_ilmenian;Подручник;x
+vice_royalty_count_ilmenian;Наместник;x
+vice_royalty_duke_ilmenian;Князь-наместник;x
+vice_royalty_king_ilmenian;Государев наместник;x
+vice_royalty_emperor_ilmenian;Великий наместник;x
+vice_royalty_baron_female_ilmenian;Подручница;x
+vice_royalty_count_female_ilmenian;Наместница;x
+vice_royalty_duke_female_ilmenian;Княгиня-наместница;x
+vice_royalty_king_female_ilmenian;Государева наместница;x
+vice_royalty_emperor_female_ilmenian;Великая наместница;x
+tribal_vice_royalty_barony_of_ilmenian;Поместье;x
+tribal_vice_royalty_county_of_ilmenian;Погост;x
+tribal_vice_royalty_duchy_of_ilmenian;Уезд;x
+tribal_vice_royalty_kingdom_of_ilmenian;Наместничество;x
+tribal_vice_royalty_empire_of_ilmenian;Великое наместничество;x
+tribal_vice_royalty_baron_ilmenian;Подручник;x
+tribal_vice_royalty_count_ilmenian;Наместник;x
+tribal_vice_royalty_duke_ilmenian;Князь-наместник;x
+tribal_vice_royalty_king_ilmenian;Государев наместник;x
+tribal_vice_royalty_emperor_ilmenian;Великий наместник;x
+tribal_vice_royalty_baron_female_ilmenian;Подручница;x
+tribal_vice_royalty_count_female_ilmenian;Наместница;x
+tribal_vice_royalty_duke_female_ilmenian;Княгиня-наместница;x
+tribal_vice_royalty_king_female_ilmenian;Государева наместница;x
+tribal_vice_royalty_emperor_female_ilmenian;Великая наместница;x
+city_vice_royalty_county_of_ilmenian;Погост;x
+barony_of_severian;Имение;x
+barony_severian;Имение;x
+baron_severian;Боярин;x
+baron_female_severian;Боярыня;x
+baron_title_ruler_consort_severian;Боярин;x
+baron_title_ruler_consort_female_severian;Боярыня;x
+tribal_baron_severian;Боярин;x
+tribal_baron_female_severian;Боярыня;x
+tribal_baron_title_ruler_consort_severian;Боярин;x
+tribal_baron_title_ruler_consort_female_severian;Боярыня;x
+tribal_county_of_severian;Удел;x
+tribal_county_severian;Удел;x
+county_of_severian;Удельное княжество;x
+county_severian;Удельное княжество;x
+count_severian;Удельный князь;x
+count_female_severian;Удельная княгиня;x
+count_title_ruler_consort_severian;Удельный князь;x
+count_title_ruler_consort_female_severian;Удельная княгиня;x
+duchy_of_severian;Княжество;x
+duchy_severian;Княжество;x
+duke_severian;Князь;x
+duke_female_severian;Княгиня;x
+duke_title_ruler_consort_severian;Князь;x
+duke_title_ruler_consort_female_severian;Княгиня;x
+kingdom_of_severian;Великое княжество;x
+kingdom_severian;Великое княжество;x
+king_severian;Великий князь;x
+king_female_severian;Великая княгиня;x
+king_title_prince_severian;Великий княжич;x
+king_title_prince_female_severian;Великая княжна;x
+empire_of_severian;Царство;x
+empire_severian;Царство;x
+emperor_severian;Царь;x
+emperor_female_severian;Царица;x
+emperor_title_prince_severian;Царевич;x
+emperor_title_prince_female_severian;Царевна;x
+tribal_empire_of_severian;Царство;x
+tribal_empire_severian;Царство;x
+tribal_emperor_severian;Царь;x
+tribal_emperor_female_severian;Царица;x
+tribal_emperor_title_ruler_consort_female_severian;Царица;x
+city_baron_severian;Тысяцкий;x
+city_count_severian;Посадник;x
+city_duke_severian;Посадник;x #Главный посадник
+city_count_title_ruler_consort_female_severian;Посадница;x
+city_duke_title_ruler_consort_female_severian;Посадница;x
+city_king_title_ruler_consort_female_severian;Посадница;x
+city_emperor_title_ruler_consort_female_severian;Посадница;x
+city_kingdom_of_severian;Торговый союз;x
+city_kingdom_severian;Торговый союз;x
+city_king_severian;Посадник;x #Верховный посадник
+city_emperor_severian;Посадник;x
+job_marshal_severian;Воевода;x
+job_treasurer_severian;Тиун;x
+job_chancellor_severian;Дьяк;x
+city_job_marshal_severian;Воевода;x
+city_job_treasurer_severian;Тиун;x
+city_job_chancellor_severian;Дьяк;x
+tribal_job_marshal_severian;Воевода;x
+tribal_job_treasurer_severian;Тиун;x
+tribal_job_chancellor_severian;Дьяк;x
+tribal_job_spiritual_slavic_pagan;Волхв;x
+tribal_job_spiritual_slavic_pagan_reformed;Волхв;x
+vice_royalty_barony_of_severian;Поместье;x
+vice_royalty_county_of_severian;Погост;x
+vice_royalty_duchy_of_severian;Уезд;x
+vice_royalty_kingdom_of_severian;Наместничество;x
+vice_royalty_empire_of_severian;Великое наместничество;x
+vice_royalty_baron_severian;Подручник;x
+vice_royalty_count_severian;Наместник;x
+vice_royalty_duke_severian;Князь-наместник;x
+vice_royalty_king_severian;Государев наместник;x
+vice_royalty_emperor_severian;Великий наместник;x
+vice_royalty_baron_female_severian;Подручница;x
+vice_royalty_count_female_severian;Наместница;x
+vice_royalty_duke_female_severian;Княгиня-наместница;x
+vice_royalty_king_female_severian;Государева наместница;x
+vice_royalty_emperor_female_severian;Великая наместница;x
+tribal_vice_royalty_barony_of_severian;Поместье;x
+tribal_vice_royalty_county_of_severian;Погост;x
+tribal_vice_royalty_duchy_of_severian;Уезд;x
+tribal_vice_royalty_kingdom_of_severian;Наместничество;x
+tribal_vice_royalty_empire_of_severian;Великое наместничество;x
+tribal_vice_royalty_baron_severian;Подручник;x
+tribal_vice_royalty_count_severian;Наместник;x
+tribal_vice_royalty_duke_severian;Князь-наместник;x
+tribal_vice_royalty_king_severian;Государев наместник;x
+tribal_vice_royalty_emperor_severian;Великий наместник;x
+tribal_vice_royalty_baron_female_severian;Подручница;x
+tribal_vice_royalty_count_female_severian;Наместница;x
+tribal_vice_royalty_duke_female_severian;Княгиня-наместница;x
+tribal_vice_royalty_king_female_severian;Государева наместница;x
+tribal_vice_royalty_emperor_female_severian;Великая наместница;x
+city_vice_royalty_county_of_severian;Погост;x
+barony_of_volhynian;Имение;x
+barony_volhynian;Имение;x
+baron_volhynian;Боярин;x
+baron_female_volhynian;Боярыня;x
+baron_title_ruler_consort_volhynian;Боярин;x
+baron_title_ruler_consort_female_volhynian;Боярыня;x
+tribal_baron_volhynian;Боярин;x
+tribal_baron_female_volhynian;Боярыня;x
+tribal_baron_title_ruler_consort_volhynian;Боярин;x
+tribal_baron_title_ruler_consort_female_volhynian;Боярыня;x
+tribal_county_of_volhynian;Удел;x
+tribal_county_volhynian;Удел;x
+county_of_volhynian;Удельное княжество;x
+county_volhynian;Удельное княжество;x
+count_volhynian;Удельный князь;x
+count_female_volhynian;Удельная княгиня;x
+count_title_ruler_consort_volhynian;Удельный князь;x
+count_title_ruler_consort_female_volhynian;Удельная княгиня;x
+duchy_of_volhynian;Княжество;x
+duchy_volhynian;Княжество;x
+duke_volhynian;Князь;x
+duke_female_volhynian;Княгиня;x
+duke_title_ruler_consort_volhynian;Князь;x
+duke_title_ruler_consort_female_volhynian;Княгиня;x
+kingdom_of_volhynian;Великое княжество;x
+kingdom_volhynian;Великое княжество;x
+king_volhynian;Великий князь;x
+king_female_volhynian;Великая княгиня;x
+king_title_prince_volhynian;Великий княжич;x
+king_title_prince_female_volhynian;Великая княжна;x
+empire_of_volhynian;Царство;x
+empire_volhynian;Царство;x
+emperor_volhynian;Царь;x
+emperor_female_volhynian;Царица;x
+emperor_title_prince_volhynian;Царевич;x
+emperor_title_prince_female_volhynian;Царевна;x
+tribal_empire_of_volhynian;Царство;x
+tribal_empire_volhynian;Царство;x
+tribal_emperor_volhynian;Царь;x
+tribal_emperor_female_volhynian;Царица;x
+tribal_emperor_title_ruler_consort_female_volhynian;Царица;x
+city_baron_volhynian;Тысяцкий;x
+city_count_volhynian;Посадник;x
+city_duke_volhynian;Посадник;x #Главный посадник
+city_count_title_ruler_consort_female_volhynian;Посадница;x
+city_duke_title_ruler_consort_female_volhynian;Посадница;x
+city_king_title_ruler_consort_female_volhynian;Посадница;x
+city_emperor_title_ruler_consort_female_volhynian;Посадница;x
+city_kingdom_of_volhynian;Торговый союз;x
+city_kingdom_volhynian;Торговый союз;x
+city_king_volhynian;Посадник;x #Верховный посадник
+city_emperor_volhynian;Посадник;x
+job_marshal_volhynian;Воевода;x
+job_treasurer_volhynian;Тиун;x
+job_chancellor_volhynian;Дьяк;x
+city_job_marshal_volhynian;Воевода;x
+city_job_treasurer_volhynian;Тиун;x
+city_job_chancellor_volhynian;Дьяк;x
+tribal_job_marshal_volhynian;Воевода;x
+tribal_job_treasurer_volhynian;Тиун;x
+tribal_job_chancellor_volhynian;Дьяк;x
+tribal_job_spiritual_slavic_pagan;Волхв;x
+tribal_job_spiritual_slavic_pagan_reformed;Волхв;x
+vice_royalty_barony_of_volhynian;Поместье;x
+vice_royalty_county_of_volhynian;Погост;x
+vice_royalty_duchy_of_volhynian;Уезд;x
+vice_royalty_kingdom_of_volhynian;Наместничество;x
+vice_royalty_empire_of_volhynian;Великое наместничество;x
+vice_royalty_baron_volhynian;Подручник;x
+vice_royalty_count_volhynian;Наместник;x
+vice_royalty_duke_volhynian;Князь-наместник;x
+vice_royalty_king_volhynian;Государев наместник;x
+vice_royalty_emperor_volhynian;Великий наместник;x
+vice_royalty_baron_female_volhynian;Подручница;x
+vice_royalty_count_female_volhynian;Наместница;x
+vice_royalty_duke_female_volhynian;Княгиня-наместница;x
+vice_royalty_king_female_volhynian;Государева наместница;x
+vice_royalty_emperor_female_volhynian;Великая наместница;x
+tribal_vice_royalty_barony_of_volhynian;Поместье;x
+tribal_vice_royalty_county_of_volhynian;Погост;x
+tribal_vice_royalty_duchy_of_volhynian;Уезд;x
+tribal_vice_royalty_kingdom_of_volhynian;Наместничество;x
+tribal_vice_royalty_empire_of_volhynian;Великое наместничество;x
+tribal_vice_royalty_baron_volhynian;Подручник;x
+tribal_vice_royalty_count_volhynian;Наместник;x
+tribal_vice_royalty_duke_volhynian;Князь-наместник;x
+tribal_vice_royalty_king_volhynian;Государев наместник;x
+tribal_vice_royalty_emperor_volhynian;Великий наместник;x
+tribal_vice_royalty_baron_female_volhynian;Подручница;x
+tribal_vice_royalty_count_female_volhynian;Наместница;x
+tribal_vice_royalty_duke_female_volhynian;Княгиня-наместница;x
+tribal_vice_royalty_king_female_volhynian;Государева наместница;x
+tribal_vice_royalty_emperor_female_volhynian;Великая наместница;x
+city_vice_royalty_county_of_volhynian;Погост;x
+barony_of_russian;Имение;x
+barony_russian;Имение;x
+baron_russian;Боярин;x
+baron_female_russian;Боярыня;x
+baron_title_ruler_consort_russian;Боярин;x
+baron_title_ruler_consort_female_russian;Боярыня;x
+tribal_baron_russian;Боярин;x
+tribal_baron_female_russian;Боярыня;x
+tribal_baron_title_ruler_consort_russian;Боярин;x
+tribal_baron_title_ruler_consort_female_russian;Боярыня;x
+tribal_county_of_russian;Удел;x
+tribal_county_russian;Удел;x
+county_of_russian;Удельное княжество;x
+county_russian;Удельное княжество;x
+count_russian;Удельный князь;x
+count_female_russian;Удельная княгиня;x
+count_title_ruler_consort_russian;Удельный князь;x
+count_title_ruler_consort_female_russian;Удельная княгиня;x
+duchy_of_russian;Княжество;x
+duchy_russian;Княжество;x
+duke_russian;Князь;x
+duke_female_russian;Княгиня;x
+duke_title_ruler_consort_russian;Князь;x
+duke_title_ruler_consort_female_russian;Княгиня;x
+kingdom_of_russian;Великое княжество;x
+kingdom_russian;Великое княжество;x
+king_russian;Великий князь;x
+king_female_russian;Великая княгиня;x
+king_title_prince_russian;Великий княжич;x
+king_title_prince_female_russian;Великая княжна;x
+empire_of_russian;Царство;x
+empire_russian;Царство;x
+emperor_russian;Царь;x
+emperor_female_russian;Царица;x
+emperor_title_prince_russian;Царевич;x
+emperor_title_prince_female_russian;Царевна;x
+tribal_empire_of_russian;Царство;x
+tribal_empire_russian;Царство;x
+tribal_emperor_russian;Царь;x
+tribal_emperor_female_russian;Царица;x
+tribal_emperor_title_ruler_consort_female_russian;Царица;x
+city_baron_russian;Тысяцкий;x
+city_count_russian;Посадник;x
+city_duke_russian;Посадник;x #Главный посадник
+city_count_title_ruler_consort_female_russian;Посадница;x
+city_duke_title_ruler_consort_female_russian;Посадница;x
+city_king_title_ruler_consort_female_russian;Посадница;x
+city_emperor_title_ruler_consort_female_russian;Посадница;x
+city_kingdom_of_russian;Торговый союз;x
+city_kingdom_russian;Торговый союз;x
+city_king_russian;Посадник;x #Верховный посадник
+city_emperor_russian;Посадник;x
+job_marshal_russian;Воевода;x
+job_treasurer_russian;Тиун;x
+job_chancellor_russian;Дьяк;x
+city_job_marshal_russian;Воевода;x
+city_job_treasurer_russian;Тиун;x
+city_job_chancellor_russian;Дьяк;x
+tribal_job_marshal_russian;Воевода;x
+tribal_job_treasurer_russian;Тиун;x
+tribal_job_chancellor_russian;Дьяк;x
+tribal_job_spiritual_slavic_pagan;Волхв;x
+tribal_job_spiritual_slavic_pagan_reformed;Волхв;x
+vice_royalty_barony_of_russian;Поместье;x
+vice_royalty_county_of_russian;Погост;x
+vice_royalty_duchy_of_russian;Уезд;x
+vice_royalty_kingdom_of_russian;Наместничество;x
+vice_royalty_empire_of_russian;Великое наместничество;x
+vice_royalty_baron_russian;Подручник;x
+vice_royalty_count_russian;Наместник;x
+vice_royalty_duke_russian;Князь-наместник;x
+vice_royalty_king_russian;Государев наместник;x
+vice_royalty_emperor_russian;Великий наместник;x
+vice_royalty_baron_female_russian;Подручница;x
+vice_royalty_count_female_russian;Наместница;x
+vice_royalty_duke_female_russian;Княгиня-наместница;x
+vice_royalty_king_female_russian;Государева наместница;x
+vice_royalty_emperor_female_russian;Великая наместница;x
+tribal_vice_royalty_barony_of_russian;Поместье;x
+tribal_vice_royalty_county_of_russian;Погост;x
+tribal_vice_royalty_duchy_of_russian;Уезд;x
+tribal_vice_royalty_kingdom_of_russian;Наместничество;x
+tribal_vice_royalty_empire_of_russian;Великое наместничество;x
+tribal_vice_royalty_baron_russian;Подручник;x
+tribal_vice_royalty_count_russian;Наместник;x
+tribal_vice_royalty_duke_russian;Князь-наместник;x
+tribal_vice_royalty_king_russian;Государев наместник;x
+tribal_vice_royalty_emperor_russian;Великий наместник;x
+tribal_vice_royalty_baron_female_russian;Подручница;x
+tribal_vice_royalty_count_female_russian;Наместница;x
+tribal_vice_royalty_duke_female_russian;Княгиня-наместница;x
+tribal_vice_royalty_king_female_russian;Государева наместница;x
+tribal_vice_royalty_emperor_female_russian;Великая наместница;x
+city_vice_royalty_county_of_russian;Погост;x
+king_north_germanic;Конунг;x
+king_female_north_germanic;Дроттнинг;x
+tribal_king_north_germanic;Конунг;x
+tribal_king_female_north_germanic;Дроттнинг;x
+county_of_north_germanic;Фюльке;x
+county_north_germanic;Фюльке;x
+count_north_germanic;Хэрсир;x
+count_female_north_germanic;Хэрсир;x
+barony_of_north_germanic;Одаль;x
+barony_north_germanic;Одаль;x
+baron_north_germanic;Хольд;x
+baron_female_north_germanic;Хольд;x
+tribal_baron_north_germanic;Тэгн;x
+tribal_baron_female_north_germanic;Тэгн;x
+king_norse;Конунг;x
+king_female_norse;Дроттнинг;x
+tribal_king_norse;Конунг;x
+tribal_king_female_norse;Дроттнинг;x
+county_of_norse;Фюльке;x
+county_norse;Фюльке;x
+count_norse;Хэрсир;x
+count_female_norse;Хэрсир;x
+barony_of_norse;Одаль;x
+barony_norse;Одаль;x
+baron_norse;Хольд;x
+baron_female_norse;Хольд;x
+tribal_baron_norse;Тэгн;x
+tribal_baron_female_norse;Тэгн;x
+king_swedish;Конунг;x
+king_female_swedish;Дроттнинг;x
+tribal_king_swedish;Конунг;x
+tribal_king_female_swedish;Дроттнинг;x
+county_of_swedish;Фюльке;x
+county_swedish;Фюльке;x
+count_swedish;Хэрсир;x
+count_female_swedish;Хэрсир;x
+barony_of_swedish;Одаль;x
+barony_swedish;Одаль;x
+baron_swedish;Хольд;x
+baron_female_swedish;Хольд;x
+tribal_baron_swedish;Тэгн;x
+tribal_baron_female_swedish;Тэгн;x
+king_norwegian;Конунг;x
+king_female_norwegian;Дроттнинг;x
+tribal_king_norwegian;Конунг;x
+tribal_king_female_norwegian;Дроттнинг;x
+county_of_norwegian;Фюльке;x
+county_norwegian;Фюльке;x
+count_norwegian;Хэрсир;x
+count_female_norwegian;Хэрсир;x
+barony_of_norwegian;Одаль;x
+barony_norwegian;Одаль;x
+baron_norwegian;Хольд;x
+baron_female_norwegian;Хольд;x
+tribal_baron_norwegian;Тэгн;x
+tribal_baron_female_norwegian;Тэгн;x
+king_danish;Конунг;x
+king_female_danish;Дроттнинг;x
+tribal_king_danish;Конунг;x
+tribal_king_female_danish;Дроттнинг;x
+county_of_danish;Фюльке;x
+county_danish;Фюльке;x
+count_danish;Хэрсир;x
+count_female_danish;Хэрсир;x
+barony_of_danish;Одаль;x
+barony_danish;Одаль;x
+baron_danish;Хольд;x
+baron_female_danish;Хольд;x
+tribal_baron_danish;Тэгн;x
+tribal_baron_female_danish;Тэгн;x
+city_baron_german;Бургомистр;x
+city_count_german;Бургграф;x
+city_duke_german;Штатгальтер;x
+city_king_german;Генеральный штатгальтер;x
+city_emperor_german;Рейхсштатгальтер;x
+job_spymaster_german;Гехаймрат;x
+job_spymaster_female_german;Гехаймрат;x
+city_job_spymaster_german;Гехаймрат;x
+city_job_spymaster_female_german;Гехаймрат;x
+city_baron_dutch;Бургомистр;x
+city_count_dutch;Бургграф;x
+city_duke_dutch;Статхаудер;x
+city_king_dutch;Генеральный cтатхаудер;x
+baron_greek;Прониар;x
+baron_female_greek;Прониар;x
+barony_greek;Прония;x
+barony_of_greek;Прония;x
+count_greek;Турмарх;x
+count_female_greek;Турмарх;x
+county_greek;Турма;x
+county_of_greek;Турма;x
+duchy_of_greek;Дукат;x
+duchy_greek;Дукат;x
+duke_female_greek;Дукисса;x
+king_female_greek;Деспотисса;x
+kingdom_greek;Деспотат;x
+kingdom_of_greek;Деспотат;x
+city_baron_greek;Димарх;x
+city_count_greek;Архонт;x
+city_duchy_of_greek;Полития;x
+city_duchy_greek;Полития;x
+city_duke_greek;Ипат;x
+#city_kingdom_of_greek;Синдикат;x
+#city_kingdom_greek;Синдикат;x
+city_king_greek;Протомагистр;x
+#city_empire_of_greek;Мегалополис;x
+#city_empire_greek;Мегалополис;x
+barony_of_finno_ugric;Владение;x
+barony_finno_ugric;Владение;x
+baron_finno_ugric;Глава;x
+baron_female_finno_ugric;Глава;x
+tribal_baron_finno_ugric;Глава;x
+tribal_baron_female_finno_ugric;Глава;x
+city_baron_finno_ugric;Старейшина;x
+tribal_county_of_finno_ugric;Удел;x
+tribal_county_finno_ugric;Удел;x
+county_of_finno_ugric;Удел;x
+county_finno_ugric;Удел;x
+count_finno_ugric;Удельный князь;x
+count_female_finno_ugric;Удельная княгиня;x
+count_title_ruler_consort_finno_ugric;Удельный князь;x
+count_title_ruler_consort_female_finno_ugric;Удельная княгиня;x
+duchy_of_finno_ugric;Княжество;x
+duchy_finno_ugric;Княжество;x
+duke_finno_ugric;Князь;x
+duke_female_finno_ugric;Княгиня;x
+duke_title_ruler_consort_finno_ugric;Князь;x
+duke_title_ruler_consort_female_finno_ugric;Княгиня;x
+kingdom_of_finno_ugric;Великое княжество;x
+kingdom_finno_ugric;Великое княжество;x
+king_finno_ugric;Великий князь;x
+king_female_finno_ugric;Великая княгиня;x
+emperor_aztec;Уэтлатоани;x
+emperor_female_aztec;Уэтлатоани;x
+king_aztec;Тлатоани;x
+king_female_aztec;Тлатоани;x
+duke_aztec;Уэкальпишки;x
+duke_female_aztec;Уэкальпишки;x
+count_aztec;Кальпишки;x
+count_female_aztec;Кальпишки;x
+baron_aztec;Тэктли;x
+baron_female_aztec;Тэктли;x
+city_kingdom_of_latin;Светлейшая республика;x
+city_kingdom_latin;Светлейшая республика;x
+city_baron_italian;Подеста;x
+city_count_italian;Гастальд;x
+barony_of_andalusian_arabic;Аль-Каср;x
+barony_andalusian_arabic;Аль-Каср;x
+county_of_andalusian_arabic;Умма;x
+county_andalusian_arabic;Умма;x
+duchy_of_andalusian_arabic;Тайфа;x
+duchy_andalusian_arabic;Тайфа;x
+king_andalusian_arabic;Амир аль-умара;x
+king_female_andalusian_arabic;Амира аль-умара;x
+barony_of_kurdish;Ганд;x
+barony_kurdish;Ганд;x
+baron_kurdish;Ага;x
+baron_female_kurdish;Ага;x
+county_of_kurdish;Тире;x
+county_kurdish;Тире;x
+count_kurdish;Раис;x
+count_female_kurdish;Раиса;x
+duchy_of_kurdish;Аширет;x
+duchy_kurdish;Аширет;x
+duke_kurdish;Бекзаде;x
+duke_female_kurdish;Бекзаде;x
+king_kurdish;Ага-хан;x
+king_female_kurdish;Ага-хан;x
+count_female_italian;Гастальда;x
+emperor_ethiopian;Нэгус;x
+emperor_female_ethiopian;Нэгуса;x
+king_ethiopian;Шум;x
+king_female_ethiopian;Шума;x
+tribal_king_ethiopian;Шум;x
+tribal_king_female_ethiopian;Шума;x
+baron_west_african;Дугу-тиги;x
+baron_female_west_african;Дугу-тиги;x
+barony_of_west_african;Дугу;x
+barony_west_african;Дугу;x
+city_baron_west_african;Кагоро;x
+count_west_african;Кафо-тиги;x
+count_female_west_african;Кафо-тиги;x
+county_of_west_african;Кафу;x
+county_west_african;Кафу;x
+tribal_county_of_west_african;Кафу;x
+tribal_county_west_african;Кафу;x
+city_count_west_african;Фарин;x
+city_count_female_west_african;Фарина;x
+duke_west_african;Дьямани-тиги;x
+duke_female_west_african;Дьямани-тиги;x
+duchy_of_west_african;Дьямани;x
+duchy_west_african;Дьямани;x
+tribal_duchy_of_west_african;Дьямани;x
+tribal_duchy_west_african;Дьямани;x
+city_duke_west_african;Фарбас;x
+city_duke_female_west_african;Фарба;x
+tribal_king_west_african;Тунка;x
+tribal_king_female_west_african;Тунка;x
+king_west_african;Король;x
+king_female_west_african;Королева;x
+kingdom_of_west_african;Королевство;x
+kingdom_west_african;Королевство;x
+city_king_west_african;Фарбас;x
+emperor_west_african;Манса;x
+emperor_female_west_african;Манса;x
+tribal_emperor_west_african;Манса;x
+tribal_emperor_female_west_african;Манса;x
+duke_ethiopian;Рас;x
+duke_female_ethiopian;Раса;x
+count_ethiopian;Дэджазмач;x
+count_female_ethiopian;Дэджазмача;x
+city_duke_ethiopian;Мэляке бахыр;x
+city_baron_ethiopian;Балаббат;x
+title_regent_ethiopian;Ындэрасе;x
+baron_iberian;Идальго;x
+baron_female_iberian;Идальга;x
+duke_iberian;Гранд;x
+duke_female_iberian;Гранд;x
+city_count_iberian;Коррехидор;x
+city_baron_iberian;Алькальд;x
+city_duke_iberian;Гранд-Алькальд;x
+title_prince_iberian;Инфант;x
+title_prince_female_iberian;Инфанта;x
+city_baron_iranian;Караван-Баши;x
+city_count_iranian;Сардар;x
+city_duke_iranian;Шахраб;x
+city_baron_polish;Бурмистр;x
+city_count_polish;Генеральный Староста;x
+city_duke_polish;Воевода;x
+city_king_polish;Король;x
+city_barony_of_polish;Гмина;x
+city_barony_polish;Гмина;x
+city_duchy_of_polish;Воеводство;x
+city_duchy_polish;Воеводство;x
+barony_of_polish;Панство;x
+barony_polish;Панство;x
+baron_polish;Пан;x
+baron_female_polish;Панна;x
+tribal_baron_polish;Пан;x
+tribal_baron_female_polish;Панна;x
+county_of_polish;Дзельница;x
+county_polish;Дзельница;x
+count_polish;Удельный князь;x
+count_female_polish;Удельная княгиня;x
+duchy_of_polish;Княжество;x
+duchy_polish;Княжество;x
+duke_polish;Князь;x
+duke_female_polish;Княгиня;x
+king_title_prince_polish;Королевич;x
+king_title_prince_female_polish;Королевна;x
+job_marshal_polish;Гетман;x
+job_treasurer_polish;Каштелян;x
+job_chancellor_polish;Подскарбий;x
+city_job_marshal_polish;Гетман;x
+city_job_treasurer_polish;Каштелян;x
+city_job_chancellor_polish;Подскарбий;x
+tribal_job_marshal_polish;Гетман;x
+tribal_job_treasurer_polish;Каштелян;x
+tribal_job_chancellor_polish;Подскарбий;x
+barony_of_lithuanian;Имение;x
+county_of_lithuanian;Дольница;x
+county_lithuanian;Дольница;x
+count_lithuanian;Удельный князь;x
+count_female_lithuanian;Удельная княгиня;x
+duchy_of_lithuanian;Княжество;x
+duchy_lithuanian;Княжество;x
+duke_lithuanian;Князь;x
+duke_female_lithuanian;Княгиня;x
+kingdom_of_lithuanian;Великое княжество;x
+kingdom_lithuanian;Великое княжество;x
+city_baron_magyar;Полгарместер;x
+county_of_magyar;Комитат;x
+county_magyar;Комитат;x
+count_magyar;Ишпан;x
+count_female_magyar;Ишпанна;x
+duchy_of_magyar;Княжество;x
+duchy_magyar;Княжество;x
+duke_magyar;Князь;x
+duke_female_magyar;Княгиня;x
+duchy_of_altaic;Эль;x
+duchy_altaic;Эль;x
+duke_altaic;Эльтебер;x
+duke_female_altaic;Эльтеберем;x
+county_of_altaic;Даруга;x
+county_altaic;Даруга;x
+count_altaic;Тархан;x
+count_female_altaic;Тарханум;x
+nomadic_county_of_altaic;Даруга;x
+nomadic_county_altaic;Даруга;x
+nomadic_count_altaic;Тархан;x
+nomadic_count_female_altaic;Тарханум;x
+baron_altaic;Тутук;x
+baron_female_altaic;Тутукче;x
+tribal_baron_altaic;Тутук;x
+tribal_baron_female_altaic;Тутукче;x
+nomadic_baron_altaic;Тутук;x
+nomadic_baron_female_altaic;Тутукче;x
+city_baron_altaic;Аксакал;x
+barony_of_altaic;Юрт;x
+barony_altaic;Юрт;x
+tribal_barony_of_altaic;Юрт;x
+tribal_barony_altaic;Юрт;x
+city_count_altaic;Бай;x
+city_count_female_altaic;Бийче;x
+family_palace_baron_altaic;Купец;x
+nomadic_baron_mongol;Тайши;x
+baron_female_mongol;Тайши;x
+tribal_baron_female_mongol;Тайши;x
+nomadic_baron_female_mongol;Тайши;x
+nomadic_count_mongol;Даркан;x
+tribal_count_mongol;Даркан;x
+count_female_mongol;Дарканем;x
+tribal_count_female_mongol;Дарканем;x
+nomadic_count_female_mongol;Дарканем;x
+#duke_mongol;Князь;x
+#duke_female_mongol;Княгиня;x
+#duchy_of_mongol;Княжество;x
+#duchy_mongol;Княжество;x
+#king_mongol;Великий князь;x
+#king_female_mongol;Великая княгиня;x
+#kingdom_of_mongol;Великое княжество;x
+#kingdom_mongol;Великое княжество;x
+nomadic_duchy_of_altaic;Эль;x
+nomadic_duchy_altaic;Эль;x
+nomadic_duke_altaic;Эльтебер;x
+nomadic_duke_female_altaic;Эльтеберем;x
+#nomadic_empire_of_mongol;Орда;x
+#nomadic_empire_mongol;Орда;x
+barony_of_armenian;Берд;x
+barony_armenian;Берд;x
+baron_armenian;Бердапет;x
+baron_female_armenian;Бердапет;x
+city_baron_armenian;Кахакапет;x
+city_baron_female_armenian;Кахакапет;x
+county_armenian;Гавар;x
+county_of_armenian;Гавар;x
+count_armenian;Ишхан;x
+count_female_armenian;Ишхануи;x
+duchy_armenian;Наханг;x
+duchy_of_armenian;Наханг;x
+duke_armenian;Нахарар;x
+duke_female_armenian;Нахараракин;x
+king_armenian;Тагавор;x
+king_female_armenian;Тагуи;x
+empire_armenian;Мец аркаюцун;x
+empire_of_armenian;Мец аркаюцун;x
+emperor_armenian;Аркаиц арка;x
+emperor_female_armenian;Аркаякин;x
+emperor_title_prince_east_slavic;Аркаязн;x
+emperor_title_prince_female_east_slavic;Аркаядустр;x
+tribal_barony_of_armenian;Берд;x
+tribal_barony_armenian;Берд;x
+tribal_baron_armenian;Бердапет;x
+tribal_baron_female_armenian;Бердапет;x
+tribal_county_armenian;Гавар;x
+tribal_county_of_armenian;Гавар;x
+tribal_count_armenian;Ишхан;x
+tribal_count_female_armenian;Ишхануи;x
+tribal_duchy_armenian;Наханг;x
+tribal_duchy_of_armenian;Наханг;x
+tribal_duke_armenian;Нахарар;x
+tribal_duke_female_armenian;Нахараракин;x
+tribal_king_armenian;Тагавор;x
+tribal_king_female_armenian;Тагуи;x
+tribal_empire_armenian;Мец аркаюцун;x
+tribal_empire_of_armenian;Мец аркаюцун;x
+tribal_emperor_armenian;Аркаиц арка;x
+tribal_emperor_female_armenian;Аркаякин;x
+tribal_emperor_title_prince_east_slavic;Аркаязн;x
+tribal_emperor_title_prince_female_east_slavic;Аркаядустр;x
+job_marshal_armenian;Спарапет;x
+city_job_marshal_armenian;Спарапет;x
+tribal_job_marshal_armenian;Спарапет;x
+nomadic_job_marshal_armenian;Спарапет;x
+job_steward_armenian;Азарапет;x
+city_job_steward_armenian;Азарапет;x
+tribal_job_steward_armenian;Азарапет;x
+nomadic_job_steward_armenian;Азарапет;x
+job_spymaster_armenian;Вишапазорапет;x
+city_job_spymaster_armenian;Вишапазорапет;x
+tribal_job_spymaster_armenian;Вишапазорапет;x
+nomadic_job_spymaster_armenian;Вишапазорапет;x
+job_marshal_female_armenian;Спарапет;x
+city_job_marshal_female_armenian;Спарапет;x
+tribal_job_marshal_female_armenian;Спарапет;x
+nomadic_job_marshal_female_armenian;Спарапет;x
+job_steward_female_armenian;Азарапет;x
+city_job_steward_female_armenian;Азарапет;x
+tribal_job_steward_female_armenian;Азарапет;x
+nomadic_job_steward_female_armenian;Азарапет;x
+job_spymaster_female_armenian;Вишапазорапет;x
+city_job_spymaster_female_armenian;Вишапазорапет;x
+tribal_job_spymaster_female_armenian;Вишапазорапет;x
+nomadic_job_spymaster_female_armenian;Вишапазорапет;x
+job_marshal_alan;Багатар;x
+city_job_marshal_alan;Багатар;x
+tribal_job_marshal_alan;Багатар;x
+nomadic_job_marshal_alan;Багатар;x
+barony_of_georgian;Имение;x
+barony_georgian;Имение;x
+baron_georgian;Азнаури;x
+baron_female_georgian;Азнаури;x
+county_of_georgian;Саэриставо;x
+county_georgian;Саэриставо;x
+count_georgian;Эристави;x
+count_female_georgian;Эристави;x
+duchy_of_georgian;Княжество;x
+duchy_georgian;Княжество;x
+duke_georgian;Мтавари;x
+duke_female_georgian;Мтавари;x
+kingdom_of_georgian;Царство;x
+kingdom_georgian;Царство;x
+king_georgian;Царь;x
+king_female_georgian;Царица;x
+kingdom_of_bulgarian;Царство;x
+kingdom_bulgarian;Царство;x
+king_bulgarian;Царь;x
+king_female_bulgarian;Царица;x
+job_treasurer_celtic;Филид;x
+job_chancellor_celtic;Брегон;x
+#job_spiritual_celtic;Друид;x
+city_job_treasurer_celtic;Филид;x
+city_job_chancellor_celtic;Брегон;x
+#city_job_spiritual_celtic;Друид;x
+tribal_job_treasurer_celtic;Филид;x
+tribal_job_chancellor_celtic;Брегон;x
+#tribal_job_spiritual_celtic;Друид;x
+barony_of_south_slavic;Панство;x
+barony_south_slavic;Панство;x
+baron_south_slavic;Пан;x
+baron_female_south_slavic;Панна;x
+tribal_baron_south_slavic;Пан;x
+tribal_baron_female_south_slavic;Панна;x
+county_of_south_slavic;Жупания;x
+county_south_slavic;Жупания;x
+count_south_slavic;Жупан;x
+count_female_south_slavic;Жупанна;x
+duchy_of_south_slavic;Банат;x
+duchy_south_slavic;Банат;x
+duke_south_slavic;Бан;x
+duke_female_south_slavic;Банна;x
+count_romanian;Боярин;x
+count_female_romanian;Боярыня;x
+duchy_of_romanian;Воеводство;x
+duchy_romanian;Воеводство;x
+duke_romanian;Воевода;x
+duke_female_romanian;Воевода;x
+king_romanian;Господарь;x
+king_female_romanian;Господарыня;x
+tribal_baron_english;Тэн;x
+tribal_baron_female_english;Тэн;x
+tribal_baron_saxon;Тэйн;x
+tribal_baron_female_saxon;Тэйн;x
+tribal_baron_scottish;Тан;x
+tribal_baron_female_scottish;Тан;x
+baron_english;Тэн;x
+baron_female_english;Тэн;x
+baron_saxon;Тэйн;x
+baron_female_saxon;Тэйн;x
+baron_scottish;Тан;x
+baron_female_scottish;Тан;x
+baron_female_norse;Тэгн;x
+tribal_baron_german;Дэган;x
+tribal_baron_female_german;Дэган;x
+city_baron_norse;Тингман;x
+city_baron_female_norse;Тингман;x
+duke_female_norse;Ярл;x
+tribal_duke_female_norse;Ярл;x
+empire_alan;Паддзахад;x
+tribal_empire_alan;Паддзахад;x
+nomadic_empire_alan;Паддзахад;x
+empire_of_alan;Паддзахад;x
+tribal_empire_of_alan;Паддзахад;x
+nomadic_empire_of_alan;Паддзахад;x
+emperor_alan;Паддзах;x
+emperor_female_alan;Ус-паддзах;x
+tribal_emperor_alan;Паддзах;x
+tribal_emperor_female_alan;Ус-паддзах;x
+nomadic_emperor_alan;Паддзах;x
+nomadic_emperor_female_alan;Ус-паддзах;x
+kingdom_alan;Багатарызахх;x
+tribal_kingdom_alan;Багатарызахх;x
+nomadic_kingdom_alan;Багатарызахх;x
+kingdom_of_alan;Багатарызахх;x
+tribal_kingdom_of_alan;Багатарызахх;x
+nomadic_kingdom_of_alan;Багатарызахх;x
+king_alan;Багатар;x
+king_female_alan;Ус-багатар;x
+tribal_king_alan;Багатар;x
+tribal_king_female_alan;Ус-багатар;x
+nomadic_king_alan;Багатар;x
+nomadic_king_female_alan;Ус-багатар;x
+duchy_alan;Алдарызахх;x
+tribal_duchy_alan;Алдарызахх;x
+nomadic_duchy_alan;Алдарызахх;x
+duchy_of_alan;Алдарызахх;x
+tribal_duchy_of_alan;Алдарызахх;x
+nomadic_duchy_of_alan;Алдарызахх;x
+duke_alan;Алдар;x
+duke_female_alan;Ахсийна;x
+tribal_duke_alan;Алдар;x
+tribal_duke_female_alan;Ахсийна;x
+nomadic_duke_alan;Алдар;x
+nomadic_duke_female_alan;Ахсийна;x
+county_alan;Уазданызахх;x
+tribal_county_alan;Уазданызахх;x
+county_of_alan;Уазданызахх;x
+tribal_county_of_alan;Уазданызахх;x
+count_alan;Уаздан;x
+count_female_alan;Ус-уаздан;x
+tribal_count_alan;Уаздан;x
+tribal_count_female_alan;Ус-уаздан;x
+city_count_alan;Сардар;x
+city_count_female_alan;Ус-сардар;x
+king_han;Ван;x
+king_female_han;Ванхоу;x
+duke_han;Гун;x
+duke_female_han;Фужэнь;x
+count_han;Бо;x
+count_female_han;Фужэнь;x
+baron_han;Нань;x
+baron_female_han;Жужэнь;x
+tribal_king_han;Ван;x
+tribal_king_female_han;Ванхоу;x
+tribal_duke_han;Гун;x
+tribal_duke_female_han;Фужэнь;x
+tribal_count_han;Бо;x
+tribal_count_female_han;Фужэнь;x
+tribal_baron_han;Нань;x
+tribal_baron_female_han;Жужэнь;x
+count_norse_pagan;Хёвдинг;x
+count_norse_pagan_reformed;Хёвдинг;x
+count_female_norse_pagan;Хёвдинг;x
+count_female_norse_pagan_reformed;Хёвдинг;x
+#duke_female_norse_pagan;Ярл;x
+#duke_female_norse_pagan_reformed;Ярл;x
+city_baron_muslim;Караван-Баши;x
+#city_count_muslim;Эфенди;x
+#city_duke_muslim;Рейс Эфенди;x
+#city_king_muslim;Рейс Джомхор;x
+city_duchy_of_muslim;Джумхурия;x
+city_duchy_muslim;Джумхурия;x
+city_empire_of_muslim;Великая джумхурия;x
+city_empire_muslim;Великая джумхурия;x
+kingdom_of_catholic;Королевство;x
+kingdom_catholic;Королевство;x
+king_catholic;Король;x
+king_female_catholic;Королева;x
+#county_of_pagan_group;Вождество;x
+#county_pagan_group;Вождество;x
+temple_duke_female_christian;Княгиня-архиепископ;x
+temple_count_female_christian;Княгиня-епископ;x
+temple_barony_of_orthodox;Епархия;x
+temple_barony_orthodox;Епархия;x
+temple_baron_orthodox;Архиерей;x
+##
+tribal_job_spiritual_hellenic_pagan;Авгур;x
+tribal_job_spiritual_female_hellenic_pagan;Прорицательница;x
+tribal_job_chancellor_arabic;Великий визирь;x
+tribal_job_chancellor_iranian;Великий визирь;x
+tribal_job_chancellor_turkish;Великий визирь;x
+tribal_job_chancellor_west_african;Великий визирь;x
+tribal_job_chancellor_greek;Магистр;x
+tribal_job_spymaster_greek;Мистик;x
+tribal_job_treasurer_greek;Сакелларий;x
+tribal_job_chancellor_aztec;Сиуакоатль;x
+tribal_job_treasurer_aztec;Петлакалькатль;x
+tribal_job_spiritual_aztec;Мешикатль теоуацин;x #Саагун;x
+tribal_job_spymaster_aztec;Тилланкалки;x
+tribal_job_marshal_aztec;Тлакатеккатль;x
+tribal_job_chancellor_zoroastrian_group;Астабадх;x
+tribal_job_treasurer_zoroastrian_group;Дарик-Пат;x
+tribal_job_marshal_zoroastrian_group;Эранский спахбед;x
+tribal_job_spiritual_zoroastrian_group;Мобед;x
+tribal_job_spiritual_zoroastrian;Мобед;x
+tribal_job_spiritual_muslim;Имам;x
+tribal_job_spiritual_shiite;Мулла;x
+tribal_job_spiritual_pagan_group;Главный прорицатель;x
+tribal_job_spiritual_pagan;Прорицатель;x
+tribal_job_spiritual_baltic_pagan;Прорицатель;x
+tribal_job_spiritual_baltic_pagan_reformed;Прорицатель;x
+tribal_job_spiritual_finnish_pagan;Прорицатель;x
+tribal_job_spiritual_finnish_pagan_reformed;Прорицатель;x
+tribal_job_spiritual_norse_pagan_reformed;Провидец;x
+tribal_job_spiritual_norse_pagan;Провидец;x
+tribal_job_spiritual_female_norse_pagan_reformed;Провидица;x
+tribal_job_spiritual_female_norse_pagan;Провидица;x
+tribal_job_spiritual_tengri_pagan;Прорицатель;x
+tribal_job_spiritual_tengri_pagan_reformed;Прорицатель;x
+tribal_job_marshal_greek;Протостратор;x
+#JD-job-titles
+job_spiritual_female_taoist;Возлиятельница;x #Libationer
+job_spiritual_female_han;Возлиятельница;x #Libationer
+job_spiritual_female_jurchen;Возлиятельница;x #Libationer
+city_job_spiritual_female_taoist;Возлиятельница;x #Libationer
+city_job_spiritual_female_han;Возлиятельница;x #Libationer
+city_job_spiritual_female_jurchen;Возлиятельница;x #Libationer
+nomadic_job_spiritual_female_taoist;Возлиятельница;x #Libationer
+nomadic_job_spiritual_female_han;Возлиятельница;x #Libationer
+nomadic_job_spiritual_female_jurchen;Возлиятельница;x #Libationer
+tribal_job_spiritual_female_taoist;Возлиятельница;x #Libationer
+tribal_job_spiritual_female_han;Возлиятельница;x #Libationer
+tribal_job_spiritual_female_jurchen;Возлиятельница;x #Libationer
+city_job_chancellor_taoist;Главный министр;x
+city_job_marshal_taoist;Синцзюнь Сыма;x
+city_job_treasurer_taoist;Казначей;x
+city_job_spymaster_taoist;Тайный советник;x
+city_job_spiritual_taoist;Возлиятель;x #Libationer
+city_job_chancellor_han;Главный министр;x
+city_job_marshal_han;Синцзюнь Сыма;x
+city_job_treasurer_han;Казначей;x
+city_job_spymaster_han;Тайный советник;x
+city_job_spiritual_han;Возлиятель;x #Libationer
+city_job_chancellor_jurchen;Главный министр;x
+city_job_marshal_jurchen;Маршал;x
+city_job_treasurer_jurchen;Казначей;x
+city_job_spymaster_jurchen;Тайный советник;x
+city_job_spiritual_jurchen;Возлиятель;x #Libationer
+city_job_chancellor_bodpa;Лончен;x
+city_job_spiritual_bodpa;Банченпо;x
+city_job_treasurer_bodpa;Гньер;x
+city_job_chancellor_tangut;Лончен;x
+city_job_spiritual_tangut;Банченпо;x
+city_job_treasurer_tangut;Гньер;x
+city_job_spiritual_khurmazta;Мойпат;x
+city_job_spiritual_manichean;Дидаскалос;x
+city_job_chancellor_female_bodpa;Лончен;x
+city_job_treasurer_female_bodpa;Гньер;x
+city_job_chancellor_female_tangut;Лончен;x
+city_job_treasurer_female_tangut;Гньер;x
+city_job_spiritual_female_tangut;Банченмо;x
+city_job_spiritual_female_bodpa;Банченмо;x
+city_job_spiritual_female_indian_group;Упадхьяяни;x
+nomadic_job_chancellor_taoist;Главный министр;x
+nomadic_job_marshal_taoist;Синцзюнь Сыма;x
+nomadic_job_treasurer_taoist;Казначей;x
+nomadic_job_spymaster_taoist;Тайный советник;x
+nomadic_job_spiritual_taoist;Возлиятель;x #Libationer
+nomadic_job_chancellor_han;Главный министр;x
+nomadic_job_marshal_han;Синцзюнь Сыма;x
+nomadic_job_treasurer_han;Казначей;x
+nomadic_job_spymaster_han;Тайный советник;x
+nomadic_job_spiritual_han;Возлиятель;x #Libationer
+nomadic_job_chancellor_jurchen;Главный министр;x
+nomadic_job_marshal_jurchen;Маршал;x
+nomadic_job_treasurer_jurchen;Казначей;x
+nomadic_job_spymaster_jurchen;Тайный советник;x
+nomadic_job_spiritual_jurchen;Возлиятель;x #Libationer
+nomadic_job_chancellor_bodpa;Лончен;x
+nomadic_job_spiritual_bodpa;Банченпо;x
+nomadic_job_treasurer_bodpa;Гньер;x
+nomadic_job_chancellor_tangut;Лончен;x
+nomadic_job_spiritual_tangut;Банченпо;x
+nomadic_job_treasurer_tangut;Гньер;x
+nomadic_job_spiritual_khurmazta;Мойпат;x
+nomadic_job_spiritual_manichean;Дидаскалос;x
+nomadic_job_chancellor_female_bodpa;Лончен;x
+nomadic_job_treasurer_female_bodpa;Гньер;x
+nomadic_job_chancellor_female_tangut;Лончен;x
+nomadic_job_treasurer_female_tangut;Гньер;x
+nomadic_job_spiritual_female_tangut;Банченмо;x
+nomadic_job_spiritual_female_bodpa;Банченмо;x
+nomadic_job_spiritual_female_indian_group;Упадхьяяни;x
+tribal_job_chancellor_taoist;Главный министр;x
+tribal_job_marshal_taoist;Синцзюнь Сыма;x
+tribal_job_treasurer_taoist;Казначей;x
+tribal_job_spymaster_taoist;Тайный советник;x
+tribal_job_spiritual_taoist;Возлиятель;x #Libationer
+tribal_job_chancellor_han;Главный министр;x
+tribal_job_marshal_han;Синцзюнь Сыма;x
+tribal_job_treasurer_han;Казначей;x
+tribal_job_spymaster_han;Тайный советник;x
+tribal_job_spiritual_han;Возлиятель;x #Libationer
+tribal_job_chancellor_jurchen;Главный министр;x
+tribal_job_marshal_jurchen;Маршал;x
+tribal_job_treasurer_jurchen;Казначей;x
+tribal_job_spymaster_jurchen;Тайный советник;x
+tribal_job_spiritual_jurchen;Возлиятель;x #Libationer
+tribal_job_chancellor_bodpa;Лончен;x
+tribal_job_spiritual_bodpa;Банченпо;x
+tribal_job_treasurer_bodpa;Гньер;x
+tribal_job_chancellor_tangut;Лончен;x
+tribal_job_spiritual_tangut;Банченпо;x
+tribal_job_treasurer_tangut;Гньер;x
+tribal_job_spiritual_khurmazta;Мойпат;x
+tribal_job_spiritual_manichean;Дидаскалос;x
+tribal_job_chancellor_female_bodpa;Лончен;x
+tribal_job_treasurer_female_bodpa;Гньер;x
+tribal_job_chancellor_female_tangut;Лончен;x
+tribal_job_treasurer_female_tangut;Гньер;x
+tribal_job_spiritual_female_tangut;Банченмо;x
+tribal_job_spiritual_female_bodpa;Банченмо;x
+tribal_job_spiritual_female_indian_group;Упадхьяяни;x
+#manichean
+temple_baron_manichean;Махистан;x
+temple_baron_female_manichean;Махистан;x
+temple_barony_manichean;Вахрам;x
+temple_count_manichean;Афтадан;x
+temple_count_female_manichean;Афтадан;x
+temple_county_manichean;Великий вахрам;x
+temple_duke_manichean;Аспасаг;x
+temple_duke_female_manichean;Аспасаг;x
+temple_duchy_manichean;Теократия;x
+temple_king_manichean;Мозаг;x
+temple_king_female_manichean;Мозаг;x
+temple_kingdom_manichean;Великая теократия;x
+temple_emperor_manichean;Бурхан;x
+temple_emperor_female_manichean;Бурхан;x
+temple_empire_manichean;Царство Света;x
+temple_empire_of_manichean;Царство Света;x
+temple_kingdom_of_manichean;Великая теократия;x
+temple_duchy_of_manichean;Теократия;x
+temple_county_of_manichean;Великий вахрам;x
+temple_barony_of_manichean;Вахрам;x

@@ -1,0 +1,6392 @@
+#свекровь/тёща в зависимости от пола игрока (вызывается через [Player.])
+defined_text = {
+	name = GetMotherInLaw
+
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = yes
+		}
+		localisation_key = GetRelation_MotherOfHusband
+	}
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = no
+		}
+		localisation_key = GetRelation_MotherOfWife
+	}
+	fallback_text = {
+		localisation_key = GetMotherInLaw_FB
+	}
+}
+#свёкр/тесть в зависимости от пола игрока (вызывается через [Player.])
+defined_text = {
+	name = GetFatherInLaw
+
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = yes
+		}
+		localisation_key = GetRelation_FatherOfHusband
+	}
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = no
+		}
+		localisation_key = GetRelation_FatherOfWife
+	}
+	fallback_text = {
+		localisation_key = GetFatherInLaw_FB
+	}
+}
+#деверь/шурин в зависимости от родства с игроком (вызывается через [Player.])
+defined_text = {
+	name = GetBrotherInLaw
+
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = yes
+		}
+		localisation_key = GetRelation_BrotherOfHusband
+	}
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = no
+		}
+		localisation_key = GetRelation_BrotherOfWife
+	}
+	fallback_text = {
+		localisation_key = GetBrotherInLaw_FB
+	}
+}
+#золовка/свояченица в зависимости от родства с игроком (вызывается через [Player.])
+defined_text = {
+	name = GetSisterInLaw
+
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = yes
+		}
+		localisation_key = GetRelation_SisterOfHusband
+	}
+	text = {
+		trigger = {
+			NOT = { character = FROM }
+			is_female = no
+		}
+		localisation_key = GetRelation_SisterOfWife
+	}
+	fallback_text = {
+		localisation_key = GetSisterInLaw_FB
+	}
+}
+#единоутробн/единокровн в зависимости от родства c текущим игроком (вспомогательная)
+defined_text = {
+	name =  #Player.GetHalfSiblingAdj
+
+	text = {
+		trigger = {
+			always = yes
+		}
+		localisation_key = String_GetHalfSiblingAdj
+	}
+	fallback_text = {
+		localisation_key = String_GetHalfSiblingAdj
+	}
+}
+#окончание "ая/ый" (на вопрос "какой?"), используется только для GetHalfSiblingAdj (вспомогательная)
+defined_text = {
+	name =  #Player.GetAyaYyOrNone_T_T
+
+	text = {
+		trigger = {
+			always = yes
+		}
+		localisation_key = String_GetAyaYyOrNone_T_T
+	}
+	fallback_text = {
+		localisation_key = String_GetAyaYyOrNone_T_T
+	}
+}
+#единоутробн/единокровн в зависимости от родства c текущим игроком (вызывается через [Player.])
+defined_text = {
+	name =  #GetHalfSiblingAdj
+
+	text = {
+		trigger = {
+			#multiplayer = no
+			NOT = { character = FROM }
+			#mother_even_if_dead = { any_child_even_if_dead = { ai = no } }
+			mother_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+		}
+		localisation_key = String_MothersChildAdj
+	}
+	text = {
+		trigger = {
+			#multiplayer = no
+			NOT = { character = FROM }
+			#father_even_if_dead = { any_child_even_if_dead = { ai = no } }
+			father_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+		}
+		localisation_key = String_FathersChildAdj
+	}
+}
+#окончание "ая/ый" (на вопрос "какой?"), используется только для GetHalfSiblingAdj (вызывается через [Player.])
+defined_text = {
+	name =  #GetAyaYyOrNone_T_T
+
+	text = {
+		trigger = {
+			#multiplayer = no
+			NOT = { character = FROM }
+			ROOT = { is_female = yes }
+			OR = {
+				mother_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+				father_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+			}
+
+		}
+		localisation_key = END_AYA_
+	}
+	text = {
+		trigger = {
+			#multiplayer = no
+			NOT = { character = FROM }
+			ROOT = { is_female = no }
+			OR = {
+				mother_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+				father_even_if_dead = { any_child_even_if_dead = { character = ROOT } }
+			}
+		}
+		localisation_key = END_YY_
+	}
+}
+#Returns the string named "ца" for female characters, "к" for male characters (например, любовница/любовник)
+defined_text = {
+	name = _к #GetTsaK_TT_к
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_TSA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#Returns the string named "чка" for female characters, "к" for male characters (например, католичка/католик)
+defined_text = {
+	name = __к #GetChkaK_TT_к
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_CHKA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#Returns the string named "ка" for female characters, "ин" for male characters (например, мусульманка/мусульманин)
+defined_text = {
+	name = _ин #GetKaIn_TT_ин
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_IN
+	}
+}
+#Returns the string named "ка" for female characters, "ец" for male characters (например, тенгрианка/тенгрианец)
+defined_text = {
+	name = _ец #GetKaEts_TT_ец
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_ETS
+	}
+}
+#Returns the string named "йка" for female characters, "ец" for male characters (например, валлийка/валлиец)
+defined_text = {
+	name = __ец #GetYkaEts_TT_ец
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_YKA
+	}
+	fallback_text = {
+		localisation_key = END_ETS
+	}
+}
+#окончание местоимений типа (оя/ой)
+defined_text = {
+	name = _ой #GetOyaOy_TT_ой
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OYA
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#окончание "ая/ий" (на вопрос "какой?")
+defined_text = {
+	name = _ий #GetAyaIy_TT_ий
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_IY
+	}
+}
+#окончание "ая/ый" (на вопрос "какой?")
+defined_text = {
+	name = _ый #GetAyaYy_TT_ый
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			#ROOT = { always = yes }
+		}
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_YY
+	}
+}
+#окончание "яя/ий" (на вопрос "какой?")
+defined_text = {
+	name = __ий #GetYayaIy_TT_ий
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_YAYA
+	}
+	fallback_text = {
+		localisation_key = END_IY
+	}
+}
+#окончание "ая/ой" (на вопрос "какой?")
+defined_text = {
+	name = __ой #GetAyaOy_TT_ой
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#окончание "ка/<пусто>" (например, интриганка/интриган)
+defined_text = {
+	name = __ #GetEndKa_TT
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_KA
+	}
+}
+#окончание "ка/н" (например, финка/финн)
+defined_text = {
+	name = _н #GetKaN_TT_н
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_N
+	}
+}
+#Returns the string named "ица" for female characters, "ь" for male characters
+defined_text = {
+	name = _ь #GetSoftItsa_TT_ь
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_ITSA
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_SOFT
+	}
+	fallback_text = {
+		localisation_key = END_SOFT
+	}
+}
+#окончание "ница/<пусто>" (например, разорительница/разоритель)
+defined_text = {
+	name = ____ #GetEndNitsa_TT
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_NITSA
+	}
+}
+#Returns the string named "ица" for female characters, "ец" for male characters (например, жрица/жрец)
+defined_text = {
+	name = ___ец #GetItsaEts_TT_ец
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_ITSA
+	}
+	fallback_text = {
+		localisation_key = END_ETS
+	}
+}
+#Returns the string named "а" for female characters, "от" for male characters (например, эта/этот)
+defined_text = {
+	name = _от #GetEtaEtot_TT_от
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_A
+	}
+	fallback_text = {
+		localisation_key = END_OT
+	}
+}
+#Returns the string named "а" for female characters, empty string for male characters
+defined_text = {
+	name = _ #GetEndA_TT
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_A
+	}
+}
+#окончание местоимений творительного падежа (ою/ым)
+defined_text = {
+	name = _ым #GetOyuYm_TT_ым
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OYU
+	}
+	fallback_text = {
+		localisation_key = END_YM
+	}
+}
+#окончание местоимений творительного падежа (ою/им)
+defined_text = {
+	name = _им #GetOyuIm_TT_им
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OYU
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#окончание местоимений творительного падежа (ею/им)
+defined_text = {
+	name = __им #GetEyuIm_TT_им
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_EYU
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#Root "ею/им"
+defined_text = {
+	name = __им_ #Root.GetEyuIm
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_EYU
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#From "ею/им"
+defined_text = {
+	name = __им__ #From.GetEyuIm
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_EYU
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#окончание местоимений творительного падежа (ой/ым)
+defined_text = {
+	name = _ым #GetOyYm_TT_ым
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OY
+	}
+	fallback_text = {
+		localisation_key = END_YM
+	}
+}
+#окончание местоимений творительного падежа (ой/им)
+defined_text = {
+	name = _им #GetOyIm_TT_им
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OY
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#окончание местоимений творительного падежа (ей/им)
+defined_text = {
+	name = __им #GetEyIm_TT_им
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = EV_HER
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#окончание "на/ен" (например, должна/должен)
+defined_text = {
+	name = _ен #GetNaEn_TT_ен
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+#окончание ой/ого, например этой/этого
+defined_text = {
+	name = __ого #GetOyOgo_TT_ого
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_OY
+	}
+	fallback_text = {
+		localisation_key = END_OGO
+	}
+}
+#окончание "у/ого" (например, эту/этого)
+defined_text = {
+	name = _ого #GetUOgo_TT_ого
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_U
+	}
+	fallback_text = {
+		localisation_key = END_OGO
+	}
+}
+#окончание "ьна/ен" (например, привлекательна/привлекателен)
+defined_text = {
+	name = __ен #GetSoftNaEn_TT_ен
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_SOFT_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+#окончание "кой/ом" (например, эллинкой/эллином)
+defined_text = {
+	name = _ом #GetKoyOm_TT_ом
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_KOY
+	}
+	fallback_text = {
+		localisation_key = END_OM
+	}
+}
+#окончание "ша/<пусто>" (например, узурпаторша/узурпатор)
+defined_text = {
+	name = __ #GetEndSha_TT
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = END_SHA
+	}
+}
+#GetHersHis
+defined_text = {
+	name = _его #GetHersHis_TT_его
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = POSS_PRONOUN_FEM
+	}
+	fallback_text = {
+		localisation_key = EV_HIS
+	}
+}
+#GetHersHisCap
+defined_text = {
+	name = _Его #GetHersHisСap_TT_Его
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = POSS_PRONOUN_FEM_CAP
+	}
+	fallback_text = {
+		localisation_key = POSS_PRONOUN_MAL_CAP
+	}
+}
+#Returns the string named "дочь" for female characters, "сын" for male characters
+defined_text = {
+	name = _ребёнок #GetSonDaughter_TT_ребёнок
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = DAUGHTER
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = SON
+	}
+	fallback_text = {
+		localisation_key = CHILD_FB
+	}
+}
+#Returns the string named "Дочь" for female characters, "Сын" for male characters
+defined_text = {
+	name = _Ребёнок #GetDaughterSonCap_TT_Ребёнок
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = DAUGHTER_CAP
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = SON_CAP
+	}
+	fallback_text = {
+		localisation_key = CHILD_FB_CAP
+	}
+}
+#"девочка/мальчик", "девушка/юноша", "женщина/человек" или ребёнок(по-умолчанию) в зависимости от возраста
+defined_text = {
+	name = __ребёнок #GetAgedPersonC_TT_ребёнок
+	use_first_valid = yes
+	
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = GIRL_PANDA
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = BOY_PANDA
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = WOMAN_PANDA
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = MAN_PANDA
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = GIRL_BEAR
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = BOY_BEAR
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = WOMAN_BEAR
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = MAN_BEAR
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = GIRL_HORSE
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = BOY_HORSE
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = WOMAN_HORSE
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = MAN_HORSE
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = GIRL_CAT
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = BOY_CAT
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = WOMAN_CAT
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = MAN_CAT
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = GIRL_HEDGEHOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = BOY_HEDGEHOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = WOMAN_HEDGEHOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = MAN_HEDGEHOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = GIRL_DUCK
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = BOY_DUCK
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = WOMAN_DUCK
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = MAN_DUCK
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = GIRL_DOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = BOY_DOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = WOMAN_DOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = MAN_DOG
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = GIRL_ELEPHANT
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = BOY_ELEPHANT
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = WOMAN_ELEPHANT
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = MAN_ELEPHANT
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = GIRL_DRAGON
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = BOY_DRAGON
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = WOMAN_DRAGON
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = MAN_DRAGON
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LASS
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LAD
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = GIRL
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = BOY
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = IS_FEMALE
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = HUMAN_FB
+	}
+	fallback_text = {
+		localisation_key = CHILD_FB
+	}
+}
+#"девочку/мальчика", "девушку/юношу", "женщину/человека" или ребёнка(по-умолчанию) в зависимости от возраста для вин. падежа
+defined_text = {
+	name = ___ребёнка #GetAgedPersonCACC_TT_ребёнка
+	use_first_valid = yes
+	
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = GIRL_PANDA_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = BOY_PANDA_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = WOMAN_PANDA_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = MAN_PANDA_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = GIRL_BEAR_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = BOY_BEAR_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = WOMAN_BEAR_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = MAN_BEAR_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = GIRL_HORSE_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = BOY_HORSE_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = WOMAN_HORSE_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = MAN_HORSE_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = GIRL_CAT_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = BOY_CAT_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = WOMAN_CAT_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = MAN_CAT_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = GIRL_HEDGEHOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = BOY_HEDGEHOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = WOMAN_HEDGEHOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = MAN_HEDGEHOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = GIRL_DUCK_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = BOY_DUCK_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = WOMAN_DUCK_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = MAN_DUCK_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = GIRL_DOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = BOY_DOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = WOMAN_DOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = MAN_DOG_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = GIRL_ELEPHANT_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = BOY_ELEPHANT_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = WOMAN_ELEPHANT_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = MAN_ELEPHANT_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = GIRL_DRAGON_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = BOY_DRAGON_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = WOMAN_DRAGON_ACC
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = MAN_DRAGON_ACC
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LGIRL_ACC
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LBOY_ACC
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = GIRL_ACC
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = BOY_ACC
+	}
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = WOMAN_ACC
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = HUMAN_ACC
+	}
+	fallback_text = {
+		localisation_key = CHILD_FB_ACC
+	}
+}
+#"девочки/мальчика", "девушки/юноши", "женщины/человека" или ребёнка(по-умолчанию) в зависимости от возраста для род. падежа
+defined_text = {
+	name = __ребёнка #GetAgedPersonCGEN_TT_ребёнка
+	use_first_valid = yes
+	
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = GIRL_PANDA_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = redpandagfx
+		}
+		localisation_key = BOY_PANDA_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = WOMAN_PANDA_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = redpandagfx
+		}
+		localisation_key = MAN_PANDA_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = GIRL_BEAR_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = beargfx
+		}
+		localisation_key = BOY_BEAR_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = WOMAN_BEAR_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = beargfx
+		}
+		localisation_key = MAN_BEAR_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = GIRL_HORSE_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = horsegfx
+		}
+		localisation_key = BOY_HORSE_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = WOMAN_HORSE_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = horsegfx
+		}
+		localisation_key = MAN_HORSE_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = GIRL_CAT_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = catgfx
+		}
+		localisation_key = BOY_CAT_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = WOMAN_CAT_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = catgfx
+		}
+		localisation_key = MAN_CAT_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = GIRL_HEDGEHOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = BOY_HEDGEHOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = WOMAN_HEDGEHOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = hedgehoggfx
+		}
+		localisation_key = MAN_HEDGEHOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = GIRL_DUCK_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = duckgfx
+		}
+		localisation_key = BOY_DUCK_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = WOMAN_DUCK_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = duckgfx
+		}
+		localisation_key = MAN_DUCK_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = GIRL_DOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = doggfx
+		}
+		localisation_key = BOY_DOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = WOMAN_DOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = doggfx
+		}
+		localisation_key = MAN_DOG_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = GIRL_ELEPHANT_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = elephantgfx
+		}
+		localisation_key = BOY_ELEPHANT_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = WOMAN_ELEPHANT_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = elephantgfx
+		}
+		localisation_key = MAN_ELEPHANT_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = GIRL_DRAGON_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = no
+			graphical_culture = dragongfx
+		}
+		localisation_key = BOY_DRAGON_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = yes
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = WOMAN_DRAGON_GEN
+	}
+	text = {
+		trigger = {
+			has_game_started = yes
+			is_female = no
+			is_marriage_adult = yes
+			graphical_culture = dragongfx
+		}
+		localisation_key = MAN_DRAGON_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LGIRL_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			NOT = { age = 12 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = LBOY_ACC
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = GIRL_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			age = 12
+			NOT = { age = 23 }
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = BOY_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = yes
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = WOMAN_GEN
+	}
+	text = {
+		trigger = {
+			NOT = { FROM = { always = yes } }
+			has_game_started = yes
+			is_female = no
+			age = 23
+			NOR = {
+				graphical_culture = horsegfx
+				graphical_culture = catgfx
+				graphical_culture = beargfx
+				graphical_culture = hedgehoggfx
+				graphical_culture = duckgfx
+				graphical_culture = doggfx
+				graphical_culture = elephantgfx
+				graphical_culture = dragongfx
+				graphical_culture = redpandagfx
+			}
+		}
+		localisation_key = HUMAN_ACC
+	}
+	fallback_text = {
+		localisation_key = CHILD_FB_ACC
+	}
+}
+defined_text = {
+	name = _забияка #GetBrat_TT_забияка
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = BRAT_SHORT_FEM
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = BRAT_SHORT_MAL
+	}
+	fallback_text = {
+		localisation_key = BRAT_SHORT_FB
+	}
+}
+defined_text = {
+	name = _Непарнокопытное #GetMareSteedCap_TT_Непарнокопытное
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = HORSE_MARE_CAP
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = HORSE_STEED_CAP
+	}
+	fallback_text = {
+		localisation_key = HORSE_STEED_CAP_Fallback
+	}
+}
+defined_text = {
+	name = _Котэ #GetPussyCatCap_TT_Котэ
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = CAT_FEMALE_CAP
+	}
+	text = {
+		trigger = {
+			is_female = no
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = CAT_MALE_CAP
+	}
+	fallback_text = {
+		localisation_key = CAT_CAP_Fallback
+	}
+}
+defined_text = {
+	name = _Повелитель #GetOverlordCap_TT_Повелитель
+
+	text = {
+		trigger = {
+			is_female = yes
+			NOT = { FROM = { always = yes } }
+		}
+		localisation_key = FEM_OVERLORD_CAP
+	}
+	fallback_text = {
+		localisation_key = MAL_OVERLORD_CAP
+	}
+}
+#DiploWindow
+#Returns the string named "а" if Root is female, empty string otherwise
+defined_text = {
+	name = __ #Root.GetEndA
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_A
+	}
+}
+#Returns the string named "а" if From is female, empty string otherwise
+defined_text = {
+	name = ___ #From.GetEndA
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_A
+	}
+}
+#Root "лась/ся"
+defined_text = {
+	name = _ся #Root.GetLasSya
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_LAS
+	}
+	fallback_text = {
+		localisation_key = END_SYA
+	}
+}
+#From "лась/ся"
+defined_text = {
+	name = __ся #From.GetLasSya
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_LAS
+	}
+	fallback_text = {
+		localisation_key = END_SYA
+	}
+}
+#Root "лась/лся"
+defined_text = {
+	name = _лся #Root.GetLasLsya
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_LAS
+	}
+	fallback_text = {
+		localisation_key = END_LSYA
+	}
+}
+#From "лась/лся"
+defined_text = {
+	name = __лся #From.GetLasLsya
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_LAS
+	}
+	fallback_text = {
+		localisation_key = END_LSYA
+	}
+}
+#Root "ла/<пусто>"
+defined_text = {
+	name = _ #Root.GetNoneE
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = FEMALE_ENDING_E
+	}
+}
+#From "ла/<пусто>"
+defined_text = {
+	name = __ #From.GetNoneE
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = FEMALE_ENDING_E
+	}
+}
+#Root "ка/<пусто>"
+defined_text = {
+	name = ___ #Root.GetEndKa
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_KA
+	}
+}
+#From "ка/<пусто>"
+defined_text = {
+	name = ____ #From.GetEndKa
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_KA
+	}
+}
+#Root "цу/ка"
+defined_text = {
+	name = _ка #Root.GetTsuKa
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_TSU
+	}
+	fallback_text = {
+		localisation_key = END_KA
+	}
+}
+#From "цу/ка"
+defined_text = {
+	name = __ка #From.GetTsuKa
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_TSU
+	}
+	fallback_text = {
+		localisation_key = END_KA
+	}
+}
+#Root "ая/ый"
+defined_text = {
+	name = _ый_ #Root.GetAyaYy
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_YY
+	}
+}
+#From "ая/ый"
+defined_text = {
+	name = _ый__ #From.GetAyaYy
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_YY
+	}
+}
+#Root "ая/ий"
+defined_text = {
+	name = _ий_ #Root.GetAyaIy
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_IY
+	}
+}
+#From "ая/ий"
+defined_text = {
+	name = _ий__ #From.GetAyaIy
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_IY
+	}
+}
+#Root "ая/ой"
+defined_text = {
+	name = __ой_ #Root.GetAyaOy
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#From "ая/ой"
+defined_text = {
+	name = __ой__ #From.GetAyaOy
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = AYA_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#Root "оя/ой"
+defined_text = {
+	name = _ой_ #Root.GetOyaOy
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_OYA
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#From "оя/ой"
+defined_text = {
+	name = _ой__ #From.GetOyaOy
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_OYA
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#Root "оя/ой" - оя
+defined_text = {
+	name = _оя_ #Root.GetOyaOy
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_OYA
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#From "оя/ой" - оя
+defined_text = {
+	name = _оя__ #From.GetOyaOy
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_OYA
+	}
+	fallback_text = {
+		localisation_key = END_OY
+	}
+}
+#Root "йка/ин"
+defined_text = {
+	name = __ин #Root.GetYkaIn
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_YKA
+	}
+	fallback_text = {
+		localisation_key = END_IN
+	}
+}
+#From "йка/ин"
+defined_text = {
+	name = ___ин #From.GetYkaIn
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_YKA
+	}
+	fallback_text = {
+		localisation_key = END_IN
+	}
+}
+#Root "конь/лошадь" - лошадь
+defined_text = {
+	name = _лошадь #Root.GetMareSteed
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = HORSE_MARE
+	}
+	fallback_text = {
+		localisation_key = HORSE_STEED
+	}
+}
+#From "конь/лошадь" - лошадь
+defined_text = {
+	name = __лошадь #From.GetMareSteed
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = HORSE_MARE
+	}
+	fallback_text = {
+		localisation_key = HORSE_STEED
+	}
+}
+#Root "ца/к"
+defined_text = {
+	name = _к_ #Root.GetTsaK
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_TSA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#From "ца/к"
+defined_text = {
+	name = _к__ #From.GetTsaK
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_TSA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#Root "ница/<пусто>"
+defined_text = {
+	name = _____ #Root.GetEndNitsa
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_NITSA
+	}
+}
+#From "ница/<пусто>"
+defined_text = {
+	name = ______ #From.GetEndNitsa
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_NITSA
+	}
+}
+#Root "ка/ец"
+defined_text = {
+	name = _ец_ #Root.GetKaEts
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_ETS
+	}
+}
+#From "ка/ец"
+defined_text = {
+	name = _ец__ #From.GetKaEts
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_ETS
+	}
+}
+#Root "ю/его" - инверсия пола
+defined_text = {
+	name = _ю #Root.GetYuEgoOpp
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = EV_HIS
+	}
+	fallback_text = {
+		localisation_key = END_YU
+	}
+}
+#From "ю/его" - инверсия пола
+defined_text = {
+	name = __ю #From.GetYuEgoOpp
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = EV_HIS
+	}
+	fallback_text = {
+		localisation_key = END_YU
+	}
+}
+#Root "ю/его" - предпочтение пола
+defined_text = {
+	name = _его #Root.GetPreferenceYuEgo
+
+	text = {
+		trigger = { ROOT = { prefers_men_trigger = no } }
+		localisation_key = END_YU
+	}
+	fallback_text = {
+		localisation_key = EV_HIS
+	}
+}
+#From "ю/его" - предпочтение пола
+defined_text = {
+	name = __его #From.GetPreferenceYuEgo
+
+	text = {
+		trigger = { FROM = { prefers_men_trigger = no } }
+		localisation_key = END_YU
+	}
+	fallback_text = {
+		localisation_key = EV_HIS
+	}
+}
+#Root "ую/ого"
+defined_text = {
+	name = _ого #Root.GetUyuOgo
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_UYU
+	}
+	fallback_text = {
+		localisation_key = END_OGO
+	}
+}
+#From "ую/ого"
+defined_text = {
+	name = __ого #From.GetUyuOgo
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_UYU
+	}
+	fallback_text = {
+		localisation_key = END_OGO
+	}
+}
+#Root "цу/ка" - предпочтение пола
+defined_text = {
+	name = _ка #Root.GetPreferenceTsuKa
+
+	text = {
+		trigger = { ROOT = { prefers_men_trigger = no } }
+		localisation_key = END_TSU
+	}
+	fallback_text = {
+		localisation_key = END_KA
+	}
+}
+#From "цу/ка" - предпочтение пола
+defined_text = {
+	name = __ка #From.GetPreferenceTsuKa
+
+	text = {
+		trigger = { FROM = { prefers_men_trigger = no } }
+		localisation_key = END_TSU
+	}
+	fallback_text = {
+		localisation_key = END_KA
+	}
+}
+#Root "цу/ка" - инверсия пола
+defined_text = {
+	name = _цу #Root.GetTsuKaOpp
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_TSU
+	}
+}
+#From "цу/ка" - инверсия пола
+defined_text = {
+	name = __цу #From.GetTsuKaOpp
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_KA
+	}
+	fallback_text = {
+		localisation_key = END_TSU
+	}
+}
+#Root "ла/ёл"
+defined_text = {
+	name = _ел #Root.GetLaYol
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = FEMALE_ENDING_E
+	}
+	fallback_text = {
+		localisation_key = END_YOL
+	}
+}
+#From "ла/ёл"
+defined_text = {
+	name = __ел #From.GetLaYol
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = FEMALE_ENDING_E
+	}
+	fallback_text = {
+		localisation_key = END_YOL
+	}
+}
+#Root "подруга/друг"
+defined_text = {
+	name = _друг #Root.GetFriendMF
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = REL_FRIEND_FEMALE
+	}
+	fallback_text = {
+		localisation_key = REL_FRIEND_MALE
+	}
+}
+#From "подруга/друг"
+defined_text = {
+	name = __друг #From.GetFriendMF
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = REL_FRIEND_FEMALE
+	}
+	fallback_text = {
+		localisation_key = REL_FRIEND_MALE
+	}
+}
+#Root "Подруга/Друг"
+defined_text = {
+	name = _Друг #Root.GetFriendMFCap
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = REL_FRIEND_FEMALE_CAP
+	}
+	fallback_text = {
+		localisation_key = REL_FRIEND_MALE_CAP
+	}
+}
+#From "Подруга/Друг"
+defined_text = {
+	name = __Друг #From.GetFriendMFCap
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = REL_FRIEND_FEMALE_CAP
+	}
+	fallback_text = {
+		localisation_key = REL_FRIEND_MALE_CAP
+	}
+}
+#Root "мать/отец"
+defined_text = {
+	name = _отец #Root.GetFatherMother
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = REL_MOTHER
+	}
+	fallback_text = {
+		localisation_key = REL_FATHER
+	}
+}
+#From "мать/отец"
+defined_text = {
+	name = __отец #From.GetFatherMother
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = REL_MOTHER
+	}
+	fallback_text = {
+		localisation_key = REL_FATHER
+	}
+}
+#Root "ша/<пусто>"
+defined_text = {
+	name = ___ #Root.GetEndSha
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_SHA
+	}
+}
+#From "ша/<пусто>"
+defined_text = {
+	name = ____ #From.GetEndSha
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_SHA
+	}
+}
+#Root "её/его"
+defined_text = {
+	name = _его_ #Root.GetHersHis
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = POSS_PRONOUN_FEM
+	}
+	fallback_text = {
+		localisation_key = EV_HIS
+	}
+}
+#From "её/его"
+defined_text = {
+	name = _его__ #From.GetHersHis
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = POSS_PRONOUN_FEM
+	}
+	fallback_text = {
+		localisation_key = EV_HIS
+	}
+}
+#Root "Её/Его"
+defined_text = {
+	name = _Его_ #Root.GetHersHisCap
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = POSS_PRONOUN_FEM_CAP
+	}
+	fallback_text = {
+		localisation_key = POSS_PRONOUN_MAL_CAP
+	}
+}
+#From "Её/Его"
+defined_text = {
+	name = _Его__ #From.GetHersHisCap
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = POSS_PRONOUN_FEM_CAP
+	}
+	fallback_text = {
+		localisation_key = POSS_PRONOUN_MAL_CAP
+	}
+}
+#Root "мужа/жену" - инверсия пола, вин. падеж
+defined_text = {
+	name = _жену #Root.GetHusbandWifeOppACC
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = HUSBAND_GEN
+	}
+	fallback_text = {
+		localisation_key = WIFE_ACC
+	}
+}
+#From "мужа/жену" - инверсия пола, вин. падеж
+defined_text = {
+	name = __жену #From.GetHusbandWifeOppACC
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = HUSBAND_GEN
+	}
+	fallback_text = {
+		localisation_key = WIFE_ACC
+	}
+}
+#Root "на/ен"
+defined_text = {
+	name = _ен_ #Root.GetNaEn
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+#From "на/ен"
+defined_text = {
+	name = _ен__ #From.GetNaEn
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+
+#Root "ьна/ен"
+defined_text = {
+	name = __ен_ #Root.GetSoftNaEn
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_SOFT_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+#From "ьна/ен"
+defined_text = {
+	name = __ен__ #From.GetSoftNaEn
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_SOFT_NA
+	}
+	fallback_text = {
+		localisation_key = END_EN
+	}
+}
+#Root "чка/к"
+defined_text = {
+	name = __к_ #Root.GetChkaK_TT_к
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_CHKA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#From "чка/к"
+defined_text = {
+	name = __к__ #From.GetChkaK_TT_к
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_CHKA
+	}
+	fallback_text = {
+		localisation_key = END_K
+	}
+}
+#Root "дочь/сын" - ребёнок
+defined_text = {
+	name = _ребёнок_ #Root.GetSonDaughter
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = DAUGHTER
+	}
+	fallback_text = {
+		localisation_key = SON
+	}
+}
+#From "дочь/сын" - ребёнок
+defined_text = {
+	name = _ребёнок__ #From.GetSonDaughter
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = DAUGHTER
+	}
+	fallback_text = {
+		localisation_key = SON
+	}
+}
+#Root "цей/ком"
+defined_text = {
+	name = _ком #Root.GetTseyKom
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = END_TSEY
+	}
+	fallback_text = {
+		localisation_key = END_KOM
+	}
+}
+#From "цей/ком"
+defined_text = {
+	name = __ком #From.GetTseyKom
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = END_TSEY
+	}
+	fallback_text = {
+		localisation_key = END_KOM
+	}
+}
+#Root "ей/им"
+defined_text = {
+	name = __им_ #Root.GetEyIm
+
+	text = {
+		trigger = { ROOT = { is_female = yes } }
+		localisation_key = EV_HER
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#From "ей/им"
+defined_text = {
+	name = __им__ #From.GetEyIm
+
+	text = {
+		trigger = { FROM = { is_female = yes } }
+		localisation_key = EV_HER
+	}
+	fallback_text = {
+		localisation_key = END_IM
+	}
+}
+#Holy Fury
+defined_text = {
+	name = _религии #generic_rel_prefix
+	text = {
+		trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = RELIGII_GENERIC_PREFIX
+	}
+}
+defined_text = {
+	name =  #alt_culture_postfix
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = SK_ALT_CULTURE_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = AYA_CULTURE_UNPOSTFIX
+	}
+}
+defined_text = {
+	name = __ #alt_culture_china_postfix
+	text = {
+		trigger = {
+			non_historical_culture_names_in_alt_start_trigger = yes
+			NOT = { han = { has_flag = is_name_randomized_flag } }
+			offmap_china = {
+				offmap_ruler = {
+					dynasty_head = {
+						culture = han
+					}
+				}
+			}
+		}
+		localisation_key = AYA_CULTURE_UNPOSTFIX
+	}
+	text = {
+		trigger = {
+			non_historical_culture_names_in_alt_start_trigger = yes
+			offmap_china = {
+				offmap_ruler = {
+					dynasty_head = {
+						culture_scope = { NOT = { has_flag = is_name_randomized_flag } }
+					}
+				}
+			}
+		}
+		localisation_key = AYA_CULTURE_UNPOSTFIX
+	}
+	text = {
+		trigger = {
+			non_historical_culture_names_in_alt_start_trigger = yes
+			offmap_china = {
+				offmap_ruler = {
+					dynasty_head = {
+						culture_scope = { has_flag = is_name_randomized_flag }
+					}
+				}
+			}
+		}
+		localisation_key = SK_ALT_CULTURE_POSTFIX
+	}
+	fallback_text = {
+		localisation_key = AYA_CULTURE_UNPOSTFIX
+	}
+}
+defined_text = {
+	name = к #alt_cul_postfix
+	text = {
+		trigger = {
+			has_alternate_start_parameter = { key = culture_names value = random }
+			OR = {
+				AND = {
+					has_global_flag = alt_culture_names_flag
+					NOT = { had_global_flag = { flag=alt_culture_names_flag days=1 } }
+				}
+				NOT = { title = THIS }
+				#is_offmap_tag = offmap_china
+			}
+		}
+		localisation_key = SKAYA_ALT_CUL_POSTFIX
+	}
+}
+defined_text = {
+	name =  #alt_relgroup_postfix
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKAYA_ALT_RELGROUP_POSTFIX
+	}
+}
+defined_text = {
+	name = __ #alt_rel_postfix_ism
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = IZM_ALT_REL_POSTFIX
+	}
+}
+defined_text = {
+	name = __ #alt_rel_postfix_ov
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = OV_ALT_REL_POSTFIX
+	}
+}
+defined_text = {
+	name = ___ #alt_rel_postfix_ACC
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKUYU_VERU_ALT_REL_POSTFIX_ACC
+	}
+}
+defined_text = {
+	name = ____ #alt_relgroup_postfix_ACC
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKUYU_VERU_ALT_RELGROUP_POSTFIX_ACC
+	}
+}
+defined_text = {
+	name = ___ #alt_rel_postfix_ACC
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKAYA_VERA_ALT_REL_POSTFIX
+	}
+}
+defined_text = {
+	name = _ #alt_rel_postfix_GEN
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKOY_VERY_ALT_REL_POSTFIX_GEN
+	}
+}
+defined_text = {
+	name = _ #alt_relgroup_postfix_ACC
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKIYE_RELIGII_ALT_RELGROUP_POSTFIX_ACC
+	}
+}
+defined_text = {
+	name = _ #alt_rel_postfix_DAT
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKOY_VERE_ALT_REL_POSTFIX_DAT
+	}
+}
+defined_text = {
+	name = __ #alt_relgroup_postfix_ACC_Y
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKIYE_RELIGII_ALT_RELGROUP_POSTFIX_ACC_Y
+	}
+}
+defined_text = {
+	name = __ #alt_rel_head_ACC
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = GLAVU_ALT_REL_ACC
+	}
+}
+defined_text = {
+	name = ___ #alt_rel_church_postfix_GEN
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKOY_TSERKVI_ALT_REL_POSTFIX_GEN
+	}
+}
+defined_text = {
+	name = ____ #alt_rel_church_postfix
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKAYA_TSERKOV_ALT_REL_POSTFIX
+	}
+}
+defined_text = {
+	name = ____ #alt_rel_pagan_postfix
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = SKOYE_YAZYCHESTVO_ALT_REL_POSTFIX
+	}
+}
+defined_text = {
+	name = _СвященнуюРимскуюимперию
+	text = {
+		trigger = {
+			OR = {
+				has_alternate_start_setting = { setting = title_names option = random }
+				has_alternate_start_setting = { setting = title_names option = random_including_duchies }
+			}
+		}
+		localisation_key = SVYASCHENNUYU_RIMSKUYU_IMPERIYU_ALT_ACC
+	}
+	fallback_text = {
+		localisation_key = SVYASCHENNUYU_RIMSKUYU_IMPERIYU_generic_ACC
+	}
+}
+defined_text = {
+	name = _Аллаха
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } shiite = { is_name_randomized = yes } }
+		localisation_key = ALLAHA_ALT_REL_SHIA_GEN
+	}
+	fallback_text = {
+		localisation_key = ALLAHA_generic_GEN
+	}
+}
+defined_text = {
+	name = _шиизма
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } shiite = { is_name_randomized = yes } }
+		localisation_key = SHIIZMA_ALT_REL_GEN
+	}
+	fallback_text = {
+		localisation_key = SHIIZMA_generic_GEN
+	}
+}
+defined_text = {
+	name = _шиизм
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } shiite = { is_name_randomized = yes } }
+		localisation_key = SHIIZM_ALT_REL
+	}
+	fallback_text = {
+		localisation_key = SHIIZM_generic
+	}
+}
+defined_text = {
+	name = _бонпо
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bon = { is_name_randomized = yes } }
+		localisation_key = BONPO_ALT_PLU_ADJ
+	}
+	fallback_text = {
+		localisation_key = BONPO_generic_ADJ
+	}
+}
+defined_text = {
+	name = _бонпо_
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bon = { is_name_randomized = yes } }
+		localisation_key = BONPO_R_ALT_PLU_ADJ
+	}
+	fallback_text = {
+		localisation_key = BONPO_generic_ADJ
+	}
+}
+defined_text = {
+	name = _бонпо__
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bon = { is_name_randomized = yes } }
+		localisation_key = BONPO_R_ALT_PLU_GEN
+	}
+	fallback_text = {
+		localisation_key = BONPO_generic_ADJ
+	}
+}
+defined_text = {
+	name = _Балтий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } baltic_pagan = { is_name_randomized = yes } }
+		localisation_key = BALTIY_ALT_ADJ
+	}
+	fallback_text = {
+		localisation_key = BALTIY_generic_ADJ
+	}
+}
+defined_text = {
+	name = _Скандинав
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = SKANDINAV_ALT_ADJ
+	}
+	fallback_text = {
+		localisation_key = SKANDINAV_generic_ADJ
+	}
+}
+defined_text = {
+	name = _православных
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } orthodox = { is_name_randomized = yes } }
+		localisation_key = PRAVOSLAVNYH_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = PRAVOSLAVNYH_generic_GEN
+	}
+}
+defined_text = {
+	name = _маздеистов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = MAZDEISTOV_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = MAZDEISTOV_generic_GEN
+	}
+}
+defined_text = {
+	name = _маздеист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = MAZDEIST_ALTGROUP_ADJ
+	}
+	fallback_text = {
+		localisation_key = MAZDEIST_generic_ADJ
+	}
+}
+defined_text = {
+	name = _христианства
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = HRISTIANSTVA_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = HRISTIANSTVA_generic_GEN
+	}
+}
+defined_text = {
+	name = _подлинноеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = PODLINNOYE_YAZYCHESTVO_ALTGROUP
+	}
+	fallback_text = {
+		localisation_key = PODLINNOYE_YAZYCHESTVO_generic_GEN
+	}
+}
+defined_text = {
+	name = _язычества
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = YAZYCHESTVA_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = YAZYCHESTVA_generic_GEN
+	}
+}
+defined_text = {
+	name = _восточных
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = VOSTOCHNYH_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = VOSTOCHNYH_generic_GEN
+	}
+}
+defined_text = {
+	name = _восточным
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = VOSTOCHNYM_ALTGROUP_DAT
+	}
+	fallback_text = {
+		localisation_key = VOSTOCHNYM_generic_DAT
+	}
+}
+defined_text = {
+	name = _исламу
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = ISLAMU_ALTGROUP_DAT
+	}
+	fallback_text = {
+		localisation_key = ISLAMU_generic_DAT
+	}
+}
+defined_text = {
+	name = _иудаизму
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jewish = { is_name_randomized = yes } }
+		localisation_key = IUDAIZMU_ALT_DAT
+	}
+	fallback_text = {
+		localisation_key = IUDAIZMU_generic_DAT
+	}
+}
+defined_text = {
+	name = _христианству
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = HRISTIANSTVU_ALTGROUP_DAT
+	}
+	fallback_text = {
+		localisation_key = HRISTIANSTVU_generic_DAT
+	}
+}
+defined_text = {
+	name = _язычеству
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = YAZYCHESTVU_ALTGROUP_DAT
+	}
+	fallback_text = {
+		localisation_key = YAZYCHESTVU_generic_DAT
+	}
+}
+defined_text = {
+	name = _маздеизму
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = MAZDEIZMU_ALTGROUP_DAT
+	}
+	fallback_text = {
+		localisation_key = MAZDEIZMU_generic_DAT
+	}
+}
+defined_text = {
+	name = _зороастризму
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zoroastrian = { is_name_randomized = yes } }
+		localisation_key = ZOROASTRIZMU_ALT_DAT
+	}
+	fallback_text = {
+		localisation_key = ZOROASTRIZMU_generic_DAT
+	}
+}
+defined_text = {
+	name = _католик
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } catholic = { is_name_randomized = yes } }
+		localisation_key = KATOLIK_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = KATOLIK_generic_OV
+	}
+}
+defined_text = {
+	name = _язычник
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = YAZYCHNIK_ALTGROUP_OV
+	}
+	fallback_text = {
+		localisation_key = YAZYCHNIK_generic_OV
+	}
+}
+defined_text = {
+	name = _буддист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } buddhist = { is_name_randomized = yes } }
+		localisation_key = BUDDIST_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = BUDDIST_generic_OV
+	}
+}
+defined_text = {
+	name = _индуист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hindu = { is_name_randomized = yes } }
+		localisation_key = INDUIST_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = INDUIST_generic_OV
+	}
+}
+defined_text = {
+	name = _джайн
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jain = { is_name_randomized = yes } }
+		localisation_key = DZHAJN_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = DZHAJN_generic_OV
+	}
+}
+defined_text = {
+	name = _джайнист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jain = { is_name_randomized = yes } }
+		localisation_key = DZHAJNIST_ALT
+	}
+	fallback_text = {
+		localisation_key = DZHAJNIST_generic
+	}
+}
+defined_text = {
+	name = _даос
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } taoist = { is_name_randomized = yes } }
+		localisation_key = DAOS_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = DAOS_generic_OV
+	}
+}
+defined_text = {
+	name = _вальденс
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } waldensian = { is_name_randomized = yes } }
+		localisation_key = VALDENS_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = VALDENS_generic_OV
+	}
+}
+defined_text = {
+	name = _лоллард
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } lollard = { is_name_randomized = yes } }
+		localisation_key = LOLLARD_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = LOLLARD_generic_OV
+	}
+}
+defined_text = {
+	name = _богомил
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bogomilist = { is_name_randomized = yes } }
+		localisation_key = BOGOMIL_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = BOGOMIL_generic_OV
+	}
+}
+defined_text = {
+	name = _мусульмане
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = MUSULMANE_ALTGROUP_PLU
+	}
+	fallback_text = {
+		localisation_key = MUSULMANE_generic_PLU
+	}
+}
+defined_text = {
+	name = _друз
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } druze = { is_name_randomized = yes } }
+		localisation_key = DRUZ_ALT_OV
+	}
+	fallback_text = {
+		localisation_key = DRUZ_generic_OV
+	}
+}
+defined_text = {
+	name = _христиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = HRISTIAN_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = HRISTIAN_generic_GEN
+	}
+}
+defined_text = {
+	name = христиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = HRISTIAN_ALTGROUP_ADJ
+	}
+	fallback_text = {
+		localisation_key = HRISTIAN_generic_ADJ
+	}
+}
+defined_text = {
+	name = _мусульман
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = MUSULMAN_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = MUSULMAN_generic_GEN
+	}
+}
+defined_text = {
+	name = _иудей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = IUDEY_ALTGROUP_ADJ
+	}
+	fallback_text = {
+		localisation_key = IUDEY_generic_ADJ
+	}
+}
+defined_text = {
+	name = _иудеи
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = IUDEY_ALTGROUP_PLU
+	}
+	fallback_text = {
+		localisation_key = IUDEY_generic_PLU
+	}
+}
+defined_text = {
+	name = _еврей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = EVREY_ALTGROUP_ADJ
+	}
+	fallback_text = {
+		localisation_key = EVREY_generic_ADJ
+	}
+}
+defined_text = {
+	name = _иудей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jewish = { is_name_randomized = yes } }
+		localisation_key = IUDEY_ALT
+	}
+	fallback_text = {
+		localisation_key = IUDEY_generic
+	}
+}
+defined_text = {
+	name = _Иудей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jewish = { is_name_randomized = yes } }
+		localisation_key = IUDEY_ALT_CAP
+	}
+	fallback_text = {
+		localisation_key = IUDEY_generic_CAP
+	}
+}
+defined_text = {
+	name = _иудеев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jewish = { is_name_randomized = yes } }
+		localisation_key = IUDEEV_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = IUDEEV_generic_GEN
+	}
+}
+defined_text = {
+	name = _иудеев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = IUDEEV_ALTGROUP_GEN
+	}
+	fallback_text = {
+		localisation_key = IUDEEV_generic_GEN
+	}
+}
+defined_text = {
+	name = _зороастрийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zoroastrian = { is_name_randomized = yes } }
+		localisation_key = ZOROASTRIYTSEV_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = ZOROASTRIYTSEV_generic_GEN
+	}
+}
+defined_text = {
+	name = _иконоборцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } iconoclast = { is_name_randomized = yes } }
+		localisation_key = IKONOBORTSEV_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = IKONOBORTSEV_generic_GEN
+	}
+}
+defined_text = {
+	name = _зикрийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zikri = { is_name_randomized = yes } }
+		localisation_key = ZIKRIYTSEV_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = ZIKRIYTSEV_generic_GEN
+	}
+}
+defined_text = {
+	name = _язычни
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = YAZYCHNI_ALTGROUP
+	}
+	fallback_text = {
+		localisation_key = YAZYCHNI_generic
+	}
+}
+defined_text = {
+	name = _языче
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = YAZYCHE_ADJ_ALTGROUP
+	}
+	fallback_text = {
+		localisation_key = YAZYCHE_generic_ADJ
+	}
+}
+defined_text = {
+	name = _огнепоклонни
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = OGNEPOKLONNI_ALTGROUP
+	}
+	fallback_text = {
+		localisation_key = OGNEPOKLONNI_generic
+	}
+}
+defined_text = {
+	name = _Хурмазты
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } khurmazta = { is_name_randomized = yes } }
+		localisation_key = KHURMAZTY_ALT
+	}
+	fallback_text = {
+		localisation_key = KHURMAZTY_generic
+	}
+}
+defined_text = {
+	name = _православия
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } orthodox = { is_name_randomized = yes } }
+		localisation_key = PRAVOSLAVIYA_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = PRAVOSLAVIYA_generic_GEN
+	}
+}
+defined_text = {
+	name = _православная
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } orthodox = { is_name_randomized = yes } }
+		localisation_key = PRAVOSLAVNAYA_ALT
+	}
+	fallback_text = {
+		localisation_key = PRAVOSLAVNAYA_generic
+	}
+}
+defined_text = {
+	name = _асатру
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = ASATRU_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = ASATRU_generic
+	}
+}
+defined_text = {
+	name = __асатру
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = ASATRU_ALT_REF_GEN
+	}
+	fallback_text = {
+		localisation_key = ASATRU_generic
+	}
+}
+defined_text = {
+	name = _фратичелли
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } fraticelli = { is_name_randomized = yes } }
+		localisation_key = FRATICHELLI_ALT_GEN
+	}
+	fallback_text = {
+		localisation_key = FRATICHELLI_generic
+	}
+}
+defined_text = {
+	name = _индуизм
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hindu = { is_name_randomized = yes } }
+		localisation_key = HINDU_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = HINDU_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = _буддизм
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } buddhist = { is_name_randomized = yes } }
+		localisation_key = BUDDHIST_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = BUDDHIST_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = _джайнизм
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jain = { is_name_randomized = yes } }
+		localisation_key = JAIN_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = JAIN_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = _католичеcтво
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } catholic = { is_name_randomized = yes } }
+		localisation_key = CATHOLIC_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = CATHOLIC_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = зунскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zun_pagan = { is_name_randomized = yes } }
+		localisation_key = ZUN_PAGAN_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = ZUN_PAGAN_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = эллинскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hellenic_pagan = { is_name_randomized = yes } }
+		localisation_key = HELLENIC_PAGAN_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = HELLENIC_PAGAN_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = германскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = NORSE_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = NORSE_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = балтийскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } baltic_pagan = { is_name_randomized = yes } }
+		localisation_key = BALTIC_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = BALTIC_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = финскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } finnish_pagan = { is_name_randomized = yes } }
+		localisation_key = FINNISH_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = FINNISH_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = фин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } finnish_pagan = { is_name_randomized = yes } }
+		localisation_key = FINNISH_PAGAN_REFORMED_ALT_ADJ
+	}
+	fallback_text = {
+		localisation_key = FINNISH_PAGAN_REFORMED_GENERIC_ADJ
+	}
+}
+defined_text = {
+	name = славянскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } slavic_pagan = { is_name_randomized = yes } }
+		localisation_key = SLAVIC_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = SLAVIC_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = тенгрианскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } tengri_pagan = { is_name_randomized = yes } }
+		localisation_key = TENGRI_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = TENGRI_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = сахелианскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } west_african_pagan = { is_name_randomized = yes } }
+		localisation_key = WEST_AFRICAN_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = WEST_AFRICAN_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = зунскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zun_pagan = { is_name_randomized = yes } }
+		localisation_key = ZUN_PAGAN_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = ZUN_PAGAN_REFORMED_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = ацтекскоеязычество
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } aztec = { is_name_randomized = yes } }
+		localisation_key = AZTEC_REFORMED_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = AZTEC_REFORMED_FULLNAME_GENERIC
+	}
+}
+
+
+defined_text = {
+	name = _иудаизм
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = JEWISH_GROUP_FULLNAME_ALT
+	}
+	fallback_text = {
+		localisation_key = JEWISH_GROUP_FULLNAME_GENERIC
+	}
+}
+defined_text = {
+	name = католиче
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } catholic = { is_name_randomized = yes } }
+		localisation_key = CATHOLIC_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = CATHOLIC_ADJ
+	}
+}
+defined_text = {
+	name = катар
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } cathar = { is_name_randomized = yes } }
+		localisation_key = CATHAR_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = CATHAR_ADJ
+	}
+}
+defined_text = {
+	name = фратичеллиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } fraticelli = { is_name_randomized = yes } }
+		localisation_key = FRATICELLI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = FRATICELLI_ADJ
+	}
+}
+defined_text = {
+	name = вальденсиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } waldensian = { is_name_randomized = yes } }
+		localisation_key = WALDENSIAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = WALDENSIAN_ADJ
+	}
+}
+defined_text = {
+	name = лоллард
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } lollard = { is_name_randomized = yes } }
+		localisation_key = LOLLARD_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = LOLLARD_ADJ
+	}
+}
+defined_text = {
+	name = восточнохристиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } orthodox = { is_name_randomized = yes } }
+		localisation_key = ORTHODOX_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ORTHODOX_ADJ
+	}
+}
+defined_text = {
+	name = православн
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } orthodox = { is_name_randomized = yes } }
+		localisation_key = ORTHODOX_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = PRAVOSLAVN_ADJ
+	}
+}
+defined_text = {
+	name = миафизит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } miaphysite = { is_name_randomized = yes } }
+		localisation_key = MIAPHYSITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MIAPHYSITE_ADJ
+	}
+}
+defined_text = {
+	name = монофизит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } monophysite = { is_name_randomized = yes } }
+		localisation_key = MONOPHYSITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MONOPHYSITE_ADJ
+	}
+}
+defined_text = {
+	name = богомиль
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bogomilist = { is_name_randomized = yes } }
+		localisation_key = BOGOMILIST_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BOGOMILIST_ADJ
+	}
+}
+defined_text = {
+	name = монофелит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } monothelite = { is_name_randomized = yes } }
+		localisation_key = MONOTHELITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MONOTHELITE_ADJ
+	}
+}
+defined_text = {
+	name = иконоборче
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } iconoclast = { is_name_randomized = yes } }
+		localisation_key = ICONOCLAST_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ICONOCLAST_ADJ
+	}
+}
+defined_text = {
+	name = павликиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } paulician = { is_name_randomized = yes } }
+		localisation_key = PAULICIAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = PAULICIAN_ADJ
+	}
+}
+defined_text = {
+	name = несториан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } nestorian = { is_name_randomized = yes } }
+		localisation_key = NESTORIAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = NESTORIAN_ADJ
+	}
+}
+defined_text = {
+	name = мессалиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } messalian = { is_name_randomized = yes } }
+		localisation_key = MESSALIAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MESSALIAN_ADJ
+	}
+}
+defined_text = {
+	name = суннит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } sunni = { is_name_randomized = yes } }
+		localisation_key = SUNNI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = SUNNI_ADJ
+	}
+}
+defined_text = {
+	name = зикрий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zikri = { is_name_randomized = yes } }
+		localisation_key = ZIKRI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ZIKRI_ADJ
+	}
+}
+defined_text = {
+	name = езид
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } yazidi = { is_name_randomized = yes } }
+		localisation_key = YAZIDI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = YAZIDI_ADJ
+	}
+}
+defined_text = {
+	name = ибадит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } ibadi = { is_name_randomized = yes } }
+		localisation_key = IBADI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = IBADI_ADJ
+	}
+}
+defined_text = {
+	name = хариджит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } kharijite = { is_name_randomized = yes } }
+		localisation_key = KHARIJITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = KHARIJITE_ADJ
+	}
+}
+defined_text = {
+	name = шиит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } shiite = { is_name_randomized = yes } }
+		localisation_key = SHIITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = SHIITE_ADJ
+	}
+}
+defined_text = {
+	name = друз
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } druze = { is_name_randomized = yes } }
+		localisation_key = DRUZE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = DRUZE_ADJ
+	}
+}
+defined_text = {
+	name = хуруфий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hurufi = { is_name_randomized = yes } }
+		localisation_key = HURUFI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = HURUFI_ADJ
+	}
+}
+defined_text = {
+	name = языче
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } pagan = { is_name_randomized = yes } }
+		localisation_key = PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = ас
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = NORSE_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = NORSE_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = тенгриан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } tengri_pagan = { is_name_randomized = yes } }
+		localisation_key = TENGRI_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = TENGRI_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = ромуван
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } baltic_pagan = { is_name_randomized = yes } }
+		localisation_key = BALTIC_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BALTIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = суомен
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } finnish_pagan = { is_name_randomized = yes } }
+		localisation_key = FINNISH_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = FINNISH_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = ацтек
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } aztec = { is_name_randomized = yes } }
+		localisation_key = AZTEC_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = AZTEC_ADJ
+	}
+}
+defined_text = {
+	name = родовер
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } slavic_pagan = { is_name_randomized = yes } }
+		localisation_key = SLAVIC_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = SLAVIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = сахелиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } west_african_pagan = { is_name_randomized = yes } }
+		localisation_key = WEST_AFRICAN_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = WEST_AFRICAN_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = зун
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zun_pagan = { is_name_randomized = yes } }
+		localisation_key = ZUN_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ZUN_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = эллин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hellenic_pagan = { is_name_randomized = yes } }
+		localisation_key = HELLENIC_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = HELLENIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = зороастрий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zoroastrian = { is_name_randomized = yes } }
+		localisation_key = ZOROASTRIAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ZOROASTRIAN_ADJ
+	}
+}
+defined_text = {
+	name = маздакий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } mazdaki = { is_name_randomized = yes } }
+		localisation_key = MAZDAKI_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MAZDAKI_ADJ
+	}
+}
+defined_text = {
+	name = манихей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } manichean = { is_name_randomized = yes } }
+		localisation_key = MANICHEAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = MANICHEAN_ADJ
+	}
+}
+defined_text = {
+	name = согдомаздеист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } khurmazta = { is_name_randomized = yes } }
+		localisation_key = KHURMAZTA_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = KHURMAZTA_ADJ
+	}
+}
+defined_text = {
+	name = иудей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jewish = { is_name_randomized = yes } }
+		localisation_key = JEWISH_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = JEWISH_ADJ
+	}
+}
+defined_text = {
+	name = самаритян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } samaritan = { is_name_randomized = yes } }
+		localisation_key = SAMARITAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = SAMARITAN_ADJ
+	}
+}
+defined_text = {
+	name = караит
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } karaite = { is_name_randomized = yes } }
+		localisation_key = KARAITE_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = KARAITE_ADJ
+	}
+}
+defined_text = {
+	name = индуист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hindu = { is_name_randomized = yes } }
+		localisation_key = HINDU_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = HINDU_ADJ
+	}
+}
+defined_text = {
+	name = буддист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } buddhist = { is_name_randomized = yes } }
+		localisation_key = BUDDHIST_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BUDDHIST_ADJ
+	}
+}
+defined_text = {
+	name = джайнист
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } jain = { is_name_randomized = yes } }
+		localisation_key = JAIN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = JAIN_ADJ
+	}
+}
+defined_text = {
+	name = бон
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bon = { is_name_randomized = yes } }
+		localisation_key = BON_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BON_ADJ
+	}
+}
+defined_text = {
+	name = даос
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } taoist = { is_name_randomized = yes } }
+		localisation_key = TAOIST_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = TAOIST_ADJ
+	}
+}
+defined_text = {
+	name = ас
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } norse_pagan = { is_name_randomized = yes } }
+		localisation_key = NORSE_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = NORSE_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = тенгриан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } tengri_pagan = { is_name_randomized = yes } }
+		localisation_key = TENGRI_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = TENGRI_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = ромуван
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } baltic_pagan = { is_name_randomized = yes } }
+		localisation_key = BALTIC_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BALTIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = суомен
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } finnish_pagan = { is_name_randomized = yes } }
+		localisation_key = FINNISH_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = FINNISH_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = ацтек
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } aztec = { is_name_randomized = yes } }
+		localisation_key = AZTEC_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = AZTEC_ADJ
+	}
+}
+defined_text = {
+	name = родовер
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } slavic_pagan = { is_name_randomized = yes } }
+		localisation_key = SLAVIC_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = SLAVIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = сахелиан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } west_african_pagan = { is_name_randomized = yes } }
+		localisation_key = WEST_AFRICAN_R_PAGAN_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = WEST_AFRICAN_R_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = зун
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } zun_pagan = { is_name_randomized = yes } }
+		localisation_key = ZUN_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = ZUN_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = эллин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } hellenic_pagan = { is_name_randomized = yes } }
+		localisation_key = HELLENIC_PAGAN_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = HELLENIC_PAGAN_ADJ
+	}
+}
+defined_text = {
+	name = бон
+	text = {
+		trigger = { has_alternate_start_parameter = { key = religion_names value = random } bon = { is_name_randomized = yes } }
+		localisation_key = BON_R_ADJ_ALT
+	}
+	fallback_text = {
+		localisation_key = BON_ADJ
+	}
+}
+defined_text = {
+	name = _ацтек
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nahuatl = { has_flag = is_name_randomized_flag } }
+		localisation_key = ATSTEK_ALT_CUL_ADJ
+	}
+	fallback_text = {
+		localisation_key = ATSTEK_generic_CUL_ADJ
+	}
+}
+defined_text = {
+	name = _ацтеков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nahuatl = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_nahuatlGEN
+	}
+	fallback_text = {
+		localisation_key = plu_nahuatlGEN
+	}
+}
+defined_text = {
+	name = _медведей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ursine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_ursineGEN
+	}
+	fallback_text = {
+		localisation_key = plu_ursineGEN
+	}
+}
+defined_text = {
+	name = _лошадей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } equine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_equineGEN
+	}
+	fallback_text = {
+		localisation_key = plu_equineGEN
+	}
+}
+defined_text = {
+	name = _кошек
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } feline = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_felineGEN
+	}
+	fallback_text = {
+		localisation_key = plu_felineGEN
+	}
+}
+defined_text = {
+	name = _ханьцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } han = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_hanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_hanGEN
+	}
+}
+defined_text = {
+	name = _чжурчжэней
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } jurchen = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_jurchenGEN
+	}
+	fallback_text = {
+		localisation_key = plu_jurchenGEN
+	}
+}
+defined_text = {
+	name = _тангутов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } tangut = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_tangutGEN
+	}
+	fallback_text = {
+		localisation_key = plu_tangutGEN
+	}
+}
+defined_text = {
+	name = _тибетцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bodpa = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bodpaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bodpaGEN
+	}
+}
+defined_text = {
+	name = _непальцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nepali = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_nepaliGEN
+	}
+	fallback_text = {
+		localisation_key = plu_nepaliGEN
+	}
+}
+defined_text = {
+	name = _сирийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } assyrian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_assyrianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_assyrianGEN
+	}
+}
+defined_text = {
+	name = _супи
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } sumpa = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sumpaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sumpaGEN
+	}
+}
+defined_text = {
+	name = _шангшунгцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } zhangzhung = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_zhangzhungGEN
+	}
+	fallback_text = {
+		localisation_key = plu_zhangzhungGEN
+	}
+}
+defined_text = {
+	name = _саков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } saka = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sakaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sakaGEN
+	}
+}
+defined_text = {
+	name = _тохаров
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } tocharian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_tocharianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_tocharianGEN
+	}
+}
+defined_text = {
+	name = _уйгуров
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } uyghur = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_uyghurGEN
+	}
+	fallback_text = {
+		localisation_key = plu_uyghurGEN
+	}
+}
+defined_text = {
+	name = _киданей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } khitan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_khitanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_khitanGEN
+	}
+}
+defined_text = {
+	name = _согдийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } sogdian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sogdianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sogdianGEN
+	}
+}
+defined_text = {
+	name = _фризов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } frisian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_frisianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_frisianGEN
+	}
+}
+defined_text = {
+	name = _французов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } frankish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_frankishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_frankishGEN
+	}
+}
+defined_text = {
+	name = _франков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } old_frankish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_old_frankishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_old_frankishGEN
+	}
+}
+defined_text = {
+	name = _саксов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } old_saxon = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_old_saxonGEN
+	}
+	fallback_text = {
+		localisation_key = plu_old_saxonGEN
+	}
+}
+defined_text = {
+	name = _лангобардов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } lombard = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_lombardGEN
+	}
+	fallback_text = {
+		localisation_key = plu_lombardGEN
+	}
+}
+defined_text = {
+	name = _вестготов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } visigothic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_visigothicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_visigothicGEN
+	}
+}
+defined_text = {
+	name = _сомалийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } somali = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_somaliGEN
+	}
+	fallback_text = {
+		localisation_key = plu_somaliGEN
+	}
+}
+defined_text = {
+	name = _свевов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } suebi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_suebiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_suebiGEN
+	}
+}
+defined_text = {
+	name = _словен
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ilmenian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_ilmenianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_ilmenianGEN
+	}
+}
+defined_text = {
+	name = _северов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } severian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_severianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_severianGEN
+	}
+}
+defined_text = {
+	name = _волынян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } volhynian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_volhynianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_volhynianGEN
+	}
+}
+defined_text = {
+	name = _пиктов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } pictish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_pictishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_pictishGEN
+	}
+}
+defined_text = {
+	name = _нубийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nubian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_nubianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_nubianGEN
+	}
+}
+defined_text = {
+	name = _карлуков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } karluk = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_karlukGEN
+	}
+	fallback_text = {
+		localisation_key = plu_karlukGEN
+	}
+}
+defined_text = {
+	name = _киргизов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } kirghiz = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_kirghizGEN
+	}
+	fallback_text = {
+		localisation_key = plu_kirghizGEN
+	}
+}
+defined_text = {
+	name = _хантов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } khanty = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_khantyGEN
+	}
+	fallback_text = {
+		localisation_key = plu_khantyGEN
+	}
+}
+defined_text = {
+	name = _афганцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } afghan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_afghanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_afghanGEN
+	}
+}
+defined_text = {
+	name = _белуджи
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } baloch = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_balochGEN
+	}
+	fallback_text = {
+		localisation_key = plu_balochGEN
+	}
+}
+defined_text = {
+	name = _бенгальцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bengali = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bengaliGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bengaliGEN
+	}
+}
+defined_text = {
+	name = _хиндустанцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hindustani = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_hindustaniGEN
+	}
+	fallback_text = {
+		localisation_key = plu_hindustaniGEN
+	}
+}
+defined_text = {
+	name = _синдов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } sindhi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sindhiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sindhiGEN
+	}
+}
+defined_text = {
+	name = _маратхи
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } marathi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_marathiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_marathiGEN
+	}
+}
+defined_text = {
+	name = _сингалов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } sinhala = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sinhalaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sinhalaGEN
+	}
+}
+defined_text = {
+	name = _телугу
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } telugu = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_teluguGEN
+	}
+	fallback_text = {
+		localisation_key = plu_teluguGEN
+	}
+}
+defined_text = {
+	name = _каннада
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } kannada = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_kannadaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_kannadaGEN
+	}
+}
+defined_text = {
+	name = _тамилов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } tamil = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_tamilGEN
+	}
+	fallback_text = {
+		localisation_key = plu_tamilGEN
+	}
+}
+defined_text = {
+	name = _гуджаратцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } gujurati = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_gujuratiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_gujuratiGEN
+	}
+}
+defined_text = {
+	name = _пенджабцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } panjabi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_panjabiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_panjabiGEN
+	}
+}
+defined_text = {
+	name = _раджпутов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } rajput = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_rajputGEN
+	}
+	fallback_text = {
+		localisation_key = plu_rajputGEN
+	}
+}
+defined_text = {
+	name = _ория
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } oriya = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_oriyaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_oriyaGEN
+	}
+}
+defined_text = {
+	name = _ассамцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } assamese = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_assameseGEN
+	}
+	fallback_text = {
+		localisation_key = plu_assameseGEN
+	}
+}
+defined_text = {
+	name = _ашкенази
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ashkenazi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_ashkenaziGEN
+	}
+	fallback_text = {
+		localisation_key = plu_ashkenaziGEN
+	}
+}
+defined_text = {
+	name = _сефардов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } sephardi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_sephardiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_sephardiGEN
+	}
+}
+defined_text = {
+	name = _скандинавов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } norse = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_norseGEN
+	}
+	fallback_text = {
+		localisation_key = plu_norseGEN
+	}
+}
+defined_text = {
+	name = _аваров
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } avar = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_avarGEN
+	}
+	fallback_text = {
+		localisation_key = plu_avarGEN
+	}
+}
+defined_text = {
+	name = _ненцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } samoyed = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_samoyedGEN
+	}
+	fallback_text = {
+		localisation_key = plu_samoyedGEN
+	}
+}
+defined_text = {
+	name = _мордвинов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } mordvin = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_mordvinGEN
+	}
+	fallback_text = {
+		localisation_key = plu_mordvinGEN
+	}
+}
+defined_text = {
+	name = _хазар
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } khazar = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_khazarGEN
+	}
+	fallback_text = {
+		localisation_key = plu_khazarGEN
+	}
+}
+defined_text = {
+	name = _булгар
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bolghar = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bolgharGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bolgharGEN
+	}
+}
+defined_text = {
+	name = _римлян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } roman = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_romanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_romanGEN
+	}
+}
+defined_text = {
+	name = _берберов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } maghreb_arabic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_maghreb_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_maghreb_arabicGEN
+	}
+}
+defined_text = {
+	name = _манденов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } manden = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_mandenGEN
+	}
+	fallback_text = {
+		localisation_key = plu_mandenGEN
+	}
+}
+defined_text = {
+	name = _курдов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } kurdish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_kurdishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_kurdishGEN
+	}
+}
+defined_text = {
+	name = _валахов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } romanian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_romanianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_romanianGEN
+	}
+}
+defined_text = {
+	name = _поморян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } pommeranian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_pommeranianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_pommeranianGEN
+	}
+}
+defined_text = {
+	name = _саамов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } lappish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_lappishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_lappishGEN
+	}
+}
+defined_text = {
+	name = _шведов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } swedish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_swedishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_swedishGEN
+	}
+}
+defined_text = {
+	name = _норвежцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } norwegian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_norwegianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_norwegianGEN
+	}
+}
+defined_text = {
+	name = _данов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } danish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_danishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_danishGEN
+	}
+}
+defined_text = {
+	name = _германцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } german = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_germanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_germanGEN
+	}
+}
+defined_text = {
+	name = _англичан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } english = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_englishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_englishGEN
+	}
+}
+defined_text = {
+	name = _англосаксов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } saxon = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_saxonGEN
+	}
+	fallback_text = {
+		localisation_key = plu_saxonGEN
+	}
+}
+defined_text = {
+	name = _голландцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dutch = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_dutchGEN
+	}
+	fallback_text = {
+		localisation_key = plu_dutchGEN
+	}
+}
+defined_text = {
+	name = _норманнов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } norman = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_normanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_normanGEN
+	}
+}
+defined_text = {
+	name = _итальянцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } italian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_italianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_italianGEN
+	}
+}
+defined_text = {
+	name = _окситанцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } occitan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_occitanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_occitanGEN
+	}
+}
+defined_text = {
+	name = _басков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } basque = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_basqueGEN
+	}
+	fallback_text = {
+		localisation_key = plu_basqueGEN
+	}
+}
+defined_text = {
+	name = _кастильцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } castillan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_castillanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_castillanGEN
+	}
+}
+defined_text = {
+	name = _каталонцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } catalan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_catalanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_catalanGEN
+	}
+}
+defined_text = {
+	name = _португальцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } portuguese = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_portugueseGEN
+	}
+	fallback_text = {
+		localisation_key = plu_portugueseGEN
+	}
+}
+defined_text = {
+	name = _армян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } armenian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_armenianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_armenianGEN
+	}
+}
+defined_text = {
+	name = _греков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } greek = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_greekGEN
+	}
+	fallback_text = {
+		localisation_key = plu_greekGEN
+	}
+}
+defined_text = {
+	name = _аланов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } alan = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_alanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_alanGEN
+	}
+}
+defined_text = {
+	name = _грузинов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } georgian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_georgianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_georgianGEN
+	}
+}
+defined_text = {
+	name = _ирландцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } irish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_irishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_irishGEN
+	}
+}
+defined_text = {
+	name = _шотландцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } scottish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_scottishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_scottishGEN
+	}
+}
+defined_text = {
+	name = _валлийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } welsh = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_welshGEN
+	}
+	fallback_text = {
+		localisation_key = plu_welshGEN
+	}
+}
+defined_text = {
+	name = _бретонцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } breton = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bretonGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bretonGEN
+	}
+}
+defined_text = {
+	name = _финнов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } finnish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_finnishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_finnishGEN
+	}
+}
+defined_text = {
+	name = _эстов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ugricbaltic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_ugricbalticGEN
+	}
+	fallback_text = {
+		localisation_key = plu_ugricbalticGEN
+	}
+}
+defined_text = {
+	name = _коми
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } komi = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_komiGEN
+	}
+	fallback_text = {
+		localisation_key = plu_komiGEN
+	}
+}
+defined_text = {
+	name = _латгалов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } lettigallish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_lettigallishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_lettigallishGEN
+	}
+}
+defined_text = {
+	name = _литовцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } lithuanian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_lithuanianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_lithuanianGEN
+	}
+}
+defined_text = {
+	name = _пруссов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } prussian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_prussianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_prussianGEN
+	}
+}
+defined_text = {
+	name = _тюрков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } turkish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_turkishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_turkishGEN
+	}
+}
+defined_text = {
+	name = _монголов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } mongol = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_mongolGEN
+	}
+	fallback_text = {
+		localisation_key = plu_mongolGEN
+	}
+}
+defined_text = {
+	name = _кипчаков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } cuman = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_cumanGEN
+	}
+	fallback_text = {
+		localisation_key = plu_cumanGEN
+	}
+}
+defined_text = {
+	name = _печенегов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } pecheneg = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_pechenegGEN
+	}
+	fallback_text = {
+		localisation_key = plu_pechenegGEN
+	}
+}
+defined_text = {
+	name = _бедуинов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bedouin_arabic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bedouin_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bedouin_arabicGEN
+	}
+}
+defined_text = {
+	name = _левантийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } levantine_arabic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_levantine_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_levantine_arabicGEN
+	}
+}
+defined_text = {
+	name = _египтян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } egyptian_arabic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_egyptian_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_egyptian_arabicGEN
+	}
+}
+defined_text = {
+	name = _андалузов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } andalusian_arabic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_andalusian_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_andalusian_arabicGEN
+	}
+}
+defined_text = {
+	name = _русов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } russian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_russianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_russianGEN
+	}
+}
+defined_text = {
+	name = _чехов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bohemian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bohemianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bohemianGEN
+	}
+}
+defined_text = {
+	name = _поляков
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } polish = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_polishGEN
+	}
+	fallback_text = {
+		localisation_key = plu_polishGEN
+	}
+}
+defined_text = {
+	name = _хорватов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } croatian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_croatianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_croatianGEN
+	}
+}
+defined_text = {
+	name = _сербов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } serbian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_serbianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_serbianGEN
+	}
+}
+defined_text = {
+	name = _болгар
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bulgarian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bulgarianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bulgarianGEN
+	}
+}
+defined_text = {
+	name = _мадьяр
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hungarian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_hungarianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_hungarianGEN
+	}
+}
+defined_text = {
+	name = _персов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } persian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_persianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_persianGEN
+	}
+}
+defined_text = {
+	name = _эфиопов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ethiopian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_ethiopianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_ethiopianGEN
+	}
+}
+defined_text = {
+	name = _далматов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dalmatian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_dalmatianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_dalmatianGEN
+	}
+}
+defined_text = {
+	name = _утремеров
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } outremer = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_outremerGEN
+	}
+	fallback_text = {
+		localisation_key = plu_outremerGEN
+	}
+}
+defined_text = {
+	name = _арберийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } arberian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_arberianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_arberianGEN
+	}
+}
+defined_text = {
+	name = _боснийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } bosnian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_bosnianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_bosnianGEN
+	}
+}
+defined_text = {
+	name = _коптов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } coptic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_copticGEN
+	}
+	fallback_text = {
+		localisation_key = plu_copticGEN
+	}
+}
+defined_text = {
+	name = _готов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } crimean_gothic = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_crimean_gothicGEN
+	}
+	fallback_text = {
+		localisation_key = plu_crimean_gothicGEN
+	}
+}
+defined_text = {
+	name = _мещёрцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } meshchera = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_meshcheraGEN
+	}
+	fallback_text = {
+		localisation_key = plu_meshcheraGEN
+	}
+}
+defined_text = {
+	name = _хорутан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } carantanian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_carantanianGEN
+	}
+	fallback_text = {
+		localisation_key = plu_carantanianGEN
+	}
+}
+defined_text = {
+	name = _дагу
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } daju = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_dajuGEN
+	}
+	fallback_text = {
+		localisation_key = plu_dajuGEN
+	}
+}
+defined_text = {
+	name = _канури
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } kanuri = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_kanuriGEN
+	}
+	fallback_text = {
+		localisation_key = plu_kanuriGEN
+	}
+}
+defined_text = {
+	name = _хауса
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hausa = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_hausaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_hausaGEN
+	}
+}
+defined_text = {
+	name = _загава
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } zaghawa = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_zaghawaGEN
+	}
+	fallback_text = {
+		localisation_key = plu_zaghawaGEN
+	}
+}
+defined_text = {
+	name = _сонинке
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } soninke = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_soninkeGEN
+	}
+	fallback_text = {
+		localisation_key = plu_soninkeGEN
+	}
+}
+defined_text = {
+	name = _сонгайцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } songhay = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_songhayGEN
+	}
+	fallback_text = {
+		localisation_key = plu_songhayGEN
+	}
+}
+defined_text = {
+	name = _ежей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hedgehog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_hedgehog_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_hedgehog_cultureGEN
+	}
+}
+defined_text = {
+	name = _уток
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } duck_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_duck_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_duck_cultureGEN
+	}
+}
+defined_text = {
+	name = _собак
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_dog_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_dog_cultureGEN
+	}
+}
+defined_text = {
+	name = _слонов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } elephant_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_elephant_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_elephant_cultureGEN
+	}
+}
+defined_text = {
+	name = _панд
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } red_panda = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_panda_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_panda_cultureGEN
+	}
+}
+defined_text = {
+	name = _драконов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dragon_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_cul_plu_dragon_cultureGEN
+	}
+	fallback_text = {
+		localisation_key = plu_dragon_cultureGEN
+	}
+}
+defined_text = {
+	name = _лошадей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } equine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_horse_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_horse_groupGEN
+	}
+}
+defined_text = {
+	name = _кошек
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } feline = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_cat_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_cat_groupGEN
+	}
+}
+defined_text = {
+	name = _медведей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ursine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_bear_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_bear_groupGEN
+	}
+}
+defined_text = {
+	name = _ежей
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hedgehog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_hedgehog_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_hedgehog_groupGEN
+	}
+}
+defined_text = {
+	name = _уток
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } duck_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_duck_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_duck_groupGEN
+	}
+}
+defined_text = {
+	name = _собак
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_dog_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_dog_groupGEN
+	}
+}
+defined_text = {
+	name = _слонов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } elephant_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_elephant_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_elephant_groupGEN
+	}
+}
+defined_text = {
+	name = _драконов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } red_panda = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_panda_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_panda_groupGEN
+	}
+}
+defined_text = {
+	name = _панд_
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dragon_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_dragon_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_dragon_groupGEN
+	}
+}
+defined_text = {
+	name = _северныхгерманцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_north_germanicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_north_germanicGEN
+	}
+}
+defined_text = {
+	name = _центральныхгерманцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_central_germanicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_central_germanicGEN
+	}
+}
+defined_text = {
+	name = _западныхгерманцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_west_germanicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_west_germanicGEN
+	}
+}
+defined_text = {
+	name = _латинян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_latinGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_latinGEN
+	}
+}
+defined_text = {
+	name = _иберийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_iberianGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_iberianGEN
+	}
+}
+defined_text = {
+	name = _византийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_byzantineGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_byzantineGEN
+	}
+}
+defined_text = {
+	name = _кельтов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_celticGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_celticGEN
+	}
+}
+defined_text = {
+	name = _финно-угров
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_finno_ugricGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_finno_ugricGEN
+	}
+}
+defined_text = {
+	name = _балтов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_balticGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_balticGEN
+	}
+}
+defined_text = {
+	name = _алтайцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_altaicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_altaicGEN
+	}
+}
+defined_text = {
+	name = _арабов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_arabicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_arabicGEN
+	}
+}
+defined_text = {
+	name = _восточныхславян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_east_slavicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_east_slavicGEN
+	}
+}
+defined_text = {
+	name = _западныхславян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_west_slavicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_west_slavicGEN
+	}
+}
+defined_text = {
+	name = _южныхславян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_south_slavicGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_south_slavicGEN
+	}
+}
+defined_text = {
+	name = _мадьяр
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hungarian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_magyarGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_magyarGEN
+	}
+}
+defined_text = {
+	name = _иранцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_iranianGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_iranianGEN
+	}
+}
+defined_text = {
+	name = _восточныхафриканцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_east_africanGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_east_africanGEN
+	}
+}
+defined_text = {
+	name = _центральныхафриканцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_central_africanGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_central_africanGEN
+	}
+}
+defined_text = {
+	name = _западныхафриканцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_west_africanGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_west_africanGEN
+	}
+}
+defined_text = {
+	name = _мезоамериканцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nahuatl = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_mesoamericanGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_mesoamericanGEN
+	}
+}
+defined_text = {
+	name = _евреев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_israeliteGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_israeliteGEN
+	}
+}
+defined_text = {
+	name = _индоарийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_indo_aryan_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_indo_aryan_groupGEN
+	}
+}
+defined_text = {
+	name = _дравидийцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_dravidian_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_dravidian_groupGEN
+	}
+}
+defined_text = {
+	name = _тибето-бирманцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_plu_tibetan_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_tibetan_groupGEN
+	}
+}
+defined_text = {
+	name = _китайцев
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } han = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_plu_chinese_groupGEN
+	}
+	fallback_text = {
+		localisation_key = cgplu_chinese_groupGEN
+	}
+}
+defined_text = {
+	name = _панд
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } red_panda = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_panda_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_panda_group
+	}
+}
+defined_text = {
+	name = _лошадин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } equine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_horse_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_horse_group
+	}
+}
+defined_text = {
+	name = _кошкин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } feline = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_cat_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_cat_group
+	}
+}
+defined_text = {
+	name = _ошкуй
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } ursine = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_bear_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_bear_group
+	}
+}
+defined_text = {
+	name = _ежов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hedgehog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_hedgehog_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_hedgehog_group
+	}
+}
+defined_text = {
+	name = _утин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } duck_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_duck_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_duck_group
+	}
+}
+defined_text = {
+	name = _собак_
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dog_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_dog_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_dog_group
+	}
+}
+defined_text = {
+	name = _слонов
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } elephant_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_elephant_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_elephant_group
+	}
+}
+defined_text = {
+	name = _дракон
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } dragon_culture = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_dragon_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_dragon_group
+	}
+}
+defined_text = {
+	name = _северогерман
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_north_germanic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_north_germanic
+	}
+}
+defined_text = {
+	name = _центральногерман
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_central_germanic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_central_germanic
+	}
+}
+defined_text = {
+	name = _западногерман
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_west_germanic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_west_germanic
+	}
+}
+defined_text = {
+	name = _латин
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_latin
+	}
+	fallback_text = {
+		localisation_key = cgsadj_latin
+	}
+}
+defined_text = {
+	name = _иберий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_iberian
+	}
+	fallback_text = {
+		localisation_key = cgsadj_iberian
+	}
+}
+defined_text = {
+	name = _византий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_byzantine
+	}
+	fallback_text = {
+		localisation_key = cgsadj_byzantine
+	}
+}
+defined_text = {
+	name = _кельт
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_celtic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_celtic
+	}
+}
+defined_text = {
+	name = _финно-угор
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_finno_ugric
+	}
+	fallback_text = {
+		localisation_key = cgsadj_finno_ugric
+	}
+}
+defined_text = {
+	name = _балт
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_baltic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_baltic
+	}
+}
+defined_text = {
+	name = _алтай
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_altaic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_altaic
+	}
+}
+defined_text = {
+	name = _араб
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_arabic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_arabic
+	}
+}
+defined_text = {
+	name = _восточно-славян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_east_slavic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_east_slavic
+	}
+}
+defined_text = {
+	name = _западно-славян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_west_slavic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_west_slavic
+	}
+}
+defined_text = {
+	name = _южно-славян
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_south_slavic
+	}
+	fallback_text = {
+		localisation_key = cgsadj_south_slavic
+	}
+}
+defined_text = {
+	name = _мадьяр_
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } hungarian = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_magyar
+	}
+	fallback_text = {
+		localisation_key = cgsadj_magyar
+	}
+}
+defined_text = {
+	name = _иран
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_iranian
+	}
+	fallback_text = {
+		localisation_key = cgsadj_iranian
+	}
+}
+defined_text = {
+	name = _восточно-африкан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_east_african
+	}
+	fallback_text = {
+		localisation_key = cgsadj_east_african
+	}
+}
+defined_text = {
+	name = _центрально-африкан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_central_african
+	}
+	fallback_text = {
+		localisation_key = cgsadj_central_african
+	}
+}
+defined_text = {
+	name = _западно-африкан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_west_african
+	}
+	fallback_text = {
+		localisation_key = cgsadj_west_african
+	}
+}
+defined_text = {
+	name = _мезоамерикан
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } nahuatl = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_mesoamerican
+	}
+	fallback_text = {
+		localisation_key = cgsadj_mesoamerican
+	}
+}
+defined_text = {
+	name = _еврей_
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_israelite
+	}
+	fallback_text = {
+		localisation_key = cgsadj_israelite
+	}
+}
+defined_text = {
+	name = _индоарий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_indo_aryan_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_indo_aryan_group
+	}
+}
+defined_text = {
+	name = _дравидий
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_dravidian_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_dravidian_group
+	}
+}
+defined_text = {
+	name = _тибето-бирман
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } }
+		localisation_key = alt_culgroup_sadj_tibetan_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_tibetan_group
+	}
+}
+defined_text = {
+	name = _китай
+	text = {
+		trigger = { has_alternate_start_parameter = { key = culture_names value = random } han = { has_flag = is_name_randomized_flag } }
+		localisation_key = alt_culgroup_sadj_chinese_group
+	}
+	fallback_text = {
+		localisation_key = cgsadj_chinese_group
+	}
+}

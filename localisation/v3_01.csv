@@ -1,0 +1,238 @@
+#CODE;ENGLISH;x
+RESTART;Перезапустить;x
+TIME_REMAINING;Осталось времени;x
+TIME_LEFT_DAYS;$NUM_DAYS$ дней;x
+#PLAYABLE_IN;Играем в;x
+REQUIRES;Требует;x
+#UPCOMING_EVENT_TITLE;Впереди важное событие;x
+HIGHLIGHTED_RULER_SAVE_TOOLTIP;Это сохранение было создано с участием функции §YИнтересный правитель§!;x
+HIGHLIGHTED_RULER_TITLE;Интересный правитель;x
+HIGHLIGHTED_RULER_TITLE_TOOLTIP;Интересный правитель - это ограниченный по времени специально выбранный персонаж для игры;x
+HIGHLIGHTED_RULER_EVENT_EXPIRED;Время истекло!;x
+crown_unicorn_helmet;Сущность Единорога;x
+crown_unicorn_helmet_desc;Этот волшебный головной убор наделяет того, кто его носит, древней таинственной силой единорогов.;x
+EVTOPTDHF23200;Один из Близнецов или Посланник могут поселиться в этом храме.;x
+EVTOPTCHF23200_TT;Посвятить храм §Y[scoped_temple_barony.GetBaseName]§! одной из богинь процветания: §Y[GetHestiaVestaNameDAT]§!, §Y[GetDemetraCeresNameDAT]§! или §Y[GetAphroditeVenusNameDAT]§!.;x
+EVTOPTDHF23200_TT;Посвятить храм §Y[scoped_temple_barony.GetBaseName]§! одному из детей богини Лето: §YАполлону§! или §Y[GetArtemisDianaNameDAT]§!, или Божественному Посланнику - §Y[GetHermesMercuryNameDAT]§!.;x
+EVTDESCHF23203;Некоторые боги эллинов ассоциируются с процветанием. [GetDemetraCeresName] присматривает за урожаем, богиня [GetAphroditeVenusName] одаряет плодородием, а [GetHestiaVestaName], одна из самых почитаемых римских богинь, даёт благополучие семье и земле.;x
+EVTDESCHF23204;Аполлон занимает весьма почётное место в эллинской мифологии, связанное с разумом, искусством и медициной. Последователи [GetArtemisDianaNameGEN], его сестры-близнеца, предпочитают скромность и скрытность, их обряды связаны с ночью и природой. [GetHermesMercuryName], посланник богов, ассоциируется с дорогами, торговлей, а иногда - с трюками и воровством.;x
+succ_hre_elective_desc;Император и семь князей-выборщиков могут номинировать наследника из своего числа, любых законных детей, братьев и сестёр императора, а также де-юре вассала империи, в том случае, если он исповедует ту же религию, что и нынешний император. В случае, когда §Yисторический титул выборщика§! принадлежит иноверцу или не существует, другой де-юре вассал занимает его место. Если в империи §Yпапская инвеститура§! или §Yдогматическая§! религиозная доктрина, князи-епископы имеют куда больше влияния на выборы.[GetPrincelyElectorsList];x
+string_princely_elective_elector_list_desc;\n§Y[e_hre.GetName]§! имеет следующие §Yисторические титулы выборщиков§!:\nГрафства: §Y[hre_title_1_per.GetName]§!, §Y[hre_title_2_per.GetName]§! и §Y[hre_title_3_per.GetName]§!\nГерцогства: §Y[hre_title_4_per.GetName]§!, §Y[hre_title_5_per.GetName]§!, §Y[hre_title_6_per.GetName]§! и §Y[hre_title_7_per.GetName]§!;x
+GOD_TYPHON;Тифон;x
+GOD_DELFINE;Дельфина;x
+tooltip_feudal_elector_vote_commander_martial;[From.GetFirstName] - блестящий §Yполководец§!;x
+tooltip_feudal_elector_vote_councilor_diplomacy;[From.GetFirstName] - хороший оратор;x
+tooltip_feudal_elector_vote_councilor_intrigue;[From.GetFirstName] - хитрый политик с высоким навыком §Yинтриги§!;x
+count_hellenic_pagan;Комес;x
+count_hellenic_pagan_reformed;Комес;x
+count_female_hellenic_pagan;Комисса;x
+count_female_hellenic_pagan_reformed;Комисса;x
+baron_hellenic_pagan;Легат;x
+baron_hellenic_pagan_reformed;Легат;x
+baron_female_hellenic_pagan;Легата;x
+baron_female_hellenic_pagan_reformed;Легата;x
+barony_of_roman;Форпост;x
+italian_opinion;Отношение [_итальянцев];x
+BLOODLINE_EASIER_VOWS_TOOLTIP;[From.GetFirstName] и [Root.GetFirstName] являются родственниками и принадлежат к §Yродословной§!, поддерживаемой §Yпапством§!;x
+EVTTITLEHF24251;Bелик[Root.GetAyaIy] защитни[Root.GetTsaK] Церкви;x
+EVTDESCAHF24251;Святой Престол доверил императору римлян меч мирской власти, но может и забрать его.\nРастоптав достоинство своего священного долга, [defeated_emperor.GetTitledFirstName] навлек[defeated_emperor.GetNoneE] на себя справедливое возмездие Господа нашего. Как скромное орудие Его божественного гнева, я смог[Root.GetNoneE] привести свои войска к победе и покарать эт[defeated_emperor.GetUOgo] ерети[defeated_emperor.GetChkuKa], [defeated_emperor.GetHersHis] поражение вынудило признать меня как имперского викария Италии и отказаться от всех притязаний на полуостров, кроме его названия.\nВ качестве награды за мою преданность Святой Церкви, [scoped_pope.GetTitledFirstName] предложил[scoped_pope.GetEndA] объявить мою династию защитницей Святого Престола.;x
+EVTDESCBHF24251;Святой Престол доверил императору римлян меч мирской власти, но может и забрать его.\nРастоптав достоинство своего священного долга, [defeated_emperor.GetTitledFirstName] навлек[defeated_emperor.GetNoneE] на себя справедливое возмездие Господа нашего. Как скромное орудие Его божественного гнева, я смог[Root.GetNoneE] привести свои войска к победе и покарать эт[defeated_emperor.GetUOgo] ерети[defeated_emperor.GetChkuKa], положив конец [defeated_emperor.GetHersHis] предательству.\nВ качестве награды за мою преданность Святой Церкви, [scoped_pope.GetTitledFirstName] предложил[scoped_pope.GetEndA] объявить мою династию защитницей Святого Престола.;x
+EVTOPTAHF24251;Famuli vestrae pietatis.;x
+EVTOPTBHF24251;На то была воля Господа, я не заслужил[Root.GetEndA] таких почестей.;x
+EVTTITLEHF24252;Bane of the Empire;x
+EVTDESCAHF24253;Из-за упрямства мелких лордов Италии, мой конфликт со Святым Престолом пришёл к унизительному завершению.\n[From.PrimaryTitle.GetAdjective]ские войска разгромили мою армию, вынудив меня не только признать верховенство Церкви над мирской властью, но и официально согласиться с тем, что [From.GetFirstName] признан[From.GetEndA] имперским викарием Италии, и что я отказываюсь от всех своих притязаний на полуостров, кроме его названия.\nВ итоге [scoped_pope.GetTitledFirstName] восстановил[scoped_pope.GetEndA] власть Ватикана над Империей на многие поколения вперёд.;x
+EVTDESCBHF24253;Мой конфликт со Святым Престолом пришёл к унизительному завершению, во многом из-за того, что [From.GetTitle] [From.PrimaryTitle.GetAdjective]ск[From.GetAyaIy] сунул[From.GetEndA] нос не в своё дело.\n[From.GetHersHisCap] войска разгромили мою армию, вынудив меня заключить мир и признать подчинение авторитету Церкви.\nВ итоге [scoped_pope.GetTitledFirstName] восстановил[scoped_pope.GetEndA] власть Ватикана над Империей на многие поколения вперёд.;x
+EVTDESCAHF24252;[defeated_emperor.GetTitledFirstName] потерпел[defeated_emperor.GetEndA] унизительное поражение в войне против Святого престола, и по большей части благодаря тому, что [From.GetTitle] [From.PrimaryTitle.GetAdjective]ск[From.GetAyaIy] вовремя вмеша[From.GetLasLsya] в конфликт.\n[From.GetHersHisCap] армия разгромила войска [defeated_emperor.GetEmpressEmperorGEN], вынудив [defeated_emperor.GetHersHis] подписать мирное соглашение, которое устанавливает чёткое подчинение авторитету Церкви, а также аннулирует все [defeated_emperor.GetHersHis] притязания на итальянские земли.\nВ итоге [scoped_pope.GetTitledFirstName] восстановил[scoped_pope.GetEndA] власть Ватикана над Империей на многие поколения вперёд.;x
+EVTDESCBHF24252;[defeated_emperor.GetTitledFirstName] потерпел[defeated_emperor.GetEndA] унизительное поражение в войне против Святого престола, и по большей части благодаря тому, что [From.GetTitle] [From.PrimaryTitle.GetAdjective]ск[From.GetAyaIy] вовремя вмеша[From.GetLasLsya] в конфликт.\n[From.GetHersHisCap] армия разгромила войска [defeated_emperor.GetEmpressEmperorGEN], вынудив [defeated_emperor.GetHersHis] подписать мирное соглашение, которое устанавливает чёткое подчинение авторитету Церкви.\nВ итоге [scoped_pope.GetTitledFirstName] восстановил[scoped_pope.GetEndA] власть Ватикана над Империей на многие поколения вперёд.;x
+EVTOPTAHF24253;Я отомщу!;x
+EVTOPTAHF24252;Рано или поздно это должно было случиться...;x
+religion_head_opinion;Отношение главы церкви;x
+bloodline_effect_easy_vows;Легче вынудить родственников уйти в монастырь;x
+matilde_bloodline;Предок - [This.GetFirstName];x
+matilde_bloodline_desc;Защищая единство и авторитет Святого Престола от врагов, [This.GetTitledFirstName] навсегда связал[This.GetEndA] свою судьбу с Ватиканом.;x
+matilde_male_bloodline;Предок - [This.GetFirstName];x
+matilde_male_bloodline_desc;Защищая единство и авторитет Святого Престола от врагов, [This.GetTitledFirstName] навсегда связал[This.GetEndA] свою судьбу с Ватиканом.;x
+true_matilde_bloodline;Предок - [This.GetFirstName];x
+true_matilde_bloodline_desc;Защищая единство и авторитет Святого Престола от врагов, [This.GetTitledFirstName] навсегда связал[This.GetEndA] свою судьбу с Ватиканом.;x
+restored_primacy;Примат Папы Римского восстановлен;x
+VELKY_VOLHV;Великий волхв;x
+RETTYPE_CUL_HORSE;Лошадиная;x
+RETTYPE_CUL_CAT;Кошачья;x
+RETTYPE_CUL_BEAR;Медвежья;x
+RETTYPE_CUL_HEDGEHOG;Ежовая;x
+RETTYPE_CUL_DUCK;Утиная;x
+RETTYPE_CUL_DOG;Собачья;x
+RETTYPE_CUL_ELEPHANT;Слоновая;x
+RETTYPE_CUL_DRAGON;Драконья;x
+RETTYPE_CUL_OUTREMER;Утремерские рыцари;x
+ca_culture_animal_desc;Идиллическое собрание полей и лугов, идеально подходящих для любого вида животных!;x
+ca_culture_animal_1;Скотный двор;x
+ca_culture_animal_2;Скотный двор;x
+ca_culture_animal_3;Скотный двор;x
+ca_culture_animal_4;Скотный двор;x
+tb_culture_animal_1;Скотный двор;x
+tb_culture_animal_2;Скотный двор;x
+tb_culture_animal_3;Скотный двор;x
+tb_culture_animal_4;Скотный двор;x
+cat_group;Felidae;x #Кошачья;x
+nick_the_peacock;Павлин;x
+nick_the_ladder_legs;Длинноног[This.GetAyaIy];x
+setting_culture_animal_world;Зверомир;x
+setting_culture_animal_world_tooltip;Животные победили, человечество осталось лишь в памяти.;x
+setting_names_random_religion;Случайные названия религий;x
+setting_names_random_religion_tooltip;Названия религий генерируются случайным образом.;x
+setting_names_random_culture;Случайные названия культур;x
+setting_names_random_culture_tooltip;Названия культур генерируются случайным образом.;x
+RENAME_TITLE_SHORT_NAME_CHECKBOX;§YКраткое имя§!;x
+RENAME_TITLE_SHORT_NAME_CHECKBOX_DELAYED;Сделать так, чтобы название титула было кратким, без префикса ("королевство", "республика", "графство").;x
+GOV_MARRIAGE_IGNORE_RELIGION;Религиозные различия при заключении брака или наложничествах игнорируются.;x
+ADD_AGE_EFFECT_NEGATIVE;$CHARACTER|Y$ станет на $AGE|Y$ лет моложе;x
+ADD_AGE_EFFECT;$CHARACTER|Y$ станет на $AGE|Y$ старше;x
+SET_GENDER_EFFECT;$CHARACTER|Y$ станет $GENDER|Y$§Yого§! пола;x
+SET_HOLY_SITE_EFFECT;$HOLY_SITE|Y$ станет §Yсвященным местом§! религии $RELIGION|Y$§Y[__]§!;x #R_ISM
+REMOVE_HOLY_SITE_EFFECT;$HOLY_SITE|Y$ потеряет статус §Yсвященного места§! религии $RELIGION|Y$§Y[__]§!;x #R_ISM
+SET_HOLY_SITE_WITH_HERESIES_EFFECT;$HOLY_SITE|Y$ станет §Yсвященным местом§! религии $RELIGION|Y$§Y[__]§! и её ересей;x #R_ISM
+REMOVE_HOLY_SITE_WITH_HERESIES_EFFECT;$HOLY_SITE|Y$ потеряет статус §Yсвященного места§! религии $RELIGION|Y$§Y[__]§! и её ересей;x #R_ISM
+SUPPLY_LIMIT_TRIGGER;$FOR|Y$ имеет §Yлимит снабжения§! в округе $PROVINCE|Y$ $COMPARISON|$ $VALUE|$;x
+SUPPLY_LIMIT_LEADER_TRIGGER;$FOR|Y$ вместе с лидером своих войск, известным как $LEADER|Y$, имеет §Yлимит снабжения§! в округе $PROVINCE|Y$ $COMPARISON|$ $VALUE|$;x
+BROWSER_HOME;Вернуться к первой странице;x
+EVTDESCHF6;Я просну[Root.GetLasLsya] среди ночи от жуткого сквозняка. Жуткая фигура в тёмном балахоне стояла у моей постели, как застывшая статуя. Мрачным голосом она молвила, что звёзды уготовили мне особую судьбу!;x
+EVTOPTAHF6;Выслушать пророчество;x
+EVTTOOLTIPAHF6;Согласно пророчеству мне следует искать дальнейшие подсказки в горах.;x
+EVTOPTBHF6;Стража! Арестуйте нарушителя!;x
+EVTDESCHF7;Измождённ[Root.GetAyaYy] и окоченевш[Root.GetAyaYy] от холода, я наконец достиг[Root.GetNoneE] вершины горы. Пока мой разум переполняли сомнения в собственном здравомыслии из-за необоснованной веры в нелепые пророчества, яркий свет, озаривший небо, осветил край лесных зарослей у подножия горного хребта.;x
+EVTOPTAHF7;Я долж[Root.GetNaEn] отправиться туда.;x
+EVTTOOLTIPAHF7;Идти за светом, куда бы он вас не завёл.;x
+EVTOPTBHF7;Этот лес выглядит опасным.;x
+EVTTOOLTIPBHF7;Отправиться домой, чтобы собрать разведгруппу, прежде чем идти в лес.;x
+EVTDESCHF8;Слова пророчества никак не выходят из моей головы. Они преследуют меня по ночам, в моих снах. Мой разум отказывается забывать идеи о сказочных баснях, которые какой-то чокнутый в капюшоне наговорил мне ночью в м[Root.GetMyChamberPREP] несколько дней назад.;x
+EVTOPTAHF8;Я так с ума сойду - мне нужно это проверить!;x
+EVTTOOLTIPAHF8;Отправиться в горы, о которых говорилось в пророчестве.;x
+EVTOPTBHF8;Мой ум отравлен - это наверняка какая-то ловушка!;x
+EVTTOOLTIPBHF8;В настоящий момент вы не доверяете даже своим инстинктам.;x
+EVTTITLEHF9;Пророчество;x
+EVTDESCHF9;Весь день продираясь через заросли, к ночи я достиг[Root.GetNoneE] поляны, залитой лунным светом. Впереди был небольшой пруд, сияющий подобно серебряному блюду. Возле него лежало прекрасное тело, застывшее во времени, кровь струилась из раны в его животе. Это был величественный единорог, мирно спящий в вечности - завораживающее зрелище. Не было никакой возможности спасти жизнь этого чудесного существа, и я встал[Root.GetEndA] перед трудным выбором. Я не могу унести его отсюда целиком.;x
+EVTOPTAHF9;Похоронить его;x
+EVTOPTBHF9;Испить его крови;x
+EVTOPTCHF9;Взять его сверкающую гриву;x
+EVTOPTDHF9;Спилить его рог и забрать с собой;x
+EVTDESCHF10;Спустя неделю мы пришли в лес. Дни напролёт мы искали то самое место, но всё тщетно. Несмотря на тот факт, что экспедиция провалилась, было совершенно ясно - этот свет в небе что-то значил.;x
+EVTOPTAHF10;Это был знак! Моё правление освящено небесами!;x
+EVTDESCHF11;Прошли недели с того события на поляне, и теперь я уже сомневаюсь, было ли это наяву или всего лишь сном, но с тех пор я чувствую что-то необъяснимое. Оно словно светится внутри меня и отражается в глазах других.;x
+EVTOPTAHF11;Они теперь уважают меня гораздо больше.;x
+unicorns_blessing;Благословение Единорога;x
+unicorns_blessing_desc;Говорят, вокруг эт[GetOyOgo] [GetAgedPersonGEN] есть какой-то сияющий ореол.;x
+sparkling_mane;Сверкающая грива;x
+sparkling_mane_desc;Поистине волшебное украшение, которое придётся весьма кстати для любого праздника.;x
+argent_blood_vessels;Серебрянная кровь;x
+argent_blood_vessels_desc;Кровь эт[GetOyOgo] [GetAgedPersonGEN] имеет необычный металлический оттенок.;x
+cautious_decision_making;Осторожность;x
+cautious_decision_making_desc;Порой недоверие даже к собственной интуиции может оказаться отличной стратегией выживания.;x
+d_thessalia;Фессалия;x
+d_thessalia_adj;Фессалий;x
+d_peloponnese;Пелопоннес;x
+d_peloponnese_adj;Пелопоннес;x
+RETTYPE_CUL_ARBERIAN;Арберийские стратеодиты;x
+ca_culture_arberian_1;Конюшни стратеодитов;x
+ca_culture_arberian_2;Конюшни стратеодитов;x
+ca_culture_arberian_3;Конюшни стратеодитов;x
+ca_culture_arberian_4;Конюшни стратеодитов;x
+tb_culture_arberian_1;Конюшни стратеодитов;x
+tb_culture_arberian_2;Конюшни стратеодитов;x
+tb_culture_arberian_3;Конюшни стратеодитов;x
+tb_culture_arberian_4;Конюшни стратеодитов;x
+ca_culture_arberian_1_desc;Эти конюшни позволяют правителю содержать стратеодитов, элитную арберийскую лёгкую конницу.;x
+dynamic_crusader_state;Создать государство крестоносцев;x
+dynamic_crusader_state_desc;Мы полностью оккупировали §Yгерцогство [Root.GetBaseName]§!.\n\nТеперь мы можем поселить в этих землях своих людей и основать там §Yгосударство крестоносцев§!.;x
+dynamic_crusader_state_tooltip;контролируете все де-юре округа герцогства §Y[Root.GetFullBaseName]§!;x
+dynamic_crusader_state_tooltip_2;все обладатели титулов этих округов участвует в крестовом походе;x
+dynamic_crusader_state_tooltip_3;по суше или по морю оно граничит с землями христиан (не еретиков);;x
+dynamic_crusader_state_tooltip_4;у вас есть §Yбенефициар крестового похода§! или кто-нибудь, кто потенциально мог бы им быть;x
+dynamic_crusader_state_tooltip_5;§Y[Root.GetFullBaseName]§! не является де-юре частью главной цели крестового похода;x
+dynamic_crusader_state_tooltip_6;ни один из титулов де-юре округов этой земли не принадлежит цели крестового похода или его вассалам;x
+hfp_abdicate_crusader_state_tooltip;§Y[Root.GetTitledName]§! отречётся от всех своих титулов, чтобы осесть на земле, известной как §Y[duchy_region.GetBaseName]§!;x
+EVTOPTC_HFP_42100;Я отрекусь от титула. Отныне [duchy_region.GetBaseName] - мой новый дом.;x
+EVTTITLE_HFP_42101;[From.GetLordLadyEngCap]-Крестоносец [duchy_region.GetAdjective]ск[From.GetAyaIy];x
+EVTDESC_HFP_42101;Крестоносцы захватили область [duchy_region.GetBaseName] и поселились там. Крестовый поход на [crusade_title.GetAdjective]ские земли всё ещё продолжается, но [duchy_region.GetBaseName] уже де-факто контролирует [From.GetTitledName].\nВоинов вдохновила [From.GetHersHis] самоотверженность, ведь [From.GetSheHe] отрек[From.GetLasSya] от всех своих титулов, только чтобы закрепиться в [duchy_region.GetAdjective]ских землях и продолжить борьбу с иноверцами. [crusade_target_ruler.GetReligionPersons] будут разбиты. Теперь это лишь вопрос времени.;x
+EVTOPTC_HFP_42101;Мне будет [From.GetHersHis] не хватать...;x
+player_character_dynamic_crusader_state_2_TT;Вы будете играть как §Y[From.GetTitledName]§! - контроль над персонажем §Y[Root.GetTitledName]§! будет потерян;x
+bloodline_effect_crusade_lord;§YГосударства крестоносцев§! обходятся §Gдешевле§!;x
+String_get_root_relation;[This.GetRootRelation];x
+String_title_rank;[This.GetTitle];x
+String_mild_insult;[This.GetEnemySoldierDesc]ое животное;x
+EVTDESCHFP21002_A;[sway_target.GetTitledFirstName] закры[sway_target.GetLasLsya] в [sway_target.Location.County.GetAdjective]ском [sway_target.GetCapitalBuildingPREP] от внешнего мира, как и весь [sway_target.GetHersHis] двор, по-видимому из-за эпидемии. Совет сообщил мне, что в настоящий момент нет возможности организовать встречу.;x
+EVTDESCHFP21002_B;Я изолировал[Root.GetEndA] себя и свой двор от внешнего мира. [sway_target.GetTitledFirstName] теперь для меня вне досягаемости. Надо отменить встречи. Пока что нет смысла продолжать налаживать наши отношения.;x
+EVTDESCHFP21002_A_B;[sway_target.GetTitledFirstName] и я, мы об[sway_target.GetRootEndEA] закрылись от внешнего мира в своих резиденциях, скрываясь от эпидемии, а значит пока не можем продолжать налаживать наши отношения, я распоряжусь, чтобы отменили все встречи.;x
+tooltip_stop_swaying;Прекратить §Yналаживание отношений§! с [sway_target.GetAgedPersonINS], известн[sway_target.GetOyYm] как §Y[sway_target.GetTitledFirstName]§!;x
+EVTOPTAHFP21002;Если бы у нас были почтовые голуби...;x
+EVTDESC_RIP_12007_sway_version;Может [target_courtier.GetBestName] и не сам[target_courtier.GetAyaYy] привлекательн[target_courtier.GetAyaYy] [target_courtier.GetAgedPersonM] из тех, кого я видел[Root.GetEndA], но время идёт, а мне нужно как-то налаживать с н[target_courtier.GetEyIm] отношения. Возможно, провести время с н[target_courtier.GetEyIm] - неплохая идея?;x
+EVTDESC_RIP_12009_sway_version;[target_courtier.GetBestName] последовал[target_courtier.GetEndA] за мной в м[Root.GetMyChamberACC], когда я сделал[Root.GetEndA] [target_courtier.GetHerHim] непристойное предложение, и это стоило того.\nКогда сегодня утром [target_courtier.GetSheHe] выходил[target_courtier.GetEndA] из м[Root.GetMyChamberACC], у меня было стойкое ощущение, что это не в последний раз.;x
+INTERACTION_CANNOT_INVITE_CONSORT;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! НЕ является наложни[Recipient.GetTseyKom].;x
+EVTOPTB_HFP_42210;Нечестивцы должны умереть, но библиотеки хранят ценные знания.;x
+opinion_duel_decline_cooldown_tt;Убедитесь, что в последнее время НЕ было отказов от поединка (Истекает [This.has_recently_declined_duel_cooldown.GetExpiryDate]);x
+axe_of_perkunas_desc;Этот каменный топор сильно напоминает описанный в мифах топор самого Перкунаса. Хотя он и не очень полезен в бою, держа его в руках, Вы будете чувствовать себя увереннее в принятии военных решений и авторитетнее в глазах окружающих...;x
+EVTOPT_TEMPLE_BACK_TO_SELECTION;Хотя, если подумать...;x
+EVTOPT_TEMPLE_BACK_TO_SELECTION_TT;Рассмотреть предыдущие варианты.;x
+EVTDESC_HF_41425_A;Повсюду толпились люди. Казалось, они прибыли сюда из разныз уголков мира. Не знал[Root.GetEndA], что [pilgrimage_destination.province_saint.GetFirstNameWithNick] был[pilgrimage_destination.province_saint.GetEndA] настолько извест[pilgrimage_destination.province_saint.GetNaEn]. Пришлось нелегко, но я выстоял[Root.GetEndA] очередь и добра[Root.GetLasLsya] до могилы. Аура святости этого места озарила меня.;x
+EVTDESC_HF_41425_B;Кажется, я видел[Root.GetEndA] других паломников помимо меня, но все они выглядели как местные. Я подош[Root.GetLaYol] к могиле и посмотрел[Root.GetEndA] на статую свят[pilgrimage_destination.province_saint.GetOyOgo], а также на камень, рассказывающий о [pilgrimage_destination.province_saint.GetHersHis] жизни. Это было долгое путешествие, и вот наконец я могу лицезреть священное место, где покоится сам[pilgrimage_destination.province_saint.GetEndA] [pilgrimage_destination.province_saint.GetFirstNameWithNick].;x
+EVTDESC_HF_41425_C;Место погребения было совершенно безлюдным, ни одной живой души. Пришлось походить вокруг, прежде чем мне удалось найти могилу. Я сел[Root.GetEndA] рядом и начал[Root.GetEndA] молиться [Root.GetReligionHighGodDAT]. В этот момент, готов[Root.GetEndA] поклясться, я почувствовал[Root.GetEndA], что сам[pilgrimage_destination.province_saint.GetEndA] [pilgrimage_destination.province_saint.GetFirstNameWithNick] здесь рядом, молится вместе со мной.;x
+gain_berserker_tt;§Y[This.GetTitledFirstName]§! получит черту §Yберсерк§!, которая даёт:\nВоенный навык: §G+4§!\nДипломатия: §R-2§!\nЛичные боевые навыки: §G+25§!\nМнение обладателей этой черты: §G+10§!\n\n[GetBerserkerDecisionExtras]\n;x
+String_some_change_tt;Это действие повлияет на вашу личность:\n[GetBerserkerDecisionTraitChanges]\n;x
+String_gain_wroth_aggressive_leader_lose_defender;§Y[This.GetTitledFirstName]§! получит черты §Yгневн[This.GetAyaYy]§! и §Yагрессивный командир§!, но потеряет черту §Yкомандир обороны§!\n;x
+String_lose_patient_defender_gain_aggressive_leader;§Y[This.GetTitledFirstName]§! лишится черт §Yтерпелив[This.GetAyaYy]§! и §Yкомандир обороны§!, но получит черту §Yагрессивный командир§!\n;x
+String_lose_patient_lose_defensive_leader_gain_aggressive_leader;§Y[This.GetTitledFirstName]§! лишится черт §Yтерпелив[This.GetAyaYy]§! и §Yкомандир обороны§!, но получит черту §Yагрессивный командир§!\n;x
+String_lose_patient_gain_aggressive_leader;§Y[This.GetTitledFirstName]§! лишится черты §Yтерпелив[This.GetAyaYy]§!, но получит черту §Yагрессивный командир§!\n;x
+String_gain_aggressive_leader;§Y[This.GetTitledFirstName]§! получит черту §Yагрессивный командир§!\n;x
+String_gain_wroth;§Y[This.GetTitledFirstName]§! получит черту §Yгневн[This.GetAyaYy]§!\n;x
+String_lose_patient;§Y[This.GetTitledFirstName]§! лишится черты §Yтерпелив[This.GetAyaYy]§!\n;x
+String_gain_wroth_and_aggressive_leader;§Y[This.GetTitledFirstName]§! получит черты §Yгневн[This.GetAyaYy]§! и §Yагрессивный командир§!\n;x
+String_gain_aggressive_leader_lose_defender;§Y[This.GetTitledFirstName]§! получит черту §Yагрессивный командир§!, но потеряет черту §Yкомандир обороны§!\n;x
+secret_religious_society_taoist_rank_1_female;Верная;x #Faithful
+EVTOPTB_MNM_6922;[From.GetHersHisCap] влиятельность послужит моим целям.;x
+MNM.70013.d;Мой [From.GetJobTitle] наш[From.GetLaYol] [found_commander.GetAgedPersonACC] с хорошими военными навыками, [found_commander.GetHersHis] зовут [found_commander.GetFirstName], и [found_commander.GetSheHe] хочет быть моим полководцем!;x
+IS_NOT_BLOODLINE_ACTIVE_TRIGGER;Родословная $BLOODLINE|Y$ НЕ активная для персонажа, известного как $ACTOR|Y$;x
+IS_BLOODLINE_ACTIVE_TRIGGER;Родословная $BLOODLINE|Y$ активная для персонажа, известного как $ACTOR|Y$;x
+EVTDESC_TOG_3101_A;[From.GetFirstName], велик[From.GetAyaIy] греческ[From.GetAyaIy] [From.GetTsarineTsar], страшится за жизни своих подданных. Зная о нашем военном мастерстве, [From.GetSheHe] решил[From.GetEndA] созвать нас в свою гвардию, целиком состоящую из Северных воинов.\nТе, кто будут хорошо служить [From.GetHerHim] в Миклагарде, будут щедро вознаграждены, и уже сейчас множество наших молодцев, стремясь к богатству и приключениям, уплыли в Грецию.;x
+EVTDESC_TOG_3101_B;[From.GetFirstName], велик[From.GetAyaIy] греческ[From.GetAyaIy] [From.GetTsarineTsar], страшится за жизни своих подданных. Зная о нашем военном мастерстве, [From.GetSheHe] решил[From.GetEndA] созвать нас в свою гвардию, целиком состоящую из Северных воинов.\nТе, кто будут хорошо служить [From.GetHerHim] в Миклагарде, будут щедро вознаграждены, и уже сейчас множество наших юношей и девушек, стремясь к богатству и приключениям, уплыли в Грецию.;x
+EVTDESC_TOG_3101_C;[From.GetFirstName], велик[From.GetAyaIy] греческ[From.GetAyaIy] [From.GetTsarineTsar], страшится за жизни своих подданных. Зная о нашем военном мастерстве, [From.GetSheHe] решил[From.GetEndA] созвать нас в свою гвардию, целиком состоящую из Северных воинов.\nТе, кто будут хорошо служить [From.GetHerHim] в Миклагарде, будут щедро вознаграждены, и уже сейчас множество наших девущек, стремясь к богатству и приключениям, уплыли в Грецию.;x
+CAPTAIN_FEMALE;Леди-Командующая;x
+EVTDESC_TOG_3110;Ваш[my_child.GetEndA] [my_child.GetSonDaughter], [my_child.GetTitledFirstName], решил[my_child.GetEndA] попытать счастья в Варяжской гвардии в Миклагарде! Хотя [my_child.GetSheHe], несомненно получит богатство и боевой опыт на службе [greek_king_or_queen.GetTsarineTsarGEN] греческ[greek_king_or_queen.GetOyOgo], [my_child.GetHerHim] придется столкнуться с множеством опасностей, которые могут стоить [my_child.GetHerHim] жизни.;x
+EVTOPTB_TOG_3110;Езжай в Миклагард, чтобы я горди[Root.GetLasLsya] тобой, [my_child.GetSonDaughter] м[my_child.GetOyaOy].;x
+EVTDESC_TOG_3112;Старый седовласый воин вернулся из Греции с посланием. Хотя Ваш[From.GetEndA] [From.GetSonDaughter] покинул[From.GetEndA] Варяжскую гвардию, [From.GetSheHe] решил[From.GetEndA] остаться в Миклагарде со сво[From.GetEyImOpp] греческ[From.GetOyImOpp] [From.GetHusbandWifeOppINS]. Вероятно Вы никогда больше не увидитесь с н[From.GetEyIm]...;x
+EVTOPTA_TOG_3112;М[From.GetOyaOy] [From.GetLadLass]...;x
+EVTDESC_TOG_3113;После служения в Варяжской гвардии, [From.GetTitledFirstName] [From.GetHasMarried] на местн[From.GetOyOmOpp] [From.GetManWomanOpp]е и оста[From.GetLasLsya] жить в Константинополе, вместо того чтобы вернуться в свои варварские пустоши. [From.GetSheHeCap] дал[From.GetEndA] клятву и дальше служить Вам.;x
+EVTDESC_TOG_3115;Воин со шрамами и в страной броне приблизился к Вашему трону, и прежде чем кто-нибудь смог его остановить, расправился с Вашей стражей, его движения подобны ветру. Другие стражники поспешили вперед, но Вы остановили их. [From.GetTitledFirstName], Ваш[From.GetEndA] [From.GetSonDaughter] наконец-то верну[From.GetLasLsya] из Греции!;x
+EVTDESC_TOG_3117;Ваш[From.GetEndA] [From.GetSonDaughter], [From.GetTitledFirstName], наконец закончил[From.GetEndA] свою службу в Варяжской гвардии и верну[From.GetLasLsya] домой! Хотя [From.GetSheHe] сильно изменился... и что это за странный вид любви, популярный в Греции, о котором [From.GetSheHe] постояно говорит?;x
+EVTOPTA_TOG_3117;Не важно, я рад[Root.GetEndA], что ты верну[From.GetLasLsya] домой!;x
+EVTDESC_TOG_3119;Хрупк[From.GetAyaIy] [From.GetAgedPerson] в мантии, доставлен[From.GetEndA] в Ваш тронный зал. Стражники говорят, что [From.GetSheHe] прибыл[From.GetEndA] на корабле из Миклагарда. Эт[From.GetEtaEtot] [From.GetAgedPerson] повторял[From.GetEndA] Ваше имя снова и снова, и поэтому [From.GetHersHis] доставили к Вам. К Вашему ужасу, Вы узнали [From.GetHersHis], это [From.GetTitledFirstName]!;x
+EVTDESC_TOG_3121;[From.GetTitledFirstName] верну[From.GetLasLsya] домой после успешной карьеры в Варяжской гвардии! [From.GetSheHeCap] участвовал[From.GetEndA] во многих битвах, и научи[From.GetLasLsya] военному искусству у греков и их врагов из Серкланда.;x
+EVTDESC_TOG_3123;[From.GetTitledFirstName] верну[From.GetLasLsya] со своей службы грекам в Варяжской гвардии, но отказывается говорить о своих подвигах. Вы знаете, что [From.GetSheHe] победил[From.GetEndA] во многих битвах, а участвовал[From.GetEndA] в ещё большем количестве, но вместо того, чтобы упиваться победой, [From.GetFirstName] страдает от ночных кошмаров, и вздрагивает от любого шороха.;x
+EVTDESC_TOG_3125;[From.GetTitledFirstName] прибыл[From.GetEndA] из Миклагарда после службы в Варяжской гвардии, но не од[From.GetNaIn]. В Греции [From.GetSheHe] наш[From.GetLaYol] себе [From.GetHusbandWifeOppACC]. [From.GetSheHeCapOpp] не знаком[From.GetEndAOpp] с нашими обычаями и языком, а климат заставит [From.GetHersHisOpp] пожалеть о своем выборе, но [From.GetSheHeOpp] попытается сделать свой новый дом лучше.;x
+EVTDESC_TOG_3129;[From.GetTitledFirstName] верну[From.GetLasLsya] из Миклагарда после службы в Варяжской гвардии изменивш[From.GetEyIm]ся. [From.GetSheHeCap] стал[From.GetEndA] мудрее, увереннее в своих силах и осведомлённее в военном деле. Видимо служба у греков пошла [From.GetHerHim] на пользу.;x
+EVTDESC_TOG_3131;Несколько варяжских гвардейцев вернулись домой после службы царю греческому, и они принесли ужасные новости. Ваш[From.GetEndA] [From.GetSonDaughter], [From.GetTitledFirstName], пал[From.GetEndA] во время кампании в Серкланде. Они утверждают, что [From.GetSheHe] сража[From.GetLasLsya] как [From.GetLionessLion], окруженн[From.GetOyYm] горой трупов.;x
+EVTOPTA_TOG_3131;Это была славная смерть...;x
+EVTDESC_TOG_3133;[From.GetTitledFirstName] наконец-то верну[From.GetLasLsya] из Греции, на корабле полностью забитым военными трофеями! Видимо, велик[greek_king_or_queen.GetAyaIy] [greek_king_or_queen.GetTsarineTsar] греков щедр[greek_king_or_queen.GetEndA] к тем кто верно [greek_king_or_queen.GetHerHim] служит, [greek_king_or_queen.GetSheHe] одарил[greek_king_or_queen.GetEndA] [From.GetHersHis] золотом со всех концов империи и Серкланда. Ваш[From.GetEndA] [From.GetSonDaughter] хочет поделиться золотом с Вами, сво[Root.GetEyIm] любящ[Root.GetEyIm] [Root.GetMotherFatherINS].;x
+EVTDESC_TOG_3134;Узнав о смерти Ваше[From.GetYGo] [From.GetRootRelationGEN], Вы оставили свою службу в Варяжской гвардии и отправились из Миклагарда на корабле полным трофеев. Это было долгое и опасное путешествие назад, но вот Вы ступили на землю, Вашу по праву рождения. Трон Ваш.;x
+EVTDESC_TOG_3127;После многих лет в Греции, [From.GetTitledFirstName] закончил[From.GetEndA] свою службу в Варяжской гвардии и верну[From.GetLasLsya] домой. Однако, Ваш[From.GetEndA] [From.GetSonDaughter] сильно измени[From.GetLasLsya]. Старые боги больше не интересны [From.GetHerHim], [From.GetSheHe] говорит только о христианстве и ужасах, которые ожидают тех кто откажется поверить...;x
+EVTDESC_HF_12201_A;Я броси[Root.GetLasLsya] вперёд, перепрыгнув через зверя, лежащего на земле. М[other_combatant.GetOyaOy] противни[other_combatant.GetTsaK] издал[other_combatant.GetEndA] протяжный стон, предыдущий бой явно измотал [other_combatant.GetHersHis].\n— Хочешь перевести дыхание? —  ухмыльнувшись сказал[Root.GetEndA] я, поднимая св[Root.GetMyDuelWeaponACC], но вдруг услышал[Root.GetEndA] неистовый рёв позади себя. Я оберну[Root.GetLasLsya] и оказа[Root.GetLasLsya] лицом к лицу с огромным свирепым [target_ruler.Capital.GetRegionalBigAnimalINS]...;x
+PREPARE_INVASION_INTERACTION_0;Как [Actor.GetRelAdj]ск[Actor.GetAyaIy] язычни[Actor.GetTsaK], вы можете объявить о подготовке к вторжению в §Y[Recipient.PrimaryTitle.GetAdjective]ские§! земли. У вас будет 2 года на то, чтобы начать войну, во время которых многие разбойники и авантюристы будут стягиваться под ваши знамёна.;x
+suspect_foul_play_tt;Вы подозреваете грязную игру...;x
+definitely_foul_play_tt;Есть те, кто утверждают, что здесь определённо имеет место грязная игра...;x
+String_vigorously;воодушевлённо;x
+EVTDESC_HFP_11011_B_2;— [GetRootFromInsult]! — крикнул [enemy_commander.GetCultureAdj]ий командир, выражение [enemy_commander.GetHersHis] лица больше походило на оскал дикого зверя чем [enemy_commander.GetAgedPersonGEN].\nОт неожиданности я застыл[Root.GetEndA] на месте, вынужденн[Root.GetAyaYy] наблюдать, как [enemy_commander.GetSheHe] вознает свой меч в м[This.GetMyBodyPartInjuredACC].;x
+string_trying_not_to_cry;я на земле и с трудом сдерживаю слёзы...;x
+String_girl;девочка;x
+String_boy;мальчик;x
+string_hunting_with_their_dog;Охотится со своей собакой как ;x
+string_taking_advice_from_their_cat;Советуется со своей кошкой как ;x
+string_riding_a_horse;Скачет верхом на своём коне как ;x
+string_keeping_a_pet_owl;Заботится о ручной сове как ;x
+string_taming_an_eagle;Приручает орла как ;x
+string_rp_gardener;Ухаживает за садом как ;x
+string_refusing_to_die;Отказывается умирать как ;x
+string_dueling_for_their_life;Сражается за свою жизнь как ;x
+string_provoking_enemies;Провоцирует своего врага как ;x
+ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT_SETUP;Просьба о войне по претензии;x
+ASK_TO_DECLARE_WAR_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! объявил[Actor.GetEndA] войну ($CB$), §Y[Recipient.GetBestName]§! попросил[Recipient.GetEndA] [Actor.GetHersHis] об этом.;x
+EVTDESC_HF_12006;История моих битв известна многим, но есть те, кто мог бы узнать больше, перенимая мой опыт.\n— Это как в тот раз, когда ты снес[Root.GetNoneE] кому-то башку в бою? — как-то раз сказал[fellow_member.GetEndA] [fellow_member.GetTitledFirstName] в ответ на мою идею.\n— Обожаю твои байки, как и весь твой двор! — продолжил[fellow_member.GetEndA] [fellow_member.GetSheHe].\nДумаю, это неплохо поднимает боевой дух перед путешествием в [target_title.GetAdjective]ские земли.;x
+hidden_commander_bonus;Поководец;x

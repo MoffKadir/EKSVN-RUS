@@ -1,0 +1,120 @@
+e_aldmeri;Альдмерский Доминион;;;;;;;;;;;;;x
+e_aldmeri_adj;Альдмерск;;;;;;;;;;;;;x
+e_argonia;Великая Аргония;;;;;;;;;;;;;x
+e_argonia_adj;Аргонианск;;;;;;;;;;;;;x
+e_breton;Бретонская Империя;;;;;;;;;;;;;x
+e_breton_adj;Бретонск;;;;;;;;;;;;;x
+e_cult_azura;Культ Азуры;;;;;;;;;;;;;x
+e_cult_azura_adj;Азурск;;;;;;;;;;;;;x
+e_cult_boethiah;Культ Боэтии;;;;;;;;;;;;;x
+e_cult_boethiah_adj;Боэтийск;;;;;;;;;;;;;x
+e_cult_clavicus;Культ Клавикуса Вайла;;;;;;;;;;;;;x
+e_cult_clavicus_adj;Клавикуса Вайлск;;;;;;;;;;;;;x
+e_cult_hermaeus;Культ Хермеуса Моры;;;;;;;;;;;;;x
+e_cult_hermaeus_adj;Хермеуса Морск;;;;;;;;;;;;;x
+e_cult_hircine;Культ Хирсина;;;;;;;;;;;;;x
+e_cult_hircine_adj;Хирсинск;;;;;;;;;;;;;x
+e_cult_jyggalag;Культ Джиггалага;;;;;;;;;;;;;x
+e_cult_jyggalag_adj;Джиггалагск;;;;;;;;;;;;;x
+e_cult_malacath;Культ Малаката;;;;;;;;;;;;;x
+e_cult_malacath_adj;Малакатск;;;;;;;;;;;;;x
+e_cult_mehrunes;Культ Мерунеса Дагона;;;;;;;;;;;;;x
+e_cult_mehrunes_adj;Мерунеса Дагонск;;;;;;;;;;;;;x
+e_cult_mephala;Культ Мефалы;;;;;;;;;;;;;x
+e_cult_mephala_adj;Мефалск;;;;;;;;;;;;;x
+e_cult_meridia;Культ Меридии;;;;;;;;;;;;;x
+e_cult_meridia_adj;Меридийск;;;;;;;;;;;;;x
+e_cult_molag;Культ Молаг Бала;;;;;;;;;;;;;x
+e_cult_molag_adj;Молаг Балск;;;;;;;;;;;;;x
+e_cult_namira;Культ Намиры;;;;;;;;;;;;;x
+e_cult_namira_adj;Намирск;;;;;;;;;;;;;x
+e_cult_nocturnal;Культ Ноктюрнал;;;;;;;;;;;;;x
+e_cult_nocturnal_adj;Ноктюрналск;;;;;;;;;;;;;x
+e_cult_peryite;Культ Периайта;;;;;;;;;;;;;x
+e_cult_peryite_adj;Периайтск;;;;;;;;;;;;;x
+e_cult_sanguine;Культ Сангвина;;;;;;;;;;;;;x
+e_cult_sanguine_adj;Сангвинск;;;;;;;;;;;;;x
+e_cult_sheogorath;Культ Шеогората;;;;;;;;;;;;;x
+e_cult_sheogorath_adj;Шеогоратск;;;;;;;;;;;;;x
+e_cult_vaermina;Культ Вермины;;;;;;;;;;;;;x
+e_cult_vaermina_adj;Верминск;;;;;;;;;;;;;x
+e_fane_almalexia;Великий Храм Альмалексии;;;;;;;;;;;;;x
+e_fane_almalexia_adj;Альмалексийск;;;;;;;;;;;;;x
+e_fane_sothasil;Внутреннее святилище Сота Сила;;;;;;;;;;;;;x
+e_fane_sothasil_adj;Сота Силск;;;;;;;;;;;;;x
+e_fane_vivec;Высокий Собор Вивека;;;;;;;;;;;;;x
+e_fane_vivec_adj;Вивекск;;;;;;;;;;;;;x
+e_horde_azura;Великое войско Азуры;;;;;;;;;;;;;x
+e_horde_azura_adj;Азурск;;;;;;;;;;;;;x
+e_horde_boethiah;Великое войско Боэтии;;;;;;;;;;;;;x
+e_horde_boethiah_adj;Боэтийск;;;;;;;;;;;;;x
+e_horde_clavicus;Великое войско Клавикуса Вайла;;;;;;;;;;;;;x
+e_horde_clavicus_adj;Вайлск;;;;;;;;;;;;;x
+e_horde_hermaeus;Великое войско Хермеуса Моры;;;;;;;;;;;;;x
+e_horde_hermaeus_adj;Морск;;;;;;;;;;;;;x
+e_horde_hircine;Великое войско Хирсина;;;;;;;;;;;;;x
+e_horde_hircine_adj;Хирсинск;;;;;;;;;;;;;x
+e_horde_malacath;Великое войско Малаката;;;;;;;;;;;;;x
+e_horde_malacath_adj;Малакатск;;;;;;;;;;;;;x
+e_horde_mehrunes;Великое войско Мерунеса Дагона;;;;;;;;;;;;;x
+e_horde_mehrunes_adj;Дагонск;;;;;;;;;;;;;x
+e_horde_mephala;Великое войско Мефалы;;;;;;;;;;;;;x
+e_horde_mephala_adj;Мефалск;;;;;;;;;;;;;x
+e_horde_meridia;Великое войско Меридии;;;;;;;;;;;;;x
+e_horde_meridia_adj;Меридийск;;;;;;;;;;;;;x
+e_horde_molag;Великое войско Молага Бала;;;;;;;;;;;;;x
+e_horde_molag_adj;Балск;;;;;;;;;;;;;x
+e_horde_namira;Великое войско Намиры;;;;;;;;;;;;;x
+e_horde_namira_adj;Намирск;;;;;;;;;;;;;x
+e_horde_nocturnal;Великое войско Ноктюрнал;;;;;;;;;;;;;x
+e_horde_nocturnal_adj;Ноктюрналск;;;;;;;;;;;;;x
+e_horde_peryite;Великое войско Периайта;;;;;;;;;;;;;x
+e_horde_peryite_adj;Периайтск;;;;;;;;;;;;;x
+e_horde_sanguine;Великое войско Сангвина;;;;;;;;;;;;;x
+e_horde_sanguine_adj;Сангвинск;;;;;;;;;;;;;x
+e_horde_sheogorath;Великое войско Шеогората;;;;;;;;;;;;;x
+e_horde_sheogorath_adj;Шеогоратск;;;;;;;;;;;;;x
+e_horde_vaermina;Великое войско Вермины;;;;;;;;;;;;;x
+e_horde_vaermina_adj;Верминск;;;;;;;;;;;;;x
+e_cyrodiil;Сиродильская Империя;;;;;;;;;;;;;x
+e_cyrodiil_adj;Сиродильск;;;;;;;;;;;;;x
+e_daggerfall;Ковенант Даггерфолла;;;;;;;;;;;;;x
+e_daggerfall_adj;Ковенантск;;;;;;;;;;;;;x
+e_dami;Дами;;;;;;;;;;;;;x
+e_dami_adj;Даминск;;;;;;;;;;;;;x
+e_dunmer;Империя Велоти;;;;;;;;;;;;;x
+e_dunmer_adj;Велотианск;;;;;;;;;;;;;x
+e_ebonheart;Эбонхартский Пакт;;;;;;;;;;;;;x
+e_ebonheart_adj;Пактск;;;;;;;;;;;;;x
+e_elsweyr;Империя Двух Лун;;;;;;;;;;;;;x
+e_elsweyr_adj;Двух-лунск;;;;;;;;;;;;;x
+e_maormer;Маормерская Гегемония;;;;;;;;;;;;;x
+e_maormer_adj;Маормерск;;;;;;;;;;;;;x
+e_nordic;Нордская Империя;;;;;;;;;;;;;x
+e_nordic_adj;Нордск;;;;;;;;;;;;;x
+e_potentate;Имперский Потентат;;;;;;;;;;;;;x
+e_potentate_adj;Потентатск;;;;;;;;;;;;;x
+e_tamriel;Тамриэль;;;;;;;;;;;;;x
+e_tamriel_adj;Имперск;;;;;;;;;;;;;x
+e_tangmo;Квинг-Мо;;;;;;;;;;;;;x
+e_tangmo_adj;Квинг-Мо;;;;;;;;;;;;;x
+e_tsaesci;Цакара;;;;;;;;;;;;;x
+e_tsaesci_adj;Цакарск;;;;;;;;;;;;;x
+e_yokuda;Йокуданская Империя;;;;;;;;;;;;;x
+e_yokuda_adj;Йокуданск;;;;;;;;;;;;;x
+e_kamal;Камаль;;;;;;;;;;;;;x
+e_kamal_adj;Камальск;;;;;;;;;;;;;x
+e_kapotun;Ка По'Тун;;;;;;;;;;;;;x
+e_kapotun_adj;Ка По'Тунск;;;;;;;;;;;;;x
+e_nightcourt;Взиро;;;;;;;;;;;;;x
+e_nightcourt_adj;Взиро;;;;;;;;;;;;;x
+e_daedric;Империя Даэдра;;;;;;;;;;;;;x
+e_soul_cairn;Каирн Душ;;;;;;;;;;;;;x
+e_soul_cairn_adj;Каирнск;;;;;;;;;;;;;x
+e_undead_army_adj;Смерть;;;;;;;;;;;;;x
+e_akaviri;Таэру;;;;;;;;;;;;;x
+e_akaviri_adj;Акавири;;;;;;;;;;;;;x
+e_thras_embassy;Трассианское посольство;;;;;;;;;;;;;x
+e_thras_embassy_adj;Трассианская;;;;;;;;;;;;;x
+e_thereach;Великий Предел;;;;;;;;;;;;;x
+e_thereach_adj;Пределск;;;;;;;;;;;;;x

@@ -1,0 +1,8 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_messagesettings_listbutton_3"
+		texturefile = "gfx\\interface\\messagesettings_listbutton_3.dds"
+		noOfFrames = 2
+	}
+}

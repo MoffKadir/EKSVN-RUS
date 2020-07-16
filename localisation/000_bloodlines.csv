@@ -1,0 +1,232 @@
+### Historical bloodlines
+bloodline_companions;Родословная 500 Соратников;;;;;;;;;;;;;
+bloodline_companions_desc;"500 Соратников были воинами Первой Эры, приплывшими из замерзшего континента Атмора, дабы кроваво отомстить Фалмерам Скайрима за ""Ночь Слёз""";;;;;;;;;;;;;x
+bloodline_veloth;Родословная Пророка Велота;;;;;;;;;;;;;x
+bloodline_veloth_desc;Велот "Пилигрим" известен как лидер кимеров-даэдропоклонников, которые покинули Алинор, поселившись в Ресдайне, позже ставшем известным как Морровинд.;;;;;;;;;;;;;x
+bloodline_nerevar;Родословная Хортатора Неревара;;;;;;;;;;;;;x
+bloodline_nerevar_desc;Неревар "Капитан" получил титул Хортатор, став военачальником всех данмеров, после того, как он отразил вторжение Нордской империи. Он загадочным образом погиб в конце Войны первого Совета.;;;;;;;;;;;;;x
+bloodline_ysgramor;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;
+bloodline_ysgramor_desc;Предвестник 500 Соратников, Исграмор уничтожил местное фалмерское население и основал Королевство Скайрим, став его первым Королём.;;;;;;;;;;;;;x
+bloodline_alessia;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;
+bloodline_alessia_desc;Алессия была священным лидером восстания рабов, которое свергло местных айлейдских правителей и в конечном итоге сделало её первой императрицей Сиродила;;;;;;;;;;;;;x
+bloodline_direnni;Родословная Клана Диренни;;;;;;;;;;;;;x
+bloodline_direnni_desc;Диренни - легендарный клан альтмеров, который правил большей частью Хай Рока в течение Первой Эры, одержав победу над Алессианским Орденом.;;;;;;;;;;;;;x
+bloodline_eplear;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_eplear_desc;Эплир стал первым королём в Тамриэле, зафиксированным в исторических источниках, после того, как он объединил сотни босмерских племён и сформировал первую объединенную политическую идентичность Валенвуда;;;;;;;;;;;;;x
+bloodline_faolan;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_faolan_desc;Красный Орел, или Фаолан на языке Предела, был древним королём, который сплотил свой народ и заставил отступить армии Сиродила в Первую Эру.;;;;;;;;;;;;;x
+FAOLAN_REBORN_APPEARED;Восстановил наследие Фаолана;;;;;;;;;;;;;x
+bloodline_frandar;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_frandar_desc;Франдар Хандинг был известным Ансеем, который был предводителем в Войне Певцов против правителей Йокуды, что в конечном итоге привело к созданию первых редгардских колоний в Хаммерфелле;;;;;;;;;;;;;x
+bloodline_hidellith;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_hidellith_desc;Правитель Алинора во Второй Эре. Он считался прямым потомком Божеств, сотворивших Нирна, и его правление запомнилось как долгое и великое.;;;;;;;;;;;;;x
+bloodline_olo;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_olo_desc;Бенду Оло был великим Героем Коловианцев, который повёл Флот Всех Флагов против Слоадов, напустивших на Тамриэль великую болезнь.;;;;;;;;;;;;;x
+bloodline_reman;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_reman_desc;Легендарный Реман I смог объединить Сиродил после падения Алессианского Ордена и основал Вторую Сиродильскую Империю.;;;;;;;;;;;;;x
+bloodline_rislav;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_rislav_desc;Рислав был великим Коловианцем, который повёл объединенную армию Кватча и Скинграда против Алессианского Ордена, одержав, казалось бы, невозможную победу.;;;;;;;;;;;;;x
+bloodline_sul;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_sul_desc;Аландро Сул был спутником Неревара и сражался с героем в Битве при Красной горе, где он ослеп и отправился жить с эшлендерами.;;;;;;;;;;;;;x
+bloodline_varen;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_varen_desc;Варен был гордым сыном Королла до того, как стал Императором  Сиродильской Империи, когда он сверг Леовика, последнего из, так называемых, Императоров Длинного Дома.;;;;;;;;;;;;;x
+bloodline_tiber;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_tiber_desc;Мифического происхождения Тайбер Септим был провозшлаен Драконорожденным, стал первым Императором Империи Тамриэль и вознесся к Богам как Девятое Божество.;;;;;;;;;;;;;x
+bloodline_orgnum;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_orgnum_desc;Оргнум 'Король - Волшебник', правил Пиандонеей как персонифицированное божество на протяжении тысячелетий после своего неудачного восстания против Альдмерских правителей, которые сослали его на остров туманов.;;;;;;;;;;;;;x
+bloodline_gardner;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_gardner_desc;Семейство торговцев, Гарднеры, как правило считаются династией 'основательницей' Королевства Вэйрест.;;;;;;;;;;;;;x
+bloodline_tharn;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_tharn_desc;Дом Тарн - древняя дворянская семья. Они владели поместьями в Нибенийском бассейне с ранних лет Первой Эры и лояльно служили нескольким Императорам.;;;;;;;;;;;;;x
+bloodline_arlihamera;Родословная[This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_arlihamera_desc;Арлихамера, дочь выдающихся Венценосцев, была одной из двух жён Верховного Короля Хаммерфелла Ар-Арзала, безжалостного генерела, который, как известно, поддерживал отношения с убийцами.;;;;;;;;;;;;;x
+bloodline_phyllocid;Родословная Филлоцидов;;;;;;;;;;;;;x
+bloodline_phyllocid_desc;Филлоциды, одна из самых благородных династий Хаммерфелла, были Верховными Королями во Второй Эре, укрепляя свой трон женитьбами на враждующих фракциях.;;;;;;;;;;;;;x
+bloodline_ansei;Родословная Ансеев [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_ansei_desc;Ансеи, или Певцы Меча, обладают способностью проявлять меч из самих недр собсвтенной души, известный как Шехай, и присутствуют в истории Хаммерфелла на протяжении всего его существования.;;;;;;;;;;;;;x
+bloodline_hallin;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_hallin_desc;Герой Ансей Первой Эры, возродивший учение Франдара Хандинга, чтобы победить орду гигантских гоблинов, которые ворвались в Хаммерфелл сквозь щель в пространстве-времени.;;;;;;;;;;;;;x
+bloodline_leki;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_leki_desc;Опытный воин Ансей, преданная ее бретонскими союзниками в великой войне против Орсиниума, она лично убила короля Джоила из Даггерфолла, чтобы совершить акт мести.;;;;;;;;;;;;;x
+bloodline_daguer;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_daguer_desc;Тагор основал Даггерфолл, как ведущее королевство после победы над армией из Гленпойта. После них Даггерфолл стал оплотом против потенциальный угрозы Орсиниума.;;;;;;;;;;;;;x
+bloodline_keirgo;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_keirgo_desc;Правитель миллитаризованной Анеквины, Кейрго стал сооснователем Эльсвейра, женившись на Эшите из Пеллитина.;;;;;;;;;;;;;x
+bloodline_eshita;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_eshita_desc;Правитель космополитического Пеллетина, Эшита стала сооснователем Эльсвейра, выйдя замуж за Кейрго из Анеквины.;;;;;;;;;;;;;x
+bloodline_darloc;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_darloc_desc;Король Анеквины в Первую Эру, Дарлок покорил большую часть северного Эльсвейра и северо-западного Валенвуда, а также основал несколько монастырей.;;;;;;;;;;;;;x
+bloodline_keshu;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_keshu_desc;Кешу была знаменитым героем Второго Акавирского Вторжения и и Войны Трех Знамен. В конце концов она основала движение по развитию Сахслиловского общества.;;;;;;;;;;;;;x
+bloodline_bramman;Родословная Красного Браммана;;;;;;;;;;;;;x
+bloodline_bramman_desc;Красный Брамман был печально известным пиратом из Чернотопья, который получил известность из-за своего пиратства против Алессианской Империи в Топальском Заливе.;;;;;;;;;;;;;x
+bloodline_skjoralmor;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_skjoralmor_desc;Скьоралмор - традиционный и древний клан Нордов. Основатели Фолкрита, с помощью Коловии они успешно защитили свои владения как от Орков, так и от Ричменов.;;;;;;;;;;;;;x
+bloodline_tasus;Родословная Бравиллиуса;;;;;;;;;;;;;x
+bloodline_tasus_desc;"Тео ""Бравиллиус"" Тасус был легендарным нибенийским центурионом Алессианской Империи, который завоевал важный оплот айлейдов и и отстроил на его месте Бравил.";;;;;;;;;;;;;x
+bloodline_durcorach;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_durcorach_desc;Дуркорах 'Черный Селезень' со своей объединенной армией Ричменов, сумел быстро завоевать Сиродил и короноваться, как первый Император династии Длинного Дома.;;;;;;;;;;;;;x
+bloodline_dynar;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_dynar_desc;Последний Король Айлейдов, он не только пережил первую резню айлейдов, но сумел героически возглавить армии и вытеснить Алессианцев из Хай Рока. ;;;;;;;;;;;;;x
+bloodline_rilisar;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_rilisar_desc;Одна из древнейших династий Тамриэля, Рилисар, унаследовала Фёстхолд непосредственно от Торинаана, который считаелся первым алдьмером, ступившим на Алинор.;;;;;;;;;;;;;x
+bloodline_imbel;Родословная Имбела;;;;;;;;;;;;;x
+bloodline_imbel_desc;Древняя бретонская династия консервативных мелких дворян, более известная своими вампирическими корнями и склонностью к интригам и уловкам как к средству решения любого спора.;;;;;;;;;;;;;x
+bloodline_onida;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_onida_desc;Родившийся в качестве наследника средней дочери на хаотическом западе Акавира, Онида вылепила Горлинга, чтобы стать царством, способным соответствовать могуществу Горкоты.;;;;;;;;;;;;;x
+bloodline_tanis;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_tanis_desc;Танис родился самым младшим ребенком в среднем доме. Мало кто мог предположить, что этот ребенок, предназначенный для безвестности, продолжит объединять Горлинга и Горкоту.;;;;;;;;;;;;;x
+bloodline_hisashi;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_hisashi_desc;Хисаси командовал последним оплотом Акавири на своих исконных землях. Мастер партизанской войны, он отбрасывал все попытки вторжения в Бао Унг обратно в море.;;;;;;;;;;;;;x
+bloodline_lyra;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_lyra_desc;Лира была первой акавирской королевой Риммена. Благодаря сотрудничеству с Гривой Эльсвейра она спасла своих людей от истребления Императорами Сосилдора.;;;;;;;;;;;;;x
+bloodline_yach;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_yach_desc;Рожденный правителями Гукуна и Бейдао, Юч почти преуспел в объединении тигров Акавира под империей Ка По 'Тун.;;;;;;;;;;;;;x
+bloodline_tamoga;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_tamoga_desc;Умелый дипломат, Тамога успешно объединил множество царств Тан Мо в королевство Ланг Дин, чтобы выдержать атаки Камала на юг.;;;;;;;;;;;;;x
+bloodline_uruku;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_uruku_desc;Умелый полководец из дворянской семьи, Уруку нашел гораздо больше волнений, ведущих экспедиции в земли Камала, чем ожидание в очереди на трон.;;;;;;;;;;;;;x
+bloodline_fardash;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_fardash_desc;Фардаш был камальским волшебником, который объединил большую часть царства Карабозут. Обученный некромант, его царство сняло стигму с Зимнего Ветра.;;;;;;;;;;;;;x
+bloodline_adasoom;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_adasoom_desc;Военачальник, чьи способности соответствовали только их амбициям, Ада'Сум объединил Камала и возглавил их вторжение в Тамриэль.;;;;;;;;;;;;;x
+bloodline_irmaku;Кровь [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_irmaku_desc;Происходя от выживших после вторжения Ады'Сума, Ирмаку превзошла своих предков и сумела собрать империю в Тамриэле.;;;;;;;;;;;;;x
+bloodline_ros;Родословная Роса Полувеликана;;;;;;;;;;;;;x
+bloodline_ros_desc;Атморец, который считается сыном великанши и великого воина. После полугода приключений он вывел экспедицию из Атморы и обнаружил архипелаг, измученный гоблинами, который в последующие времена должен был называться Роскрея.;;;;;;;;;;;;;x
+bloodline_yashnag;Родословная Яшнага;;;;;;;;;;;;;x
+bloodline_yashnag_desc;Великий Вождь, который после разрушеня Орсиниума в начале второй эры привел свое племя в земли Фолкрита. Там он основал Королевство и принялся грабить окружающие земли. В конце концов он был побежден, а его племя рассеялось.;;;;;;;;;;;;;x
+bloodline_bloodtusk;Родословная Дикого Кабана;;;;;;;;;;;;;x
+bloodline_bloodtusk_desc;Балот Кровавый Клык - культовый Герой Орков первой эпохи. Лидер наемного отряда, известного как Дикие Сыновья. Погиб 1Е950 в поединке с Гайденом Синдзи, но также убил своего противника. Оба были похороненны в одной гробнице.;;;;;;;;;;;;;x
+bloodline_turog;Родословная Турога Великого;;;;;;;;;;;;;x
+bloodline_turog_desc;Основатель и первый король Орсиниума. Под его правлением Орсинум превратился из нескольких грязных хижин в великое Королевство, способное сравниться, а во многих случаях даже превзойти окружающие королевства по силе.;;;;;;;;;;;;;x
+### Earned bloodlines
+# 9th Divine
+bloodline_divine;Родословная [This.GetFirstNameWithNick];;;;;;;;;;;;;x
+bloodline_divine_desc;Священная родословная первого Императора Тамриэля, который вознесся, дабы стать Девятым Божеством.;;;;;;;;;;;;;x
+# The Godslayer
+bloodline_godslayer;Родословная [This.GetFirstName], Убийцы богов;;;;;;;;;;;;;x
+bloodline_godslayer_desc;[This.GetFirstName] сразился с Королем-Чародеем Пиандонеи - самопровозглашенным богом и сокрушил его.;;;;;;;;;;;;;x
+# Ald-Cyrod
+bloodline_ayleid_cyrod;Родословная [This.GetFirstName], Восстановителя;;;;;;;;;;;;;x
+bloodline_ayleid_cyrod_desc;Спустя сотни лет после того, как айлейды потеряли большую часть своей власти в Сиродииле, [This.GetFirstName] вернул провинцию под контроль айлейдов и восстановил Альд-Сирод.;;;;;;;;;;;;;x
+# Falmereth
+bloodline_falmer_skyrim;Родословная [This.GetFirstName], Восстановителя;;;;;;;;;;;;;x
+bloodline_falmer_skyrim_desc;Спустя тысячи лет после того, как фалмеры уступили Скайрим нордам и подверглись порче двемеров, [This.GetFirstName] вернул земли Скайрима под контроль фалмеров, переименовав их в Фалмерет.;;;;;;;;;;;;;x
+# Dwemereth
+bloodline_dwemer_morrowind;Родословная [This.GetFirstName], Восстановителя;;;;;;;;;;;;;x
+bloodline_dwemer_morrowind_desc;[This.GetFirstName], предводитель давно потерянных двемеров, вернул Морровинд и провозгласил восстановление Двемерета.;;;;;;;;;;;;;x
+# Reformed Imperial Commune
+bloodline_imperial_commune_reformer;Родословная [This.GetFirstName], Реформатора;;;;;;;;;;;;;x
+bloodline_imperial_commune_reformer_desc;[This.GetFirstName] принес мир, свободу, справедливость и безопасность в реформированную Имперскую коммуну.;;;;;;;;;;;;;x
+## Three Alliances War
+# Emeric
+bloodline_emeric_alliance_war_winner;Родословная [This.GetFirstName], Победителя Войны Трех Альянсов;;;;;;;;;;;;;x
+bloodline_emeric_alliance_war_winner_desc;Император [This.GetFirstName] победил в войне Трех Альянсов, возглавив поход Альянса бретонцев, редгардов и орсимеров на Сиродиил, чтобы претендовать на Империю.;;;;;;;;;;;;;x
+# Jorunn
+bloodline_jorunn_alliance_war_winner;Родословная [This.GetFirstName], Победителя Войны Трех Альянсов;;;;;;;;;;;;;x
+bloodline_jorunn_alliance_war_winner_desc;Верховный король [This.GetFirstName] объединил данмеров, нордов и аргониан после вторжения Камаль. После триумфа в Войне Трех Альянсов он уничтожил Империю в Сиродииле.;;;;;;;;;;;;;x
+# Ayrenn
+bloodline_ayrenn_alliance_war_winner;Родословная [This.GetFirstName], Победительницы Войны Трех Альянсов;;;;;;;;;;;;;x
+bloodline_ayrenn_alliance_war_winner_desc;[This.GetFirstNameWithNick], коронованная Орлиным Примархом Альдмерского Доминиона альтмерами, босмерами и каджитами, восстановила былую славу альтмеров в Войне Трех Альянсов.;;;;;;;;;;;;;x
+## World Saver
+# Azura
+bloodline_world_saver_azura;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_azura_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Азуры в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Boethiah
+bloodline_world_saver_boethiah;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_boethiah_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Боэтии в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Clavicus
+bloodline_world_saver_clavicus;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_clavicus_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Клавикуса Вайла в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Hermaeus
+bloodline_world_saver_hermaeus;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_hermaeus;[This.GetFirstNameWithNick] отразил(а) вторжение Хермеуса Моры в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Hircine
+bloodline_world_saver_hircine;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_hircine_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Хирсина в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Malacath
+bloodline_world_saver_malacath;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_malacath_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Малаката в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Mehrunes
+bloodline_world_saver_mehrunes;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_mehrunes_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Мерунеса Дагона в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Mephala
+bloodline_world_saver_mephala;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_mephala_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Мефалы в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Meridia
+bloodline_world_saver_meridia;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_meridia_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Меридии в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Molag
+bloodline_world_saver_molag;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_molag_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Молага Бала в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Namira
+bloodline_world_saver_namira;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_namira_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Намиры в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Nocturnal
+bloodline_world_saver_nocturnal;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_nocturnal_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Ноктюрнал в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Peryite
+bloodline_world_saver_peryite;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_peryite_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Периайта в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Sanguine
+bloodline_world_saver_sanguine;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_sanguine_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Сангвина в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Sheogorath
+bloodline_world_saver_sheogorath;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_sheogorath_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Шеогората в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Vaermina
+bloodline_world_saver_vaermina;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_vaermina_desc;[This.GetFirstNameWithNick] отразил(а) вторжение Вермины в Нирн, спасая мир и будущие поколения.;;;;;;;;;;;;;x
+# Alternate
+bloodline_world_saver_alternate;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x
+bloodline_world_saver_alternate_desc;[This.GetFirstNameWithNick] удалось найти и применить Амулет королей, чтобы зажечь Драконьи Огни, тем самым положив конец планам даэдра по вторжению в Нирн.;;;;;;;;;;;;;x
+### Slaver & Liberator
+bloodline_slaver;Родословная Работорговца;;;;;;;;;;;;;x
+bloodline_slaver_desc;Бесчисленные рабы были захвачены в плен по приказу [This.GetFirstName]. Все боялись [This.GetHerHis] рейдов, оставивших сожженные деревни и опустошенные общины позади.;;;;;;;;;;;;;x
+bloodline_liberator;Родословная Освободителя;;;;;;;;;;;;;x
+bloodline_liberator_desc;[This.GetFirstName] известен во всем Нирне. [This.GetHerHis] провозгласили борцом с рабством и страданиями, которые оно приносит.;;;;;;;;;;;;;x
+### Forged bloodlines
+### Bloodlines modifiers
+# Society influence
+bloodline_effect_influence_clan_mothers;Увеличенный прирост влияния в §YМатерях клана§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_elder_council;Увеличенный прирост влияния в §YСовете Старейшин§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_dres_council;Увеличенный прирост влияния в §YСовете Дома Дрес§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_hlaalu_council;Увеличенный прирост влияния в §YСовете Дома Хлаалу§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_indoril_council;Увеличенный прирост влияния в §YСовете Дома Индорил§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_redoran_council;Увеличенный прирост влияния в §YСовете Дома Редоран§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_telvanni_council;Увеличенный прирост влияния в §YСовете Дома Телванни§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_sadras_council;Увеличенный прирост влияния в §YСовете Дома Садрас§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_sul_council;Увеличенный прирост влияния в §YСовете Дома Сул§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_veloth_council;Увеличенный прирост влияния в §YСовете Дома Велот§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_house_dagoth_council;Увеличенный прирост влияния в §YСовете Дома Дагот§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_fighters_guild_tamriel;Увеличенный прирост влияния в §YГильдии бойцов§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_fighters_guild_akavir;Увеличенный прирост влияния в §YСоюзе железной рукояти§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_companions_tamriel;Увеличенный прирост влияния у §YСоратников§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_mages_guild_tamriel;Увеличенный прирост влияния в §YГильдии магов§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_mages_guild_akavir;Увеличенный прирост влияния у §YАрхитекторов Транцедентного§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_mercantile_guild_tamriel;Увеличенный прирост влияния в §YГильдии торговцев§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_mercantile_guild_akavir;Увеличенный прирост влияния у §YНавигаторов Акавира§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_scenarist_guild_tamriel;Увеличенный прирост влияния в §YГильдии сценаристов§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_scenarist_guild_akavir;Увеличенный прирост влияния у §YСтражей Эфемерного§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_greybeards_tamriel;Увеличенный прирост влияния у §YСедобородых§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_moth_priests_tamriel;Увеличенный прирост влияния в §YКульте Мотылька-Предка§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_dark_brotherhood_tamriel;Увеличенный прирост влияния в §YТемном Братстве§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_morag_tong_tamriel;Увеличенный прирост влияния в §YМораг Тонг§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_thieves_guild_tamriel;Увеличенный прирост влияния в §YГильдии воров§!.;;;;;;;;;;;;;x
+bloodline_effect_influence_camonna_tong_tamriel;Увеличенный прирост влияния в §YКамонна Тонг§!.;;;;;;;;;;;;;x
+# Culture
+bloodline_faster_culture_conversion_cyrodiil;Смена културы в провинциях §YСиродиила§! на вашу проходит быстрее.;;;;;;;;;;;;;x
+bloodline_faster_culture_conversion_skyrim;Смена культуры в провинциях §YСкайрима§! на вашу проходит быстрее.;;;;;;;;;;;;;x
+bloodline_faster_culture_conversion_morrowind;Смена культуры в провинциях §YМорровинда§! на вашу проходит быстрее.;;;;;;;;;;;;;x
+# Other
+bloodline_effect_better_slave_raids;Набеги на рабов §Yболее эффективны§!.;;;;;;;;;;;;;x
+bloodline_effect_exslaves_join;Привлекает компанию §Yбывших рабов§!.;;;;;;;;;;;;;x
+# Historical stuff
+bloodline_former_emperor_tamriel;Родословная §YДраконорожденного императора§! или §YИмператора Тамриэля§!.;;;;;;;;;;;;;x
+IS_FORMER_EMPEROR_BLOODLINE_CT;Имеет родословную §YДраконорожденного императора§! или §YИмператора Тамриэля§!.;;;;;;;;;;;;;x
+bloodline_potential_emperor_tamriel;Это родословная потенциального §YИмператора Тамриэля§!.;;;;;;;;;;;;;x
+bloodline_swordsinging;Персонажи легче учатся у §YПевцов-Мечей§!.;;;;;;;;;;;;;x
+IS_POTENTIAL_EMPEROR_BLOODLINE_CT;Имеет родословную потенциального §YИмператора Тамриэля§!.;;;;;;;;;;;;;x
+bloodline_warlord;Родословная [This.GetTitledFirstName];;;;;;;;;;;;;x
+bloodline_warlord_desc;[This.GetSheHeCap] известен как великий завоеватель, которому суждено захватить и объединить все королевтва Нирна под своей пятой.;;;;;;;;;;;;;x

@@ -1,0 +1,19 @@
+
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_frontend_title_geks"
+		texturefile = "gfx\\interface\\frontend_title_geks.dds"
+		loadType = "FRONTEND"
+	}
+	spriteType = {
+		name = "GFX_frontend_title_bottom"
+		texturefile = "gfx\\interface\\frontend_title_bottom.dds"
+		loadType = "FRONTEND"
+	}
+	spriteType = {
+		name = "GFX_frontend_title_marathon"
+		texturefile = "gfx\interface\frontend_title_marathon.dds"
+		loadType = "FRONTEND"
+	}
+}

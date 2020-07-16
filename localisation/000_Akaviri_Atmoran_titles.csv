@@ -1,0 +1,241 @@
+# TODO: Po Tun, Tang Mo need non-feudal titles & <tier> of definitions
+# TODO: Kamal need custom titles of all types
+emperor_potun;Йо-Тун;;;;;;;;;;;;;x
+emperor_female_potun;Йо-Тун;;;;;;;;;;;;;x
+king_potun;Тун;;;;;;;;;;;;;x
+king_female_potun;Тун;;;;;;;;;;;;;x
+duke_potun;Хулан;;;;;;;;;;;;;x
+duke_female_potun;Хулан;;;;;;;;;;;;;x
+count_potun;Джур;;;;;;;;;;;;;x
+count_female_potun;Джур;;;;;;;;;;;;;x
+baron_potun;Нан;;;;;;;;;;;;;x
+baron_female_potun;Нан;;;;;;;;;;;;;x
+emperor_tangmo;Самрат;;;;;;;;;;;;;x
+emperor_female_tangmo;Самрат;;;;;;;;;;;;;x
+king_tangmo;Махра;;;;;;;;;;;;;x
+king_female_tangmo;Махра;;;;;;;;;;;;;x
+duke_tangmo;Джах;;;;;;;;;;;;;x
+duke_female_tangmo;Джах;;;;;;;;;;;;;x
+count_tangmo;Сахиб;;;;;;;;;;;;;x
+count_female_tangmo;Сахиб;;;;;;;;;;;;;x
+baron_tangmo;Хиб;;;;;;;;;;;;;x
+baron_female_tangmo;Хиб;;;;;;;;;;;;;x
+barony_of_tsaesci;Коуи;;;;;;;;;;;;;x
+baron_female_tsaesci;Киср;;;;;;;;;;;;;x
+baron_tsaesci;Каср;;;;;;;;;;;;;x
+city_barony_of_tsaesci;Кити;;;;;;;;;;;;;x
+city_baron_female_tsaesci;Уисир;;;;;;;;;;;;;x
+city_baron_tsaesci;Оасар;;;;;;;;;;;;;x
+city_county_of_tsaesci;Окури;;;;;;;;;;;;;x
+city_count_female_tsaesci;Ускури;;;;;;;;;;;;;x
+city_count_tsaesci;Ускура;;;;;;;;;;;;;x
+city_duchy_of_tsaesci;Даачи;;;;;;;;;;;;;x
+city_duke_female_tsaesci;Дакии;;;;;;;;;;;;;x
+city_duke_tsaesci;Дакаа;;;;;;;;;;;;;x
+city_emperor_female_tsaesci;Цита;;;;;;;;;;;;;x
+city_emperor_tsaesci;Всита;;;;;;;;;;;;;x
+city_empire_of_tsaesci;Всири;;;;;;;;;;;;;x
+city_kingdom_of_tsaesci;Циоки;;;;;;;;;;;;;x
+city_king_female_tsaesci;Ва-Всии;;;;;;;;;;;;;x
+city_king_tsaesci;Ва-Всия;;;;;;;;;;;;;x
+county_of_tsaesci;Оуири;;;;;;;;;;;;;x
+count_female_tsaesci;Усури;;;;;;;;;;;;;x
+count_tsaesci;Усура;;;;;;;;;;;;;x
+duchy_of_tsaesci;Дочи;;;;;;;;;;;;;x
+duke_female_tsaesci;Докии;;;;;;;;;;;;;x
+duke_tsaesci;Докаа;;;;;;;;;;;;;x
+emperor_female_tsaesci;Цити;;;;;;;;;;;;;x
+emperor_tsaesci;Цита;;;;;;;;;;;;;x
+empire_of_tsaesci;Цай;;;;;;;;;;;;;x
+kingdom_of_tsaesci;Всиочи;;;;;;;;;;;;;x
+king_female_tsaesci;Ва-Ции;;;;;;;;;;;;;x
+king_tsaesci;Ва-Ция;;;;;;;;;;;;;x
+temple_barony_of_tsaesci;Куути;;;;;;;;;;;;;x
+temple_baron_female_tsaesci;Коир;;;;;;;;;;;;;x
+temple_baron_tsaesci;Коар;;;;;;;;;;;;;x
+temple_county_of_tsaesci;Коурии;;;;;;;;;;;;;x
+temple_count_female_tsaesci;Ксуари;;;;;;;;;;;;;x
+temple_count_tsaesci;Ксаира;;;;;;;;;;;;;x
+temple_duchy_of_tsaesci;Доукчи;;;;;;;;;;;;;x
+temple_duke_female_tsaesci;Даоки;;;;;;;;;;;;;x
+temple_duke_tsaesci;Даока;;;;;;;;;;;;;x
+temple_emperor_female_tsaesci;Ксити;;;;;;;;;;;;;x
+temple_emperor_tsaesci;Ксита;;;;;;;;;;;;;x
+temple_empire_of_tsaesci;Ксай;;;;;;;;;;;;;x
+temple_kingdom_of_tsaesci;Ксоичи;;;;;;;;;;;;;x
+temple_king_female_tsaesci;Ва-Ксии;;;;;;;;;;;;;x
+temple_king_tsaesci;Ва-Ксия;;;;;;;;;;;;;x
+baron_female_tsaesci;Киср;;;;;;;;;;;;;x
+baron_tsaesci;Каср;;;;;;;;;;;;;x
+count_female_tsaesci;Усури;;;;;;;;;;;;;x
+count_tsaesci;Усура;;;;;;;;;;;;;x
+duke_female_tsaesci;Докии;;;;;;;;;;;;;x
+duke_tsaesci;Докаа;;;;;;;;;;;;;x
+princess_tsaesci;Ксири;;;;;;;;;;;;;x
+title_prince_tsaesci;Ксара;;;;;;;;;;;;;x
+queen_tsaesci;Ва-Ции;;;;;;;;;;;;;x
+king_tsaesci;Ва-Ция;;;;;;;;;;;;;x
+empress_tsaesci;Цити;;;;;;;;;;;;;x
+emperor_tsaesci;Цита;;;;;;;;;;;;;x
+barony_of_atmoran;Дроги сэ;;;;;;;;;;;;;x
+baron_atmoran;Дрог;;;;;;;;;;;;;x
+baron_female_atmoran;Дрога;;;;;;;;;;;;;x
+county_of_atmoran;Тури сэ;;;;;;;;;;;;;x
+count_atmoran;Тур;;;;;;;;;;;;;x
+count_female_atmoran;Тура;;;;;;;;;;;;;x
+duchy_of_atmoran;Конари сэ;;;;;;;;;;;;;x
+duke_atmoran;Конарик;;;;;;;;;;;;;x
+duke_female_atmoran;Конарика;;;;;;;;;;;;;x
+emperor_atmoran;Лот-Джун;;;;;;;;;;;;;x
+emperor_female_atmoran;Лот-Джуна;;;;;;;;;;;;;x
+kingdom_of_atmoran;Джуни сэ;;;;;;;;;;;;;x
+king_atmoran;Джун;;;;;;;;;;;;;x
+king_female_atmoran;Джуна;;;;;;;;;;;;;x
+title_prince_atmoran;Кулан;;;;;;;;;;;;;x
+title_prince_female_atmoran;Кулас;;;;;;;;;;;;;x
+city_county_of_atmoran;Дроги сэ;;;;;;;;;;;;;x
+city_count_atmoran;Дрог;;;;;;;;;;;;;x
+city_count_female_atmoran;Дрогрек;;;;;;;;;;;;;x
+city_duchy_of_atmoran;Нонвули сэ;;;;;;;;;;;;;x
+city_duke_atmoran;Нонвул;;;;;;;;;;;;;x
+city_duke_female_atmoran;Нонвулрек;;;;;;;;;;;;;x
+city_empire_of_atmoran;Тури сэ;;;;;;;;;;;;;x
+city_emperor_atmoran;Тур;;;;;;;;;;;;;x
+city_emperor_female_atmoran;Туррек;;;;;;;;;;;;;x
+city_kingdom_of_atmoran;Джуни сэ;;;;;;;;;;;;;x
+city_king_atmoran;Джун;;;;;;;;;;;;;x
+city_king_female_atmoran;Джунрек;;;;;;;;;;;;;x
+city_barony_of_draugr;Сасунар сэ;;;;;;;;;;;;;x
+city_baron_draugr;Сасунар;;;;;;;;;;;;;x
+city_baron_female_draugr;Сасунаррек;;;;;;;;;;;;;x
+city_county_of_draugr;Дроги сэ;;;;;;;;;;;;;x
+city_count_draugr;Дрог;;;;;;;;;;;;;x
+city_count_female_draugr;Дрогрек;;;;;;;;;;;;;x
+city_duchy_of_draugr;Нонвули сэ;;;;;;;;;;;;;x
+city_duke_draugr;Нонвул;;;;;;;;;;;;;x
+city_duke_female_draugr;Нонвулрек;;;;;;;;;;;;;x
+city_empire_of_draugr;Тури сэ;;;;;;;;;;;;;x
+city_emperor_draugr;Тур;;;;;;;;;;;;;x
+city_emperor_female_draugr;Туррек;;;;;;;;;;;;;x
+city_kingdom_of_draugr;Джуни сэ;;;;;;;;;;;;;x
+city_king_draugr;Джун;;;;;;;;;;;;;x
+city_king_female_draugr;Джунрек;;;;;;;;;;;;;x
+city_title_prince_female_draugr;Кулас;;;;;;;;;;;;;x
+barony_of_draugr;Зэймаи сэ;;;;;;;;;;;;;x
+baron_draugr;Зэйма;;;;;;;;;;;;;x
+baron_female_draugr;Брина;;;;;;;;;;;;;x
+barony_of_draugr;Дроги сэ;;;;;;;;;;;;;x
+baron_draugr;Дрог;;;;;;;;;;;;;x
+baron_female_draugr;Дрога;;;;;;;;;;;;;x
+county_of_draugr;Тури сэ;;;;;;;;;;;;;x
+count_draugr;Тур;;;;;;;;;;;;;x
+count_female_draugr;Туррек;;;;;;;;;;;;;x
+duchy_of_draugr;Нонвули сэ;;;;;;;;;;;;;x
+duke_draugr;Нонвул;;;;;;;;;;;;;x
+duke_female_draugr;Нонвулрек;;;;;;;;;;;;;x
+empire_of_draugr;Дан-Джуни сэ;;;;;;;;;;;;;x
+emperor_draugr;Дан-Джун;;;;;;;;;;;;;x
+emperor_female_draugr;Дан-Джуна;;;;;;;;;;;;;x
+kingdom_of_draugr;Джуни сэ;;;;;;;;;;;;;x
+king_draugr;Джун;;;;;;;;;;;;;x
+king_female_draugr;Джунрек;;;;;;;;;;;;;x
+title_prince_draugr;Кулан;;;;;;;;;;;;;x
+title_prince_female_draugr;Кулаас;;;;;;;;;;;;;x
+# Akaviri
+city_barony_of_akaviri;Тоши;;;;;;;;;;;;;x
+city_baron_female_akaviri;Хиоги-инь;;;;;;;;;;;;;x
+city_baron_akaviri;Хиоги-инь;;;;;;;;;;;;;x
+city_county_of_akaviri;Джичитай;;;;;;;;;;;;;x
+city_count_female_akaviri;Шичо;;;;;;;;;;;;;x
+city_count_akaviri;Шичо;;;;;;;;;;;;;x
+city_duchy_of_akaviri;Кен;;;;;;;;;;;;;x
+city_duke_female_akaviri;Чиджи;;;;;;;;;;;;;x
+city_duke_akaviri;Чиджи;;;;;;;;;;;;;x
+city_emperor_female_akaviri;Джиму Сочо;;;;;;;;;;;;;x
+city_emperor_akaviri;Джиму Сочо;;;;;;;;;;;;;x
+city_empire_of_akaviri;Гикай;;;;;;;;;;;;;x
+city_kingdom_of_akaviri;Киовакоку;;;;;;;;;;;;;x
+city_king_female_akaviri;Кайчо;;;;;;;;;;;;;x
+city_king_akaviri;Кайчо;;;;;;;;;;;;;x
+temple_barony_of_akaviri;Дзиин;;;;;;;;;;;;;x
+temple_baron_female_akaviri;Сайши;;;;;;;;;;;;;x
+temple_baron_akaviri;Сайши;;;;;;;;;;;;;x
+temple_county_of_akaviri;Шикио-ку;;;;;;;;;;;;;x
+temple_count_female_akaviri;Шикио;;;;;;;;;;;;;x
+temple_count_akaviri;Шикио;;;;;;;;;;;;;x
+temple_duchy_of_akaviri;Дайшикио-ку;;;;;;;;;;;;;x
+temple_duke_female_akaviri;Дайшикио;;;;;;;;;;;;;x
+temple_duke_akaviri;Дайшикио;;;;;;;;;;;;;x
+temple_emperor_female_akaviri;Йоген-Ша;;;;;;;;;;;;;x
+temple_emperor_akaviri;Йоген-Ша;;;;;;;;;;;;;x
+temple_empire_of_akaviri;Каху-Чо;;;;;;;;;;;;;x
+temple_kingdom_of_akaviri;Сакикио-ку;;;;;;;;;;;;;x
+temple_king_female_akaviri;Сакикио;;;;;;;;;;;;;x
+temple_king_akaviri;Сакикио;;;;;;;;;;;;;x
+barony_of_akaviri;Широ;;;;;;;;;;;;;x
+county_of_akaviri;Ган;;;;;;;;;;;;;x
+duchy_of_akaviri;Кококу;;;;;;;;;;;;;x
+empire_of_akaviri;Тейкоку;;;;;;;;;;;;;x
+kingdom_of_akaviri;Окококу;;;;;;;;;;;;;x
+baron_female_akaviri;Даншаку;;;;;;;;;;;;;x
+baron_akaviri;Даншаку;;;;;;;;;;;;;x
+count_female_akaviri;Хакушаку;;;;;;;;;;;;;x
+count_akaviri;Хакушаку;;;;;;;;;;;;;x
+duke_female_akaviri;Кошаку;;;;;;;;;;;;;x
+duke_akaviri;Кошаку;;;;;;;;;;;;;x
+princess_akaviri;Ойо;;;;;;;;;;;;;x
+title_prince_akaviri;Ойи;;;;;;;;;;;;;x
+queen_akaviri;Йу;;;;;;;;;;;;;x
+king_akaviri;Куньшу;;;;;;;;;;;;;x
+king_female_akaviri;Йу;;;;;;;;;;;;;x
+empress_akaviri;Кого;;;;;;;;;;;;;x
+emperor_akaviri;Тен'но;;;;;;;;;;;;;x
+# Quey
+city_barony_of_quey;Болам;;;;;;;;;;;;;x
+city_baron_female_quey;Ка;;;;;;;;;;;;;x
+city_baron_quey;Ча;;;;;;;;;;;;;x
+city_county_of_quey;Филам;;;;;;;;;;;;;x
+city_count_female_quey;Рача;;;;;;;;;;;;;x
+city_count_quey;Рака;;;;;;;;;;;;;x
+city_duchy_of_quey;Джоакоха Ту;;;;;;;;;;;;;x
+city_duke_female_quey;Ачоха Ту;;;;;;;;;;;;;x
+city_duke_quey;Акоха Ту;;;;;;;;;;;;;x
+city_emperor_female_quey;Ногаи;;;;;;;;;;;;;x
+city_emperor_quey;Нобаи;;;;;;;;;;;;;x
+city_empire_of_quey;Джонобаи;;;;;;;;;;;;;x
+city_kingdom_of_quey;Джоакоха;;;;;;;;;;;;;x
+city_king_female_quey;Ачоха;;;;;;;;;;;;;x
+city_king_quey;Акоха;;;;;;;;;;;;;x
+temple_barony_of_quey;Джокро;;;;;;;;;;;;;x
+temple_baron_female_quey;Чро;;;;;;;;;;;;;x
+temple_baron_quey;Кро;;;;;;;;;;;;;x
+temple_county_of_quey;Джонумак;;;;;;;;;;;;;x
+temple_count_female_quey;Лимак;;;;;;;;;;;;;x
+temple_count_quey;Нумак;;;;;;;;;;;;;x
+temple_duchy_of_quey;Джобиам;;;;;;;;;;;;;x
+temple_duke_female_quey;Гиам;;;;;;;;;;;;;x
+temple_duke_quey;Биам;;;;;;;;;;;;;x
+temple_emperor_female_quey;Сочрокин;;;;;;;;;;;;;x
+temple_emperor_quey;Сокрокин;;;;;;;;;;;;;x
+temple_empire_of_quey;Раджокрокин;;;;;;;;;;;;;x
+temple_kingdom_of_quey;Джокин;;;;;;;;;;;;;x
+temple_king_female_quey;Чрин;;;;;;;;;;;;;x
+temple_king_quey;Кин;;;;;;;;;;;;;x
+barony_of_quey;Джобуок;;;;;;;;;;;;;x
+county_of_quey;Джонуконг Ту;;;;;;;;;;;;;x
+duchy_of_quey;Джонуконг;;;;;;;;;;;;;x
+empire_of_quey;Джокрокин;;;;;;;;;;;;;x
+kingdom_of_quey;Джокану;;;;;;;;;;;;;x
+baron_female_quey;Гуок;;;;;;;;;;;;;x
+baron_quey;Буок;;;;;;;;;;;;;x
+count_female_quey;Ликонг Ту;;;;;;;;;;;;;x
+count_quey;Нуконг Ту;;;;;;;;;;;;;x
+duke_female_quey;Ликонг;;;;;;;;;;;;;x
+duke_quey;Нуконг ;;;;;;;;;;;;;x
+title_prince_female_quey;Чано Ту;;;;;;;;;;;;;x
+title_prince_quey;Кану Ту;;;;;;;;;;;;;x
+queen_quey;Чано;;;;;;;;;;;;;x
+king_quey;Чано;;;;;;;;;;;;;x
+king_female_quey;Кану;;;;;;;;;;;;;x
+empress_quey;Чрокин;;;;;;;;;;;;;x
+emperor_quey;Крокин;;;;;;;;;;;;;x

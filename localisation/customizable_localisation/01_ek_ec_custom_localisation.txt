@@ -1,0 +1,442 @@
+# Emperor/Empress
+# Can be used in any scope
+defined_text = {
+	name = GetRubyThroneTitle
+
+	text = {
+		localisation_key = ruby_throne_male_title
+		trigger = {
+			OR = {
+				ec_recognises_emperor = no
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+			}
+		}
+	}
+
+	text = {
+		localisation_key = ruby_throne_female_title
+		trigger = {
+			OR = {
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+# Emperor/Empress' his/her
+# Can be used in any scope
+defined_text = {
+	name = GetRubyThroneHerHis
+
+	text = {
+		localisation_key = "his"
+		trigger = {
+			OR = {
+				ec_recognises_emperor = no
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+			}
+		}
+	}
+
+	text = {
+		localisation_key = "her"
+		trigger = {
+			OR = {
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+# Emperor/Empress' His/Her
+# Can be used in any scope
+defined_text = {
+	name = GetRubyThroneHerHisCap
+
+	text = {
+		localisation_key = "His"
+		trigger = {
+			OR = {
+				ec_recognises_emperor = no
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+			}
+		}
+	}
+
+	text = {
+		localisation_key = "Her"
+		trigger = {
+			OR = {
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+# Emperor/Empress' him/her
+# Can be used in any scope
+defined_text = {
+	name = GetRubyThroneHerHim
+
+	text = {
+		localisation_key = "him"
+		trigger = {
+			OR = {
+				ec_recognises_emperor = no
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+			}
+		}
+	}
+
+	text = {
+		localisation_key = "her"
+		trigger = {
+			OR = {
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+# Emperor/Empress' Him/Her
+# Can be used in any scope
+defined_text = {
+	name = GetRubyThroneHerHimCap
+
+	text = {
+		localisation_key = "Him"
+		trigger = {
+			OR = {
+				ec_recognises_emperor = no
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = no
+					}
+				}
+			}
+		}
+	}
+
+	text = {
+		localisation_key = "Her"
+		trigger = {
+			OR = {
+				e_tamriel = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_cyrodiil = {
+					has_title_flag = elder_council_empire
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+				e_pretender_empire = {
+					has_holder = yes
+					holder_scope = {
+						is_female = yes
+					}
+				}
+			}
+		}
+	}
+}
+
+# Emperor/Empress
+# THIS is the Emperor/Empress
+defined_text = {
+	name = GetEmpressEmperor
+
+	text = {
+		localisation_key = ruby_throne_male_title
+		trigger = {
+			is_female = no
+		}
+	}
+	text = {
+		localisation_key = ruby_throne_female_title
+		trigger = {
+			is_female = yes
+		}
+	}
+}
+
+# Same as GetSocietyRank, but will address the High Chancellor as Potentate under the right circumstances
+defined_text = {
+	name = GetElderCouncilRank
+
+	text = {
+		localisation_key = high_chancellor_title
+		trigger = {
+			hidden_tooltip = {
+				society_rank = { society = elder_council rank == 4 }
+				AND = {
+					ec_recognises_emperor = yes
+					ec_regency_potentate = no
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = potentate
+		trigger = {
+			society_rank = { society = elder_council rank == 4 }
+			hidden_tooltip = {
+				OR = {
+					ec_recognises_emperor = no
+					ec_regency_potentate = yes
+					has_landed_title = e_potentate
+				}
+			}
+		}
+	}
+	text = {
+		localisation_key = chief_councillor_title
+		trigger = {
+			society_rank = { society = elder_council rank == 3 }
+		}
+	}
+	text = {
+		localisation_key = advisor_title
+		trigger = {
+			society_rank = { society = elder_council rank == 2 }
+		}
+	}
+	text = {
+		localisation_key = councillor_title
+		trigger = {
+			society_rank = { society = elder_council rank == 1 }
+		}
+	}
+}
+
+# Spiel about bonus Elder Council society influence
+defined_text = {
+	name = GetECInfluenceDesc
+
+	text = {
+		localisation_key = ECInfluenceDesc
+		trigger = {
+			always = yes
+		}
+	}
+}
+
+# Old test string
+defined_text = {
+	name = ec2024test
+
+	text = {
+		localisation_key = GetHighChancellorTitle
+		trigger = {
+			NOT = {
+				has_character_flag = jj_debug
+				has_character_flag = jj_debug2
+				has_character_flag = jj_debug3
+				has_character_flag = jj_debug4
+				has_character_flag = jj_debug5
+			}
+		}
+	}
+	text = { # works
+		localisation_key = ec2024jj
+		trigger = {
+			has_character_flag = jj_debug
+		}
+	}
+	text = {
+		localisation_key = "GetHighChancellorTitle"
+		trigger = {
+			has_character_flag = jj_debug2
+		}
+	}
+	text = {
+		localisation_key = "This.GetHighChancellorTitle"
+		trigger = {
+			has_character_flag = jj_debug3
+		}
+	}
+	text = { # works
+		localisation_key = "[This.GetHighChancellorTitle]"
+		trigger = {
+			has_character_flag = jj_debug4
+		}
+	}
+	text = { # works
+		localisation_key = [This.GetHighChancellorTitle]
+		trigger = {
+			has_character_flag = jj_debug5
+		}
+	}
+}

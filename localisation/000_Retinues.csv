@@ -1,0 +1,100 @@
+RETTYPE_ALTMER_1;Альтмерская Солнечная Гвардия;;;;;;;;;;;;;x
+RETTYPE_ARGONIAN_1;Аргонианская Фаланга;;;;;;;;;;;;;x
+RETTYPE_ASHLANDER_1;Эшлендерские Кочевники;;;;;;;;;;;;;x
+RETTYPE_AYLEID_1;Айлейдская Небесная Гвардия;;;;;;;;;;;;;x
+RETTYPE_BOSMER_1;Босмерская Лесня Стража;;;;;;;;;;;;;x
+RETTYPE_BRETON_1;Бретонские Йомены;;;;;;;;;;;;;x
+RETTYPE_COLOVIAN_1;Коловианские Всадники;;;;;;;;;;;;;x
+RETTYPE_CROWN_1;Верноподданые Короны;;;;;;;;;;;;;x
+RETTYPE_DUNMER_1;Данмерские Орденаторы;;;;;;;;;;;;;x
+RETTYPE_FOREBEAR_1;Предвестники Предков;;;;;;;;;;;;;x
+RETTYPE_IMPERIAL_1;Имперская Пехота;;;;;;;;;;;;;x
+RETTYPE_IMPERIAL_2;Имперские Рыцари;;;;;;;;;;;;;x
+RETTYPE_ISLANDER_1;Айлендерские Лучники;;;;;;;;;;;;;x
+RETTYPE_KHAJIIT_1;Боевые Коты;;;;;;;;;;;;;x
+RETTYPE_CHIMER_1;Кимерская Пепельная Гвардия;;;;;;;;;;;;;x
+RETTYPE_MAORMER_1;Маормерская Морская Стража;;;;;;;;;;;;;x
+RETTYPE_NIBENEAN_1;Нибенейский Отряд;;;;;;;;;;;;;x
+RETTYPE_NORD_1;Нордские Хускарлы;;;;;;;;;;;;;x
+RETTYPE_ORSIMER_1;Орочьи Варвары;;;;;;;;;;;;;x
+RETTYPE_REACHMEN_1;Предельские Налетчики;;;;;;;;;;;;;x
+RETTYPE_SKAAL_1;Скаалы-берсеркеры;;;;;;;;;;;;;x
+RETTYPE_YOKUDAN_1;Йокуданские Певцы Меча;;;;;;;;;;;;;x
+RETTYPE_INF1;Легкая Пехота;;;;;;;;;;;;;x
+RETTYPE_INF2;Тяжелая Пехота;;;;;;;;;;;;;x
+RETTYPE_INF3;Тяжелые Копейщики;;;;;;;;;;;;;x
+RETTYPE_MAGE;Гвардия Магов;;;;;;;;;;;;;x
+RETTYPE_CAV1;Легкая Кавалерия;;;;;;;;;;;;;x
+RETTYPE_CAV2;Тяжелая Кавалерия;;;;;;;;;;;;;x
+RETTYPE_SKIR1;Застрельщики;;;;;;;;;;;;;x
+sorcerers;Архимаги;;;;;;;;;;;;;x
+sorcerers_defensive;Оборона архимагов;;;;;;;;;;;;;x
+sorcerers_offensive;Атака архимагов;;;;;;;;;;;;;x
+sorcerers_morale;Боевой дух архимагов;;;;;;;;;;;;;x
+pikeinfantry;Копейщики;;;;;;;;;;;;;x
+pikeinfantry_defensive;Оборона копейщиков;;;;;;;;;;;;;x
+pikeinfantry_offensive;Атака копейщиков;;;;;;;;;;;;;x
+pikeinfantry_morale;Боевой дух копейщиков;;;;;;;;;;;;;x
+dragon_defensive;Оборона дракона;;;;;;;;;;;;;x
+dragon_offensive;Атака дракона;;;;;;;;;;;;;x
+dragon_morale;Боевой дух дракона;;;;;;;;;;;;;x
+numidium_defensive;Оборона Нумидиума;;;;;;;;;;;;;x
+numidium_offensive;Атака Нумидиума;;;;;;;;;;;;;x
+numidium_morale;Боевой дух Нумидиума;;;;;;;;;;;;;x
+tongues;Языки;;;;;;;;;;;;;x
+tongues_offensive;Атака Языков;;;;;;;;;;;;;x
+tongues_defensive;Оборона Языков;;;;;;;;;;;;;x
+tongues_morale;Боевой дух Языков;;;;;;;;;;;;;x
+tongues_modifier;Бонус к боевому модификатору Языков: $PERC$;;;;;;;;;;;;;x
+dremora_troop;Мощные Даэдра;;;;;;;;;;;;;x
+dremora_troop_offensive;Атака Мощных Даэдра;;;;;;;;;;;;;x
+dremora_troop_defensive;Оборона Мощных Даэдра;;;;;;;;;;;;;x
+dremora_troop_morale;Боевой дух Мощных Даэдра;;;;;;;;;;;;;x
+dremora_troop_modifier;Бонус к боевому модификатору Мощных Даэдра: $PERC$;;;;;;;;;;;;;x
+undead_troop;Восставшие мертвецы;;;;;;;;;;;;;x
+undead_troop_offensive;Атака нежити;;;;;;;;;;;;;x
+undead_troop_defensive;Оборона нежити;;;;;;;;;;;;;x
+undead_troop_morale;Боевой дух нежити;;;;;;;;;;;;;x
+undead_troop_modifier;Бонус к боевому модификатору нежити: $PERC$;;;;;;;;;;;;;x
+lesser_daedra;Малые даэдра;;;;;;;;;;;;;x
+lesser_daedra_offensive;Атака малых даэдра;;;;;;;;;;;;;x
+lesser_daedra_defensive;Оборона малых даэдра;;;;;;;;;;;;;x
+lesser_daedra_morale;Боевой дух малых даэдра;;;;;;;;;;;;;x
+lesser_daedra_modifier;Бонус к боевому модификатору малых даэдра: $PERC$;;;;;;;;;;;;;x
+PIKEMEN;Копейщики;;;;;;;;;;;;;x
+PIKE;КП;;;;;;;;;;;;;x
+PIKEMEN_OFFENSIVE_FIRE;Атака копейщиков;;;;;;;;;;;;;x
+PIKEMEN_DEFENSIVE_FIRE;Оборона копейщиков;;;;;;;;;;;;;x
+PIKEMEN_MORALE;Боевой дух копейщиков;;;;;;;;;;;;;x
+PIKEMEN_DISCIPLINE;Дисциплина копейщиков;;;;;;;;;;;;;x
+LIGHT_INFANTRY_OFFENSIVE_FIRE;Атака легкой пехоты;;;;;;;;;;;;;x
+LIGHT_INFANTRY_DEFENSIVE_FIRE;Оборона легкой пехоты;;;;;;;;;;;;;x
+LIGHT_INFANTRY_MORALE;Боевой дух легкой пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_OFFENSIVE_FIRE;Атака тяжелой пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_DEFENSIVE_FIRE;Оборона тяжелой пехоты;;;;;;;;;;;;;x
+HEAVY_INFANTRY_MORALE;Боевой дух тяжелой пехоты;;;;;;;;;;;;;x
+LIGHT_CAVALRY_OFFENSIVE_FIRE;Атака легкой кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_DEFENSIVE_FIRE;Оборона легкой кавалерии;;;;;;;;;;;;;x
+LIGHT_CAVALRY_MORALE;Боевой дух легкой кавалерии;;;;;;;;;;;;;x
+KNIGHTS_OFFENSIVE_FIRE;Атака тяжелой кавалерии;;;;;;;;;;;;;x
+KNIGHTS_DEFENSIVE_FIRE;Оборона тяжелой кавалерии;;;;;;;;;;;;;x
+KNIGHTS_MORALE;Боевой дух тяжелой кавалерии;;;;;;;;;;;;;x
+ARCHERS_OFFENSIVE_FIRE;Атака лучников;;;;;;;;;;;;;x
+ARCHERS_DEFENSIVE_FIRE;Оборона лучников;;;;;;;;;;;;;x
+ARCHERS_MORALE;Боевой дух лучников;;;;;;;;;;;;;x
+horse_archers_OFFENSIVE_FIRE;Атака конных лучников;;;;;;;;;;;;;x
+horse_archers_DEFENSIVE_FIRE;Оборона конных лучников;;;;;;;;;;;;;x
+horse_archers_MORALE;Боевой дух конных лучников;;;;;;;;;;;;;x
+GALLEYS_OFFENSIVE_FIRE;Атака галер;;;;;;;;;;;;;x
+GALLEYS_DEFENSIVE_FIRE;Оборона галер;;;;;;;;;;;;;x
+GALLEYS_MORALE;Боевой дух галер;;;;;;;;;;;;;x
+battlemages;Боевые маги;;;;;;;;;;;;;x
+battlemages_offensive;Атака боевых магов;;;;;;;;;;;;;x
+battlemages_defensive;Защита боевых магов;;;;;;;;;;;;;x
+battlemages_morale;Боевой дух боевых магов;;;;;;;;;;;;;x
+battlemages_modifier;Боевой Модификатор повышения боевых повреждений: $PERC$;;;;;;;;;;;;;x
+RETTYPE_WARBABARS;Слоновий полк;;;;;;;;;;;;;x
+RETTYPE_HORSEARCHERS;Полк Конных Лучников;;;;;;;;;;;;;x
+RETTYPE_MAGES;Полк Магов;;;;;;;;;;;;;x
+RETTYPE_CAMEL;Верблюжий полк;;;;;;;;;;;;;x
+RETTYPE_WARWOOLIES;Мамонтовый полк;;;;;;;;;;;;;x

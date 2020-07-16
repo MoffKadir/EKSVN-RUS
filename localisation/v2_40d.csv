@@ -1,0 +1,681 @@
+#CODE;RUSSIAN;x
+INTERACTION_CANNOT_INVITE_MARRIED;Убедитесь, что [Recipient.GetTitledFirstName] НЕ состоит в браке;x
+#INTERACTION_CANNOT_INVITE_CONSORT;Убедитесь, что [Recipient.GetTitledFirstName] НЕ является наложницей;x
+AIREASON_LOVER;§Y[GetTitledFirstName]§! - м[GetOyaOy] любовни[GetTsaK];x
+AIREASON_FRIEND;§Y[GetTitledFirstName]§! - м[GetOyaOy] [GetFriendMF];x
+AIREASON_WITH_LOVER;Хочу быть ближе к св[GetHerHim] любовни[GetTseKu] по имени §Y[GetTitledFirstName]§!;x
+PV_FORT;Форт;x
+PV_TRADE_POST;Торговое поселение;x
+adopt_wolf_child;Ребёнок будет принят и воспитан, как собственный с полными правами на наследование.;x
+EVTTOOLTIP89008;Узнает о покушении.;x
+claim_on_vassal_plot_desc;§Y$CLAIMANT$§! попытается отозвать земельный титул §Y$TITLE$§!, из-за чего §Y$TARGET$§! пойдёт на вооружённый конфликт.;x
+EVTOPTC63011;Подозрительно. Предупрежу предпологаемого "заговорщика".;x
+werewolf_howling_tooltip;Вы воете на луну всю ночь.;x
+werewolf_swimming_tooltip;Вы спите снаружи, в холоде и сырости...;x
+SENTIMENT;Настроение:;x
+GRAZING_LAND;Нужно больше пастбищ;x
+CLAN_OPINION;Настроение клана;x
+MARRIAGE_TIES;Узы брака;x
+WEAK;Слабость;x
+TOO_MUCH_COMPETITION;Слишком много конкурентов;x
+CREATE_FEUD;$ACTOR$ и $RECIPIENT$ будут втянуты во вражду;x
+opinion_built_temple;Построил[___] храм;x #[From.GetEndA]
+FORM_BLOOD_OATH_INTERACTION_TITLE;Кровная клятва;x
+INTERACTION_NO_BLOOD_BROTHER;Убедитесь, что §Y$CLAN$§! НЕ является "кровным братом" кому-либо;x
+HAS_BLOOD_OATH_WITH;Связан кровной клятвой с кланом §Y$CLAN$§!;x
+NOT_HAS_BLOOD_OATH_WITH;НЕ связан кровной клятвой с кланом §Y$CLAN$§!;x
+declare_feud;Начать вражду;x
+opinion_feud;Вражда;x
+BLOOD_BROTHER;Кровные братья;x
+EVTDESC505;Принимая эту клятву, мы теперь связаны кровью, как братья!;x
+EVTDESC506;Я принимаю твоё предложение и не стану клясться на крови.;x
+INTERACTION_CANT_DOW_BLOOD_BROTHER;Должен НЕ являться кровным братом;x
+EVTNAMEHL6;Kлановая вражда;x #From.Clan.GetName]
+EVTDESCHL6;[From.GetBestName] и [From.GetHersHis] люди охотятся на наших землях, крадут наш скот и женщин, зная, что нарушают границы кланов! Эти презренные собаки предадут нас при первой возможности.;x
+EVTOPTAHL6;Проклятые [From.Clan.GetName]! У них нет чести.;x
+SHOW_OPINION;§YПоказать настроение клана§!;x
+TOTAL_POPULATION;Всего населения:;x
+FEUD;Вражда;x
+FEUD_BLOOD_BROTHER;Вражда с кровными братьями;x
+CLAN_LEADER_HAS_NO_JOB;НЕ заседает в совете;x
+PRESTIGE;Престиж;x
+FEUD_CLAN_LEADER_HAS_JOB; заседает в совете;x
+EVTNAMEHL10;Cмерть брата;x
+EVTDESCHL10;[From.GetBestName] навсегда покинул[From.GetEndA] нас. С [From.GetHersHis] смертью наша кровная клятва потеряла силу, и мы больше ничем не обязаны, ни [From.GetHersHis] семье, ни [From.GetHersHis] народу.;x
+EVTOPTAHL10;Печальный день для всех нас...;x #[Root.Clan.GetName]
+EVTDESC_HL_10700;[From.GetFirstName] тратит немало золота на привлечение и вербовку солдат для своей банды наёмников.;x
+EVTOPTA_HL_10700;Полагаю, весьма выгодное предприятие.;x
+EVTDESC_HL_10701;[From.GetFirstName] тратит массу денег на пирушки с друзьями, вино и женщин.;x
+EVTOPTA_HL_10701;Ну это... семейная традиция.;x
+alert_inefficent_land_management_instant;§YНеэффективное распределение земель§!;x
+alert_inefficent_land_management_delayed;У Вас слишком много личных владений. Как кочевник, Вы можете владеть лишь одним поселением без штрафов. Однако, не забывайте, что можно разрушать поселения, опустошая и грабя их, если Вы не хотите делиться ими с кем-либо...$LIST$;x
+plot_gain_title_short;Завладеть титулом;x
+plot_gain_vassal_title_short;Отозвать титул;x
+plot_kill_character_short;Покушение на жизнь;x
+plot_kill_spouse_short;Покушение на жизнь;x
+plot_gain_liege_title_short;Завладеть титулом;x
+plot_gain_fellow_vassal_title_short;Завладеть титулом;x
+MAKE_PRIMARY;Сделать основным;x
+WAR_INVALID_LIEGE_JOINS_ENEMY;\n($LIEGE$ вступает в войну того, кого зовут $OTHER$);x
+WAR_INVALID_ELECTED_REL_HEAD;\n($CHAR$ теперь $TITLE$ после избрания);x
+INTERACTION_HAS_TITLES_TO_REVOKE;Убедитесь, что есть титулы, которые можно отозвать;x
+REL_UNCLE_HUSBAND;муж;x
+REL_NEPHEW_HUSBAND;муж;x
+REL_COUSIN_HUSBAND;муж;x
+REL_COUSIN_WIFE;жена;x
+REL_AUNT_WIFE;жена;x
+REL_NIECE_WIFE;жена;x
+MINOR_CLAN_REVOLT;[Root.County.GetAdjective]ское клановое Восстание;x
+succ_nomadic_desc;Среди кочевых народов, престиж сам по себе определяет линию наследования, к которой допускаются все законные сыновья и братья правителя, но, в отличие от других форм наследования, только взрослые родной культуры могут быть потенциальными наследниками.;x
+STAT_CULTURE_PROV_DESC;Это доминирующая культура округа, к которой принадлежит большинство населения.;x
+STAT_RELIGION_PROV_DESC;Это доминирующая религия округа, которую исповедует большинство населения.;x
+TITLE_CANNOT_CREATE_MERCENARY_TITLE;Вы не можете напрямую создавать титулы наёмников;x
+TITLE_CANNOT_CREATE_HOLY_ORDER_TITLE;Вы не можете напрямую создавать титулы духовных орденов;x
+NO_VALID_AMBITIONS;§RНет подходящей амбиции, которую Вы могли бы выбрать!§!;x
+NO_VALID_FOCUSES;§RНет подходящего жизненного пути, который Вы могли бы избрать для себя!§!;x
+AIREASON_WILL_NOT_MARRY_INFIDELS;§Y[GetTitledFirstName]§! не хочет принимать предложения от иноверцев;x
+AN_UNKNOWN_LOCATION;неизвестное место;x
+cb_liberate_nomad_duchy_desc;§Y$CLAIMANT$§! может использовать этот Casus Belli (повод для войны), чтобы захватить все титулы, которыми обладает §Y$TARGET$§! в де-юре пределах области §Y$TITLE$§!.;x
+nomad_dispute_desc;Клановая вражда позволяет объявлять войны друг другу, с целью захвата одного округа.;x
+CB_NAME_LIBERATE_NOMAD;[Title.GetShortBaseName] - Освобождение;x
+WAR_NAME_LIBERATE_NOMAD;$ORDER$[Actor.PrimaryTitle.GetAdjective]ская война за освобождение области $OTHER_TITLE$, инициатор которой - $FIRST$;x #$FIRST_ADJ$ская
+liberate_nomad_cb_succ_tip;§Y[Root.GetTitledFirstName]§! вассализирует некочевых правителей и присвоит все прочие титулы в области §Y[This.GetFullBaseName]§!.\n;x
+pagan_county_conquest_desc;Язычники и кочевники могут завоевать один приграничный округ даже не имея претензий на него. Германские язычники (викинги) могут завоевать любой прибережный округ.;x
+nomad_subjugation_desc;Кочевники могут покорять некочевых правителей один раз в жизни.;x
+nomad_invasion_desc;Если нашему народу становится негде жить, мы всегда можем вторгнуться в чужие земли, чтобы завладеть новыми пастбища! В случае успеха, все оккупированные нами территории станут нашими, а их вассалы - нашими вассалами.;x
+CB_NAME_PAGAN_SUBJUGATION;Покорение;x
+WAR_NAME_PAGAN_SUBJUGATION;$ORDER$[Actor.PrimaryTitle.GetShortAdjective]о-[Recipient.PrimaryTitle.GetAdjective]ская война за покорение;x
+tribal_subjugation_tip;§Y[Root.GetTitledFirstName]§! покорит правителя, известного как §Y[This.GetTitledName]§!\n;x
+POPULATION_FACTOR_LOWER_THAN;Население составляет менее §Y$PERC$%§! от максимума;x
+POPULATION_FACTOR_AT_LEAST;Население составляет НЕ менее §Y$PERC$%§! от максимума;x
+action_collect_tribute;Собирать дань;x
+action_collect_tribute_desc;Пусть Ваш [GetTreasurerName] отправится, чтобы собрать дополнительные денежные средства с вассалов и данников. Это им явно не понравится...;x
+squeezed_for_extra_tribute;Дополнительная дань;x
+refused_extra_tribute;Отказ платить дань повторно;x
+EVTNAME20225;Eщё больше дани;x
+EVTDESC20225;Мой сюзерен, [Root.Liege.GetTitledFirstName], говорит, что [Root.Liege.GetHersHis] не устраивает размер дани, которую выплачивает [Root.Liege.GetHerHim] [tribute_giver.GetTitledName]. Мне поручено увеличить этот сбор, однако это будет нелегко...;x
+EVTOPTA20225;Предъявить требования.;x
+EVTOPTB20225;Ещё не время...;x
+EVTTOOLTIP_20226;[tribute_giver.GetFirstName] ответит на моё требование.;x
+EVTDESC20226;Эт[From.GetEtaEtot] [GetRootFromInsult] [From.GetTitledFirstName] требует "дополнительную" дань, ссылаясь на то, что инициатором этого является непосредственно [From.Liege.GetTitledName], и в случае отказа будут "последствия"!;x
+EVTOPTA20226;Придётся согласиться;x
+EVTOPTB20226;Отказать. В пекло последствия!;x
+EVTDESC20227;[From.GetTitledFirstName] мудро, хоть и неохотно, соглашается с моим требованием заплатить дополнительную дань, как того требует мой сюзерен [Liege.GetTitledFirstName]. Боюсь, это скажется на наших отношениях...;x
+EVTDESC20228;[From.GetJobTitle] [From.GetTitledFirstName] обладает немалым талантом, [From.GetHerHim] удалось вытрясти для меня больше денег - [FromFrom.GetTitledName] выплатит дополнительную дань, но наверняка теперь точит зуб на меня...;x
+EVTDESC20229;[From.GetTitledFirstName] отказывается платить дополнительную дань моему сюзерену, утверждая, что не имеет подобных обязательств перед нами, и [From.GetHerHim] "плевать на прихоти самодуров, не закреплённые договором"!;x
+EVTOPTA20229;[GetRootFromInsult]!;x
+EVTDESC20231;[GetRootFromFromInsult] [FromFrom.GetTitledFirstName] отказывается платить дополнительную дань! Мой [Root.GetTreasurerName] передал [FromFrom.GetHersHis] слова о том, что [FromFrom.GetSheHe] "не имеет подобных обязательств" перед нами, и [FromFrom.GetHerHim] "плевать на прихоти самодуров, не закреплённые договором"!;x
+EVTOPTA20231;Я этого не забуду...;x
+action_train_troops_nomadic;Тренировать воинов;x
+action_train_troops_nomadic_desc;Пусть Ваш [GetMarshalName] займётся людскими ресурсами.;x
+action_clan_sentiment;Улучшать настроение клана;x
+action_clan_sentiment_desc;Пусть Ваш [GetChancellorName] попытается поднять Ваш клан в глазах другого клана.;x
+clan_propaganda_effort;Эффект от пропаганды;x
+won_tributary_war;Победил в войне за дань;x
+opinion_driven_from_my_lands;Изгнал[___] меня с моих земель;x #[From.GetEndA]
+SENTIMENT_CLANS_WANT_MORE_LAND;Кланы хотят больше земель;x
+EVTNAME20235;Cказки о славе;x
+EVTDESC20235;Сегодня [Root.Location.GetName] - место великих возможностей. Почти все клановые старейшины собрались здесь. [Root.Liege.GetTitledFirstNameNoRegnal] - достойнейший человек, и моя обязанность - поведать им о великой славе [Root.Liege.GetHersHis] клана.;x
+EVTOPTA20235; "О великие мужи, послушайте мой рассказ...";x
+EVTOPTB20235;О какой такой великой славе? Не знаю о таком.;x
+EVTDESC20236;Мой верный [Root.GetChancellorName] [From.GetTitledFirstName] сообщил[From.GetEndA] об успехе. Клан [target_chief.Clan.GetShortBaseName] поверил [From.GetHersHis] сказкам, и теперь его старейшины относятся к клану [Root.Clan.GetName] намного лучше!;x
+INCOME_TRIBUTE;Данники;x
+EXPENSE_TRIBUTE;Дань;x
+PAYS_TRIBUTE_TO;Данник, гегемон которого - §Y$OTHER$§!;x
+PAYS_NOT_TRIBUTE_TO;НЕ платит дань правителю по имени §Y$OTHER$§!;x
+free_tributary_cb_desc;Вы можете объявить войну за освобождение себя или одного из своих вассалов от выплаты дани.;x
+alert_available_minor_title_name;Доступен почётный титул;x
+alert_available_targetted_decision_name;Доступны особые действия с людьми;x
+alert_available_title_decision_name;Доступны особые действия с титулами;x
+alert_available_settlement_decision_name;Доступны особые действия с поселениями;x
+alert_inefficent_land_management_name;Распределение земель неэффективно;x
+REVOKE_TITLE_INTERACTION_2I;Поскольку §Y[Recipient.GetTitledFirstName]§! - примитивный дикарь, наши вассалы не будут возражать.;x
+religious_desc;§Y$CLAIMANT$§! может использовать этот Casus Belli (повод для войны), чтобы захватить титулы и земли, удерживаемые правителем-иноверцем, известным как §Y$TARGET$§!, в де-юре пределах государства §Y$TITLE$§!.;x
+INTERACTION_REQUIRES_NO_UNITS_IN_ENEMY;Мы не должны иметь войск на вражеских землях, в которых нет наших владений.;x
+EVTDESC236_NC;[Root.GetTitledFirstName] и [Root.GetHersHis] мерзкие выходки больше не могут игнорироваться. Мы согласны - [Root.GetHersHis] следует отлучить от нашего священного союза.;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_TITLE_HEAD;Отлучение;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_DESC_HEAD;Если §Y[ThirdPartyCharacter.GetBestName]§W стоит у Нас на пути, имеет смысл отлучить [ThirdPartyCharacter.GetAbsPossPronoun], что потребует §R100§W очков благочестия и сильно оскорбит [ThirdPartyCharacter.GetAbsPossPronoun] родных.;x
+ASK_FOR_EXCOMMUNICATION_INTERACTION_0_HEAD;Если §Y[ThirdPartyCharacter.GetBestName]§W стоит у Нас на пути, имеет смысл отлучить [ThirdPartyCharacter.GetAbsPossPronoun], что потребует §R$COST$§W очков благочестия и сильно оскорбит [ThirdPartyCharacter.GetAbsPossPronoun] родных.;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_DESC_HEAD;Если §Y[ThirdPartyCharacter.GetBestName]§W того заслуживает, можно снять с н[ThirdPartyCharacter.GetAbsPossPronoun] отлучение.;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0_HEAD;Если §Y[ThirdPartyCharacter.GetBestName]§W того заслуживает, можно снять с н[ThirdPartyCharacter.GetAbsPossPronoun] отлучение. Это будет стоить Нам §R$COST$§W очков благочестия.;x
+DESIGNATE_HEIR_PROGENY;Вы можете выбрать наследника только среди своих детей;x
+EVTDESC327;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех поклонников идола, именуемого "[New.Religion.GetHighGodName]", в землях, известных как [From.GetFullBaseName]! Все мужи, исповедующие [Root.GetReligionFullName], должны взять оружие и отправиться на войну!\n[Root.Religion.GetHighGodName] поведёт нас!;x
+EVTDESC327_MUSLIMS;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех поклонников идола, именуемого "[New.Religion.GetHighGodName]", в землях, известных как [From.GetFullBaseName]! Все мужи, исповедующие [Root.GetReligionFullName], должны обратить оружие против заклятого врага!\nВсе их проклятые деяния должны быть обращены в прах!;x
+EVTDESC327_CHRIST;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех приверженцев [New.GetReligionNameGEN], в землях, известных как [From.GetFullBaseName]! Все мужи, исповедующие [Root.GetReligionFullName], должны взять оружие и отправиться на войну!!\nПусть маги очистят их храмы священным пламенем!;x
+EVTDESC328;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех поклонников идола, именуемого "[New.Religion.GetHighGodName]", в землях, известных как [From.GetFullBaseName]! Все праведники, верующие в [Root.GetReligionFullName] должны взять оружие и отправиться на войну!\nДа узрят идолопоклонники гнев Господа!;x
+EVTDESC328_MUSLIMS;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех поклонников идола, именуемого "[New.Religion.GetHighGodName]", в землях, известных как [From.GetFullBaseName]! Все люди, верующие в [Root.GetReligionFullName], должны обратить оружие на [New.GetReligionFullName]!\nЛживое учение Безумца должно быть уничтожено!;x
+EVTDESC328_CHRIST;[Root.GetTitledFirstName] объявил[Root.GetEndA] [Root.Religion.GetCrusadeName] против велик[New.GetOyOgo] грешни[New.GetTsyKa], ко[New.GetEyIm] является [New.GetTitledName], и всех приверженцев [New.GetReligionNameGEN], в землях, известных как [From.GetFullBaseName]! Все мужи, исповедующие [Root.GetReligionFullName], должны обратить оружие против давнего врага!\n[Root.Religion.GetHighGodName] докажет нашу правоту!;x
+EVTOPTA328;Во Имя Бога Израилева!;x
+temple_desc;Храмы богаты и могут собрать отличное ополчение. Кроме того, они приносят благочестие их владельцу и его сюзерену.;x
+ARRANGE_BETROTHAL_DESC;Устроить помолвку, подобрав самую подходящую кандидатуру среди известных людей;x
+HINT_SPLASH_TEXT;В игре "Crusader Kings II", Вы играете за правителя одной из династий средневековья.\nВ игре нет конкретной задачи, но мир наполнен амбициозными соперниками. Поэтому разумно стараться заполучить как можно больше земель, чтобы обрети могущество для себя и своей династии.;x
+HINT_SPLASH_START;Вам необходимо обзавестись наследником. Если у Вас не будет легитимного наследника на момент смерти текущего правителя - игра окончится. Неотложные вопросы, которым следует уделить внимание, будут отображаться в виде круглых значков в верхней части экрана.;x
+HINT_SPLASH_VICTORY;Почти невозвможно справиться с неограниченными владениями, поэтому полагайтесь больше на своих вассалов. Пусть они остаются довольны, получая титулы и подарки, например... Иначе не избежать мятежа. Игра окончится в 1452г.;x
+HINT_SPLASH_2_TITLE;[GetCultureAdj]ая культура. [GetReligionFullName]. [Government.GetName].;x
+HINT_SPLASH_2_CUL_DESC;Эффекты от [GetCultureAdj]ой культуры:;x
+HINT_SPLASH_2_CUL_FEATURES;[Culture.GetFeatures];x
+HINT_SPLASH_2_GOV_DESC;[Government.GetDesc];x
+HINT_SPLASH_2_GOV_FEATURES;[Government.GetFeatures];x
+HINT_SPLASH_2_REL_DESC;[Religion.GetDesc];x
+HINT_SPLASH_2_REL_FEATURES;[Religion.GetFeatures];x
+REL_INVESTITURE_DESC;$NAME$[___] даёт епископам возможность при желании платить налоги Папе, а не своему светскому сюзерену;x #RADJ
+REL_ANTIPOPES_DESC;$NAME$[___] даёт возможность правителю оспорить Папский титул, устанавливая своего Анти-Папу;x #RADJ
+REL_EXCOMMUNICATION_DESC;$HEAD_TITLE$ может отлучать тех, кто исповедует $NAME$[__];x #R_ISM
+REL_GRANT_DIVORCE_DESC;$HEAD_TITLE$ может разрешить развод;x
+REL_GRANT_INVASION_DESC;$HEAD_TITLE$ может даровать повод (Casus Belli) для военного вторжения;x
+REL_GRANT_CLAIM_DESC;$HEAD_TITLE$ может даровать претензии на титулы;x
+REL_CALL_CRUSADE_DESC;$HEAD_TITLE$ может объявить $CRUSADE$;x
+REL_PRIESTS_INHERIT_DESC;Духовенство (обладающее храмовыми поселеними) может наследовать титулы;x
+REL_PRIESTS_MARRY_DESC;Духовенство может вступать в брак;x
+REL_NO_FEMALE_RULER_OPINION_PENALTY_DESC;Нет штрафов к мнению против правления женщин;x
+REL_PREPARED_INVASIONS_DESC;Более слабые правители могут организовать "Подготовленное вторжение";x
+REL_RIVER_MOVEMENT_DESC;Флот может плавать по крупным рекам;x
+REL_RAIDING_DESC;Правители могут совершать набеги на соседей-иноверцев с целью грабежа;x
+REL_VASSALS_DONT_MIND_RAISED_DESC;Вассалы не возражают, когда их ополчение призывает сюзерен;x
+REL_DIVINE_BLOOD_DESC;Вступление правителя в брак с близким родственником улучшает мнение вассалов о нём;x
+REL_DECADENCE_DESC;$NAME$[___] подразумевает, что династии могут придти в упадок;x #RADJ
+REL_NO_MATRI_MARRIAGES_DESC;Матрилинейные браки недопустимы;x
+REL_POLYGAMY_DESC;$NAME$[___] позволяет мужчинами иметь до §Y$NUM$§! жён (если им не разрешается иметь наложниц);x #RADJ
+REL_CONCUBINAGE_DESC;$NAME$[___] позволяет мужчинам иметь до §Y$NUM$§! наложниц;x #RADJ
+REL_DEF_ATTRITION_DESC;Войска неязычников (без должных технологий) сильно страдают от нехватки снабжения на территориях, исповедующих $NAME$[__];x #R_ISM
+REL_PEACE_PRESTIGE_LOSS_DESC;Правители теряют престиж, слишком долго находясь в мире;x
+REL_CAN_REFORM_DESC;Может реформироваться в "организованную" религию;x
+REL_HEAD_CAN_BE_CREATED_DESC;Духовный лидер ($HEAD_TITLE$) может устанавливаться специальным указом (решением);x
+REL_SECULAR_HEAD_DESC;$TITLE_NAME$ возглавляется светским правителем, и может уничтожаться/создаваться, как обычный титул;x
+REL_ALWAYS_A_HEAD_DESC;Всегда есть $HEAD_TITLE$, даже если не имеет земли;x
+REL_NO_HEAD_DESC;Не имеет главы религии (и может существовать без него);x
+REL_CASTE_OPINIONS_DESC;Кастовые черты существенно влияют на мнение;x
+REL_PACIFIST_DESC;Минимальные шансы на восстания внутри страны\n§Y*§! Огромный бонус к мнению вассалов\n§Y*§! Правители могут удерживать больше титулов\n§Y*§! Правители не могут объявлять священные войны;x
+REL_HEIR_DESIGNATION_DESC;Можно назначить любого законного отпрыска своим наследником;x
+cathar_FEATURES;§Y*§! Женщины могут заседать в совете\n§Y*§! Женщины могут возглавлять войска;x
+nomadic_government_desc;Кочевники не слишком заинтересованы в поселениях, они предпочитают обширные пастбища для своих овец и лошадей. Игровой процесс вертится вокруг населения и людских ресурсов, которые оно приносит, а свободные земли (пустые ячейки) повышают возможности для его роста. Несмотря на то, что кочевники могут иметь вассалов, их гораздо больше беспокоит борьба между ведущими кланами своего народа.;x
+republic_government_desc;Правители обычных республик являются представителями собственного гражданского (городского) населения, которое избирает их на "открытых выборах". За такого правителя нельзя играть, поскольку его династия не имеет преемственности власти, а эта игра построена только на ней.;x
+theocracy_government_desc;За теократии, как и за республики, нельзя играть. Правители назначаются либо избираются из духовенства без какой-либо династической преемственности власти, столь необходимой для реализации механики этой игры.;x
+GOV_DECADENCE_DESC;$NAME$[___] подразумевает, что династии могут придти в упадок, в случае, когда религия использует это понятие;x #RADJ
+GOV_PIETY_LAW_CHANGE_DESC;Законы принимаются за счёт благочестия, а не голосованием;x
+GOV_RAIDING_DESC;Правители могут совершать набеги на соседей-иноверцев с целью грабежа;x
+GOV_FREE_RETRACT_DESC;Отзыв вассала у кого-либо не вызывает возражений со стороны других вассалов;x
+GOV_IGNORES_DE_JURE_LAWS_DESC;Де-юре законы (выше юрисдикции независимого правителя) не имеют силы;x
+GOV_CANNOT_CREATE_KINGDOMS_DESC;Нельзя создавать королевства;x
+GOV_CANNOT_USURP_K_OR_E_DESC;Нельзя узурпировать королевства и империи;x
+GOV_NO_GENDER_SUCC_LAWS_DESC;Нет гендерных законов наследования;x
+GOV_CONCUBINAGE_DESC;Правители-мужчины могут иметь до §Y$NUM$§! наложниц;x
+CUL_RAIDING_DESC;Правители могут совершать набеги на соседей-иноверцев с целью грабежа;x
+CUL_OVERSEAS_RAIDER_DESC;Можно грабить побережья с кораблей;x
+CUL_BLINDING_DISINHERITS_DESC;Слепцы не могут наследовать титулы;x
+NO_SPECIAL_FEATURES;Нет особенностей;x
+nomad_ruling_clan_too_powerful;Малые кланы недовольны;x
+cb_minor_clan_revolt_desc;Могущественные "малые" кланы могут поднять мятеж с целью занять место среди ведущих кланов.;x
+CB_NAME_MINOR_CLAN_REVOLT;Возвышение малого клана;x
+WAR_NAME_MINOR_CLAN_REVOLT;Восстание малого клана;x
+ISNT_CLOSE_RELATIVE;НЕ является близким родственником;x
+IS_CLOSE_RELATIVE;Является близким родственником;x
+HOLYSITE_LOCATION_COUNTY;§Y$SITENAME$§! содержит священное место;x
+NOT_REALM_TITLE_STARTS;Ни один титул в государстве;x
+ANY_TRADE_ROUTE_PROVINCE_STARTS;Любой округ на Торговом пути;x
+NOT_ANY_TRADE_ROUTE_PROVINCE_STARTS;Ни один округ на Торговом пути;x
+HINT_NOMAD_VIEW_TITLE;Обзор кланов;x
+AIREASON_NO_WAR_AGAINST_SPOUSE;Не станет воевать против супруга(и) (§Y[GetTitledName]§!)!;x
+HINT_NOMAD_VIEW_TEXT_1;Кочевые племена всегда находятся под властью нескольких ведущих кланов. Поддерживая паритет силы этих кланов числом и силой, хан сохраняет свою власть. Слишком мало кланов - и один из них станет слишком сильным, слишком много - и не довольны будут все, начнётся битва за пастбища.;;x
+HINT_NOMAD_VIEW_TEXT_2;Каждый клан имеет мнение о других кланах, называемое "настроением клана". Клановые вожди вынуждены учитывать эти настроения, что сказывается на их мнении о других вождях. Внимательно следите за настроениями кланов, чтобы пресечь внутренние междуусобицы.;x
+HINT_NOMAD_VIEW_TEXT_3;Кланы всегда полунезависимы и вступают в войну только, если ответят на призыв, даже против мятежного клана. К тому же каждый клан (даже правящий) может быть союзником только с одним кланом, поклявшись кровью. Вражда между кланами - обычное дело, это позволяет сражаться друг с другом за земли. Отношения к клану влияют, как на настроение его врагов, так и кровных братьев...;x
+HINT_NOMAD_VIEW_TEXT_4;Управление кланами состоит из особых действий, доступных Вам, таких как "Разделить клан", "Прекратить вражду" и т.д.;x
+EVTTOOLTIP62920;Леон и Астурия станут единым государством;x
+EVTNAME62920;Леон и Астурия едины!;x
+EVTDESC62920;Астурия и Леон объединились. Один правитель, один закон - отныне и навсегда.;x
+EVTTOOLTIP62922;Теперь правитель Кастилии;x
+EVTNAME62922;[Root.PrimaryTitle.GetTier] Кастилия;x
+EVTDESC62922;Спустя столетия подчинения Кастилия стала сильной и независимой, как никогда. Пришло время всем признать в ней равного соперника!;x
+EVTOPTA62922;А корона мне идёт!;x
+EVTOPTA62923;Ещё одно государство?;x
+EVTTOOLTIP62924;Теперь правитель Португалии;x
+EVTNAME62924;[Root.PrimaryTitle.GetTier] Португалия;x
+EVTDESC62924;Спустя столетия подчинения Португалия стала сильной и независимой, как никогда. Пришло время всем признать в ней равного соперника!;x
+EVTTOOLTIP62926;Теперь правитель Арагона;x
+EVTNAME62926;[Root.PrimaryTitle.GetTier] Арагон;x
+EVTDESC62926;Титул крохотного графства Арагон, которое франки основали много лет назад, стал столь престижным, что теперь по уровню с ним сравнится только [From.PrimaryTitle.GetTier]. Что ж, да будет так!;x
+EVTDESC_HL_2000;Ранее малоизвестный, а теперь могущественный клан, ведомый харизматичным вождем, поднял восстание в [Root.County.GetAdjective]ских землях. Они требуют себе место среди ведущих кланов.;x
+EVTOPTA_HL_2000;Пусть докажут это силой!;x
+EVTDESC_HL_2001;Ранее малоизвестный, а теперь могущественный клан, ведомый харизматичным вождем, поднял восстание в [From.County.GetAdjective]ских землях. Они требуют себе место среди ведущих кланов.;x
+EVTDESC_HL_2010;Восстание нового клана в [Root.County.GetAdjective]ских землях привлекло новых сторонников, пополнивших текущее восстание!;x
+EVTDESC_HL_2011;Восстание нового клана в [From.County.GetAdjective]ских землях привлекло новых сторонников, пополнивших текущее восстание!;x
+title_behi;Бехи;x
+title_behi_desc;Этот титул даётся женщинам благородных монгольских семей.;x
+title_master_of_the_eagle;Мастер над орлом;x
+title_master_of_the_eagle_desc;Монгольские воины используют орлов для охоты. Быть ответственным за обучение этих благородных птиц - великая честь.;x
+EVTNAME60500;Mонголы;x
+EVTDESC60500;До нас дошли слухи, что за большими горами есть амбициозный хан, объединивший кланы великой степи. Говорят, что звездочеты предрекли ему судьбу правителя мира.;x
+EVTOPTA60500;Ну что опять нужно этим коневодам?;x
+EVTOPTB60500;Прекрасно... Но мне плевать.;x
+EVTOPTC60500;Никто не покорит наш гордый народ!;x
+GENGHIS_KHAN;Чингисхан;x
+greatest_of_khans;Величайший из ханов;x
+become_genghis_khan;Стать величайшим из ханов;x
+become_genghis_khan_desc;Монгольский правитель, который сумеет объединить кланы Великой Степи, сможет претендовать на титул Чингисхана, величайшего из ханов. Подобное объединение - непростая задача, но исполнение пророчества стать правителем мира - намного труднее.;x
+become_genghis_khan_tribal;Стать величайшим из ханов;x
+become_genghis_khan_tribal_desc;Монгольский правитель, который сумеет объединить кланы Великой Степи, сможет претендовать на титул Чингисхана, величайшего из ханов. Подобное объединение - непростая задача, но исполнение пророчества стать правителем мира - намного труднее.;x
+EVTNAME60520;Mонголы;x
+EVTDESC60520;Ханы степей теперь ведут свои армии под одним флагом, флагом земли, известной как [From.PrimaryTitle.GetName], которую смог объединить один человек по имени [From.GetFirstName]. Народы степей зовут его "Чингисхан", величайший из ханов, амбиции которого простираются далеко за пределы степи, на весь наш мир - найдется ли в нём хоть кто-нибудь, способный остановить эти несметные полчища?;x
+EVTOPTA_60520;Я воистину велик!;x
+EVTOPTB_60520;Нужно остановить эту чуму, любой ценой!;x
+EVTOPTC_60520;[From.GetFirstName] - величайший из ханов!;x
+strategic_innovation;Стратегическая инновация;x
+EVTOPTC_94019;Знания дают преимущества!;x
+EVTDESC_WOL_10999;Уже больше месяца прошло с начала Вашей экспедиции, но Вы по-прежнему не можете найти подходящего торгового партнёра. Ваши люди тоскуют по дому, и всё больше из них тех, кто настаивают на том, чтобы повернуть назад.;x
+EVTOPTA_WOL_10999;Удача отвернулась от нас.;x
+tooltip_not_busy;НЕ имеет текущих занятий.\n;x
+EVTOPTB5051;Лучше возьму сокола и поохочусь.;x
+no_horse_breeder_1;Коневод;x
+no_horse_breeder_2;Коневод;x
+no_horse_breeder_3;Коневод;x
+no_horse_breeder_4;Коневод;x
+no_horse_breeder_5;Коневод;x
+no_horse_breeder_6;Коневод;x
+no_horse_breeder_7;Коневод;x
+no_horse_breeder_8;Коневод;x
+no_wrestling_1;Бойцовая яма;x
+no_wrestling_2;Бойцовая яма;x
+no_wrestling_3;Бойцовая яма;x
+no_wrestling_4;Бойцовая яма;x
+no_wrestling_5;Бойцовая яма;x
+no_wrestling_6;Бойцовая яма;x
+no_wrestling_7;Бойцовая яма;x
+no_wrestling_8;Бойцовая яма;x
+no_wrestling_desc;В бойцовой яме люди занимаются борьбой для удовольствия и славы.;x
+no_shrine_1;Святилище;x
+no_shrine_2;Святилище;x
+no_shrine_3;Святилище;x
+no_shrine_4;Святилище;x
+no_shrine_5;Святилище;x
+no_shrine_6;Святилище;x
+no_shrine_7;Святилище;x
+no_shrine_8;Святилище;x
+no_shrine_desc;В святилище люди могут проводить религиозные ритуалы и церемонии.;x
+no_ox_wagon_1;Повозки с волами;x
+no_ox_wagon_2;Повозки с волами;x
+no_ox_wagon_3;Повозки с волами;x
+no_ox_wagon_4;Повозки с волами;x
+no_ox_wagon_5;Повозки с волами;x
+no_ox_wagon_6;Повозки с волами;x
+no_ox_wagon_7;Повозки с волами;x
+no_ox_wagon_8;Повозки с волами;x
+no_ox_wagon_desc;Повозки, запряжённые волами, незаменимый инструмент снабжения. Без низ трудно обойтись, когда нужно часто перевозить с места на место целые селения - юрты легко разбираются и складываются в них, когда люди собираются в путь.;x
+no_sheep_1;Мелкий рогатый скот;x
+no_sheep_2;Мелкий рогатый скот;x
+no_sheep_3;Мелкий рогатый скот;x
+no_sheep_4;Мелкий рогатый скот;x
+no_sheep_5;Мелкий рогатый скот;x
+no_sheep_6;Мелкий рогатый скот;x
+no_sheep_7;Мелкий рогатый скот;x
+no_sheep_8;Мелкий рогатый скот;x
+no_sheep_desc;Из овечьей шерсти получается хороший войлок, это уже само по себе важно для всего хозяйства, не считая мяса.;x
+no_hunting_parties_1;Стоянки охотников;x
+no_hunting_parties_2;Стоянки охотников;x
+no_hunting_parties_3;Стоянки охотников;x
+no_hunting_parties_4;Стоянки охотников;x
+no_hunting_parties_5;Стоянки охотников;x
+no_hunting_parties_6;Стоянки охотников;x
+no_hunting_parties_7;Стоянки охотников;x
+no_hunting_parties_8;Стоянки охотников;x
+no_hunting_parties_desc;Здесь регулярно собираются охотники со всего региона.;x
+no_riding_contests_1;Ристалище;x
+no_riding_contests_2;Ристалище;x
+no_riding_contests_3;Ристалище;x
+no_riding_contests_4;Ристалище;x
+no_riding_contests_5;Ристалище;x
+no_riding_contests_6;Ристалище;x
+no_riding_contests_7;Ристалище;x
+no_riding_contests_8;Ристалище;x
+no_riding_contests_desc;Состязание определяется самых быстрых всадников.;x
+no_yam_1;Ям;x
+no_yam_2;Ям;x
+no_yam_3;Ям;x
+no_yam_4;Ям;x
+no_yam_5;Ям;x
+no_yam_6;Ям;x
+no_yam_7;Ям;x
+no_yam_8;Ям;x
+no_yam_desc;Контрольные пункты для быстрой доставки сообщений всегда держат на готове свежих лошадей, чтобы гонцы могли передавать послания на далёкие расстояния каждый день без перебоев.;x
+no_baghatur_council_1;Совет багатуров;x
+no_baghatur_council_2;Совет багатуров;x
+no_baghatur_council_3;Совет багатуров;x
+no_baghatur_council_4;Совет багатуров;x
+no_baghatur_council_5;Совет багатуров;x
+no_baghatur_council_6;Совет багатуров;x
+no_baghatur_council_7;Совет багатуров;x
+no_baghatur_council_8;Совет багатуров;x
+no_baghatur_council_desc;Здесь самые известные герои страны собираются, чтбы обсуждать всё, от политики до тактики боя.;x
+no_cattle_pens_1;Загоны для скота;x
+no_cattle_pens_2;Загоны для скота;x
+no_cattle_pens_3;Загоны для скота;x
+no_cattle_pens_4;Загоны для скота;x
+no_cattle_pens_5;Загоны для скота;x
+no_cattle_pens_6;Загоны для скота;x
+no_cattle_pens_7;Загоны для скота;x
+no_cattle_pens_8;Загоны для скота;x
+no_cattle_pens_desc;Крупный рогатый скот - это не только мясо. Вьючные животные - важный аспект кочевой жизни.;x
+no_meat_preserver_1;Погреб;x
+no_meat_preserver_2;Погреб;x
+no_meat_preserver_3;Погреб;x
+no_meat_preserver_4;Погреб;x
+no_meat_preserver_5;Погреб;x
+no_meat_preserver_6;Погреб;x
+no_meat_preserver_7;Погреб;x
+no_meat_preserver_8;Погреб;x
+no_meat_preserver_desc;Сушёное мясо долго хранится и занимает мало места - очень удобно для военных походов.;x
+no_harbor_1;Пристань;x
+no_harbor_2;Пристань;x
+no_harbor_3;Пристань;x
+no_harbor_4;Пристань;x
+no_harbor_5;Пристань;x
+no_harbor_6;Пристань;x
+no_harbor_7;Пристань;x
+no_harbor_8;Пристань;x
+no_harbor_desc;Здесь содержатся лодки и торговые суда.;x
+no_fishing_village_1;Рыбацкая деревушка;x
+no_fishing_village_2;Рыбацкая деревушка;x
+no_fishing_village_3;Рыбацкая деревушка;x
+no_fishing_village_4;Рыбацкая деревушка;x
+no_fishing_village_5;Рыбацкая деревушка;x
+no_fishing_village_6;Рыбацкая деревушка;x
+no_fishing_village_7;Рыбацкая деревушка;x
+no_fishing_village_8;Рыбацкая деревушка;x
+no_fishing_village_desc;Рыбаки делают близлежащие воды источников продовольствия.;x
+no_felt_crafter_1;Мастер по войлоку;x
+no_felt_crafter_2;Мастер по войлоку;x
+no_felt_crafter_3;Мастер по войлоку;x
+no_felt_crafter_4;Мастер по войлоку;x
+no_felt_crafter_5;Мастер по войлоку;x
+no_felt_crafter_6;Мастер по войлоку;x
+no_felt_crafter_7;Мастер по войлоку;x
+no_felt_crafter_8;Мастер по войлоку;x
+no_felt_crafter_desc;Войлок, получаемый из шерсти, служит не только одеждой, но и для строительства палаток.;x
+no_composite_bow_crafter_1;Изготовитель луков;x
+no_composite_bow_crafter_2;Изготовитель луков;x
+no_composite_bow_crafter_3;Изготовитель луков;x
+no_composite_bow_crafter_4;Изготовитель луков;x
+no_composite_bow_crafter_5;Изготовитель луков;x
+no_composite_bow_crafter_6;Изготовитель луков;x
+no_composite_bow_crafter_7;Изготовитель луков;x
+no_composite_bow_crafter_8;Изготовитель луков;x
+no_composite_bow_crafter_desc;Составной лук собирается и склеивается из бамбука, рога и сухожилий. Это компактное, удобное и смертоносное оружие хорошо подходит для использования в седле.;x
+no_lamellar_armor_crafter_1;Изготовитель доспехов;x
+no_lamellar_armor_crafter_2;Изготовитель доспехов;x
+no_lamellar_armor_crafter_3;Изготовитель доспехов;x
+no_lamellar_armor_crafter_4;Изготовитель доспехов;x
+no_lamellar_armor_crafter_5;Изготовитель доспехов;x
+no_lamellar_armor_crafter_6;Изготовитель доспехов;x
+no_lamellar_armor_crafter_7;Изготовитель доспехов;x
+no_lamellar_armor_crafter_8;Изготовитель доспехов;x
+no_lamellar_armor_crafter_desc;Ламеллярные доспехи представляются собой сшитые вместе прямоугольные пластинки, в данном случае из твёрдой и толстой кожи.;x
+no_ger_crafter_1;Изготовитель геров;x
+no_ger_crafter_2;Изготовитель геров;x
+no_ger_crafter_3;Изготовитель геров;x
+no_ger_crafter_4;Изготовитель геров;x
+no_ger_crafter_5;Изготовитель геров;x
+no_ger_crafter_6;Изготовитель геров;x
+no_ger_crafter_7;Изготовитель геров;x
+no_ger_crafter_8;Изготовитель геров;x
+no_ger_crafter_desc;Гер - это разновидность крепкой и тёплой юрты, покрытой плотным войлоком.;x
+no_camel_breeder_1;Верблюжий загон;x
+no_camel_breeder_2;Верблюжий загон;x
+no_camel_breeder_3;Верблюжий загон;x
+no_camel_breeder_4;Верблюжий загон;x
+no_camel_breeder_5;Верблюжий загон;x
+no_camel_breeder_6;Верблюжий загон;x
+no_camel_breeder_7;Верблюжий загон;x
+no_camel_breeder_8;Верблюжий загон;x
+no_camel_breeder_desc;Заводчик верблюдов заботится о том, чтобы эти ценные животные всегда были доступны для племени.;x
+no_minority_shrine_1;Святилище для иноверцев;x
+no_minority_shrine_2;Святилище для иноверцев;x
+no_minority_shrine_3;Святилище для иноверцев;x
+no_minority_shrine_4;Святилище для иноверцев;x
+no_minority_shrine_5;Святилище для иноверцев;x
+no_minority_shrine_6;Святилище для иноверцев;x
+no_minority_shrine_7;Святилище для иноверцев;x
+no_minority_shrine_8;Святилище для иноверцев;x
+no_minority_shrine_desc;Это место даёт возможность людям, не исповедующим нашу веру, чтить своих богов.;x
+no_gathering_hall_1;Зал для собраний;x
+no_gathering_hall_2;Зал для собраний;x
+no_gathering_hall_3;Зал для собраний;x
+no_gathering_hall_4;Зал для собраний;x
+no_gathering_hall_5;Зал для собраний;x
+no_gathering_hall_6;Зал для собраний;x
+no_gathering_hall_7;Зал для собраний;x
+no_gathering_hall_8;Зал для собраний;x
+no_gathering_hall_desc;Здесь собираются представители разных кланов нашей страны, чтобы обсудить внутренние дела.;x
+no_airag_producer_1;Изготовоитель айрага;x
+no_airag_producer_2;Изготовоитель айрага;x
+no_airag_producer_3;Изготовоитель айрага;x
+no_airag_producer_4;Изготовоитель айрага;x
+no_airag_producer_5;Изготовоитель айрага;x
+no_airag_producer_6;Изготовоитель айрага;x
+no_airag_producer_7;Изготовоитель айрага;x
+no_airag_producer_8;Изготовоитель айрага;x
+no_airag_producer_desc;Айраг, или кумыс - лёгкий алкогольный напиток из лошадиного молока.;x
+no_minter_1;Чеканщик;x
+no_minter_2;Чеканщик;x
+no_minter_3;Чеканщик;x
+no_minter_4;Чеканщик;x
+no_minter_5;Чеканщик;x
+no_minter_6;Чеканщик;x
+no_minter_7;Чеканщик;x
+no_minter_8;Чеканщик;x
+no_minter_desc;Чеканка местных монет позволяет развивать торговлю в этом месте.;x
+no_camp_fortifications_1;Лагерные укрепления;x
+no_camp_fortifications_2;Лагерные укрепления;x
+no_camp_fortifications_3;Лагерные укрепления;x
+no_camp_fortifications_4;Лагерные укрепления;x
+no_camp_fortifications_5;Лагерные укрепления;x
+no_camp_fortifications_6;Лагерные укрепления;x
+no_camp_fortifications_7;Лагерные укрепления;x
+no_camp_fortifications_8;Лагерные укрепления;x
+no_camp_fortifications_desc;Небольшие баррикады вокруг лагеря помогают защититься от бандитов и налётчиков.;x
+no_elephant_camp_1;Слоны;x
+no_elephant_camp_2;Слоны;x
+no_elephant_camp_3;Слоны;x
+no_elephant_camp_4;Слоны;x
+no_elephant_camp_5;Слоны;x
+no_elephant_camp_6;Слоны;x
+no_elephant_camp_7;Слоны;x
+no_elephant_camp_8;Слоны;x
+no_elephant_camp_desc;В этом лагери слонов готовят к участию в военных походах.;x
+STAT_VASSAL_LIMIT_DESC;Вассальный лимит обозначает количество прямых вассалов не ниже окружного (графского) ранга, которых Вы можете иметь без ущерба для своего правления, кочевые кланы не учитываяются. Превышение этого значения негативно отразится на сборе налогов и призыве ополчения. Кроме того часть вассальных договоров потеряет свою силу при наследовании.;x
+ENDGAME_TEXT_NOMADIC;Вы стали правителем кочевого государства, поэтому не можете продолжать игру.;x
+TT_BUILD_TRIBAL_HOLDINGS;Каждый свободный (пустой) округ получит одно §Yплеменное поселение§!\n;x
+TT_NEW_KHAN;Станет новым ханом земли, известной как §Y[PrevPrev.GetName]§!\n;x
+TT_KHAN_INDEPENDENCE;Обретёт независимость от государства, известного как §Y[Prev.GetName]§!\n;x
+adopt_tribalism;Осесть на земле;x
+adopt_tribalism_desc;Я могу поселить свой народ на этих землях как племенную общину.;x
+nomad_adopt_feudalism;Осесть как феодал;x
+nomad_adopt_feudalism_named;Принять феодализм и осесть на земле [Root.GetShortBaseName];x #Root.GetName
+CHRONICLE_ADOPTED_TRIBALISM;Oтныне [From.GetDynName] - вождь племенной общины. Осев на своих землях, [From.GetSheHe] оставил[From.GetEndA] свою кочевую жизнь и порядки позади.;x
+CHRONICLE_ADOPTED_IQTA;Oтныне [From.GetDynName] оставил[From.GetEndA] старые племенные обычаи и установил[From.GetEndA] систему икта на своих землях.;x
+CHRONICLE_NOMAD_ADOPTED_FEUDALISM;Oтныне [From.GetDynName] оставил[From.GetEndA] кочевую жизнь позади и, осев на своих землях, установил[From.GetEndA] на них феодальное право, объявив своей вотчиной.;x
+CHRONICLE_NOMAD_ADOPTED_IQTA;Oтныне [From.GetDynName] оставил[From.GetEndA] кочевую жизнь позади и установил[From.GetEndA] систему икта на своих землях.;x
+realm_has_fewer_holdings_than;Имеет меньше чем §Y$NUM$§! поселений типа $TYPE$s внутри страны;x
+realm_has_more_holdings_than;Имеет НЕ меньше чем §Y$NUM$§! поселений типа $TYPE$s внутри страны;x
+has_fewer_holdings_than;Имеет меньше чем §Y$NUM$§! поселений типа $TYPE$s в личных землях;x
+has_more_holdings_than;Имеет НЕ меньше чем §Y$NUM$§! поселений типа $TYPE$s в личных землях;x
+EMPTY_PROVINCE;Округ без поселений;x
+HOLDING_DIFF_LOWER_THAN;$FIRST_LOCATION$ имеет меньше чем §Y$VAL$%§! поселений типа §Y$FIRST_TYPE$§! по отношению к поселениям типа §Y$SECOND_TYPE$§!, которые имеет $SECOND_LOCATION$ (сейчас $FIRST_VAL$/$SECOND_VAL$ поселений имеют тип §Y$FIRST_TYPE$§!);x
+HOLDING_DIFF_AT_LEAST;$FIRST_LOCATION$ имеет НЕ меньше чем §Y$VAL$%§! поселений типа §Y$FIRST_TYPE$§! по отношению к поселениям типа §Y$SECOND_TYPE$§!, которые имеет $SECOND_LOCATION$ (сейчас $FIRST_VAL$/$SECOND_VAL$ поселений имеют тип §Y$FIRST_TYPE$§!);x
+SUB_REALM;Подгосударство;x
+EVTNAMEHL1;Hовое государство;x
+EVTNAMEHL2;Kочевники осели;x
+EVTDESCHL2;Лидер [FromFrom.GetCultureAdj]ого народа, [FromFrom.GetBestName], принял[FromFrom.GetEndA] судьбоносное решение - осесть на земле, известной как [FromFrom.PrimaryTitle.GetShortBaseName], и сделать её новым домом для племенной общины.;x
+APPOINT_COMMANDER_INTERACTION_LETTER;Мы предлагаем Вам должность полководца. Вы согласны?;x
+RESIGN_COMMANDER_INTERACTION_LETTER;Мы решили лишить Вас должности полководца.;x
+IS_NOT_MARSHAL;§Y$RECIPIENT$§W НЕ может при этом занимать должность $MARSHAL$.;x
+adopt_faith;Принять веру клана;x
+recently_adopted_faith_tooltip;Не принимал веру другого клана в последние 10 лет\n;x
+ABSORB_CLAN_INTERACTION_TITLE;Поглотить клан;x
+ABSORB_CLAN_INTERACTION_ACCEPT_SETUP;Клан поглощён;x
+ABSORB_CLAN_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! поглотил[Actor.GetEndA] клан §Y[Recipient.GetOnlyDynastyName]§!, лишив вождя по имени §Y[Recipient.GetBestName]§! [Recipient.GetHersHis] положения.;x
+ABSORB_CLAN_INTERACTION_DECLINE_SETUP;В поглощении клана отказано;x
+ABSORB_CLAN_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! отказал[Recipient.GetEndA] в поглощении клана §Y[Recipient.Clan.GetName]§!, несмотря на то, что §Y[Actor.GetBestName]§! требует этого.;x
+ABSORB_CLAN_INTERACTION_0;§Y[Recipient.GetTitledFirstName]§! ухудшит своё мнение о Вас на §R$VAL$§!.;x
+ABSORB_CLAN_INTERACTION_1;Клан [Recipient.GetHersHis] кровного брата, известного как §Y$BLOOD_BROTHER$§!, ухудшит своё §Yнастроение§! по отношению к Вашему на §R$VAL$§!.;x
+ABSORB_CLAN_INTERACTION_2;Вассальные кланы воспримут это как акт тирании, ухудшая своё §Yнастроение§! по отношению к Вашему клану на §R$VAL$§!.;x
+ABSORB_CLAN_INTERACTION_3;Вассальные кланы не станут возражать, посчитав, что в нашей стране и так слишком много кланов.;x
+opinion_absorbed_my_clan;Поглотил[___] мой клан;x #[From.GetEndA]
+EVTDESC503;Я смиренно соглашаюсь с твоим решением поглотить клан [From.GetOnlyDynastyName], хотя оно глубокого огорчает меня.;x
+EVTDESC504;Мой народ не сдастся без боя! Отныне ты - не мой хан.;x
+LIEGE_ENDED_OTHER_WAR_PARTICIPATION_SETUP;Сюзерен больше не участвует в войне;x
+LIEGE_ENDED_OTHER_WAR_SETUP;Сюзерен больше не воюет;x
+ASK_FOR_CLAIM_INTERACTION_ACCEPT_SETUP;Прошение о претензии принято;x
+SET_TITLE_ADVENTURER_EFFECT;§Y$TITLE$§! станет титулом авантюриста.\n;x
+UNSET_TITLE_ADVENTURER_EFFECT;§Y$TITLE$§! перестанет быть титулом авантюриста.\n;x
+SET_TITLE_LANDLESS_EFFECT;§Y$TITLE$§! станет временным титулом.\n;x
+UNSET_TITLE_LANDLESS_EFFECT;§Y$TITLE$§! перестанет быть временным титулом.\n;x
+LOOTING_FORBIDDEN_AGAINST_CHAR;НЕ может грабить человека по имени §Y$CHAR$§!;x
+HAS_FEUD_WITH;Враждует с кланом §Y$CLAN$§!;x
+NOT_HAS_FEUD_WITH;НЕ враждует с кланом §Y$CLAN$§!;x
+MUST_BE_A_COMMANDER;Возможно только, если §Y$FIRST_CHAR$§! является одним из полководцев на службе у человека по имени §Y$SECOND_CHAR$§!;x
+RESIGN_AS_COMMANDER_INTERACTION_TITLE;Отказаться от командования;x
+RESIGN_AS_COMMANDER_INTERACTION_DESC;Подать в отставку и отказаться от должности полководца;x
+RESIGN_AS_COMMANDER_INTERACTION_LONG_DESC;Когда нужно избежать травм или возглавить собственные войска, уход с должности полководца может быть полезен.;x
+RESIGN_AS_COMMANDER_INTERACTION_ACCEPT_SETUP;Полководец ушёл с должности;x
+RESIGN_AS_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W сложил[Actor.GetEndA] с себя полномочия командующего войсками.;x
+RESIGN_AS_COMMANDER_INTERACTION_LETTER;Я слагаю с себя полмочия командующего и больше не Ваш полководец.;x
+MINOR_TITLES;Должности;x #Почётные титулы
+allowed_to_hold;Условия обладания;x
+CLAN_OPINION_LOWER_THAN;Настроение клана меньше чем ;x
+CLAN_OPINION_AT_LEAST;Настроение клана НЕ меньше чем ;x
+CLAN_OPINION_DIFF_LOWER_THAN;§Y$FIRST$§! и §Y$SECOND$§! имеют разницу в §Yнастроении§! меньше чем §Y$VAL$§!;x
+CLAN_OPINION_DIFF_AT_LEAST;§Y$FIRST$§! и §Y$SECOND$§! имеют разницу в §Yнастроении§! НЕ меньше чем §Y$VAL$§!;x
+alert_available_minor_title_instant;§YДоступны специальные титулы§!;x
+alert_available_minor_title_delayed;Могут быть дарованы следующие специальные титулы:\n$LIST$;x
+title_commander_desc;§YПолководцами§! могут быть только те, кому правитель дарует этот титул, а также его §Yсоветники§! по военным делам.;x
+NUM_OF_FEUDS_LESS;Меньше чем §Y$VAL$§W межклановых конфликтов.;x
+NUM_OF_FEUDS_AT_LEAST;НЕ меньше чем §Y$VAL$§W межклановых конфликтов.;x
+CLANS;Кланы;x
+EVTNAMEHL11;Kлан принял нашу веру;x
+EVTDESCHL11;[FromFrom.GetBestName], вождь клана [FromFrom.Clan.GetName], принял[FromFrom.GetEndA] Нашу веру.;x
+EVTNAMEHL9;Kлан принял чужую веру;x
+EVTDESCHL9;[FromFrom.GetBestName], вождь клана [FromFrom.Clan.GetName], принял[FromFrom.GetEndA] [From.GetReligionFullName], веру, которую исповедует [From.GetFirstName].;x
+convert_fort_to_city_named;Основать город [Root.GetName] на месте форта;x
+convert_fort_to_castle_named;Построить замок [Root.GetName] на месте форта;x
+convert_fort_to_temple_named;Построить храм [Root.GetName] на месте форта;x
+convert_fort_to_tribal_named;Основать поселение [Root.GetName] на месте форта;x
+FORM_BLOOD_OATH_INTERACTION_ACCEPT_SETUP;Кровная клятва;x
+FORM_BLOOD_OATH_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W и [Recipient.GetBestName] стали кровными братьями.;x
+FORM_BLOOD_OATH_INTERACTION_DECLINE_SETUP;В кровной клятве отказано;x
+FORM_BLOOD_OATH_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отказал[Recipient.GetEndA] главе клана, известному как [Actor.GetBestName] в кровной клятве.;x
+FORM_BLOOD_OATH_INTERACTION_LETTER;Я предлагаю клятву на крови, которая свяжет нас до конца жизни.;x
+AI_AMBITION_LESS_THAN;Амбиции ИИ меньше чем ;x
+AI_AMBITION_AT_LEAST;Амбиции ИИ больше чем ;x
+AI_HONOR_LESS_THAN;Честь ИИ меньше чем ;x
+AI_HONOR_AT_LEAST;Честь ИИ больше чем ;x
+AI_RATIONALITY_LESS_THAN;Здравомыслие ИИ меньше чем ;x
+AI_RATIONALITY_AT_LEAST;Здравомыслие ИИ больше чем ;x
+AI_GREED_LESS_THAN;Жадность ИИ меньше чем ;x
+AI_GREED_AT_LEAST;Жадность ИИ больше чем ;x
+AI_ZEAL_LESS_THAN;Набожность ИИ меньше чем ;x
+AI_ZEAL_AT_LEAST;Набожность ИИ больше чем ;x
+AIREASON_CLAN_OPINION;Настроение клана §Y[Clan.GetName]§!;x
+AIREASON_MY_KHAN;Мой хан;x
+AIREASON_BLOOD_BROTHER;[GetTitledFirstName] - мой кровный брат;x
+AIREASON_FEUD;Враждует с персонажем [GetTitledFirstName];x
+clan_opinion_absorbed_clan;Поглотил клан;x
+clan_opinion_absorbed_blood_brother_clan;Поглотил клан моего кровного брата;x
+clan_opinion_absorbed_my_clan;Пытался поглотить мой клан;x
+SETTLE_FEUD_INTERACTION_TITLE;Забыть о вражде;x
+SETTLE_FEUD_INTERACTION_ACCEPT_SETUP;Вражда забыта;x
+SETTLE_FEUD_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W и [Recipient.Clan.GetName] забыли о вражде.;x
+SETTLE_FEUD_INTERACTION_DECLINE_SETUP;В предложении забыть о вражде отказано;x
+SETTLE_FEUD_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W не хочет забывать о вражде с кланом [Actor.Clan.GetName].;x
+SETTLE_FEUD_INTERACTION_LETTER;[Actor.GetBestName] шлёт гонца с ценными дарами в надежде, что это поможет нам забыть о вражде, и кланы [Actor.Clan.GetName] и [Recipient.Clan.GetName] заживут в мире друг с другом.;x
+EVTDESC507;С распрями между нашими кланами покончено - наши люди снова будут жить в мире.;x
+EVTOPTA507;Наконец-то!;x
+EVTDESC508;Клан [From.Clan.GetName] слишком своенравен - они отказываются забыть о наших разногласиях.;x
+EVTOPTA508;Они для этого слишком примитивны...;x
+AIREASON_OTHER_FEUDS;Враждует с другими;x
+NUM_OF_TITLES_IN_REALM_LESS;В стране меньше чем §Y$VAL$§W титулов уровня $TIER$.;x
+NUM_OF_TITLES_IN_REALM_LEAST;В стране НЕ меньше чем §Y$VAL$§W титулов уровня $TIER$.;x
+NUM_OF_TITLES_IN_REALM_LESS_2;В стране меньше чем §Y$VAL$§W титулов.;x
+NUM_OF_TITLES_IN_REALM_LEAST_2;В стране НЕ меньше чем §Y$VAL$§W титулов.;x
+LOOTING_BLOOD_BROTHER;Нельзя грабить кровных братьев.;x
+SPLIT_CLAN_INTERACTION_TITLE;Разделить клан;x
+SPLIT_CLAN_INTERACTION_DESC;Разделить клан §Y[Recipient.Clan.GetName]§!.;x
+SPLIT_CLAN_INTERACTION_LONG_DESC;Разделение кланов - хороший способ сохранять Ваши вассальные кланы слабыми. Тем не менее, слишком большое число кланов сделает их недовольными из-за потребности во власти и ресурсах. За Вашу щедрость новый клан будет благодарен и лоялен к Вам, на какое-то время...;x
+SPLIT_CLAN_INTERACTION_ACCEPT_SETUP;Клан разделён;x
+SPLIT_CLAN_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! разделил[Actor.GetEndA] клан §Y[Recipient.Clan.GetName]§!.;x
+SPLIT_CLAN_INTERACTION_DECLINE_SETUP;В разделении клана отказано;x
+SPLIT_CLAN_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! отказа[Recipient.GetLasLsya] делить клан §Y[Recipient.Clan.GetName]§!, несмотря на то, что §Y[Actor.GetBestName]§! требует этого.;x
+SPLIT_CLAN_INTERACTION_0;Разделить клан §Y[Recipient.Clan.GetName]§! и тем самым даровать титул §Y$TITLE$§! новому клану.;x
+SPLIT_CLAN_INTERACTION_1;Это ухудшит §Yнастроение§! клана §Y[Recipient.GetTitledFirstName]§! по отношению к Вашему на §R$VAL$§!.;x
+SPLIT_CLAN_INTERACTION_2;Клан [Recipient.GetHersHis] кровного брата, известного как §Y$BLOOD_BROTHER$§!, ухудшит своё §Yнастроение§! по отношению к Вашему на §R$VAL$§!.;x
+SPLIT_CLAN_INTERACTION_3;Вассальные кланы будут недовольны ростом числа конкурентов и ухудшат своё §Yнастроение§! по отношению к Вашему клану на §R$VAL$§!.;x
+SPLIT_CLAN_INTERACTION_4;Вассальные кланы не станут возражать, посчитав, что в нашей стране не так уж много кланов.;x
+EVTDESC509;Я смиренно соглашаюсь с твоим решением разделить мой клан, хотя оно глубоко огорчает меня.;x
+EVTDESC510;Мой народ не сдастся без боя! Отныне ты - не мой хан.;x
+clan_opinion_created;Лояльный клан;x
+INTERACTION_REQUIRES_NOT_BLOOD_BROTHER;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! и §Y[Actor.GetTitledFirstName]§! НЕ являются кровными братьями;x
+INTERACTION_REQUIRES_NOT_FEUD;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! и  §Y[Actor.GetTitledFirstName]§! НЕ враждуют;x
+INTERACTION_REQUIRES_RECIPIENT_IS_ACTOR_OR_RECIPIENT_MOST_POPULOUS_VASSAL;Можно использовать только против себя или наиболее многочисленного вассального клана;x
+INTERACTION_REQUIRES_VALID_EMPTY_PROVINCE;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! имеет подходящую землю (округ НЕ имеет поселения в столице);x
+alert_over_clan_limit_instant;§YПревышение кланового лимита§!;x
+alert_over_clan_limit_delayed;Вы имеете §R$NUM$§!/§Y$MAX$§! кланов, что даёт штраф к §Yнастроению§! вассальных кланов.;x
+alert_over_clan_limit_name;Клановый лимит превышен;x
+TOTAL_POPULATION_DESC;§YВсего населения в стране§!;x
+alert_too_few_clans_instant;§YКланам нужно больше земель§!;x
+alert_too_few_clans_delayed;У Вас слишком много земель в сравнении с другими кланами. Раздайте §Y$NUM$§! наделов (округов), чтобы избежать возможности клановых мятежей, из-за того, что их §Yнастроение§! по отношению к Вашему клану слишком негативно. Кроме того, Вы можете столкнуться с §Yвосстанием малого клана§!, который захочет занять место среди ведуших...;x
+alert_too_few_clans_name;Кланам нужно больше земель;x
+MAX_CLAN_LIMIT;Максимум кланов;x
+SPLIT_CLAN_INTERACTION_LETTER;Я объявляю о своём решении забрать земли, которые известны Вам как [ThirdPartyTitle.GetFullName] и передать их новому клану. Отказ с Вашей стороны сделать это добровольно приведёт к войне.;x
+ABSORB_CLAN_INTERACTION_LETTER;Я забираю Ваши земли и объединяю наши кланы под моим началом. Отказ передать их добровольно приведёт к войне.;x
+MODIFIER_RETINUE_MAINTENENCE_COST;Содержание гвардии;x
+MODIFIER_HORDE_MAINTENENCE_COST;Содержание орды;x
+MODIFIER_CLAN_SENTIMENT;Настроение клана;x
+CAPITAL_AT_TRADE_POST_MODIFIER;В столице;x
+CAPITAL_ADJACADENT_TO_TRADE_POST_MODIFIER;Близость к столице;x
+nomad_horse_offensive_modifier;Столица находится на степной, пустынной или равнинной местности;x
+nomad_horse_defensive_modifier;Столица находится в горах, на холмах или в арктической зоне;x
+MODIFIER_GLOBAL_WINTER_SUPPLY;Зимнее снабжение;x
+BUILDING_ACTIVE;Это строение активно только, когда;x
+CAPITAL_AT_HOLY_SITE;Столица на священном месте религии $RELIGION$[__]: §G+$VALUE$§!;x #R_ISM
+COMMANDER_LIMIT;Предельное число полководцев: §Y$LIMIT$§!;x
+RULER_HAS_MOVED_CAPITAL_RECENTLY;§Y[GetTitledFirstName]§! не может переместить столицу ещё $MONTHS$ месяцев, если только это не является возвратом к исконной столице [PrimaryTitle.GetAdjective]ской державы.;x
+CONFIRM_MAKE_CAPITAL_DESC;Вы уверен, что хотите переместить своё двор в округ $PROVINCE$, сделав новое место своей столицей?;x
+CONFIRM_MAKE_CAPITAL_DESC_0;$GOVERNMENT$ подразумевает, что правитель может это делать только раз в жизни.;x
+CONFIRM_MAKE_CAPITAL_DESC_1;Вы не сможете перенести столицу снова ещё $MONTHS$ месяцев.;x
+MOVED_CAPITAL_MONTHS_MULT;Сроки переноса столицы;x
+convert_fort_to_city_desc;Этот [Root.County.GetAdjective]ский форт может послужить основой для города.;x
+convert_fort_to_castle_desc;Этот [Root.County.GetAdjective]ский форт может послужить основой для замка.;x
+convert_fort_to_temple_desc;Этот [Root.County.GetAdjective]ский форт может послужить основой для храма.;x
+convert_fort_to_tribal_desc;Этот [Root.County.GetAdjective]ский форт может послужить основой для племенного поселения.;x
+NOMAD_CANNOT_MOVE_CAPITAL_TO_HOLDING;Кочевники могут перемещать свою столицу только на свободную землю (столицей округа должна быть пустая ячейка);x
+INTERACTION_REQUIRES_RECIPIENT_NO_OCCUPIED_PROVINCES;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! НЕ имеет оккупированных территорий;x
+MAPMODE_TRADE_ZONES;§YТорговые зоны§!;x
+TRADEZONE_OWNER_REPUBLIC;Эта торгова зона принадлежит семье §Y$FAMILY$§! государства §Y$REPUBLIC$§!;x
+TRADEZONE_OWNER;Эта торговая зона принадлежит городу §Y$HOLDING$§!;x
+tut_2c_9;Тайный советник - контршпионаж, создание сети шпионов, изучение технологий других государств.;x
+tut_2c_10;Духовник - обращение населения в веру, исследование культуры, улучшение религиозных отношений.;x
+TECH_DESC_NOMAD_CAPITAL;Технологические достижения в Вашей столице ($NAME$);x
+SPREAD_FROM_NOMAD_CAPITAL;От кочевой столицы;x
+SPREAD_TO_NOMAD_CAPITAL;От округа;x
+TECH_GROWTH_NOMAD_CAPITAL_SETUP;Развитие технологий в кочевой столице;x
+TECH_GROWTH_NOMAD_CAPITAL_LOG;$NAME$ развивает местные знания о технологии $TECH$ до уровня §Y$LEVEL$§!;x
+TECH_GROWTH_PROG_NOMAD_CAPITAL_SETUP;Развитие технологий в кочевой столице;x
+TECH_GROWTH_PROG_NOMAD_CAPITAL_LOG;$NAME$ повышает местный прогресс в развитии технологии $TECH$ до уровня §Y$PROG$§!;x
+RULER_CANNOT_MOVE_CAPITAL_AT_WAR;Вы не можете перемещать столицу в военное время.;x
+faction_overthrow;Свержение кагана;x
+faction_overthrow_title;Свержение кагана;x
+faction_overthrow_desc;Участники стремятся, чтобы §Y[From.GetBestName]§! занял[From.GetEndA] место лидера всей земли, известной как §Y[This.GetFullName]§!. Набрав достаточную силу, §Y[From.GetBestName]§! может выдвинуть ультиматум, и сюзерен, §Y[From.Liege.GetBestName]§!, вынужден[From.Liege.GetEndA] будет ответить на него.;x
+WAR_NAME_INSTALLKHAN;За то, чтобы $ATTACKER$ стал каганом [Recipient.PrimaryTitle.GetAdjective]ой земли;x
+EVTDESC8210;Вы показали себя недостойным человеком - это я говорю от лица вождей всех кланов. Пора передать бразды правления тому, кто его достоин.\nС чистой совестью,\n [From.GetTitledName];x
+EVTDESC8211;Слабый каган согласился с нашими требованиями и уступив нам, сдался.;x
+EVTDESC8212;До кровопролития дело не дошло - фракция, ведомая недовольными вождями кланов, распалась, поскольку предыдущий каган сдался.;x
+EVTDESC8213;О великий, [Root.GetTitledName]! Я сдаюсь на твою милость. Умоляю, пощади меня и моих сородичей...;x
+EVTOPTA8213;Твой клан хорошо служил нам, ты будешь жить, пока...;x
+EVTOPTB8213;Трусам вроде тебя нет места среди живых!;x
+NOMAD_TECH_LEECH;Технологии от данников;x
+IMPRISON_INTERACTION_FORCED;Их порядки отличаются от наших - кланы не станут возражать против пленения чужака.;x
+EXECUTE_INTERACTION_FORCED;Их порядки отличаются от наших - кланы не станут возражать против казни чужака.;x
+EXILE_INTERACTION_FORCED;Их порядки отличаются от наших - кланы не станут возражать против изгнания чужака.;x
+PILLAGE_DESTROY_BUILDINGS;Постройки будут разрушены!\n;x
+pillage_settlement;Разорить селение;x
+REVOKE_TITLE_INTERACTION_LARGE_NOMAD;У этого правителя больше земель чем у нас, поэтому мы можем отобрать их.;x
+faction_overthrow_ultimatum;Свергнуть хана;x
+faction_overthrow_ultimatum_desc;§Y[Root.Liege.GetBestName]§! получит ультиматум с требованиями отказаться от трона и сделать Вас новым ханом. Если [Root.Liege.GetSubjectPronoun] откажется, Ваша фракция поднимет мятеж.;x

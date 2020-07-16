@@ -1,0 +1,82 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+mesoamerican;Мезоамериканск;Mйso-amйricain;Mesoamerikaner;;Mesoamericano;;;;;;;;;x
+nahuatl;Нахуа;Nahua;Nahua;;Nahua;;;;;;;;;x
+Kamal;Камаль;Aztиque;Azteke;;Kamal;;;;;;;;;x
+e_mexikha;Вторжение Камаль;Empire Aztиque;Aztekenreich;;Kamal Empire;;;;;;;;;x
+e_mexikha_adj;Захватчик-Камаль;aztиque;aztekisch;;Kamal;;;;;;;;;x
+emperor_nahuatl;Хуэитлахтоани;Huetlatoani;Huetlatoani;;Huetlatoani;;;;;;;;;x
+emperor_female_nahuatl;Хуэталатоани;Huetlatoani;Huetlatoani;;Huetlatoani;;;;;;;;;x
+king_nahuatl;Тлатоани;Tlatoani;Tlatoani;;Tlatoani;;;;;;;;;x
+king_female_nahuatl;Тлатоани;Tlatoani;Tlatoani;;Tlatoani;;;;;;;;;x
+duke_nahuatl;Уэкальпишки;Huecalpixqui;Huecalpixqui;;Huecalpixqui;;;;;;;;;x
+duke_female_nahuatl;Уэкальпишки;Huecalpixqui;Huecalpixqui;;Huecalpixqui;;;;;;;;;x
+count_nahuatl;Кальпишки;Calpixqui;Calpixqui;;Calpixqui;;;;;;;;;x
+count_female_nahuatl;Кальпишки;Calpixqui;Calpixqui;;Calpixqui;;;;;;;;;x
+baron_nahuatl;Тэктли;Teuhtli;Teuctli;;Teuctli;;;;;;;;;x
+baron_female_nahuatl;Тэктли;Teuhtli;Teuctli;;Teuctli;;;;;;;;;x
+GOD_HUITZILOPOCHTLI;Уицилопочтли;Huitzilopochtli;Huitzilopochtli;;Huitzilopochtli;;;;;;;;;x
+GOD_XIPE_TOTEC;Хипе-Тотек;Xipe Totec;Xipe-Totec;;Xipe-Totec;;;;;;;;;x
+GOD_TEZCATLIPOCA;Тескатлипока;Tezcatlipoca;Tezcatlipoca;;Tezcatlipoca;;;;;;;;;x
+GOD_QUETZALCOATL;Кетцалькоатль;Quetzalcoatl;Quetzalcoatl;;Quetzalcoatl;;;;;;;;;x
+GOD_MICTLANTECUHTLI;Миктлантекутли;Mictlantecuhtli;Mictlantecuhtli;;Mictlantecuhtli;;;;;;;;;x
+GOD_TLALOC;Тлалок;Tlaloc;Tlaloc;;Tlaloc;;;;;;;;;x
+ISNT_TRIBAL_TYPE_TITLE;Не племенной;n'est PAS tribal;ist NICHT stammeszugehцrig;;NO es Tribal ;;;;;;;;;x
+IS_TRIBAL_TYPE_TITLE;Племенной;est tribal;ist stammeszugehцrig;;Es Tribal ;;;;;;;;;x
+HAS_HORDE_CULTURE;Относится к ордынской культуре;est d'une culture de Horde;gehцrt einer Horden-Kultur an;;Es de una Cultura Horda;;;;;;;;;x
+HAS_NOT_HORDE_CULTURE;Не относится к ордынской культуре;n'est PAS d'une culture de Horde;gehцrt KEINER Horden-Kultur an;;NO es de una Cultura Horda;;;;;;;;;x
+DEATH_SACRIFICED;был принесён в жертву $KILLER$;a йtй offert en sacrifice aux dieux par $KILLER$;wurde von $KILLER$ in einem Opferritual den Gцttern geopfert;;;;;;;;;;;x
+DEATH_SACRIFICED_NO_KILLER;был принесён в жертву языческим богам;a йtй offert en sacrifice aux dieux;wurde in einem Opferritual den Gцttern geopfert;;fue ofrecido en sacrificio a los dioses;;;;;;;;;x
+RETTYPE_CUL_NAHUA;Воины-ягуары;Guerrier jaguar;Jaguar-Krieger;;Guerrero Jaguar;;;;;;;;;x
+EVTDESC_SSI_001;Cегодня странно выглядящие незнакомцы на экзотических кораблях причалили к берегу и попросили аудиенции. С собой они привезли чудесные подарки и товары: бусы, жемчуг и разноцветные перья. Их язык не был известен никому из придворных, но похоже они хотели получить землю в обмен на свои побрякушки!;Des йtrangers aux alluresdeaux extraordinaires, des perles stygiennes, de la nacre et des plumes colorйes. Ils parlaient un langage inconnu de tous а la cour, mais il йtait йvident qu’ils souhaitaient йchanger leurs babioles contre des terres!;;Hoy han desembarcado unos forasteros con aspecto extraсo y barcos exуticos, solicitando una audiencia.  Llegaron con regalos maravillosos y mercancнa – abalorios estнgios, perlas y plumas de vivos colores. Hablaban unaAlpha lengua desconocida por todos en la corte, pero Ўparecнa que querнan tierras a cambio de sus adnos!;;;;;;;;;x
+EVTOPTA_SSI_001;У меня плохое предчувствие...;J'ai un mauvais pressentiment...;Ich habe ein schlechtes Gefьhl bei dieer Sache …;;Tengo un mal presentimiento sobre esto ... ;;;;;;;;;x
+EVTNAME_SSI_002;Чужаки из Дальних Морей;Des йtrangers venus d’au-delа des mers ;Fremde von jenseits der Meere;;Extranjeros que vienen de El Otro Lado del Mar ;;;;;;;;;x
+EVTDESC_SSI_002;Появились слухи о непонятных чужестранцах на странных судах, что бродят вдоль побережий. Они не говорят ни на одном из известных языков, скупают землю, носят странные белые доспехи и акавирские украшения. Перед изгнанием их послов они угрожали местным правителям местью, по видимому, страшными проклятьями, ибо они - слуги могущественного и великого Императора, что правит за пределами Падомайского Океана.;;;;;;;;;;;;;x
+EVTOPTA_SSI_002;Хах! Какая фэнтезийная угроза.;Ah! Une manace fantaisiste.;Ha! Ein Hirngespinst einer Drohung.;;ЎAjб! Una Amenanza de Fantasнa.;;;;;;;;;x
+EVTDESC_SSI_003;Тысячи грозных кораблей появились у берегов [Root.GetName]. С них хлынули бесчисленные орды свирепых воинов в странных одеждах. Их ритуальные крики и бой барабанов можно услышать за много миль!;;;;;;;;;;;;;x
+EVTOPTA_SSI_003;Это Закат Тамриэля…;;;;;;;;;;;;;x
+EVTNAME_SSI_004;Вторжение Зимы;L'Invasion du Soleil Couchant;Invasion bei Sonnenuntergang;;La invasion del Ocaso;;;;;;;;;x
+EVTDESC_SSI_004;Тысячи грозных кораблей появились у берегов [From.SeaZone.GetName]. С них хлынули бесчисленные орды свирепых воинов в странных одеждах. Их ритуальные крики и бой барабанов можно услышать за много миль! Эти захватчики из-за Падомайского Океана поклоняются демонам из пустот Обливиона и странным Ветрам. Они вырезают сердца своих жертв и сдирают с них кожу. Их жрецы носят её как украшение, множество дней...;;;;;;;;;;;;;x
+EVTOPTA_SSI_004;[This.Religion.GetRandomGodNameCap] - молю о милосердии!;Que [This.Religion.GetRandomGodNameCap] ait pitiй de nous !;[This.Religion.GetRandomGodNameCap], hab Erbarmen!;; Ў[This.Religion.GetRandomGodNameCap] tenga Clemencia! ;;;;;;;;;x
+EVTDESC_SSI_005;Десятки тысяч парусов закрыли собой горизонт - ужасающие Камаль, Бич Тамриэля, достигли наших берегов!;Une forкt de voiles est apparue а l’horizon : le terrible flйau aztиque a atteint nos rives !;Ein ganzer Wald von Segeln ist am Horizont erschienen – der furchtbare, aztekische Schrecken hat unsere Kьsten erreicht!;;Ha aparecido una profusiуn de velas en el horizonte – Ўel terrible azote Kamala ha llegado a nuestras costas!;;;;;;;;;x
+EVTOPTA_SSI_005;Седлайте коней!;Que l'on prйpare mon cheval !;Sattelt mein Pferd!;;ЎEnsilla mi caballo!;;;;;;;;;x
+EVTNAME_SSI_006;Вторжение Зимы;L'Invasion du Soleil Couchant;Invasion bei Sonnenuntergang;; La invasion del Ocaso;;;;;;;;;x
+EVTDESC_SSI_006;Другой, не менее огромный флот кровожадных Камаль был замечен возле [From.SeaZone.GetName]. Население бежит в страхе, не желая попасть на алтари чужих, непонятных богов. Повелитель этих захватчиков, судя по слухам, Дал обет покорить весь мир во имя Четырёх Ветров. Чего бы это не стоило...;;;;;;;;;;;;;x
+EVTOPTA_SSI_006;[This.Religion.GetRandomGodNameCap] помилуй нас! Молю о защите!;Que [This.Religion.GetRandomGodNameCap] ait pitiй de nous !;[This.Religion.GetRandomGodNameCap], hab Erbarmen!;;Ў[This.Religion.GetRandomGodNameCap] tenga Clemencia!;;;;;;;;;x
+EVTNAME_SSI_030;Новости из-за моря;Des nouvelles de par delа l'ocйan;Neuigkeiten von jenseits des Meeres;;Noticias de El Otro Lado del Mar;;;;;;;;;x
+EVTDESC_SSI_030;Слухи достигли Тамриэля. Новости о титанической борьбе, что бушует за Падомайским Океаном, на родине Камаль. Сами Камаль редко обсуждают это с чужаками, но судя по всему, цаэски практически уничтожили их империю в ходе многовековой битвы. \n\n Если верить рассказам, цаэски вооружены загадочными громовыми посохами, что способны убивать людей с огромного расстояния. Камаль лишь недавно смогли замедлить их продвижение, во многом благодаря лошадям, завезённым из Тамриэля. Ведь сами Камаль верховой езды не ведали.;;;;;;;;;;;;;x
+EVTOPTA_SSI_030;Громовые палки? Змеиные Боги? Вы можете сообщить что-то менее глупое?!;Bвtons-tonnerre ? Dieux du soleil ? Je n’ai pas le temps pour ces absurditйs.;Donnerstдbe? Sonnengцtter? Ich habe keine Zeit fьr solch einen Unsinn.;;їPalos-trueno? їDioses del Sol? No tengo tiempo de estas estupideces.;;;;;;;;;x
+EVTNAME_SSI_031;Падение Великих Равнин;La chute des Grandes Plaines;Der Niedergang der groЯen Ebenen;; La Caнda de las Grandes LLanuras;;;;;;;;;x
+EVTDESC_SSI_031;Камаль смогли справится со своим страхом лошадей, и несколько коневодческих хозяйств было создано на их родине, в долине Анауака. Информации из заморских земель поступает крайне мало, но судя по всему Камаль смогли использовать свои новые конные полки с большим толком, и умиротворили своих соперников на равнинах.\n\n Несколько городов цаэски уже сдались под их натиском. Это лишь вопрос времени, когда Камаль смогут завоевать весь Акавир, превратив его в огромную империю со столицей в городе Алдайм.;;;;;;;;;;;;;x
+EVTOPTA_SSI_031;Такого никогда не должно случится у нас!;Cela ne doit jamais se produire ici !;Dies darf hier niemals geschehen!;;ЎEso nunca sucederб aquн!;;;;;;;;;x
+EVTNAME_SSI_035;Деликатесы с Дальнего Востока;Les Plaisirs de l'Ouest;Delikatessen aus dem fernen Easten;;Exquisiteces del Extremo Oriente;;;;;;;;;x
+EVTDESC_SSI_035;Кроме войн и болезней, что привезли с собой Камаль из Акавира, есть и некоторые полезные вещи. Их традиционная пища включает в себя некоторые, якобы съедобные растения, многие из которых  уже можно купить у продавцов экзотики по всему Тамриэлю.\n\n Предприимчивые землевладельцы засеяли некоторые поля семенами странного растения, что зовётся Кар-То-Фан, в то время как другие экспериментируют с Полми-Тарами и кукурузой. Многие дворяне влюблены в сладкий напиток "шоколад", из бобов дерева какао.;;;;;;;;;;;;;x
+EVTOPTA_SSI_035;Это мимолетное  увлечение. Оно не будет распространятся.;Une mode passagиre. Elle ne durera pas.;Eine schnelllebige Erscheinung, die schon bald in der Bedeutungslosigkeit versinken wird.;;Serб una moda de pasajera. Jamбs va a cuajar.;;;;;;;;;x
+EVTDESC_SSI_040;Весь Солстхейм стал колонией империи Камаль. Норды, что плыли на Восточный Остров, предупреждали своих родичей о могущественной империи Акавира, но скаалы не вняли советам… теперь дворянин-Камаль, попавший в немилость владыки, может быть назначен губернатором этой холодной и бесплодной земли.;;;;;;;;;;;;;x
+EVTOPTA_SSI_040;Если бы хоть кто-то слушал...;Si seulement quelqu'un les avait йcoutй…;Wenn doch nur jemand zugehцrt hдtte …;;Si alguien hubiera escuchado…;;;;;;;;;x
+EVTDESC_SSI_041;Жестокие Камаль теперь полностью управляют Скайримом. Тысячи нордов принесены в жертву их непонятным богам, и сейчас повелители-Камаль начинают строительство бесчисленных храмов, чтобы у их богов появился свой дом в Тамриэле.;;;;;;;;;;;;;x
+EVTOPTA_SSI_041;Мы должны сбросить их в море!;On doit les renvoyer а la mer !;Jagt sie zurьck ins Meer!;;ЎDeben ser devueltos a la mar!;;;;;;;;;x
+EVTDESC_SSI_042;Морровинд, от Вварденфелла на севере, до Дешаана на юге, подпал под управление Камаль. Теперь эта новая колония станет жемчужиной их колониальной империи, и отправной точкой для будущих завоеваний на континентальном Тамриэле.;;;;;;;;;;;;;x
+EVTOPTA_SSI_042;Империалистические сволочи!;Saletй d'impйrialiste !;Imperialistischer Abschaum!;;ЎEscoria imperialista!;;;;;;;;;x
+EVTDESC_SSI_043;Город Морнхолд пал под натиском Камаль. Пятьдесят дев и пятьдесят священников были принесены в жертву на их празднике, и жрецы Камаль уже командуют строительством крупного храма на берегу реки Фир.;;;;;;;;;;;;;x
+EVTOPTA_SSI_043;Тамриэль… Тамриэль!;Dйconcertant.;Beunruhigend.;;Desconcertante.;;;;;;;;;x
+EVTDESC_SSI_044;Город Виндхельм теперь под властью Камаль, и весь город теперь залит кровью сотен несчастных жертв, что стали кормом для демонов из Дальнего Моря. Сам император из Алдайма посетил этот великолепный праздник, вместе со своими полководцами.;;;;;;;;;;;;;x
+EVTDESC_SSI_045;Орды Камаль достигли Имперского Острова, и Великий Город стал частью их империи. Пугающие крики доносятся из Башни Белого Золота. Этот памятник порядку был осквернён тысячью жертвоприношений, пока военноначальники-Камаль разъезжали по древним айлейдским памятникам и сетовали, что у них не было возможности проявить себя в бою против такого врага.;;;;;;;;;;;;;x
+EVTDESC_SSI_046;Золотой Город Анвил пришёлся по нраву Камаль, и даже произвёл на них впечатление, пусть и не мог тягаться с великолепием Алдайма. Жрецы-Камаль уже разработали планы по поводу сноса местного замка и постройки храма на его месте.;;;;;;;;;;;;;x
+EVTDESC_SSI_047;Город Сентинель, который иногда называют Самоцветом Алик'ра, был захвачен воинами-Камаль… и не произвёл на них должного впечатления. По их мнению Сентинель ужасно выглядит на фоне огромных имперских городов в долинах Налук или Мирвук. Камаль принесли в жертву четыре тысячи четыреста сорок четыре жителя Сентинеля, чтобы сбить спесь с редгардов.;;;;;;;;;;;;;x
+EVTDESC_SSI_048;Камаль достигли славного Города Даггерфолл. Его Великие Врата привели их в смятение, ибо они не видели более величественных укреплений прежде, даже на их родине, в Акавире. Первосвященники Камаль уже объявили, что окрестности города будут самым святым местом за пределами Алдайма.;;;;;;;;;;;;;x
+EVTDESC_SSI_060;Захватчики-Камаль принесли в жертву [From.GetTitledName] во имя своих непонятных богов! После чего [From.GetHerHim] подняли на вершину одного из своих новых храмов, где [From.GetFirstName] положили на алтарь [From.GetHerHim] и разрезали на части церемониальным кинжалом. Затем они вырвали ещё бьющееся сердце [From.GetHerHis], и бросили его в толпу своих воинов.;;;;;;;;;;;;;x
+EVTOPTA_SSI_060;Пусть [This.Religion.GetRandomGodNameCap] сохранит [From.GetHerHim] от этого ужаса, хоть в загробной жизни.;Que [This.Religion.GetRandomGodNameCap] l'accueille а bras ouverts dans l'au-delа.;Mцge [This.Religion.GetRandomGodNameCap] [From.GetHerHim] sicher ins Jenseits geleiten.;;Que [This.Religion.GetRandomGodNameCap] se ocupe de [From.GetHerHim] en la vida del mбs allб. ;;;;;;;;;x
+EVTNAME_SSI_105;Вторжение Камаль окончено!;Les Aztиques subissent une cinglante dйfaite;Die Azteken erleiden eine Niederlage;; Los Kamalas encuentran la derrota.;;;;;;;;;x
+EVTDESC_SSI_105;Великое воинство Камаль, что пересекло океан в безумном стремлении завоевать весь Сотворённый Мир, было сброшено в море. Их колонии были потеряны, армии - уничтожены. Жалкие остатки сил вторжения попытались покинуть Тамриэль, чтобы сообщить императору в Акавире о поражении.\n\n Возможно наступит время, когда их собственные берега посетят флоты Тамриэля, и тогда долг за каждую принесённую ими жертву будет взиматься в полном объёме... и с большим удовольствием.;;;;;;;;;;;;;x
+EVTOPTA_SSI_105;Да наступит Расплата, ибо так должно быть.;;;;;;;;;;;;;x
+EVTNAME_SSI_070;Болезни с Дальнего Востока!;;;;;;;;;;;;;x
+EVTDESC_SSI_070;Нет конца злу, что принесли Камаль в земли Тамриэля. Странная болезнь распространяется с их завоёванных территорий. Симптомы похожи на те, что испытывают больные Великой Оспой, но эта проклятая чума кажется ещё более смертоносной. Специалисты-лекари, и учёные-медики дали ей имя " сифилис", попытки вылечить сифилис до сих пор не увенчались успехом. \n\n Ныне же, даже за пределами досягаемости войск Камаль всё подвергается опасности, ибо мор переносят тысячи беженцев и купцов, которые забегаются по всему Тамриэлю в поисках убежища.;;;;;;;;;;;;;x
+EVTOPTA_SSI_070;Мы были наказаны за наши грехи.;;;;;;;;;;;;;x
+EVTNAME_SSI_071;Оспа распространяется из Дальнего Моря.;;;;;;;;;;;;;x
+EVTDESC_SSI_071;Кажется, что кроме рабов и награбленных заморских сокровищ Камаль вернулись к своим семьям с чем-то более весёлым. Слухи, что просочились в Тамриэль, рассказывают об эпидемии оспы, что накрыла всю империю Камаль и её соседей.\n\n Улицы и переулки Алдайма, как говорят, усеяны мёртвыми и гибнущими, город практически опустел, а окрестные земли находятся в беспорядке. В тщетной попытке приостановить распространение болезни, Император Камаль приказал казнить каждого раба, привезённого из Тамриэля. Но, судя по слухам, это не помогло...;;;;;;;;;;;;;x
+EVTOPTA_SSI_071;Возможно, в этом мире всё-таки есть какая-то справедливость.;;;;;;;;;;;;;x
+has_kamal_disease_death;от сифилиса;;;;;;;;;;;;;x
+syphilis;Сифилис;;;;;;;;;;;;;x
+has_kamal_disease;Сифилитик;;;;;;;;;;;;;x
+has_kamal_disease_desc;Этот персонаж где-то умудрился подхватить сифилис - страшную болезнь, которую занесли Камаль со своих берегов.;;;;;;;;;;;;;x
+kamal_DISEASE_INFO;Этот надел страдает от страшного мора. Сифилис, что был привезён Камаль, убивает всех и каждого. Пусть Боги будут милостивы.;;;;;;;;;;;;;x

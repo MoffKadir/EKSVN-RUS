@@ -1,0 +1,94 @@
+form_chosenoldgods;Избранные Старых Богов;;;;;;;;;;;;x
+form_chosenoldgods_desc;Призовите воинов на защиту Старых Богов..;;;;;;;;;;;;;x
+ek_holy_orders.2.t;Избранные Старых Богов;;;;;;;;;;;;;x
+ek_holy_orders.2.d;Старым Богам ричменов поклоняются во всем Пределе и за его пределами, но до недавнего времени все попытки объединить верующих были бесполезными. [From.GetTitledName] пригласил сильнейших воинов Предела и сформировал Избранных С Богов.;;;;;;;;;;;;;x
+form_forsworn;Изгои;;;;;;;;;;;;x
+form_forsworn_desc;Призовите воинов, чтобы защитить Культ Ворожей и их последователей.;;;;;;;;;;;;;x
+ek_holy_orders.1.t;Изгои;;;;;;;;;;;;x
+ek_holy_orders.1.d;Культ Ворожей и их культисты в течение длительного времени оставались в тени, в тайных храмах и пещерах. Но в последнее время поклонение этим могущественным магам и их темным сердцам-воинам распространилось по всему ареалу, и некоторые из них объединились, называя себя Изгоями.;;;;;;;;;;;;;x
+d_vigilants_of_stendarr;Непоколебимые Храмовники Стендарра;;;;;;;;;;;;;x;
+d_vigilants_of_stendarr_adj;Непоколебимых Храмовников Стендарра;;;;;;;;;;;;;x;
+b_hall_of_vigilant;Зал Непоколебимых;;;;;;;;;;;;;x;
+d_pride_of_alkosh;Pride of Alkosh;;;;;;;;;;;;;x
+b_pridehome;Pridehome;;;;;;;;;;;;;x
+d_knights_of_iron;Рыцари Железа;;;;;;;;;;;;;x;
+d_knights_of_iron_adj;Рыцарей Железа;;;;;;;;;;;;;x;
+b_iron_keep;Железная Крепость;;;;;;;;;;;;;x;
+d_serpent_guard;Змеиная Стража;;;;;;;;;;;;;x;
+d_serpent_guard_adj;Змеиной Стражи;;;;;;;;;;;;;x;
+b_serpent_den;Змеиное Логово;;;;;;;;;;;;;x;
+d_sons_of_orgnum;Сыны Оргунма;;;;;;;;;;;;;x;
+d_sons_of_orgnum_adj;Сынов Оргнума;;;;;;;;;;;;;x;
+b_hall_of_coffer;Чертог Оргнума;;;;;;;;;;;;;x;
+d_serpent_eye;Змеиный Глаз;;;;;;;;;;;;;x;
+d_preservers_of_the_root;Хранители Корня;;;;;;;;;;;;;x;
+d_preservers_of_the_root_adj;Хранитель;;;;;;;;;;;;;x;
+d_serpent_eye_adj;Змеиного Глаза;;;;;;;;;;;;;x;
+b_coiled_keep;Спиральная Башня;;;;;;;;;;;;;x;
+d_fangs_of_aipysurus;Клыки Морской Змеи;;;;;;;;;;;;;x;
+d_fangs_of_aipysurus_adj;Клыков Морской Змеи;;;;;;;;;;;;;x;
+b_scaled_keep;Чешуйчатая Башня;;;;;;;;;;;;;x;
+d_dragonguard;Драконья Стража;;;;;;;;;;;;;x;
+d_dragonguard_adj;Драконьей Стражи;;;;;;;;;;;;;x;
+b_skywalker_temple;Храм Небесного Пути;;;;;;;;;;;;;x;
+d_radiant_serpent;Орден Сиящей Змеи;;;;;;;;;;;;;x;
+d_radiant_serpent_adj;Сияющей Змеи;;;;;;;;;;;;;x;
+b_hall_of_elder_serpent;Зал Древней Змеи;;;;;;;;;;;;;x;
+d_nights_watch;Ночной Дозор;;;;;;;;;;;;;x;
+b_shadow_tower;Башня Теней;;;;;;;;;;;;;x;
+d_maruhkati_selective;Избранники Марукати;;;;;;;;;;;;;x;
+d_maruhkati_selective_adj;Марукати;;;;;;;;;;;;;x;
+d_knights_of_the_nine;Рыцари Девяти;;;;;;;;;;;;;x;
+d_knights_of_the_nine_adj;Рыцарей Девяти;;;;;;;;;;;;;x;
+d_order_of_leki;Орден Леки;;;;;;;;;;;;;x;
+d_order_of_leki_adj;Ордена Леки;;;;;;;;;;;;;x;
+d_worldskin_followers;Последователи Сатакала;;;;;;;;;;;;;x;
+d_worldskin_followers_adj;Последователей Сатакала;;;;;;;;;;;;;x;
+d_paladins_of_auriel;Паладины Аури-Эля;;;;;;;;;;;;;x;
+d_paladins_of_auriel_adj;Паладинов Аури-Эля;;;;;;;;;;;;;x;
+d_wild_hunters;Дикие Охотники;;;;;;;;;;;;;x;
+d_wild_hunters_adj;Диких Охотников;;;;;;;;;;;;;x;
+d_incarnate_army;Армия Воплощения;;;;;;;;;;;;;x;
+d_incarnate_army_adj;Армии Воплощения;;;;;;;;;;;;;x;
+d_reclamation_armiger;Знаменосцы Истребования;;;;;;;;;;;;;x;
+d_reclamation_armiger_adj;Знаменосцев Истребования;;;;;;;;;;;;;x;
+d_veloths_judgment;Правосудие Велота;;;;;;;;;;;;;x;
+d_veloths_judgment_adj;Правосудии Велота;;;;;;;;;;;;;x;
+d_spirit_wardens;Духи-хранители;;;;;;;;;;;;;x;
+d_spirit_wardens_adj;Духов-хранителей;;;;;;;;;;;;;x;
+d_snake_mount;Змеиная Гора;;;;;;;;;;;;;x;
+d_snake_mount_adj;Змеиной Горы;;;;;;;;;;;;;x;
+d_bittercuppers;Горькие Чаши;;;;;;;;;;;;;x;
+d_bittercuppers_adj;Горьких Чаш;;;;;;;;;;;;;x;
+d_apocryphers;Апокрифы;;;;;;;;;;;;;x;
+d_apocryphers_adj;Апокрифов;;;;;;;;;;;;;x;
+d_blood_hunters;Кровавые Охотники;;;;;;;;;;;;;x;
+d_blood_hunters_adj;Диких Охотников;;;;;;;;;;;;;x;
+d_mythic_dawn;Мифический Рассвет;;;;;;;;;;;;;x;
+d_mythic_dawn_adj;Мифического Рассвета;;;;;;;;;;;;;x;
+d_webspinners;Прядальщики Сети;;;;;;;;;;;;;x;
+d_webspinners_adj;Прядальщиков Сети;;;;;;;;;;;;;;x
+d_unfeathereds;Неоперенные;;;;;;;;;;;;;x;
+d_unfeathereds_adj;Неоперенных;;;;;;;;;;;;;x;
+d_planemelders;Соединяющие Планы;;;;;;;;;;;;;x;
+d_planemelders_adj;Соединяющих Планы;;;;;;;;;;;;;x;
+d_decayed;Презренные;;;;;;;;;;;;;x;
+d_decayed_adj;Презренных;;;;;;;;;;;;;x;
+d_nightingales;Соловьи;;;;;;;;;;;;;x;
+d_nightingales_adj;Соловьиных;;;;;;;;;;;;;x;
+d_afflicted;Одержимые;;;;;;;;;;;;;x;
+d_afflicted_adj;Одержимых;;;;;;;;;;;;;x;
+d_debauchery;Неистовая Похоть;;;;;;;;;;;;;x;
+d_debauchery_adj;Развратных;;;;;;;;;;;;;x;
+d_wabbajack;Любители Сыра;;;;;;;;;;;;;x;
+d_wabbajack_adj;Сырных;;;;;;;;;;;;;x;
+d_knights_of_order;Рыцари Порядка;;;;;;;;;;;;;x;
+d_knights_of_order_adj;Рыцарей Порядка;;;;;;;;;;;;;x;
+d_dreamers;Мечтатели Разрушения;;;;;;;;;;;;;x;
+d_dreamers_adj;Мечтателей;;;;;;;;;;;;;x;
+d_pariah;Отверженные;;;;;;;;;;;;;x;
+d_pariah_adj;Отверженных;;;;;;;;;;;;;x;
+d_forsworn;Изгои;;;;;;;;;;;;;x
+d_forsworn_adj;Изгоев;;;;;;;;;;;;;x
+d_chosenoldgods;Избранные Старых Богов;;;;;;;;;;;;;x
+d_chosenoldgods_adj;Избранных Старых Богов;;;;;;;;;;;;;x

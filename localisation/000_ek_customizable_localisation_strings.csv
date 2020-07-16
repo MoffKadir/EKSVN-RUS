@@ -1,0 +1,22 @@
+string_woods;Леса;;;;;;;;;x
+string_marsh;Болотистая местность;;;;;;;;;x
+string_islander_terrain;Островная местность;;;;;;;;;x
+string_ashlands;Эшленд;;;;;;;;;x
+string_argonia;Чернотопье;;;;;;;;x
+string_alikr_desert;Пустыня Алик'р;;;;;;;;;x
+string_mangrove_swamp;Мангровые болота;;;;;;;;;x
+string_wasteland;Пустошь;;;;;;;;;x
+string_valen_woods;Валенвуд;;;;;;;;;x
+string_Woods;Леса;;;;;;;;;x
+string_Marsh;Болотистая местность;;;;;;;;;x
+string_Islander_Terrain;Island terrain;;;;;;;;;x
+string_Ashlands;Эшленд;;;;;;;;;x
+string_Argonia;Чернотопье;;;;;;;;;x
+string_Alikr_Desert;Alik'r Desert;;;;;;;;;x
+string_Mangrove_Swamp;Мангровые болота;;;;;;;;;x
+string_Wasteland;Пустошь;;;;;;;;;x
+string_Valen_Woods;Валенвуд;;;;;;;;;x
+GetSloadTitleFemale_string;[This.GetTitle];;;;;;;;;x
+GetSloadTitleMale_string;[This.GetTitle];;;;;;;;;x
+string_goddess_mara;Мара;;;;;;;;;x
+string_goddess_morwha;Морва;;;;;;;;;x

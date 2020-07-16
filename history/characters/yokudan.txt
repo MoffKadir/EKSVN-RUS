@@ -1,0 +1,2093 @@
+#Yokudan: 27000-29999
+
+# Theocratic Duchy of Akos
+27000 = {
+	name = "Намазур" # Interregnum Duke of Akos, Count of Rhasafan & Sora
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = mage_3
+	add_trait = diligent
+	add_trait = scarred
+	add_trait = mystic
+	3329.6.1 = { birth = yes }
+	3399.3.12 = { death = yes }
+}
+27001 = {
+	name = "Салимата" # Interim Duchess of Akos, Countess of Rhasafan & Sora
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3380.1.1 = { birth = yes }
+	3456.1.1 = { death = yes }
+}
+27002 = { 
+	name = "Закееб" # Reachmen Duke of Akos, Count of Rhasafan & Sora
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3435.1.1 = { birth = yes }
+	3510.1.1 = { death = yes }
+}
+27003 = { 
+	name = "Гоган" #Duke of Akos, Count of Rhasafan & Sora
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3451.1.1 = { birth = yes }
+	3518.1.1 = { death = yes }
+}
+27004 = {
+	name = "Факималль" #Duke of Akos, Count of Rhasafan & Sora
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3485.7.29 = { birth = yes }
+	3554.3.13 = { death = yes }
+}
+
+27005 = {
+	name = Нузгимег
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3528.1.1 = { birth = yes }
+	3597.1.1 = { death = yes }
+}
+27006 = {
+	name = Яири
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3573.1.1 = { birth = yes }
+	3642.1.1 = { death = yes }
+}
+27007 = {
+	name = Маникки
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3612.1.1 = { birth = yes }
+	3682.1.1 = { death = yes }
+}
+27008 = {
+	name = Раииа
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3648.1.1 = { birth = yes }
+	3722.1.1 = { death = yes }
+}
+27009 = {
+	name = Масбаиат
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3690.1.1 = { birth = yes }
+	3755.1.1 = { death = yes }
+}
+# Lagon (Temple)
+27010 = {
+	name = "Еннаг" # Interregnum Count of Lagon
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3342.1.1 = { birth = yes }
+	3410.1.1 = { death = yes }
+}
+
+# Samara (Temple)
+27020 = {
+	name = "Гарри" # Interregnum Count of Samara
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3351.1.1 = { birth = yes }
+	3420.1.1 = { death = yes }
+}
+27021 = {
+	name = "Геквон" # Reachmen Count of Samara
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3402.1.1 = { birth = yes }
+	3475.1.1 = { death = yes }
+}
+
+# Sy'ut (Temple)
+27030 = {
+	name = "Ар-Азаль" # Interregnum Count of Sy'ut
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3433.1.1 = { birth = yes }
+	3508.1.1 = { death = yes }
+}
+27031 = {
+	name = "Кову"
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	
+	3482.1.1 = { birth = yes }
+	3552.1.1 = { death = yes }
+}
+
+27032 = {
+	name = Сабилег
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3526.1.1 = { birth = yes }
+	3607.1.1 = { death = yes }
+}
+27033 = {
+	name = Дариус
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3564.1.1 = { birth = yes }
+	3633.1.1 = { death = yes }
+}
+27034 = {
+	name = Гиллемир
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3587.1.1 = { birth = yes }
+	3662.1.1 = { death = yes }
+}
+27035 = {
+	name = Амеесг
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3621.1.1 = { birth = yes }
+	3692.1.1 = { death = yes }
+}
+27036 = {
+	name = Риза
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3645.1.1 = { birth = yes }
+	3715.1.1 = { death = yes }
+}
+27037 = {
+	name = Алкар
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3670.1.1 = { birth = yes }
+	3739.1.1 = { death = yes }
+}
+27038 = {
+	name = Фития
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3695.1.1 = { birth = yes }
+	3769.1.1 = { death = yes }
+}
+27039 = {
+	name = Яда
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3725.1.1 = { birth = yes }
+	3793.1.1 = { death = yes }
+}
+
+## Republics (City States)
+
+# Tul
+27050 = {
+	name = "Исгак" # Interregnum Count of Tul
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = magistrate_4
+	add_trait = proud
+	add_trait = deceitful
+	3330.11.19 = { birth = yes }
+	3400.1.1 = { death = yes }
+}
+27051 = {
+	name = "Еннаг" # Interim Count of Tul
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3360.1.1 = { birth = yes }
+	3420.1.1 = { death = yes }
+}
+27052 = {
+	name = "Малекса" # Reachmen Count of Tul
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3404.1.1 = { birth = yes }
+	3479.1.1 = { death = yes }
+}
+
+# Kruzka
+27100 = {
+	name = "Берану" # Interregnum Count of Kruzka
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = magistrate_4
+	add_trait = powerful_voice
+	3340.6.17 = { birth = yes }
+	3399.1.1 = { death = yes }
+}
+27101 = {
+	name = "Каснар" # Interim Count of Kruzka
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3380.1.1 = { birth = yes }
+	3452.1.1 = { death = yes }
+}
+27102 = {
+	name = "Харк" # Reachmen Count of Kruzka
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3435.1.1 = { birth = yes }
+	3500.1.1 = { death = yes }
+}
+27103 = {
+	name = "Лакене" # Reachmen Count of Kruzka
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3471.1.1 = { birth = yes }
+	3544.1.1 = { death = yes }
+}
+
+# Teth
+27150 = {
+	name = "Атар" # Interregnum Count of Teth
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = warrior_3
+	add_trait = gladiator
+	add_trait = strong
+	add_trait = aggressive_leader
+	3324.5.4 = { birth = yes }
+	3404.1.1 = { death = yes }
+}
+27151 = {
+	name = "Мелона" # Interim Count of Teth
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3385.1.1 = { birth = yes }
+	3445.1.1 = { death = yes }
+}
+27152 = {
+	name = "Тиерра" # Reachmen Count of Teth
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3428.1.1 = { birth = yes }
+	3497.1.1 = { death = yes }
+}
+27153 = {
+	name = "Дандса" # Count of Teth and Lagon (Three Banners)
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	
+	3476.1.1 = { birth = yes }
+	3552.1.1 = { death = yes }
+}
+
+27154 = {
+	name = Шервеен
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3506.1.1 = { birth = yes }
+	3577.1.1 = { death = yes }
+}
+27155 = {
+	name = Каманди
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3551.1.1 = { birth = yes }
+	3622.1.1 = { death = yes }
+}
+27156 = {
+	name = Дориян
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3585.1.1 = { birth = yes }
+	3653.1.1 = { death = yes }
+}
+27157 = {
+	name = Издииа
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3612.1.1 = { birth = yes }
+	3684.1.1 = { death = yes }
+}
+27158 = {
+	name = Кгойифа
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3656.1.1 = { birth = yes }
+	3729.1.1 = { death = yes }
+}
+27159 = {
+	name = Арфедар
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3685.1.1 = { birth = yes }
+	3755.1.1 = { death = yes }
+}
+27160 = {
+	name = Рамана
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3716.1.1 = { birth = yes }
+	3785.1.1 = { death = yes }
+}
+
+# Suol-Asul - becomes Merchant Republic
+27200 = {
+	name = "Намазур" # Interregnum Count of Suol-Asul
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = diplomat_4
+	add_trait = poet
+	add_trait = melodious_voice
+	3320.9.27 = { birth = yes }
+	3397.1.1 = { death = yes }
+}
+27201 = {
+	name = "Релан" # Reachmen Count of Suol-Asul
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3380.1.1 = { birth = yes }
+	3442.1.1 = { death = yes }
+}
+
+## Feudals
+
+# Na-anu
+27250 = {
+	name = "Дин" # Interregnum Count of Vath
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3333.6.6 = { birth = yes }
+	3360.1.1 = { add_spouse = 27301 }
+	3403.1.1 = { death = yes }
+}
+27251 = {
+	name = "Каснар" # Interim Duke of Samara, Count of Vath, Son of Din & Anora
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27250
+	mother = 27301
+	3364.7.9 = { birth = yes }
+	3404.1.1 = { add_claim = c_talesafan }
+	3442.1.1 = { death = yes }
+}
+27252 = {
+	name = "Салимата" # Reachmen Duchess of Samara, Countess of Vath, Daughter of Casnar
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27251
+	3428.1.1 = { birth = yes }
+	3490.1.1 = { death = yes }
+}
+27253 = {
+	name = "Шамар"
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27252
+	
+	3447.1.1 = { birth = yes }
+	3501.1.1 = { death = yes }
+}
+27254 = {
+	name = "Риенна"
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 27252
+	
+	3450.1.1 = { birth = yes }
+	3467.1.1 = {
+		add_spouse = 27353
+	}
+	3522.1.1 = { death = yes }
+}
+27255 = {
+	name = "Кано"
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27252
+	
+	3467.1.1 = { birth = yes }
+	3533.1.1 = { death = yes }
+}
+27256 = {
+	name = "Аззада"
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27255
+	
+	3493.1.1 = { birth = yes }
+	3557.1.1 = { death = yes }
+}
+
+27257 = {
+	name = Нанза
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27255
+	3507.1.1 = { birth = yes }
+	3578.1.1 = { death = yes }
+}
+27258 = {
+	name = Дадар
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27257
+	3532.1.1 = { birth = yes }
+	3608.1.1 = { death = yes }
+}
+27259 = {
+	name = Кгаир
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27258
+	3566.1.1 = { birth = yes }
+	3638.1.1 = { death = yes }
+}
+27260 = {
+	name = Агдан
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27259
+	3593.1.1 = { birth = yes }
+	3665.1.1 = { death = yes }
+}
+27261 = {
+	name = Раесг
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27260
+	3629.1.1 = { birth = yes }
+	3699.1.1 = { death = yes }
+}
+27262 = {
+	name = Фадалия
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27261
+	3666.1.1 = { birth = yes }
+	3737.1.1 = { death = yes }
+}
+27263 = {
+	name = Лигидар
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 27262
+	3698.1.1 = { birth = yes }
+	3774.1.1 = { death = yes }
+}
+27264 = {
+	name = Пгазор
+	dynasty = 60016
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27263
+	3726.1.1 = { birth = yes }
+	3796.1.1 = { death = yes }
+}
+
+# Su'ding
+27300 = {
+	name = "Греклит" # Interregnum Count of Talesafan
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3310.9.13 = { birth = yes }
+	3387.1.1 = { death = yes }
+}
+27301 = {
+	name = "Анора" # Daughter of Greklith, married with Din - Count of Vath
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27300
+	3340.9.1 = { birth = yes }
+	3387.1.1 = { add_claim = c_talesafan }
+	3404.1.1 = { death = yes }
+}
+27302 = {
+	name = "Талиб" # Interim Countess of Talesafan, Son of Greklith
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27300
+	3343.8.17 = { birth = yes }
+	3402.1.1 = { death = yes }
+}
+27303 = {
+	name = "Бараль" # Interim Count of Talesafan, Son of Talib
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27302
+	3387.1.1 = { birth = yes }
+	3453.1.1 = { death = yes }
+}
+27304 = {
+	name = "Лу'аг" # Reachmen Count of Talesafan, Daughter of Baral
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27303
+	3436.1.1 = { birth = yes }
+	3508.1.1 = { death = yes }
+}
+27305 = {
+	name = "Камарон"
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27304
+	
+	3462.1.1 = { birth = yes }
+	3478.1.1 = {
+		add_spouse = 27405
+	}
+	3529.1.1 = { death = yes }
+}
+27306 = {
+	name = "Кияра"
+	dynasty = 60018
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27305
+	mother = 27405
+	
+	3481.1.1 = { birth = yes }
+	3559.1.1 = { death = yes }
+}
+	
+	
+
+# Sutaf
+27350 = {
+	name = "Ахель" # Interregnum Count of Kanesh
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3346.7.7 = { birth = yes }
+	3406.1.1 = { death = yes }
+}
+27351 = {
+	name = "Кати" # Interim Countess of Kanesh, Daughter of Achel
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27350	
+	3380.1.1 = { birth = yes }
+	3449.1.1 = { death = yes }
+}
+27352 = {
+	name = "Давит" # Reachmen Count of Kanesh, Son of Kati
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27351
+	3420.1.1 = { birth = yes }
+	3483.1.1 = { death = yes }
+}
+27353 = {
+	name = "Иаквт" # Count of Kanesh (Kamal)
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27352
+	
+	3449.1.1 = { birth = yes }
+	3467.1.1 = {
+		add_spouse = 27254
+	}
+	3525.1.1 = { death = yes }
+}
+27354 = {
+	name = "Каснар" # Count of Kanesh
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27353
+	mother = 27254
+	
+	3480.1.1 = { birth = yes }
+	3543.1.1 = { death = yes }
+}
+27355 = {
+	name = "Неесга"
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27353
+	mother = 27254
+	
+	3482.1.1 = { birth = yes }
+	3552.1.1 = { death = yes }
+}
+27356 = {
+	name = "Семгар" # Count of Kanesh
+	female = yes
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27355
+	
+	3507.1.1 = { birth = yes }
+	3571.1.1 = { death = yes }
+}
+
+27357 = {
+	name = Газиб
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27354
+	3519.1.1 = { birth = yes }
+	3594.1.1 = { death = yes }
+}
+27358 = {
+	name = Афинаг
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27357
+	3553.1.1 = { birth = yes }
+	3631.1.1 = { death = yes }
+}
+27359 = {
+	name = Оризира
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 27358
+	3596.1.1 = { birth = yes }
+	3668.1.1 = { death = yes }
+}
+27360 = {
+	name = Казаль
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27359
+	3630.1.1 = { birth = yes }
+	3700.1.1 = { death = yes }
+}
+27361 = {
+	name = Фарсгеед
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27360
+	3671.1.1 = { birth = yes }
+	3748.1.1 = { death = yes }
+}
+27362 = {
+	name = Адмунаииль
+	dynasty = 60033
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27361
+	3704.1.1 = { birth = yes }
+	3772.1.1 = { death = yes }
+}
+
+# Ma'ran
+27400 = {
+	name = "Дарон" # Pre-Interregnum Count of Tigon & Baut
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3300.4.4 = { birth = yes }
+	3374.1.1 = { death = yes }
+}
+27401 = {
+	name = "Абель" # Interregnum Count of Tigon, Son of Daron
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = twin
+	add_trait = content
+	father = 27400
+	3331.11.4 = { birth = yes }
+	3374.1.1 = { add_claim = c_baut }
+	3378.1.1 = { death = yes }
+}
+27402 = {
+	name = "Каин" # Interregnum Count of Baut, Son of Daron
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = twin
+	add_trait = envious
+	father = 27400
+	3331.11.4 = { birth = yes }
+	3374.1.1 = { add_claim = c_tigon }
+	3421.1.1 = { death = yes }
+}
+27403 = {
+	name = "Садер" # Reachmen Count of Tigon & Baut, Son of Kain
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = ambitious
+	father = 27402
+	3399.1.1 = { birth = yes }
+	3472.1.1 = { death = yes }
+}
+27404 = {
+	name = "Дарон" # Kamal Count of Tigon & Baut, Son of Sader
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27403
+	3449.1.1 = { birth = yes }
+	3526.1.1 = { death = yes }
+}
+27405 = {
+	name = "Адара"
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27403
+	
+	3459.1.1 = { birth = yes }
+	3478.1.1 = {
+		add_spouse = 27305
+	}
+	3527.1.1 = { death = yes }
+}
+27406 = {
+	name = "Аркан"
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27404
+	
+	3485.1.1 = { birth = yes }
+	3553.1.1 = { death = yes }
+}
+27407 = {
+	name = "Дарон"
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27406
+	
+	3522.1.1 = { birth = yes }
+	3604.1.1 = { death = yes }
+}
+	
+27408 = {
+	name = Дандса
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27407
+	3559.1.1 = { birth = yes }
+	3635.1.1 = { death = yes }
+}
+27409 = {
+	name = Ятлание
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27408
+	3600.1.1 = { birth = yes }
+	3670.1.1 = { death = yes }
+}
+27410 = {
+	name = Меграк
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27409
+	3620.1.1 = { birth = yes }
+	3688.1.1 = { death = yes }
+}
+27411 = {
+	name = Олераг
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27410
+	3649.1.1 = { birth = yes }
+	3720.1.1 = { death = yes }
+}
+27412 = {
+	name = Матон
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27411
+	3678.1.1 = { birth = yes }
+	3744.1.1 = { death = yes }
+}
+27413 = {
+	name = Шабагз
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27412
+	3703.1.1 = { birth = yes }
+	3770.1.1 = { death = yes }
+}
+27414 = {
+	name = Серосг
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27407
+	3562.1.1 = { birth = yes }
+	3631.1.1 = { death = yes }
+}
+27415 = {
+	name = Самуур
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27414
+	3604.1.1 = { birth = yes }
+	3684.1.1 = { death = yes }
+}
+27416 = {
+	name = Ирвалам
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27415
+	3640.1.1 = { birth = yes }
+	3707.1.1 = { death = yes }
+}
+27417 = {
+	name = Разуль
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27416
+	3685.1.1 = { birth = yes }
+	3761.1.1 = { death = yes }
+}
+27418 = {
+	name = Ггининат
+	dynasty = 60010
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27417
+	3722.1.1 = { birth = yes }
+	3801.1.1 = { death = yes }
+}
+
+# Na'sur
+27450 = {
+	name = "Атаф" # Pre-Interregnum Count of Ravan & Nalsar
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3251.6.6 = { birth = yes }
+	3311.1.1 = { death = yes }
+}
+27451 = {
+	name = "Вгозек" # Pre-Interregnum Count of Ravan & Nalsar, Son of Ataf
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27450
+	3282.4.1 = { birth = yes }
+	3339.1.1 = { death = yes }
+}
+27452 = {
+	name = "Намазур" # Pre-Interregnum Count of Ravan, Son of Vhosek I
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27451
+	3314.4.2 = { birth = yes }
+	3339.1.1 = { add_claim = c_nalsar }
+	3367.1.1 = { death = yes }
+}
+27453 = {
+	name = "Юнкан" # Pre-Interregnum Count of Nalsar, Son of Vhosek I
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27451
+	3308.7.4 = { birth = yes }
+	3339.1.1 = { add_claim = c_ravan }
+	3369.1.1 = { death = yes }
+}
+27454 = {
+	name = "Вгозек" # Interregnum Count of Ravan, Son of Namasur
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27452
+	3340.6.17 = { birth = yes }
+	3367.1.1 = { add_claim = c_nalsar }
+	3401.1.1 = { death = yes }
+}
+27455 = {
+	name = "Нахель" # Interregnum Count of Nalsar, Son of Juncan
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27453
+	3338.3.4 = { birth = yes }
+	3369.1.1 = { add_claim = c_ravan }
+	3408.1.1 = { death = yes }
+}
+27456 = {
+	name = "Вгозек" # Interim Count of Ravan, Son of Vhosek II
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27454
+	3390.1.1 = { birth = yes }
+	3450.1.1 = { death = yes }
+}
+27457 = {
+	name = "Нахель" # Interim Count of Nalsar, Son of Nachael
+	dynasty = 60013
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27455
+	3388.3.4 = { birth = yes }
+	3448.1.1 = { death = yes }
+}
+
+# Jilani
+27500 = {
+	name = "Ебрагим"
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	
+	3436.1.1 = { birth = yes }
+	3437.1.1 = { employer = 27001 }
+	3456.1.1 = { add_trait = zealous }
+	3489.1.1 = { death = yes }
+}
+27501 = {
+	name = "Аззадаль" # Kamal Count of Ba'ut
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27500
+	
+	3466.1.1 = { birth = yes }
+	3529.1.1 = { death = yes }
+}
+27502 = {
+	name = "Рийя"
+	female = yes
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27501
+	
+	3501.1.1 = { birth = yes }
+	3547.1.1 = { death = yes }
+}
+27503 = {
+	name = "Зенуль"
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27501
+	
+	3503.1.1 = { birth = yes }
+	3565.1.1 = { death = yes }
+}
+
+27504 = {
+	name = Амеесг
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27502
+	3524.1.1 = { birth = yes }
+	3596.1.1 = { death = yes }
+}
+27505 = {
+	name = Кинтсель
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 27504
+	3550.1.1 = { birth = yes }
+	3625.1.1 = { death = yes }
+}
+27506 = {
+	name = Камика
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27505
+	3573.1.1 = { birth = yes }
+	3642.1.1 = { death = yes }
+}
+27507 = {
+	name = Магата
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 27506
+	3607.1.1 = { birth = yes }
+	3679.1.1 = { death = yes }
+}
+27508 = {
+	name = Садбен
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 27507
+	3652.1.1 = { birth = yes }
+	3725.1.1 = { death = yes }
+}
+27509 = {
+	name = Тагираг
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 27508
+	3675.1.1 = { birth = yes }
+	3755.1.1 = { death = yes }
+}
+27510 = {
+	name = Леефаг
+	dynasty = 60037
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 27509
+	3714.1.1 = { birth = yes }
+	3781.1.1 = { death = yes }
+}
+
+#Na-No Dynasty of Kardesh
+28000 = {
+	name = Дагнадреель
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	3142.1.1 = { birth = yes }
+	3189.1.1 = { death = yes }
+}
+28001 = {
+	name = Надира
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	mother = 28000
+	3175.1.1 = { birth = yes }
+	3236.1.1 = { death = yes }
+}
+28002 = {
+	name = Риндулат
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 28001
+	3204.1.1 = { birth = yes }
+	3278.1.1 = { death = yes }
+}
+28003 = {
+	name = Яилим
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = strong
+	add_trait = sturdy
+	mother = 28001
+	3214.1.1 = { birth = yes }
+	3230.1.1 = { add_trait = agent_1 }
+	3238.1.1 = {
+		add_trait = vampire add_trait = known_vampire immortal_age = 24
+		effect = {
+			
+			set_character_flag = stage_1_vampire
+		}
+	}
+	3250.1.1 = {
+		secret_religion = daedra_namira
+		remove_trait = agent_1
+		add_trait = agent_2
+	}
+	3270.1.1 = {
+		remove_trait = agent_2
+		add_trait = agent_3
+	}
+	3286.1.1 = { 
+		religion = daedra_namira
+		effect = {
+			clear_secret_religion = yes
+			add_trait = monk_2
+			add_trait = kinslayer
+		}
+	}
+	3857.1.1 = { death = yes }
+}
+28004 = {
+	name = Лилииа
+	female = yes
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 28002
+	3240.1.1 = { birth = yes }
+	3286.1.1 = { death = {
+               death_reason = death_battle
+               killer = 28003
+          }
+     }
+}
+28005 = {
+	name = Риндулат
+	female = yes
+	dynasty = 60024
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 28004
+	3261.1.1 = { birth = yes }
+	3286.1.1 = { death = {
+               death_reason = death_battle
+               killer = 28003
+          }
+     }
+}
+
+# Hunno - Patrician family of Ravan Republic
+29750 = {
+	name = "Провлит" # Reachmen Patrician of Hunno, Duke of Ravan, Baron of Suol
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3422.1.1 = { birth = yes }
+	3483.1.1 = { death = yes }
+}
+29751 = {
+	name = "Абдуль" # Kamal Patrician of Hunno, Son of Provlith
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29750
+	3452.1.1 = { birth = yes }
+	3520.1.1 = { death = yes }
+}
+29752 = {
+	name = "Анвен"
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 29750
+	
+	3467.1.1 = { birth = yes }
+	3488.1.1 = {
+		add_spouse = 29802
+	}
+	3534.1.1 = { death = yes }
+}
+29753 = {
+	name = "Шамар"
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29751
+	
+	3477.1.1 = { birth = yes }
+	3538.1.1 = { death = yes }
+}
+29754 = {
+	name = "Гаким"
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29753
+	
+	3513.1.1 = { birth = yes }
+	3565.1.1 = { death = yes }
+}
+29755 = {
+	name = "Нирифа"
+	female = yes
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = twin
+	father = 29753
+	
+	3515.1.1 = { birth = yes }
+	3573.1.1 = { death = yes }
+}
+29756 = {
+	name = "Загимаг"
+	female = yes
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	add_trait = twin
+	father = 29753
+	
+	3515.1.1 = { birth = yes }
+	3567.1.1 = { death = yes }
+}
+
+29757 = {
+	name = Аидег
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 29754
+	3549.1.1 = { birth = yes }
+	3618.1.1 = { death = yes }
+}
+29758 = {
+	name = Сариег
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	mother = 29757
+	3572.1.1 = { birth = yes }
+	3644.1.1 = { death = yes }
+}
+29759 = {
+	name = Атаф
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29758
+	3592.1.1 = { birth = yes }
+	3659.1.1 = { death = yes }
+}
+29760 = {
+	name = Росгадон
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29759
+	3627.1.1 = { birth = yes }
+	3698.1.1 = { death = yes }
+}
+29761 = {
+	name = Ягсуль
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29760
+	3648.1.1 = { birth = yes }
+	3718.1.1 = { death = yes }
+}
+29762 = {
+	name = Мигриф
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29761
+	3682.1.1 = { birth = yes }
+	3753.1.1 = { death = yes }
+}
+29763 = {
+	name = Нидаль
+	dynasty = 60032
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29762
+	3722.1.1 = { birth = yes }
+	3790.1.1 = { death = yes }
+}
+
+# Phyllocid - Patrician family of Ravan Republic
+29800 = {
+	name = "Берану" # Reachmen Patrician of Phyllocid, Count of Nalsar
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29804
+	
+	3425.1.1 = { birth = yes }
+	3490.1.1 = { death = yes }
+}
+29801 = {
+	name = "Сеиф" # Interim Patrician of Phyllocid, Son of Berhanu
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29800
+	3444.1.1 = { birth = yes }
+	3511.1.1 = { death = yes }
+}
+29802 = {
+	name = "Езана"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29801
+	
+	3470.1.1 = { birth = yes }
+	3488.1.1 = {
+		add_spouse = 29752
+	}
+	3542.1.1 = { death = yes }
+}
+29803 = {
+	name = "Садер"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29802
+	mother = 29752
+	
+	3495.1.1 = { birth = yes }
+	3518.9.22 = { add_spouse = 29853 }
+	3556.1.1 = { death = yes }
+}
+29804 = {
+	name = "Ебрагим"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29805
+	
+	3375.1.1 = { birth = yes }
+	3442.1.1 = { death = yes }
+}
+29805 = {
+	name = "Руслан"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29806
+	
+	3335.1.1 = { birth = yes }
+	3401.1.1 = { death = yes }
+}
+29806 = {
+	name = "Сосцеан"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29807
+	
+	3280.1.1 = { birth = yes }
+	3360.1.1 = { death = yes }
+}
+29807 = {
+	name = "Аззадаль"
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 23996
+	
+	3240.1.1 = { birth = yes }
+	3300.1.1 = { death = yes }
+}
+29808 = {
+	name = "Лаиамег"
+	dynasty = 60036
+	female = yes
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29803
+	mother = 29853
+	3520.5.7 = { birth = yes }
+	3568.1.10 = { death = yes }
+}
+
+29809 = {
+	name = Гадез
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29803
+	3538.1.1 = { birth = yes }
+	3618.1.1 = { death = yes }
+}
+29810 = {
+	name = Годраг
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29809
+	3558.1.1 = { birth = yes }
+	3629.1.1 = { death = yes }
+}
+29811 = {
+	name = Иазаман
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29810
+	3593.1.1 = { birth = yes }
+	3662.1.1 = { death = yes }
+}
+29812 = {
+	name = Агалир
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29811
+	3638.1.1 = { birth = yes }
+	3707.1.1 = { death = yes }
+}
+29813 = {
+	name = Самсуль
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29812
+	3671.1.1 = { birth = yes }
+	3738.1.1 = { death = yes }
+}
+29814 = {
+	name = Сулиман
+	dynasty = 60036
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29813
+	3703.1.1 = { birth = yes }
+	3777.1.1 = { death = yes }
+}
+
+# As'taf - Patrician family of Ravan Republic
+29850 = {
+	name = "Фагара'яд" # Reachmen Patrician of As'taf, Count of Ravan, Interim Duke of Ravan, Baron of Suol
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3420.1.1 = { birth = yes }
+	3499.1.1 = { death = yes }
+}
+29851 = {
+	name = "Хира" # Interim Patrician of As'taf, Son of Fahara'jad
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29850
+	3448.1.1 = { birth = yes }
+	3502.1.1 = { death = yes }
+}
+29852 = {
+	name = "Талиб"
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29851
+	
+	3478.1.1 = { birth = yes }
+	3553.1.1 = { death = yes }
+}
+29853 = {
+	name = "Салма"
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 29851
+	
+	3485.1.1 = { birth = yes }
+	3564.1.1 = { death = yes }
+}
+29854 = {
+	name = "Бараль"
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29852
+	
+	3510.1.1 = { birth = yes }
+	3579.1.1 = { death = yes }
+}
+
+29855 = {
+	name = Фагруз
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29852
+	3503.1.1 = { birth = yes }
+	3581.1.1 = { death = yes }
+}
+29856 = {
+	name = Раифа
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29855
+	3533.1.1 = { birth = yes }
+	3601.1.1 = { death = yes }
+}
+29857 = {
+	name = Радан
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29856
+	3568.1.1 = { birth = yes }
+	3635.1.1 = { death = yes }
+}
+29858 = {
+	name = Самуур
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29857
+	3592.1.1 = { birth = yes }
+	3666.1.1 = { death = yes }
+}
+29859 = {
+	name = Ирвалам
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29858
+	3621.1.1 = { birth = yes }
+	3698.1.1 = { death = yes }
+}
+29860 = {
+	name = Сатамег
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29859
+	3653.1.1 = { birth = yes }
+	3724.1.1 = { death = yes }
+}
+29861 = {
+	name = Картос
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29860
+	3686.1.1 = { birth = yes }
+	3767.1.1 = { death = yes }
+}
+29862 = {
+	name = Дариус
+	dynasty = 60031
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29861
+	3714.1.1 = { birth = yes }
+	3784.1.1 = { death = yes }
+}
+
+# Suark - Patrician family of Ravan Republic
+29900 = {
+	name = "Рандик" # Reachmen Patrician of Suark
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3426.1.1 = { birth = yes }
+	3487.1.1 = { death = yes }
+}
+29901 = {
+	name = "Гаким" # Interim Patrician of Suark, Son of Randic
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29900
+	3450.1.1 = { birth = yes }
+	3491.1.1 = {
+		add_spouse = 29953
+	}
+	3519.1.1 = { death = yes }
+}
+29902 = {
+	name = "Гаким" # Interim Patrician of Suark
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29901
+	mother = 29953
+	3496.1.1 = { birth = yes }
+	3542.1.1 = { death = yes }
+}
+29903 = {
+	name = "Кову" # Interim Patrician of Suark
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29901
+	mother = 29953
+	3500.1.1 = { birth = yes }
+	3581.1.1 = { death = yes }
+}
+
+29904 = {
+	name = Маруф
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29902
+	3537.1.1 = { birth = yes }
+	3617.1.1 = { death = yes }
+}
+29905 = {
+	name = Дариус
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29904
+	3564.1.1 = { birth = yes }
+	3633.1.1 = { death = yes }
+}
+29906 = {
+	name = Шазир
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29905
+	3598.1.1 = { birth = yes }
+	3670.1.1 = { death = yes }
+}
+29907 = {
+	name = Таленаль
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29906
+	3635.1.1 = { birth = yes }
+	3702.1.1 = { death = yes }
+}
+29908 = {
+	name = Мубди
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29907
+	3666.1.1 = { birth = yes }
+	3744.1.1 = { death = yes }
+}
+29909 = {
+	name = Сераль
+	dynasty = 60029
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29908
+	3708.1.1 = { birth = yes }
+	3778.1.1 = { death = yes }
+}
+
+# Nalen - Patrician family of Ravan Republic
+29950 = {
+	name = "Реллиян" # Reachmen Patrician of Nalen
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3422.1.1 = { birth = yes }
+	3496.1.1 = { death = yes }
+}
+29951 = {
+	name = "Агади" # Interim Patrician of Nalen, Son of Rellian
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29950
+	3451.1.1 = { birth = yes }
+	3528.1.1 = { death = yes }
+}
+29952 = {
+	name = "Гоган"
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29951
+	
+	3472.1.1 = { birth = yes }
+	3543.1.1 = { death = yes }
+}
+29953 = {
+	name = "Адара"
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	female = yes
+	father = 29951
+	
+	3474.1.1 = { birth = yes }
+	3491.1.1 = {
+		add_spouse = 29901
+	}
+	3548.1.1 = { death = yes }
+}
+29954 = {
+	name = "Келлен"
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29952
+	
+	3494.1.1 = { birth = yes }
+	3548.1.1 = { death = yes }
+}
+29955 = {
+	name = "Даглия"
+	female = yes
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29952
+	
+	3499.1.1 = { birth = yes }
+	3561.1.1 = { death = yes }
+}
+29956 = {
+	name = "Лу'аг"
+	female = yes
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29952
+	
+	3511.1.1 = { birth = yes }
+	3575.1.1 = { death = yes }
+}
+29957 = {
+	name = "Овин"
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29954
+	
+	3524.1.5 = { birth = yes }
+	3608.8.12 = { death = yes }
+}
+29958 = {
+	name = Таркуф
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29957
+	3562.1.1 = { birth = yes }
+	3638.1.1 = { death = yes }
+}
+29959 = {
+	name = Мамирег
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29958
+	3596.1.1 = { birth = yes }
+	3668.1.1 = { death = yes }
+}
+29960 = {
+	name = Умаи
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29959
+	3641.1.1 = { birth = yes }
+	3712.1.1 = { death = yes }
+}
+29961 = {
+	name = Назир
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29960
+	3668.1.1 = { birth = yes }
+	3744.1.1 = { death = yes }
+}
+29962 = {
+	name = Масгик
+	dynasty = 60026
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29961
+	3706.1.1 = { birth = yes }
+	3778.1.1 = { death = yes }
+}
+
+29963 = {
+	name = Замиад
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	3341.1.1 = { birth = yes }
+	3406.1.1 = { death = yes }
+}
+29964 = {
+	name = Мегрзад
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29963
+	3369.1.1 = { birth = yes }
+	3438.1.1 = { death = yes }
+}
+29965 = {
+	name = Ягсуль
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29964
+	3401.1.1 = { birth = yes }
+	3465.1.1 = { death = yes }
+}
+29966 = {
+	name = Замиад
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29965
+	3437.1.1 = { birth = yes }
+	3493.1.1 = { death = yes }
+}
+29967 = {
+	name = Нарзазир
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29966
+	3464.1.1 = { birth = yes }
+	3528.1.1 = { death = yes }
+}
+29968 = {
+	name = Ягсуль
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29967
+	3498.1.1 = { birth = yes }
+	3556.1.1 = { death = yes }
+}
+29969 = {
+	name = Ягсуль
+	dynasty = 60028
+	culture = yokudan
+	religion = satakal
+	add_trait = redguard
+	father = 29968
+	3526.1.1 = { birth = yes }
+	3588.1.1 = { death = yes }
+}

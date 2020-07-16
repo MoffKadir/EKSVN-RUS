@@ -1,0 +1,763 @@
+#CODE;RUSSIAN;x
+ACQUISITION_CLAIM;Завоевал как претендент;x
+ACQUISITION_HOST;Завоевал как авантюрист;x
+ACQUISITION_REVOLT;Завоевал как лидер восстания;x
+ACQUISITION_USURP;Мирно узурпировал;x
+ACQUISITION_FACTION_DEMAND;Установлен по требованию фракции;x
+PERSONAL_OPINION_LOWER_THAN;Личное мнение хуже чем ;x
+PERSONAL_OPINION_AT_LEAST;Личное мнение не хуже чем ;x
+PERS_OPINION_DIFF_LOWER_THAN;Разница в личном мнении между §Y$FIRST$§! и §Y$SECOND$§! меньше чем §Y$VAL$§!;x
+PERS_OPINION_DIFF_AT_LEAST;Разница в личном мнении между §Y$FIRST$§! и §Y$SECOND$§! не меньше чем §Y$VAL$§!;x
+RULER_OF_TITLE;$RULER$: $TITLE$;x
+EVTDESC38305;Теперь я чаще доверяю людям и принимаю всё, что уготовила мне судьба. Я больше не параноик.;x
+EVTDESC38306;Оказывается люди - двуличные твари. Доверчивость - это уже не про меня.;x
+EVTDESC38307;С меня уже хватит боли и предательств. Зачем помогать другим причинять мне вред? Я теряю свою доброту.;x
+EVTDESC38308;Старые раны оставили на мне след. Шрамы будут об этом напоминать.;x
+MEN;мужчины;x
+WOMEN;женщины;x
+MALE;мужск;x
+FEMALE;женск;x
+ADULTERER;прелюбодей;x
+ADULTERESS;прелюбодейка;x
+nick_the_unfaithful;Неверн[This.GetAyaYy];x
+nick_the_beguiling;Обольститель[This.GetEndNitsa];x
+nick_the_temptress;Искуситель[This.GetEndNitsa];x
+nick_the_seducer;Соблазнитель[This.GetEndNitsa];x
+nick_the_lewd;Похотлив[This.GetAyaYy];x
+nick_the_lecher;Развратни[This.GetTsaK];x
+nick_the_unchaste;Непристойн[This.GetAyaYy];x
+INSULT_OLD;Стар[This.GetAyaYy];x
+INSULT_TADPOLE;[This.GetInsultTadpole];x
+INSULT_CHILD;[This.GetInsultChild];x
+INSULT_VILE;Подл[This.GetAyaYy];x
+INSULT_FOUL;Грязн[This.GetAyaYy];x
+INSULT_FILTHY;Мерзк[GetAyaIy];x
+INSULT_CLOWN;придурок;x #Клоун
+INSULT_COW;корова;x
+INSULT_INFIDEL;безбожни[This.GetTsaK];x
+INSULT_HERETIC;Еретичн[This.GetAyaYy];x
+INSULT_GROTESQUE;квазимодо;x
+INSULT_DWARF;карли[This.GetTsaK];x
+INSULT_CLUBFOOT;кривостоп[This.GetEndItsa];x
+INSULT_HARELIP;морда;x
+INSULT_CLEFT_LIPPED;Двурот[This.GetAyaYy];x
+INSULT_BASTARD;ублюдок;x
+INSULT_BASEBORN;Безродн[This.GetAyaYy];x
+INSULT_KINSLAYER;родоубийца;x
+INSULT_SODOMITE;педераст[This.GetEndKa];x
+INSULT_DULLARD;болван[This.GetEndKa];x #Дурак
+INSULT_DIM;Тупоголов[This.GetAyaYy];x #Тупой
+INSULT_VACUOUS;Слабоумн[This.GetAyaYy];x
+INSULT_NITWIT;дура;x
+INSULT_IMBECILE;имбецил[This.GetEndKa];x
+INSULT_FREAK;урод[This.GetEndIna];x
+INSULT_ABOMINATION;выродок;x
+INSULT_MONSTROUS;Омерзительн[This.GetAyaYy];x
+INSULT_HIDEOUS;Отвратительн[This.GetAyaYy];x
+INSULT_LESBIAN;ковырялка;x
+INSULT_SAPPHIC;Лесбийск[This.GetAyaIy];x
+INSULT_HUNCHBACK;горбун[This.GetEndSha];x
+INSULT_CROOKED;Скрюченн[This.GetAyaYy];x
+INSULT_LISPER;лепетун[This.GetEndSha];x
+INSULT_FALTERING;Шепеляв[This.GetAyaYy];x
+INSULT_STUTTERING;заика;x
+INSULT_GORGON;горгона;x
+INSULT_IDIOT;Дебильн[This.GetAyaYy];x
+INSULT_TORTURER;мучитель[This.GetEndNitsa];x
+INSULT_LECHER;развратни[This.GetTsaK];x
+INSULT_LECHEROUS;Похотлив[This.GetAyaYy];x
+INSULT_GLUTTON;обжора;x
+INSULT_GORGING;Прожорлив[This.GetAyaYy];x
+INSULT_VENAL;Продажн[This.GetAyaYy];x
+INSULT_INDOLENT;Ленив[This.GetAyaYy];x
+INSULT_EVIL;Злобн[This.GetAyaYy];x
+INSULT_ENVIOUS;Завистлив[This.GetAyaYy];x
+INSULT_HARRIDAN;стерва;x
+INSULT_RAGING;Бешен[This.GetAyaYy];x
+INSULT_DECEITFUL;Лжив[This.GetAyaYy];x
+INSULT_CRAVEN;Труслив[This.GetAyaYy];x
+INSULT_COWARD;ссыкун[This.GetEndSha];x
+INSULT_SCATTERBRAIN;сумасброд[This.GetEndKa];x
+INSULT_ERRATIC;Бестолков[This.GetAyaYy];x
+INSULT_BIGOT;изувер[This.GetEndKa];x
+INSULT_BIGOTED;Изуверск[This.GetAyaIy];x
+INSULT_PARANOID;Параноидальн[This.GetAyaYy];x
+INSULT_FOOL;лопух;x
+INSULT_GULLIBLE;Легковерн[This.GetAyaYy];x
+INSULT_CRUEL;Жесток[This.GetAyaIy];x
+INSULT_BRUTE;изверг;x
+INSULT_FIEND;злодей[This.GetEndKa];x
+INSULT_CALLOUS;Бессердечн[This.GetAyaYy];x
+INSULT_WANTON;Развратн[This.GetAyaYy];x
+INSULT_SENILE;Дряхл[This.GetAyaYy];x
+INSULT_CRIPPLE;калека;x
+INSULT_VEGETABLE;овощ;x
+INSULT_BESOTTED;Бух[This.GetAyaOy];x
+INSULT_DRUNKARD;пьяница;x
+INSULT_UNCLEAN;Нечист[This.GetAyaYy];x
+INSULT_LEPER;Прокажённ[This.GetAyaYy];x
+INSULT_BAT;психопат[This.GetEndKa];x
+INSULT_DEMONIC;Бесноват[This.GetAyaYy];x
+INSULT_DEMENTED;Умалишённ[This.GetAyaYy];x
+INSULT_LUNATIC;безум[This.GetItsaEts];x
+INSULT_LUGUBRIOUS;Уныл[This.GetAyaYy];x
+INSULT_CRAZED;Чокнут[This.GetAyaYy];x
+INSULT_DEVIL_WOMAN;ведьма;x
+INSULT_WARLOCK;колдун[This.GetEndSoftYa];x
+INSULT_EFFEMINATE;Женоподобн[This.GetAyaYy];x
+INSULT_UNMANNED;Кастрированн[This.GetAyaYy];x
+INSULT_EUNUCH;евнух;x
+INSULT_BLIND;Слеп[This.GetAyaOy];x
+INSULT_PEASANT;деревенщина;x
+INSULT_PEASANT_WOMAN;деревенщина;x
+INSULT_LOWBORN;Безродн[This.GetAyaYy];x
+INSULT_HERESIARCH;ерети[This.GetChkaK];x
+INSULT_SYBARITE;сибарит[This.GetEndKa];x
+INSULT_DECADENT;Изнеженн[This.GetAyaYy];x
+INSULT_WHOREMONGER;потаскун;x
+INSULT_WHORING;Блудлив[This.GetAyaYy];x
+INSULT_DEBASED;Испорченн[This.GetAyaYy];x
+INSULT_TEMPTRESS;шлюха;x
+INSULT_DODDERER;мямля;x
+INSULT_DEBAUCHER;дебошир[This.GetEndKa];x
+INSULT_LITTLE;Мелк[This.GetAyaIy];x
+INSULT_DEGENERATE;Развращённ[This.GetAyaYy];x
+INSULT_PERVERTED;Развращённ[This.GetAyaYy];x
+INSULT_TROLLOP;потаскуха;x
+INSULT_PRUNE;ханжа;x
+INSULT_PRUDE;ханжа;x
+INSULT_PRUDISH;Стыдлив[This.GetAyaYy];x
+INSULT_BORE;Скучн[This.GetAyaYy];x
+INSULT_IDLER;бездельни[This.GetTsaK];x
+INSULT_COVETOUS;Алчн[This.GetAyaYy];x
+INSULT_SOFT;слизня[This.GetChkaK];x
+INSULT_SPIDER;паук;x
+INSULT_WUSSY;Ссыклив[This.GetAyaYy];x
+INSULT_TIMID;Боязлив[This.GetAyaYy];x
+INSULT_COY;Жеманн[This.GetAyaYy];x
+INSULT_RAPACIOUS;Оборзевш[This.GetAyaIy];x
+INSULT_GRASPING;Оборзевш[This.GetAyaIy];x
+INSULT_NARROWMINDED;Узколоб[This.GetAyaYy];x
+COMPL_VIVACIOUS;Жизнерадостн[This.GetAyaYy];x
+COMPL_DEMURE;Скромн[This.GetAyaYy];x
+COMPL_SINCERE;Искренн[This.GetAyaIy];x
+COMPL_FORTHRIGHT;Откровенн[This.GetAyaYy];x
+COMPL_ROGUE;пройдоха;x
+COMPL_RAFFISH;Дерзк[This.GetAyaIy];x
+COMPL_AFFABLE;Любезн[This.GetAyaYy];x
+COMPL_WIT;затейни[This.GetTsaK];x
+COMPL_DEVIL;чертовка;x
+COMPL_IMPISH;Шаловлив[This.GetAyaYy];x
+COMPL_PIRATE;пират[This.GetEndKa];x
+COMPL_BERSERKER;берсерк;x
+COMPL_SAOSHYANT;саошиант[This.GetEndka];x
+COMPL_VALKYRIE;валькирия;x
+COMPL_VIKING;викинг;x
+COMPL_FAIR;Прелестн[This.GetAyaYy];x
+COMPL_BEAUTY;красав[This.GetItsaEts];x
+COMPL_HANDSOME;Неотразим[This.GetAyaYy];x
+COMPL_BRILLIANT;Одарённ[This.GetAyaYy];x
+COMPL_GENIUS;гений;x
+COMPL_STRONG;Сильн[This.GetAyaYy];x
+COMPL_SCHOLAR;эрудит[This.GetEndKa];x
+COMPL_LEARNED;учён[This.GetAyaYy];x
+COMPL_MYSTIC;мистик;x
+COMPL_POET;поэт;x
+COMPL_CHASTE;Добродетельн[This.GetAyaYy];x
+COMPL_GOOD;Великодушн[This.GetAyaYy];x
+COMPL_DILIGENT;Усердн[This.GetAyaYy];x
+COMPL_KINDLY;Добр[This.GetAyaYy];x
+COMPL_KINDHEARTED;Добр[This.GetAyaYy];x
+COMPL_BRAVE;Храбр[This.GetAyaYy];x
+COMPL_PROUD;Горд[This.GetAyaYy];x
+COMPL_HUMBLE;Смиренн[This.GetAyaYy];x
+COMPL_JUST;Справедлив[This.GetAyaYy];x
+COMPL_RIGHTEOUS;Праведн[This.GetAyaYy];x
+COMPL_SAYYID;сейид[This.GetEndA];x
+COMPL_SAYYIDA;сейида;x
+COMPL_PILGRIM;паломни[This.GetTsaK];x
+COMPL_MIRZA;мирза;x
+COMPL_HAJJAJ;хаджи;x
+COMPL_MUJAHID;моджахед[This.GetEndKa];x
+COMPL_CRUSADER;крестоносец;x
+COMPL_HAFIZ;хафиз[This.GetEndKa];x
+COMPL_FAQIH;факих[This.GetEndKa];x
+COMPL_WISE;Мудр[This.GetAyaYy];x
+COMPL_PURPLE_BORN;Багрянородн[This.GetAyaYy];x
+COMPL_AUGUSTUS;август[This.GetEndA];x
+COMPL_HOLY_WARRIOR;Свят[This.GetAyaOy] воитель[This.GetEndNitsa];x
+COMPL_MONK;монах;x
+COMPL_NUN;монахиня;x
+COMPL_CHARMER;красав[This.GetItsaEts];x
+COMPL_CHARMING;Обольстительн[This.GetAyaYy];x
+COMPL_RAVISHING;Обворожительн[This.GetAyaYy];x
+COMPL_ENCHANTRESS;Обольститель[This.GetEndNitsa];x
+COMPL_FETCHING;Очаровательн[This.GetAyaYy];x
+COMPL_GREAT;Велик[This.GetAyaIy];x
+COMPL_SWEET;Мил[This.GetAyaYy];x
+COMPL_DEAR;Дорог[This.GetAyaOy];x
+COMPL_LORD;[This.GetAgedPerson];x
+COMPL_LADY;[This.GetAgedPerson];x
+COMPL_SEDUCER;соблазнитель[This.GetEndNitsa];x
+COMPL_PLEASANT;Приятн[This.GetAyaYy];x
+COMPL_LEVELHEADED;Хладнокровн[This.GetAyaYy];x
+COMPL_WRY;Ироничн[This.GetAyaYy];x
+AIREASON_UNFAITHFULNESS;Неверность;x
+HAS_NOT_POLYGAMY;Нет полигамии;x
+HAS_POLYGAMY;Есть полигамия;x
+HAS_NOT_CONCUBINAGE;Нет наложничества;x
+HAS_CONCUBINAGE;Есть наложничество;x
+DIVORCE_INTERACTION_2;Доказано, что §Y[Recipient.GetTitledFirstName]§! не хранит Вам верность! Вы в праве развестись, но [Recipient.GetHersHis] близкие родственники будут оскорблены (§R$OPINION$§! к мнению о Вас)...;x
+EVTOPTA301_DESC;§Y[From.GetFirstName]§! объявлен[From.GetEndA] как м[From.GetOyaOy] законн[From.GetAyaYy] [From.GetSonDaughter] и в полной мере обрел[From.GetEndA] права наследования.\n;x
+EVTOPTB301_DESC;§Y[From.GetFirstName]§! оста[From.GetLasLsya] вне закона, но отныне признан[From.GetEndA] как м[From.GetOyaOy] [From.GetSonDaughter] и может вступать в брак для формирования союзов. [From.GetHersHisCap] дети будут принадлежать новой династии.\n;x
+EVTOPTC301_DESC;§Y[From.GetFirstName]§! отвергнут[From.GetEndA] и оста[From.GetLasLsya] бастардом неизвестного отца, не имея никакой официальной связи со мной.\n;x
+EVTDESC404_KF;Моя [From.GetRootRelation] [From.GetFirstName] беременна, но я никак не могу быть отцом её будущего ребёнка! Страна уже полна слухами - каждый знает, что [From.FatherOfUnborn.GetTitledName] - настоящий отец.;x
+EVTDESC404_2;Моя [From.GetRootRelation] [From.GetFirstName] говорит, что она беременна, но ведь этого не может быть... или может?;x
+EVTOPTB404;Осудить обоих за измену!;x
+EVTDESC21001;Казалось, всё уже ясно, я не могу быть отцом ребёнка моей жены. Но её живот всё растёт, а я не могу спать по ночам. Нужно решить этот вопрос!;x
+EVTOPTA21001;Найму кого-нибудь, чтобы найти ответы.;x
+EVTOPTB21001;Нет, я ей доверяю!;x
+EVTDESC21003;Служанка, которую я нанял, чтобы следить за моей женой, подтвердила мои подозрения, [From.FatherOfUnborn.GetTitledName] - [From.GetHersHis] любовник и настоящий отец ребёнка!;x
+EVTDESC21003_CR;Женщина, которую я нанял шпионить за моей женой, обнаружила шокирующую правду о её беременности. Я был прав, отец - не я, а... [From.FatherOfUnborn.GetTitledFirstName], её [From.FatherOfUnborn.GetFromVsRelation]!;x
+EVTOPTA21003;Ради всего святого, лучше держать это в тайне!;x
+EVTOPTB21003;Нечестивцы! Разоблачить изменников!;x
+EVTOPTC21003;Божественно... но это измена. Разоблачить их!;x
+EVTOPTD21003;Это государственная измена!;x
+EVTDESC21005;М[From.GetOyaOy] [From.GetRootRelation] вломи[From.GetLasLsya] в м[Root.GetMyChamberACC], с криком швыряя стулья. [From.GetSheHeCap] узнал[From.GetEndA] о моей преступной связи и обвинил[From.GetEndA] меня в том, что отец ребёнка - не он, а [Root.FatherOfUnborn.GetTitledFirstName]...;x
+EVTOPTA21005;Плоть слаба...;x
+EVTDESC21006;[From.GetTitledName] узнал[From.GetEndA] о моей связи с [From.GetHersHis] женой. Он знает, что ребёнок, которого она носит, на самом деле мой...;x
+EVTOPTA21006;Мне конец!;x
+EVTOPTB21006;Проклятье...;x
+EVTDESC21010;Служанка, которую я нанял, чтобы следить за моей женой, не обнаружила ничего подозрительного, что бы касалось её беременности.;x
+EVTOPTA21010;Какое облегчение!;x
+EVTOPTB21010;Я должен ЗНАТЬ. Спрошу у неё сам.;x
+EVTOPTC21010;Найму больше шпионов.;x
+EVTOPTD21010;Приготовлю ей ловушку.;x
+EVTDESC21011;Шпионы, которых я нанял, чтобы найти что-нибудь подозрительное о моей жене и её беременности, не смогли ничего найти.;x
+EVTOPTA21011;А может ребёнок и правда мой?;x
+EVTDESC21012;Мой дорогой [From.GetRootRelation] [From.GetFirstName] что-то подозревает в связи с моей беременностью. Прямо сейчас он спрашивает меня, действительно ли ребёнок его.;x
+EVTOPTA21012;Попробую убедить его в моей верности.;x
+EVTOPTB21012;Признаюсь, что [Root.FatherOfUnborn.GetTitledFirstName] - мой любовник.;x
+EVTOPTC21012;Он наивен, как дитя. Обведу его вокруг пальца.;x
+EVTDESC21013;[From.GetFirstName] стала рыдать, как только я высказался о её возможной неверности. Она клянется в своей неугасающей любви, добродетели и смирении...;x
+EVTOPTA21013;Я никогда не буду до конца уверен...;x
+EVTDESC21003_CONF;Когда я спросил напрямую, моя [From.GetRootRelation] [From.GetFirstName] бросилась к моим ногам в слезах и призналась, что не была верна мне, всхлипывая и умоляя о прощении - [From.FatherOfUnborn.GetTitledName] был её любовником!;x
+EVTDESC21003_CONF_CR;Когда я спросил напрямую, моя [From.GetRootRelation] [From.GetFirstName] бросилась к моим ногам в слезах и призналась в любовной связи на стороне. [From.FatherOfUnborn.GetTitledName], её собственный [From.FatherOfUnborn.GetFromVsRelation] был её любовником!;x
+EVTDESC21015;[From.GetFirstName] разозлилась на меня, когда я прямо спросил о её беременности. Она сказала, что живёт взаперти, как пленница, лишённая даже самых простых свобод...;x
+EVTOPTA21015;Теперь вину чувствую я...;x
+EVTDESC21016;Я получила записку: мой возлюбленный [Root.FatherOfUnborn.GetTitledFirstName] предлагает встретиться за кузницей сегодня. Конечно же, я направилась туда, но к своему ужасу обнаружила, что мой [From.GetRootRelation] [From.GetFirstName] ждал меня там!;x
+EVTOPTA21016;Дорогой, я всё объясню!;x
+EVTTOOLTIP21003_TRAP;[This.GetFirstName] приходит в ярость!;x
+EVTDESC21003_TRAP;Я положил записку в спальне своей жены с предложением встретить её предполагаемого любовника за кузницей. Я стоял там, в надежде, что она не придёт... но она пришла. Она призналась, что [From.FatherOfUnborn.GetTitledName] - её любовник!;x
+EVTDESC21003_TRAP_CR;Я положил записку в спальне своей жены с предложением встретить её предполагаемого любовника за кузницей. Она пришла туда и призналась, что у неё есть любовник, это [From.FatherOfUnborn.GetTitledName], её собственный [From.FatherOfUnborn.GetFromVsRelation]!;x
+EVTTOOLTIP64046;[This.GetFirstName] и [Root.GetTitledFirstNameNoRegnal] прекращают свою любовную связь;x
+alert_no_focus_name;Жизненный Путь;x
+alert_no_focus_instant;§YВыберите путь§!;x
+alert_no_focus_delayed;Вам следует выбрать свой жизненный путь;x
+opinion_unfaithful_wife;Неверная блудница;x
+opinion_unfaithful_husband;Неверный развратник;x
+opinion_cuckolded;Наставил[___] рога;x #[From.GetEndA]`
+opinion_chasing_friend;Соблазняет друга;x
+opinion_chasing_spouse;Соблазняет [_жену];x #[Root.GetHusbandWifeOppACC]`
+opinion_chasing_child;Соблазняет ребёнка;x
+adulterer;Прелюбодей;x
+adulteress;Прелюбодейка;x
+known_sodomite;Известный содомит;x
+cradle_robber;Любит помоложе;x
+incestuous_adulterer;Кровосмесительный прелюбодей;x
+incestuous_adulteress;Кровосмесительная прелюбодейка;x
+opinion_suspected_adultery;Подозревается в прелюбодеянии;x
+opinion_regrets_accusation;Сожалеет по поводу обвинений;x
+opinion_advance_rejected;Ухаживание отвергнуто;x
+opinion_killed_lover;Убил[___] мо[_его] любовни[_ка];x #[From.GetEndA] [Root.GetPreferenceYuEgo] [Root.GetPreferenceTsuKa]`
+adulterous_priest;Священни[_к__]-прелюбодей[____];x #[From.GetTsaK] [From.GetEndKa]`
+wol_seducer_1;Учится соблазнять;x
+desc_wol_seducer_1;Эт[GetEtaEtot] [GetAgedPerson] постигает искусство привлекательности и гонится за острыми ощущениями...;x
+wol_seducer_2;Умеет соблазнять;x
+desc_wol_seducer_2;Эт[GetEtaEtot] [GetAgedPerson] - известн[GetAyaYy] соблазнитель[GetEndNitsa] и сердцеед[GetEndKa].;x
+wol_court_tomcat;Придворный бабник;x
+desc_wol_court_tomcat;Этот печально известный мужчина - кобелюга, оставляющий далеко позади ревнивых мужей и любовников.;x
+wol_court_vixen;Придворная вертихвостка;x
+desc_wol_court_vixen;Эта печально известная женщина - дерзкая распутница, которая знает всё о том, как переиграть ревнивых жён и любовниц.;x
+wol_refused_duel;Отказ от дуэли;x
+desc_wol_refused_duel;Будучи вызванн[GetOyYm] на честный поединок, эт[GetEtaEtot] [GetAgedPerson] трусливо отказа[GetLasLsya].;x
+FOCUS;Путь;x
+MILADY;иледи;x #миледи
+MILORD;илорд;x #милорд
+CHOOSE_FOCUS_OR_AMBITION;Выбрать Путь или Амбицию;x
+FOCUSABORTED_SETUP;Путь оставлен;x
+FOCUSABORTED_LOG;§Y$CHARNAME$§! оставил[From.GetEndA] жизненный путь §Y$FOCUS$§! позади.;x
+FOCUSABORTED_LETTER;Текущая ситуация не позволяет мне следовать путём $FOCUS$.;x
+HAS_FOCUS;Следует путём §Y$FOCUS$§!;x
+HAS_A_FOCUS;Следует жизненным путём;x
+HAS_NO_FOCUS;Не следует жизненным путём;x
+SET_FOCUS_EFFECT;$CHAR$ избирает путь §Y$FOCUS$§!\n;x
+focus_rulership_title;Правление;x
+focus_rulership_desc;[This.GetTitledFirstName] проводит своё время в стремлении править мудро.;x
+RULERSHIP_FOCUS;Путь правителя;x
+focus_business_title;Торговля;x
+focus_business_desc;[This.GetTitledFirstName] братается с горожанами и купцами, стремясь разгадать загадку денежного успеха.;x
+BUSINESS_FOCUS;Путь торговца;x
+focus_seduction_title;Соблазнение;x
+focus_seduction_desc;[This.GetTitledFirstName] оттачивает свои навыки привлекательности, обольщения и власти над людьми. Этот путь даёт возможность §YСоблазнить§! подходящие цели.;x
+SEDUCTION_FOCUS;Путь соблазнения;x
+focus_intrigue_title;Интрига;x
+INTRIGUE_FOCUS;Путь интриг;x
+focus_hunting_title;Охота;x
+focus_hunting_desc;[This.GetTitledFirstName] путешествует по стране, заводя друзей и убивая божьих тварей.;x
+HUNTING_FOCUS;Путь охоты;x
+focus_war_title;Война;x
+focus_war_desc;[This.GetTitledFirstName] участвует во всех военных делах, от освоения рукопашного боя до чтения трудов античных полководцев. Этот путь даёт возможность вызвать на §YДуэль§! соперников и врагов.;x
+WAR_FOCUS;Путь войны;x
+focus_carousing_title;Тусовка;x
+focus_carousing_desc;[This.GetTitledFirstName] стремится стать известнее и общительнее, проводя шумные вечеринки. Этот путь даёт возможность §YПригласить на пирушку§! подходящих людей.;x
+CAROUSING_FOCUS;Путь разгула;x
+focus_family_title;Семья;x
+focus_family_desc;[This.GetTitledFirstName] сосредотачивается на семейной жизни, стремясь наладить отношения со всеми членами семьи.;x
+FAMILY_FOCUS;Семейный путь;x
+focus_scholarship_title;Учение;x
+focus_scholarship_desc;[This.GetTitledFirstName] зарывается в старые пыльные тома в поисках знаний. Позволяет §YПостроить Обсерваторию§!, что послужит стартовой точкой [This.GetHersHis] изысканий.;x
+SCHOLARSHIP_FOCUS;Путь знаний;x
+focus_theology_title;Теология;x
+focus_theology_desc;[This.GetTitledFirstName] ведет жизнь, полную духовного созерцания, молитв и медитаций.;x
+THEOLOGY_FOCUS;Путь теологии;x
+seduce_decision;Соблазнить;x
+seduce_decision_desc;Сосредоточить свои усилия в надежде, что §Y[This.GetTitledFirstName]§! вступит с Вами в любовную связь...;x
+DIP_PERFORM_ACTION;Сделать это!;x
+opinion_seducing;Соблазняет;x
+opinion_seduced_attracted;Привлекает;x
+opinion_seduced_repelled;Отталкивает;x
+opinion_seduced_yearning;Вызывает вожделение;x
+seducer;Мастер-соблазнитель;x
+seducer_desc;Эт[GetEtaEtot] [GetAgedPersonM] - умелый обольститель и распутник, оставляющий за собой разбитые сердца и внебрачных детей.;x
+seductress;Умелая соблазнительница;x
+seductress_desc;Эт[GetEtaEtot] [GetAgedPersonM] - печально известная обольстительница, чья добродетельность, конечно же, под сомнением...;x
+administrator;Администратор;x
+administrator_desc;Эт[GetEtaEtot] [GetAgedPerson] - искусный администратор, который любит порядок и эффективность больше всего на свете.;x
+architect;Архитектор;x
+architect_desc;Эт[GetEtaEtot] [GetAgedPerson] любит архитектуру и машины, в частности те, которые используются при осаде.;x
+strategist;Стратег;x
+strategist_desc;Эт[GetEtaEtot] [GetAgedPerson] любит планировать кампании и анализировать текущее положение дел.;x
+socializer;Общественни[_к];x #GetTsaK_TT_к
+socializer_desc;Эт[GetEtaEtot] [GetAgedPerson] стремится нравиться другим и проводит большую часть времени в компании людей.;x
+schemer_desc;Эт[GetEtaEtot] [GetAgedPerson] - коварн[GetAyaYy] интриган[GetEndKa] и манипулятор.;x
+HAS_ANY_OPINION_MOD;Имеет модификатор мнения "§Y$MOD$§!" о ком-либо;x
+HAS_NO_OPINION_MOD;Не имеет модификатор мнения "§Y$MOD$§!" о ком-либо;x
+AGE_DIFF_AT_LEAST;Разница в возрасте не меньше чем ;x
+AGE_DIFF_LESS_THAN;Разница в возрасте меньше чем ;x
+EVTTITLE_WOL_55;Грязный секрет;x
+EVTDESC_WOL_55;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! Утопая в страсти, они даже не заметили меня - я до сих пор в шоке!;x
+EVTDESC_WOL_55_CR;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! Поверить не могу... [FromFrom.GetFromVsRelation] и [From.GetFromFromVsRelation]! Они не заметили меня, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_M_HOMO;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] делают то, что мужчины делать не должны! Они не заметили меня, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_F_HOMO;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] делают какие-то странные вещи друг с другом... нагишом. Они не заметили меня, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_PRIEST;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! И это Божий человек! Меня не заметили, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_AGE_YOUNG;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! Какой позор, ведь [From.GetSubjectPronoun] - [FromFrom.GetAbsPossPronoun] [From.GetSonDaughter]! Меня не заметили, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_AGE_OLD;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! Какой позор, ведь [From.GetSubjectPronoun] - [FromFrom.GetAbsPossPronoun] [From.GetFatherMother]! Меня не заметили, но я до сих пор в шоке!;x
+EVTDESC_WOL_55_F_MARRIED;Буквально на днях, притаившись, как обычно, я увидел[Root.GetEndA], как [FromFrom.GetTitledName] и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] занимаются этим вместе! Меня не заметили, но я до сих пор в шоке! Как может [From.GetManWoman]а в браке такое себе позволять? [Root.Religion.GetRandomGodName], прости [From.GetHersHis]!;x
+EVTOPTA_WOL_55;Возмутительно! Все должны узнать об этом!;x
+EVTOPTA_WOL_55_UNHOLY;Нечестивцы! Об этом должны знать все!;x
+EVTOPTB_WOL_55;Плоть слаба. Надо простить и забыть.;x
+EVTOPTC_WOL_55;Из этого можно извлечь выгоду!;x
+EVTTOOLTIP_WoL_60;Интрига персонажа, известного как [This.GetBestName], будет раскрыта;x
+EVTTOOLTIP_WoL_56;[This.GetTitledName] будет шантажироваться;x
+EVTDESC_WOL_56;[Root.GetTitledFirstName], [GetFromRootInsult]! Я знаю, что Вы и м[FromFrom.GetOyaOy] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstName] делали вместе. Однако, я понимаю, плоть слаба и соглашусь молчать об этом... недоразумении за небольшое вознаграждение.\n[From.GetBestName];x
+EVTDESC_WOL_56_CR;[Root.GetTitledFirstName], [GetFromRootInsult]! Я знаю, что Вы и Ваш[FromFrom.GetEndA] [FromFrom.GetRootRelation] делали вместе. Меня тошнит от вас обоих, но, к счастью для Вас, я остро нуждаюсь в финансах и могу забыть обо всём за небольшое вознаграждение.\n[From.GetBestName];x
+EVTDESC_WOL_56_HOMO;[Root.GetTitledFirstName], [GetFromRootInsult]! Я знаю, что Вы и м[FromFrom.GetOyaOy] [FromFrom.GetFromVsRelation] делали вместе. Какая мерзость! Тем не менее, милосердие мне не чуждо, и этот... инцидент будет забыт в обмен на небольшое вознаграждение.\n[From.GetBestName];x
+EVTOPTA_WOL_56;Ах ты [GetRootFromInsult]! Так и быть, заплачу...;x
+EVTOPTB_WOL_56;Расскажи всем, мне плевать!;x
+EVTTOOLTIP_WoL_57;[This.GetBestName] получит деньги;x
+EVTDESC_WOL_57;[Root.GetInsultAdjective] [Root.GetFirstName]. Вот деньги. Но если не будете молчать, клянусь, я сделаю с Вами такое, что Вы не можете вообразить!\n[From.GetFirstName];x
+EVTOPTA_WOL_57;Слежка может быть весьма полезной!;x
+EVTDESC_WOL_59;[Root.GetInsultAdjective] [Root.GetFirstName]. Это какая-то больная шутка? [From.GetFirstName] - образец добродетели! Делайте, что хотите, никто не поверит в этот бред.\n[FromFrom.GetFirstName];x
+EVTOPTA_WOL_59;С удовольствием!;x
+EVTOPTB_WOL_59;Попробовать стоило, но это слишком жестоко.;x
+EVTTITLE_WOL_60;Cупружеская измена;x
+EVTDESC_WOL_60;[From.GetBestName] рассказал[From.GetEndA] всем о том, что [From.GetHerHim] удалось увидеть как я и [FromFrom.GetFirstName] предавались греху. Скандал неизбежен.;x
+EVTOPTA_WOL_60_F;О, м[FromFrom.GetOyaOy] бедная [FromFrom.GetFirstName], мне так жаль.;x
+EVTOPTA_WOL_60_M;Ну что за времена, никакой личной жизни!;x
+EVTDESC_WOL_61;[FromFrom.GetBestName] рассказал[FromFrom.GetEndA] всем о том, что [FromFrom.GetHerHim] удалось увидеть как я и [From.GetFirstName] предаёмся греху. Скандал неизбежен.;x
+EVTOPTA_WOL_61_F;Моя жизнь разрушена!;x
+EVTDESC_WOL_62;[FromFrom.GetBestName] рассказал[FromFrom.GetEndA] всем о том, что м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] и [FromFromFrom.GetTitledName] вместе предавались греху!;x
+EVTOPTA_WOL_62;Моё сердце разбито!;x
+EVTOPTA_WOL_62_CR;Но ведь это [From.GetHersHis] [FromFromFrom.GetFromVsRelation]!;x
+EVTDESC_WOL_63;[FromFromFrom.GetBestName] рассказал[FromFromFrom.GetEndA] всем о том, что м[From.GetOyaOy] [From.GetFirstName] и [FromFrom.GetTitledName] вместе предавались греху!;x
+EVTOPTA_WOL_63_CR;Но ведь это [From.GetHersHis] [FromFrom.GetFromVsRelation]!;x
+EVTDESC_WOL_81_F;Не так уж и просто спать с каждым мужчиной, который занимает мои фантазии. Ревнивые жёны, бдительные матери, любопытные придворные, нежелательные беременности - требуются особые навыки, чтобы выжить в этой змеиной яме.;x
+EVTDESC_WOL_81_M;Гоняться за юбками не так-то просто. Ревнивые мужья, бдительные родители, любопытные горничные, внебрачные дети. Чудо, что я ещё жив!;x
+EVTDESC_WOL_81_HOMO;В эти тёмные времена, делить ложе с кем-то твоего пола крайне опасно. Однако риск разоблачения делает это ещё более увлекательным, и никаких нежелательных беременностей!;x
+EVTOPTA_WOL_81;Это хороший урок коварства.;x
+EVTDESC_WOL_99;Моя воля несгибаема, мои чары непреодолимы, мои козни легендарны. Я, [Root.GetFirstName] - воплощённое искушение!;x
+EVTOPTA_WOL_99;Подвинься, Клеопатра!;x
+EVTOPTA_WOL_99_PERS;Подвинься, Шехерезада!;x
+EVTOPTB_WOL_99;Передо мной не устоять!;x
+EVTOPTC_WOL_99;Ещё столько наслаждений предстоит познать!;x
+EVTOPTD_WOL_99;Несомненно. Но я не позволю порокам управлять мной!;x
+EVTTITLE_WOL_100;Я добьюсь [From.GetHersHis]!;x
+EVTDESC_WOL_100;Я использую все свои навыки соблазнения, пока [From.GetTitledFirstName] не окажется в моей власти!;x
+EVTOPTA_WOL_100;Ты будешь мо[From.GetEyIm]!;x
+EVTDESC_WOL_101;[From.GetTitledFirstName] мне нравится, но разница в возрасте вызовет скандал если об этом пойдут сплетни...;x
+EVTOPTA_WOL_101;Но я люблю морщины!;x
+EVTOPTB_WOL_101;Как же можно отказаться от столь миленького существа!;x
+EVTOPTC_WOL_101;Поищу другую дичь...;x
+EVTTITLE_WOL_102;Cемейная игра;x
+EVTDESC_WOL_102;Иногда строгие запреты так завораживают, но стоит кому-либо узнать, что объект моего вожделения - м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], скандал будет воистину эпическим.;x
+EVTOPTA_WOL_102;Этот риск лишь распаляет меня ещё больше!;x
+EVTOPTB_WOL_102;С другой стороны... я не из таких людей.;x
+EVTDESC_WOL_103;[From.GetTitledFirstName], [From.GetManWoman]а в духовном сане - одна лишь мысль о том, чтобы соблазнить [From.GetHersHis]... о, как это возбуждает! Однако, если кто-нибудь узнает... какой же будет скандал.;x
+EVTOPTA_WOL_103;Оно того стоит!;x
+EVTOPTB_WOL_103;Нет, [Root.Religion.GetHighGodName] покарает меня.;x
+EVTDESC_WOL_104;Общество может неодобрять мои предпочтения, но несмотря на риск... [From.GetTitledFirstName], я думаю о том, чтобы соблазнить [From.GetHersHis].;x
+EVTOPTA_WOL_104;Да, я сделаю это!;x
+EVTOPTB_WOL_104;Такой риск неоправдан.;x
+EVTTOOLTIP_WoL_110;Я начну планировать свой следующий ход;x
+EVTDESC_WOL_111;Объект моей страсти... а, кого я обманываю, цель моих любовных игр, [FromFromFrom.GetTitledFirstName], теперь в лучшем мире.;x
+EVTOPTA_WOL_111;В море ещё много рыбы.;x
+EVTDESC_WOL_112;Мои любовные интриги неожиданно закончились, когда выяснилось, что [FromFromFrom.GetTitledFirstName], их главное действующее лицо, теперь сидит за решёткой!;x
+EVTOPTA_WOL_112;Поищу другой источник впечатлений.;x
+EVTDESC_WOL_113;[FromFromFrom.GetTitledFirstName], цель моих любовных похождений, теперь в коме, и все усилия пошли прахом.;x
+EVTOPTA_WOL_113;Нет смысла соблазнять овощ.;x
+EVTTITLE_WOL_200;Любовное письмо;x
+EVTDESC_WOL_200;Сегодня мне попалось пропитанное духами письмо прямо на своей подушке. Похоже, что [From.GetTitledFirstName] питает ко мне нечто большее, чем нежные чувства.;x
+EVTDESC_WOL_200_CR;Сегодня мне попалось пропитанное духами письмо прямо на своей подушке... Даже не знаю, как реагировать - похоже, что м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] питает ко мне нечто большее, чем нежные чувства.;x
+EVTOPTA_WOL_200;Как романтично!;x
+EVTOPTB_WOL_200;Как восхитительно развратно!;x
+EVTOPTC_WOL_200;Что за глупость!;x
+EVTOPTD_WOL_200;Вообще-то... у меня есть [Root.Spouse.GetHusbandWife]!;x
+EVTOPTE_WOL_200;Это оскорбляет меня!;x
+EVTOPTF_WOL_200;Что за больное извращение!;x
+EVTTOOLTIP_WoL_201;Поощрить это...;x
+EVTTOOLTIP_WoL_202;Моё молчание оттолкнёт [This.GetAbsPossPronoun].;x
+EVTTOOLTIP_WoL_203;Решительно оттолкнуть [This.GetAbsPossPronoun]!;x
+EVTTITLE_WOL_201;Любовные письма;x
+EVTDESC_WOL_201;Мои надежды на то, что [From.GetFirstName] получит моё пропитанное духами письмо, обнаружив его на своей подушке, оправдались... и теперь [From.GetSubjectPronoun] призна[From.GetLasLsya], что [From.GetHersHis] влечёт ко мне!;x
+EVTOPTA_WOL_201;Пора поднять ставки!;x
+EVTOPTB_WOL_201;Прекрасно, но я больше не желаю [From.GetHersHis].;x
+WOL_SEDUCE_END_TOOLTIP;Сражение за сердце закончено\n;x
+EVTDESC_WOL_202;[From.GetFirstName] не отвечает на моё письмо, оставленное на подушке.;x
+EVTOPTB_WOL_202;Ничего не поделаешь.;x
+EVTDESC_WOL_203;Мои надежды на то, что [From.GetFirstName] получит моё пропитанное духами письмо, обнаружив его на своей подушке, оправдались... Но сегодня это письмо попалось мне на глаза брошенным в уборной и оно не пахло розами.;;x
+EVTOPTA_WOL_203;Временная неудача!;x
+EVTOPTB_WOL_203;Пора жить дальше.;x
+EVTTITLE_WOL_210;Любовный подарок;x
+EVTDESC_WOL_210;Вся моя спальня в цветах! А это что? О, какое прекрасное ожерелье! Здесь записка: "Под цвет Ваших глаз. С теплотой и восхищением, [From.GetTitledFirstName]".;x
+EVTDESC_WOL_210_CR;Вся моя спальня в цветах! А это что? О, какое прекрасное ожерелье! Здесь записка: "Под цвет Ваших глаз. С теплотой и восхищением, [From.GetFirstName]". Что?! Это ведь не... м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]?!;x
+EVTDESC_WOL_210_M;Сегодня паж принёс мне красиво упакованный подарок - прекрасно сбалансированный клинок с позолоченной рукоятью. Записка, прилагающаяся к нему, недвусмысленно указывала, что это [From.GetTitledFirstName]!;x
+EVTDESC_WOL_210_CR_M;Сегодня паж принёс мне красиво упакованный подарок - прекрасно сбалансированный клинок с позолоченной рукоятью. Записка, прилагающаяся к нему, недвусмысленно указывала, что это [From.GetFirstName]! М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]?!;x
+EVTOPTA_WOL_210;Как романтично!;x
+EVTOPTB_WOL_210;Как порочно и... волнующе!;x
+EVTTITLE_WOL_211;Любовные подарки;x
+EVTDESC_WOL_211;[From.GetFirstName] нашла мой подарок в своей комнате, полной цветов - прекрасное ожерелье. И всё это окупилось сполна - трудно было не заметить в конюшнях превосходное новое седло с её рельефной печатью!;x
+EVTDESC_WOL_211_M;[From.GetFirstName] получил мой подарок, великолепный меч. Похоже, это растопило его сердце, ведь он послал мне изысканный кинжал в ответ!;x
+EVTOPTA_WOL_211;Символизм предельно ясен!;x
+EVTOPTB_WOL_211;Как же это приятно! Но я уже не хочу...;x
+EVTDESC_WOL_212;Не так давно [From.GetFirstName] нашла мой подарок в своей комнате, полной цветов - прекрасное ожерелье. И каков её ответ? Молчание!;x
+EVTDESC_WOL_212_M;Не так давно [From.GetFirstName] получил мой подарок, великолепный меч. И каков же его ответ? Молчание!;x
+EVTOPTA_WOL_212;Могло быть и хуже.;x
+EVTOPTB_WOL_212;Это бесполезно.;x
+EVTDESC_WOL_213;Не так давно [From.GetFirstName] нашла мой подарок в своей комнате, полной цветов - прекрасное ожерелье... А сегодня мне пришлось узреть постель, усыпанную сухими лепестками увядших цветов и ржавый гвоздь на своей подушке!;x
+EVTDESC_WOL_213_M;Не так давно [From.GetFirstName] получил мой подарок, великолепный меч. А сегодня он оказался воткнутым в мой ткацкий станок, вся моя работа полностью уничтожена!;x
+EVTOPTA_WOL_213;Вот это прыть! Люблю суровые испытания!;x
+EVTOPTB_WOL_213;Вот оно, я трачу талант впустую!;x
+EVTTITLE_WOL_220;Cтрастная увлечённость?;x
+EVTDESC_WOL_220;Раньше я не замечала слова своей служанки, когда она утверждала якобы [From.GetTitledFirstName] ночами не спит, постоянно думая обо мне, но теперь о том же говорят мои друзья!;x
+EVTDESC_WOL_220_CR;Горничная утверждает, что слышала сплетни о том, как [From.GetTitledFirstName] не может заснуть из-за мыслей обо мне... Но ведь [From.GetSheHe] - м[From.GetOyaOy] [From.GetRootRelation]!;x
+EVTDESC_WOL_220_M;Раньше я не замечал слова своего слуги, когда он утверждал, что слышал якобы [From.GetTitledFirstName] ворочается всю ночь в плену своих страстных снов, выкрикивая моё имя, но теперь о том же говорят и мои друзья!;x
+EVTDESC_WOL_220_CR_M;Раньше я не замечал слова своего слуги, когда он утверждал, что слышал якобы [From.GetTitledFirstName] ворочается всю ночь в плену своих страстных снов, выкрикивая моё имя, но теперь о том же говорят и мои друзья! Но ведь [From.GetSheHe] - м[From.GetOyaOy] [From.GetRootRelation]!;x
+EVTOPTA_WOL_220;Как лестно!;x
+EVTOPTB_WOL_220;Извращение! Но почему это так возбуждает меня?;x
+EVTTITLE_WOL_221;Cлухи как оружие;x
+EVTDESC_WOL_221;Иногда удачно подобранные слова, подслушанные кем-то и разнесённые сплетнями, могут быть гораздо эффективнее любовных писем. [From.GetTitledFirstName], должно быть, уже обладает нужными сведениями, потому что сегодня мне попалась прядь волос, обёрнутых в шёлк с [From.GetAbsPossPronoun] личной печатью в м[Root.GetMyChamberPREP].;x
+EVTOPTA_WOL_221;Ха! Теперь ты м[From.GetOyaOy]!;x
+EVTOPTB_WOL_221;К несчастью, мне всё это уже надоело.;x
+EVTDESC_WOL_222;Иногда удачно подобранные слова, подслушанные кем-то и разнесённые сплетнями, могут быть гораздо эффективнее любовных писем. Иногда, но не сейчас, потому как [From.GetTitledFirstName], цель моих интриг, до сих пор не отвечает мне.;x
+EVTOPTA_WOL_222;Мне нужен новый план.;x
+EVTOPTB_WOL_222;Хватит с меня этой беготни!;x
+EVTDESC_WOL_223;Казалось бы, удачно подобранные слова, подслушанные кем-то и разнесённые сплетнями, могут быть гораздо эффективнее любовных писем... Что ж, [From.GetTitledFirstName] несомненно уже обладает нужными сведениями, ведь [From.GetSubjectPronoun] в свою очередь распускает слухи обо мне!;x
+EVTOPTA_WOL_223;Гениально, но я так легко не сдамся!;x
+EVTOPTB_WOL_223;Я? С конём?! Ну всё! С меня хватит!;x
+EVTTITLE_WOL_300;Hеофициальное событие;x
+EVTDESC_WOL_300;Когда [From.GetTitledName] пригласил[From.GetEndA] меня на танец, мне показалось, что сердце вот-вот выпрыгнет из груди. Эт[From.GetEtaEtot] [From.GetAgedPersonM] столь очаровател[From.GetSoftNaEn]! Я краснею, как свёкла.;x
+EVTDESC_WOL_300_CR;Я и м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] весь вечер танцевали вместе. Казалось бы, это всё просто по-дружески, но между нами растёт напряжение, нечто чувственное и... запретное.;x
+EVTDESC_WOL_300_M;Это скучнейшее мероприятие могло бы закончиться, как всегда, но [From.GetTitledName] только что снова поправил[From.GetEndA] платье прямо передо мной. [From.GetSheHeCap] флиртует? А вот это уже определённо сигнал - [From.GetSheHe] подмигнул[From.GetEndA] мне! С каждой минутой становится всё интереснее.;x
+EVTOPTA_WOL_300;*Так, соберись! Пора сказать, что-нибудь умное.*;x
+EVTOPTA_WOL_300_F;*Пора приоткрыть декольте...*;x
+EVTOPTA_WOL_300_CR;*Как это заводит! Опущу руки немного... пониже.*;x
+EVTOPTB_WOL_300;*Так не пойдет! Пора показать холодность.*;x
+EVTOPTB_WOL_300_MAR;У меня есть [Root.Spouse.GetHusbandWife]!;x
+EVTOPTB_WOL_300_OLD;[From.GetSubjectPronounCap] намного моложе меня!;x
+EVTOPTB_WOL_300_YOUNG;[From.GetSubjectPronounCap] намного старше меня!;x
+EVTOPTB_WOL_300_CR;Нет, только не [From.GetRootRelation]! Это слишком.;x
+EVTTOOLTIP_WoL_301;Ухаживания человека по имени [This.GetFirstName] поощрены;x
+EVTTOOLTIP_WoL_302;Ухаживания человека по имени [This.GetFirstName] отвергнуты;x
+EVTTITLE_WOL_301;Hеофициальное событие;x
+EVTDESC_WOL_301;Небольшой праздник в городе [From.Capital.Capital.GetName], как и ожидалось, неплохо послужило моим любовным интригам, ведь там [From.GetTitledFirstName]. Всю ночь мы танцевали и вели непринуждённые беседы...;x
+EVTDESC_WOL_301_DISTANT;Мне пришлось проделать долгий путь до города [From.Capital.Capital.GetName], где [From.Employer.GetTitledName] проводит небольшой праздник при дворе, но это оправдало мои усилия, ведь там [From.GetFirstName]. Всю ночь мы танцевали и разговаривали о разных вещах...;x
+EVTOPTA_WOL_301;Выпьем, м[From.GetMilordMilady]? В м[Root.GetMyChamberPREP] будет уютнее.;x
+EVTOPTB_WOL_301;Это был чудесно, но не будем спешить. *пусть помечтает*;x
+EVTOPTC_WOL_301;Благодарю, было весело. *закончить интрижку*;x
+EVTTOOLTIP_WoL_303;Искать способ, чтобы мы стали любовниками;x
+EVTTOOLTIP_WoL_304;Улучшить [This.GetAbsPossPronoun] мнение обо мне;x
+EVTDESC_WOL_302;Небольшой праздник в городе [From.Capital.Capital.GetName] давал мне надежду, что [From.GetTitledFirstName] поддастся моим любовным чарам, но все мои попытки ни к чему не привели.;x
+EVTOPTA_WOL_302;Нужно больше практики.;x
+EVTDESC_WOL_303;Торжества подошли к концу, и [From.GetFirstName] взял[From.GetEndA] меня за руку, пристально посмотрел[From.GetEndA] мне в глаза и сказал[From.GetEndA]: "М[Root.GetMilordMilady], не желаете ли проводить меня в м[From.GetMyChamberACC]?".;x
+EVTDESC_WOL_303_F;Ночное веселье подошло к концу... [From.GetFirstName] бросил[From.GetEndA] взгляд в сторону моей пьяной подруги. "Она даже не заметит, как мы ушли..." — [From.GetSubjectPronounCap] ухмыльну[From.GetLasLsya] и похотливо шлёпнул[From.GetEndA] меня по заднице.;x
+EVTOPTA_WOL_303;Так поспешим же!;x
+EVTOPTB_WOL_303;Кто я по-вашему, [Root.GetLadLass] на ночь?!;x
+EVTOPTC_WOL_303;Громко рассмеяться и оскорбить [From.GetAbsPossPronoun].;x
+EVTOPTC_WOL_303_F;Влепить [From.GetObjectPronoun] пощечину!;x
+EVTTOOLTIP_WoL_306;Провести незабываемую ночь!;x
+EVTDESC_WOL_304;Вот это ночь! [From.GetFirstName]... думаю, я люблю [From.GetHersHis].;x
+EVTOPTA_WOL_304;И мы будем вместе во что бы то ни стало!;x
+EVTDESC_WOL_305;Страсть между нами только начала разгораться, но вдруг [From.GetFirstName] извини[From.GetLasLsya] и покинул[From.GetEndA] меня...;x
+EVTOPTA_WOL_305;Что не так?!;x
+EVTDESC_WOL_306;[From.GetFirstName] и я провели ночь вместе, предаваясь запретным утехам в [From.GetAbsPossPronoun] постели. Прокрасться туда в предрассветное время - лучший способ держать придворных в неведении, я надеюсь...;x
+EVTDESC_WOL_306_CR;[Root.Religion.GetRandomEvilGodNameCap] заберет наши нечестивые души за этот грех, но [From.GetFirstName] и я провели ночь вместе, предаваясь запретным утехам в [From.GetAbsPossPronoun] постели. Прокрасться туда в предрассветное время - лучший способ держать придворных в неведении, я надеюсь...;x
+EVTOPTA_WOL_306;Veni, vidi, vici;x
+EVTOPTA_WOL_306_CUSTOM;Поматросить и бросить.;x
+EVTOPTB_WOL_306;Мы созданы друг для друга!;x
+EVTDESC_WOL_307;Торжества подходят к концу, а [From.GetFirstName] внимательно выслушав моё предложение продолжить в более "подходящем" месте, отказал[From.GetEndA] мне! Не могу поверить в это!;x
+EVTOPTA_WOL_307;Добродетель - [From.GetHersHis] сильная сторона...;x
+EVTOPTB_WOL_307;У меня нет на это времени.;x
+EVTDESC_WOL_308;Казалось [From.GetFirstName] уже во власти моих чар, поэтому [From.GetHersHis] ответ на моё предложение продолжить общение в более "удобном" месте шокировал меня - нелепое представление: [From.GetFirstName], прилюдно обозвав меня последними словами, уш[From.GetLaYol] в обнимку с пьяницей, разразившись злобным хохотом!;x
+EVTOPTA_WOL_308;Ха! [From.GetSubjectPronounCap] показывает зубы!;x
+EVTOPTB_WOL_308;В пекло его, достал этот придурок!;x
+EVTOPTB_WOL_308_F;Обнаглевшая бабища! Пусть катится ко всем чертям!;x
+EVTTITLE_WOL_351;Hочной перекус;x
+EVTDESC_WOL_351;У меня появился "шанс" - [From.GetFirstName] как всегда на кухне, чтобы перекусить среди ночи. Мы встретились и разговорились - часами мы болтали и смеялись, и безусловно наше влечение друг к другу заметно возросло. Надеюсь, моё решение уместно - приблизиться и прошептать [From.GetHerHim] на ухо...;x
+EVTDESC_WOL_351_DISTANT;Путешествие ко двору человека, известного здесь как [From.Employer.GetTitledName], было утомительным, но упускать такой "шанс" нельзя - [From.GetFirstName] как всегда на кухне, чтобы перекусить среди ночи. Мы разговорились, и наше влечение друг к другу заметно возросло. Я наклони[Root.GetLasLsya] к н[From.GetHerHim], чтобы прошептать...;x
+EVTOPTA_WOL_351;Любовное признание;x
+EVTOPTB_WOL_351;Непристойное предложение;x
+EVTOPTC_WOL_351;Любовную поэму;x
+EVTOPTD_WOL_351;Что угодно, нежное дыхание сделает своё дело;x
+EVTTOOLTIP_WoL_352_LOVE;Сделать ставку на то, что [This.GetFirstName] наив[This.GetNaEn] и романтич[This.GetNaEn];x
+EVTTOOLTIP_WoL_352_LEWD;Сделать ставку на то, что [This.GetFirstName] разврат[This.GetNaEn];x
+EVTTOOLTIP_WoL_352_POET;Сделать ставку на то, что [This.GetFirstName] поэтич[This.GetNaEn] и образован[This.GetEndNa];x
+EVTTOOLTIP_WoL_352_BREATH;Использовать безотказный трюк соблазнения;x
+EVTDESC_WOL_352;По ночам обычно я пробираюсь на кухню, чтобы перекусить, пока никто не видит, но в этот раз всё иначе - мне встрети[From.GetLasLsya] [From.GetTitledFirstNameNoRegnal], мы болтали и смеялись часами, пока наше общение не наполнилось нежностью и прикосновениями... И вот [From.GetSubjectPronoun] наклони[From.GetLasLsya], чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_352_DISTANT;По ночам обычно я пробираюсь на кухню, чтобы перекусить, пока никто не видит, но каково было моё удивление - [From.GetTitledFirstName], прибыв к нам издалека оказа[From.GetLasLsya] там! Мы болтали и смеялись часами, пока наше общение не наполнилось нежностью и прикосновениями... И вот [From.GetSubjectPronoun] наклони[From.GetLasLsya], чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_352_HOMO;По ночам обычно я пробираюсь на кухню, чтобы перекусить, пока никто не видит, но в этот раз всё иначе - мне встрети[From.GetLasLsya] [From.GetTitledFirstNameNoRegnal], мы болтали и смеялись часами, но между нами растёт странное напряжение или может быть... влечение? [From.GetSheHeCap] же [From.GetManWoman]а! Мы собрались уходить, но [From.GetSubjectPronoun] наклони[From.GetLasLsya] к мне и прошептал[From.GetEndA]... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_352_CR;По ночам обычно я пробираюсь на кухню, чтобы перекусить, пока никто не видит, но в этот раз там оказа[From.GetLasLsya] м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName]. Мы болтаем и смеёмся часами, и между нами растёт странное напряжение или... влечение? [From.GetSheHeCap] же м[From.GetOyaOy] [From.GetRootRelation]! Мы собрались уходить, но [From.GetSubjectPronoun] наклони[From.GetLasLsya] ко мне и прошептал[From.GetEndA]... [Root.GetSeductionAstrologyPostScript];x;x
+EVTOPTA_WOL_352_POET;Как это прекрасно, обожаю поэзию!;x
+EVTOPTA_WOL_352_LEWD;Как развратно, давай же сделаем это!;x
+EVTOPTA_WOL_352_LOVE;Прекрасные слова о любви, как это мило!;x
+EVTOPTA_WOL_352_BREATH;[From.GetAbsPossPronounCap] дыхание... так возбуждает!;x
+EVTTOOLTIP_WoL_306_2;Вместе последовать в постель...;x
+EVTOPTB_WOL_352_POET;Стихи? Что за нелепость?!;x
+EVTOPTB_WOL_352_LEWD;Какая... похабщина! Это неслыханно!;x
+EVTOPTB_WOL_352_LOVE;Любовь? Что за детские фантазии?;x
+EVTOPTB_WOL_352_BREATH;Серьёзно? И это обычно срабатывает?;x
+EVTDESC_WOL_353;[From.GetFirstName] резко отстрани[From.GetLasLsya] от меня, краснея и извиняясь за свою реакцию, а затем спешно удали[From.GetLasLsya] прочь.;x
+EVTDESC_WOL_353_CR;[From.GetFirstName] резко отстрани[From.GetLasLsya] от меня, не скрывая свой шок и отвращение: "Да простит тебя [From.Religion.GetRandomGodName]! Я - тв[From.GetOyaOy] [From.GetRootRelation]!";x
+EVTDESC_WOL_353_OLD_M;[From.GetFirstName] резко отстрани[From.GetLasLsya], не скрывая свой шок: "[Root.GetTitledFirstNameNoRegnal]! Вы мне в отцы годитесь!" — и убежал[From.GetEndA] прочь.;x
+EVTDESC_WOL_353_OLD_F;[From.GetFirstName] резко отстрани[From.GetLasLsya], не скрывая свой шок: "Прошу прощения, [Root.PrimaryTitle.GetRulerTitle], но Вы слишком... стары для меня." — и спешно удали[From.GetLasLsya] прочь.;x
+EVTDESC_WOL_353_YOUNG;[From.GetFirstName] медленно покачалотстрани[From.GetEndA] головой и ухмыльнувшись отталкнул[From.GetEndA] меня: "Прости, [Root.GetLadLass], тебе ещё многое предстоит узнать о [From.GetManWoman]aх.";;x
+EVTTITLE_WOL_401;Cоблазнение на природе;x
+EVTDESC_WOL_401;[From.GetTitledFirstNameNoRegnal], цель моих любовных устремлений, несомненно обрадуется, если мы вместе выберемся на лёгкую прогулку, но к сожалению сейчас здесь половина двора, поэтому у нас почти не будет возможности уединиться...;x
+EVTDESC_WOL_401_DISTANT;[From.GetTitledFirstNameNoRegnal], цель моих любовных устремлений, несомненно обрадуется, если я, прибыв сюда издалека, устрою нам лёгкую и весёлую прогулку. Но, к сожалению сейчас здесь половина [From.Employer.PrimaryTitle.GetAdjective]ского двора, и у нас почти не будет возможности уединиться...;x
+EVTDESC_WOL_401_CR;[From.GetFirstName], цель моих любовных устремлений, несомненно обрадуется, если мы вместе выберемся на лёгкую прогулку. К сожалению сейчас здесь половина двора, и у нас будет мало возможностей побыть наедине, к тому же [From.GetFirstName] - м[From.GetOyaOy] [From.GetRootRelation], это вызовет подозрения...;x
+EVTDESC_WOL_401_HOMO;[From.GetFirstName], цель моих любовных устремлений, несомненно обрадуется, если мы вместе выберемся на лёгкую прогулку. К сожалению сейчас здесь половина двора, и у нас будет мало возможностей побыть наедине, к тому же [From.GetFirstName] - [Root.GetManWoman]а, как и я, это может вызвать нежелательные подозрения...;x
+EVTOPTA_WOL_401;Вероятно, [From.GetAbsPossPronoun] друзья помогут нам.;x
+EVTOPTB_WOL_401;Оставлю [From.GetHerHim] записку с просьбой встретиться у ручья.;x
+EVTOPTC_WOL_401;Мы просто пройдёмся немного вдвоём.;x
+EVTOPTD_WOL_401;Что ж, буду флиртовать украдкой.;x
+EVTDESC_WOL_403;Похоже, что [From.GetBestName] поддерживает мои романтические устремления. [From.GetFirstName] и [FromFromFrom.GetFirstName] "случайно" встретили меня около ручья, и все мы прекрасно провели время. Думаю, [FromFromFrom.GetFirstName] ко мне неровно дышит, ведь [FromFromFrom.GetSheHe] даже не замечает, что мы остались только вдвоем. Уличив момент, я наклоняюсь, чтобы прошептать [FromFromFrom.GetHerHim] на ухо...;x
+EVTDESC_WOL_404;[From.GetTitledFirstNameNoRegnal] и я прогуливались на природе и, оказавшись у ручья, остались совсем одни,  друзья и слуги оставили меня. Часами мы смеялись и болтали о всяких пустяках. И вдруг, [From.GetSubjectPronoun] наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_404_DISTANT;[From.GetTitledFirstName], прибыв к нам погостить издалека, приглашает меня прогуляться на природе - я отвечаю согласием, расчитывая интересно провести время. И вот когда мы подходим к ручью, я вижу, что друзья и слуги оставили меня, мы остались вдвоём. Часами мы весело болтали о всяких пустяках. И вдруг, [From.GetSubjectPronoun] наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_404_HOMO;[From.GetTitledFirstName] и я прогуливались на природе после праздника, дошли до ручья и разговорились. Часы спустя, сидя под утёсом и наблюдая, как мирно журчит вода, мы заметили странное притяжение между нами. Что это? Влечение? Но [From.GetFirstName] - [From.GetManWoman]а! Вот мы уже собираемся уходить и вдруг [From.GetSubjectPronoun] наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_404_CR;М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] и я прогуливались на природе после праздника, дошли до ручья и разговорились. Часы спустя, сидя под утёсом и наблюдая, как мирно журчит вода, мы заметили, как родственные чувства перерастают в нечто иное. Влечение? Но ведь [From.GetSheHe] - м[From.GetOyaOy] [From.GetRootRelation]! Внезапно, [From.GetSubjectPronoun] кладет руку мне на бедро и наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTTOOLTIP_WoL_405;Вместе последовать в тёплую воду...;x
+EVTDESC_WOL_405;[From.GetFirstName] и я чудесно провели время, занимаясь любовью в водах тёплого ручья. Позже, когда мы вернулись на праздник, улыбаясь и светясь от радости, заметили, как лакеи, поспешившие нас обслужить, удивлённо смотрят на нас, гадая, где мы пропадали...;x
+EVTDESC_WOL_405_SIN;[From.GetFirstName] и я страстно отдались греху в водах тёплого ручья. Позже, когда мы вернулись на праздник, улыбаясь и светясь от радости, заметили, как лакеи, спешат нас обслужить, гадая, где мы пропадали. Если бы они только знали... О, нет, надеюсь они не узнают этого никогда!;x
+EVTDESC_WOL_407;Мои надежды на то, что [FromFrom.GetBestName] поможет устроить свидание, на котором [From.GetTitledFirstNameNoRegnal] и я сможем побыть наедине, не оправдались - похоже, [FromFrom.GetSheHe] не одобряет мои романтические устремления. Более того, очевидно, теперь [FromFrom.GetSheHe] будет следить за мной...;x
+EVTOPTA_WOL_407;[From.GetFirstName] всё равно получит мою записку!;x
+EVTOPTB_WOL_407;Как же мне это всё надоело...;x
+EVTDESC_WOL_409;М[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetBestName] говорит, что [FromFromFrom.GetTitledName] пытается использовать [FromFrom.GetHersHis] в своих подлых интригах - соблазнении мое[From.GetYGo] [From.GetRootRelation] [From.GetFirstName]!;x
+EVTOPTA_WOL_409_M;Похотливый мерзавец!;x
+EVTOPTA_WOL_409_M_OLD;Похотливый старый козёл!;x
+EVTOPTA_WOL_409_F;Грязная шлюха!;x
+EVTOPTA_WOL_409_F_OLD;Похотливая старуха!;x
+EVTDESC_WOL_412;Моя затея обратиться за помощью к "надёжному" человеку при дворе, чтобы устроить свидание, на котором я и [From.GetTitledFirstNameNoRegnal] смогли бы побыть наедине, не просто провалилась... Всё куда хуже - эта придворная мразь, наплевав на честь, предала меня - теперь [From.GetAbsPossPronoun] [FromFromFrom.GetFromVsRelation] всё знает и у меня новый враг!;x
+EVTDESC_WOL_414;Большая часть прогулки прошла в бесплодных попытках устроить так, чтобы [From.GetFirstName] и я смогли провести время наедине - [From.GetHersHis] друзья отказались помочь мне в этом...;x
+EVTOPTA_WOL_414;Но я так просто не сдамся!;x
+EVTDESC_WOL_415;Прогулка на природе была прекрасна. Я и [From.GetTitledFirstNameNoRegnal] долго и непринужденно болтали о всях пустяках. [From.GetSheHeCap] - [GetRootFromCompliment], и меня тянет к н[From.GetHerHim].;x
+EVTDESC_WOL_415_DISTANT;Прогулка на природе была прекрасна. [From.GetTitledFirstNameNoRegnal], прибыв к нам издалека, вызывает во мне странные чувства, мы долго и непринужденно болтали, и теперь я понимаю [From.GetFirstName] - [GetRootFromCompliment], [From.GetSheHe] нравится мне.;x
+EVTDESC_WOL_416;Несмотря на безуспешные попытки добиться того, чтобы [From.GetTitledFirstNameNoRegnal] и я наконец остались наедине, мне кажется, теперь я нравлюсь [From.GetHerHim] чуть больше. Или мне просто хочется так думать...;x
+EVTOPTA_WOL_416;Нужен новый план!;x
+EVTDESC_WOL_418;Во время прогулки на природе, я заметил[Root.GetEndA] небольшую записку среди полевых цветов возле своей палатки, это [FromFrom.GetTitledFirstNameNoRegnal]. [FromFrom.GetSheHeCap] пригласил[FromFrom.GetEndA] меня встретиться у ручья, наедине!;x
+EVTDESC_WOL_418_DISTANT;Во время прогулки на природе, я заметил[Root.GetEndA] небольшую записку среди полевых цветов возле своей палатки, это [FromFrom.GetTitledFirstNameNoRegnal]. Прибыв в наши края издалека, [FromFrom.GetSheHe] теперь пригласил[FromFrom.GetEndA] меня встретиться у ручья, наедине!;x
+EVTOPTA_WOL_418_F;Как мило! Служанка прикроет меня.;x
+EVTOPTA_WOL_418_M;Отлично! Друзья меня прикроют.;x
+EVTOPTB_WOL_418;[FromFrom.GetSheHeCap] не понимает, это слишком рискованно!;x
+EVTDESC_WOL_419;Мне не пришлось долго ждать, чтобы увидеть как [From.GetTitledFirstNameNoRegnal] приближается к ручью. Часами мы смеялись и болтали о всяких пустяках. Думаю, я [From.GetHerHim] нравлюсь. Уличив момент, я наклоняюсь, чтобы прошептать [From.GetHerHim] на ухо...;x
+EVTDESC_WOL_404_NOTE;Выйдя из палатки, я сразу направляюсь к ручью и вижу, как [From.GetTitledFirstNameNoRegnal] ждёт меня там. Часами мы весело болтали о всяких пустяках. И вдруг [From.GetSubjectPronoun] наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_404_HOMO_NOTE;Выйдя из палатки, я сразу направляюсь к ручью и вижу, как [From.GetTitledFirstNameNoRegnal] ждёт меня там. Часы спустя, сидя под утёсом и наблюдая, как мирно журчит вода, мы заметили странное притяжение между нами. Что это? Влечение? Но [From.GetFirstName] - [From.GetManWoman]а! Вот мы уже собираемся уходить и вдруг [From.GetSubjectPronoun] наклоняется, чтобы прошептать мне на ухо... [Root.GetSeductionAstrologyPostScript];x;x
+EVTDESC_WOL_420;Я жду у ручья уже несколько часов, но не замечаю никаких признаков того, что [From.GetTitledFirstNameNoRegnal] может появиться. Солнце уже садится, но [From.GetHersHis] до сих пор нет. Очевидно, [From.GetSheHe] уже не придёт...;x
+EVTDESC_WOL_421;Во время прогулки на природе, я замечаю небольшую записку среди полевых цветов возле нашей палатки, очевидно, что м[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] [FromFromFrom.GetFirstName] собирается на свидание ручья! [GetRootFromFromInsult] [FromFrom.GetTitledFirstName] ждёт [FromFromFrom.GetHersHis] там!;x
+EVTOPTB_WOL_421;Стража! Арестeуйте [FromFrom.GetHersHis]!;x
+EVTDESC_WOL_423;Мне показалось, что идея спрятать записку там, где только [From.GetTitledFirstNameNoRegnal] сможет найти, была удачной, но увы - [From.GetHersHis] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] имеет привычку рыться в чужих вещах! К счастью, меня не бросили в темницу, но без сомнения, у меня появился новый враг...;x
+EVTDESC_WOL_423_PRISON;Мне показалось, что идея спрятать записку там, где только [From.GetTitledFirstNameNoRegnal] сможет найти, была удачной, но увы - [From.GetHersHis] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] имеет привычку рыться в чужих вещах! [FromFrom.GetSheHeCap] яви[FromFrom.GetLasLsya] на условленное место к ручью с группой из шести стражников, и они арестовали меня!;x
+EVTOPTA_WOL_423;Что ж, я люблю поднимать ставки!;x
+EVTOPTA_WOL_423_PRISON;Оковы меня не остановят! Я не сдамся!;x
+EVTDESC_WOL_424;Во время прогулки на природе, я заметил[Root.GetEndA] небольшую записку  среди полевых цветов, растущих повсюду. Похоже тот, кто её здесь оставил, расчитывал, что её прочитает м[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] [FromFromFrom.GetTitledFirstNameNoRegnal]. Скорее всего "таинственн[FromFrom.GetAyaYy] писатель[FromFrom.GetEndNitsa]" - [FromFrom.GetTitledFirstNameNoRegnal], [FromFrom.GetSheHe] ждёт у ручья...;x
+EVTOPTB_WOL_424;[FromFromFrom.GetFirstName] не понимает, с кем связа[FromFromFrom.GetLasLsya]!;x
+EVTOPTC_WOL_424;[GetRootFromFromCompliment] [FromFrom.GetFirstName]? Лучше пойду я!;x
+EVTDESC_WOL_426;Я жду у ручья уже несколько часов, но не замечаю никаких признаков того, что [From.GetFirstName] может появиться. И вдруг на горизонте появляется [From.GetHersHis] [FromFrom.GetFromVsRelation]. Похоже, [From.GetSheHe] в ярости... Проклятье! Ну почему всегда находится какая-нибудь тварь, которая суёт свой нос не в своё дело?!;x
+EVTDESC_WOL_428;Мне не пришлось долго ждать у ручья - вскоре какая-то [FromFrom.GetMaleFemale]ая фигура показалась на горизонте... Но это... не [From.GetTitledFirstNameNoRegnal], а [From.GetAbsPossPronoun] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal]! Как оказалось [FromFrom.GetSheHe] не прочь "поразвлечься" со мной.;x
+EVTOPTA_WOL_428;А почему бы и нет?;x
+EVTOPTB_WOL_428;Благодарю, [FromFrom.PrimaryTitle.GetFOA], но мой ответ нет!;x
+EVTTOOLTIP_WoL_430;[This.GetFirstName] разочарован[This.GetEndA] и не склон[This.GetNaEn] думать обо мне лучше...;x
+EVTDESC_WOL_429;Как и следовало ожидать, [From.GetTitledFirstNameNoRegnal], [GetRootFromCompliment], ждал[From.GetEndA] у ручья. [From.GetSubjectPronounCap] удиви[From.GetLasLsya], заметив меня, раcсчитывая, что на моём месте будет [FromFrom.GetTitledFirstNameNoRegnal], но явно не против. Мы провели чудесный день, предаваясь страсти в тёплой воде, под ивами, потом снова в воде...;x
+EVTOPTA_WOL_429;Хорошо-то как! Мне не хватало этого...;x
+EVTDESC_WOL_430;Как и следовало ожидать, [From.GetTitledFirstNameNoRegnal] ждал[From.GetEndA] у ручья. [From.GetSubjectPronounCap] удиви[From.GetLasLsya], заметив меня, расчитывая, что на моём месте будет [FromFrom.GetTitledFirstNameNoRegnal]. Мои, мягко говоря, самые нескромные попытки соблазнить [From.GetHersHis] ни к чему не привели, [GetRootFromInsult] не хочет делать это со мной!;x
+EVTOPTA_WOL_430;[From.GetSubjectPronounCap] ещё пожалеет об этом!;x
+EVTDESC_WOL_1003;В последнее время м[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] ведёт себя странно. Ночами  [FromFrom.GetSheHe] не прикасается ко мне и даже не смотрит на меня. А днём [FromFrom.GetSheHe] и эт[From.GetEtaEtot] [GetRootFromInsult] [From.GetBestName] постоянно шепчутся о чём-то... Я больше это не вынесу!;x
+EVTDESC_WOL_1003_CR;В последнее время м[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] ведёт себя странно, не прикасается ко мне и даже не смотрит на меня. Кроме того то, как [FromFrom.GetSheHe] и [FromFrom.GetAbsPossPronoun] [From.GetFromFromVsRelation] [From.GetTitledFirstNameNoRegnal] смотрят друг на друга, как они гуляют вместе... Это не может не настораживать.;x
+EVTDESC_WOL_1003_TIP;[FromFromFrom.GetTitledName] сообщил[FromFromFrom.GetEndA] мне о своих подозрениях: [FromFromFrom.GetSheHe] считает, что [FromFromFrom.GetHersHis] [From.GetHusbandWife] [From.GetTitledFirstNameNoRegnal] и м[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] - любовники, но не осмеливается что-то предпринять!;x
+EVTOPTA_WOL_1003;[FromFrom.GetFirstName], скажи мне правду!;x
+EVTOPTB_WOL_1003_M;[From.GetTitledFirstNameNoRegnal] скажет правду!;x
+EVTOPTB_WOL_1003_F;[From.GetTitledFirstNameNoRegnal] скажет правду!;x
+EVTOPTC_WOL_1003;Не хочу об этом знать.;x
+EVTOPTC_WOL_1003_HOMO_F;Пусть девочки поиграют!;x
+EVTDESC_WOL_1004;Сегодня утром м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] внезапно начал[From.GetEndA] неудобный разговор: "Скажи мне честно, [FromFrom.GetTitledName] - тв[FromFrom.GetOyaOy] - любовни[FromFrom.GetTsaK]?" — по выражению [From.GetAbsPossPronoun] лица невозможно понять знает ли [FromFrom.GetSheHe] наверняка или только подозревает...;x
+EVTOPTA_WOL_1004;Умоляю, прости меня!;x
+EVTOPTB_WOL_1004;Да, мы - любовники! И что?;x
+EVTOPTC_WOL_1004;Конечно, любовни[FromFrom.GetTsaK]! Как же иначе?! *притворный сарказм*;x
+EVTOPTD_WOL_1004;Как ты можешь такое говорить?! *сыграть обиду и гнев*;x
+EVTTOOLTIP_WoL_1005;Моя интрижка с персонажем по имени [This.GetTitledFirstNameNoRegnal] окончена;x
+EVTDESC_WOL_1005;[From.GetTitledFirstNameNoRegnal]... после всего, что между нами было, [From.GetSheHe] бросил[From.GetEndA] меня! Недавно мне стало известно, что [From.GetAbsPossPronoun] [FromFrom.GetFromVsRelation] в порыве ревности выпытал[FromFrom.GetEndA] у н[From.GetHersHis] всё о наших "отношениях"...;x
+EVTOPTA_WOL_1005_F;Подлая ведьма!;x
+EVTOPTA_WOL_1005_M;Проклятый мерзавец!;x
+EVTTOOLTIP_WoL_1006;[This.GetFirstName] расстроится;x
+EVTTOOLTIP_WoL_1009;[This.GetFirstName] расстроится и может резко отреагировать...;x
+EVTTOOLTIP_WoL_1022;[This.GetFirstName] ответит на мою ложь...;x
+EVTTOOLTIP_WoL_1010;[This.GetFirstName] подвергнется манипуляции;x
+EVTDESC_WOL_1006;М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] призна[From.GetLasLsya] мне - [FromFromFrom.GetTitledFirstNameNoRegnal] и [From.GetSheHe] были любовниками. Встав на колени со слезами на глазах, [From.GetSheHe] умоляет меня простить [From.GetHersHis]...;x
+EVTOPTA_WOL_1006;Мы справимся с этим, вместе...;x
+EVTOPTB_WOL_1006;Ни за что! Об этой связи узнают все!;x
+EVTDESC_WOL_1007;[FromFrom.GetTitledFirstNameNoRegnal] и я... мы опозорены - [FromFrom.GetHersHis] [From.GetFromFromVsRelation] в гневном приступе ревности публично обвинил[From.GetEndA] нас в прелюбодеянии!;x
+EVTDESC_WOL_1007_LOVER_ADM;Эт[From.GetEtaEtot] [GetRootFromInsult] [From.GetTitledFirstNameNoRegnal] не признал[From.GetEndA] мои искренние извинения! Я и [From.GetAbsPossPronoun] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] теперь публично обвиняемся в прелюбодеянии!;x
+EVTDESC_WOL_1007_SPYING;[From.GetTitledFirstNameNoRegnal] теперь знает, что я и [From.GetAbsPossPronoun] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] встречаемся у н[From.GetHersHis] за спиной. Оказывается, за нами вели слежку [From.GetHersHis] шпионы, и теперь эт[From.GetEtaEtot] [GetRootFromInsult] публично обвинил[From.GetEndA] нас в прелюбодеянии!;x
+EVTDESC_WOL_1008;[FromFromFromFrom.GetTitledFirstNameNoRegnal] и я.... мы опозорены - м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] не признал[From.GetEndA] мои искренние извинения и публично обвинил[From.GetEndA] нас в прелюбодеянии.;x
+EVTDESC_WOL_1008_CRUEL;М[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetTitledFirstNameNoRegnal] и я... наша любовь опозорена и честное признание не избавило меня от этого! М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], [GetRootFromInsult], публично обвинил[From.GetEndA] нас в прелюбодеянии!;x
+EVTDESC_WOL_1009;М[From.GetOyaOy] [From.GetRootRelation] с наглой ухмылкой на лице открыто призна[From.GetLasLsya] мне, что [FromFromFrom.GetTitledName] - [From.GetHersHis] любовни[FromFromFrom.GetTsaK]! [GetRootFromInsult]!;x
+EVTOPTA_WOL_1009_M;Я не стану позорить себя при всех.;x
+EVTOPTA_WOL_1009_F;[From.GetSheHeCap] - [From.GetManWoman]а. Что тут поделать...;x
+EVTOPTB_WOL_1009;Обвиню их публично!;x
+EVTDESC_WOL_1022;М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] решительно отрицает, что [FromFromFrom.GetTitledFirstNameNoRegnal] - [From.GetHersHis] любовни[FromFromFrom.GetTsaK], но обещает проводить больше времени со мной.;x
+EVTOPTA_WOL_1022;Это успокаивает, но сомнения всё же есть...;x
+EVTOPTB_WOL_1022;А [FromFromFrom.GetFirstName]? Что скажет [FromFromFrom.GetHersHis] [FromFromFrom.Spouse.GetHusbandWife]?;x
+EVTOPTC_WOL_1022;За ними надо присматривать, найму шпионов.;x
+EVTTOOLTIP_WoL_1023;[This.Spouse.GetFirstName] узнает о моих подозрениях.;x
+EVTDESC_WOL_1025;[From.GetTitledFirstNameNoRegnal] благодарит, что я делюсь своими подозрениями - наши супруги могут изменять каждому из нас, и [From.GetSheHe] обещает мне, что приложит все усилия, чтобы докопаться до правды...;x
+EVTOPTA_WOL_1025;Надеюсь, вместе мы скорее всё выясним.;x
+EVTDESC_WOL_1027;Пришло донесение от моих шпионов. После длительной слежки они уверенно утверждают, что м[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] [FromFromFrom.GetFirstName] и [From.GetTitledFirstNameNoRegnal] определённо не являются любовниками, по крайней мере, они не нашли тому никаких подтверждений.;x
+EVTDESC_WOL_1028;Пришло донесение от моих шпионов. Они сообщают, что м[FromFromFrom.GetOyaOy] [FromFromFrom.GetRootRelation] и [From.GetTitledFirstNameNoRegnal] были пойманы "in flagrante delicto" (на месте преступления) в окрестностях [From.Location.County.GetAdjective]ских земель!;x
+EVTOPTA_WOL_1028;Но я не хочу огласки...;x
+EVTOPTB_WOL_1028;Обвиню их публично!;x
+EVTDESC_WOL_1031;К сожалению, м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] не настолько наив[From.GetNaEn]. Мои отрицания и заверения в верности не оказали никакого эффекта. Оказывается, [From.GetHersHis] шпионы неустанно следили за мной и узнали о моих любовных интригах! Теперь [FromFrom.GetTitledFirstNameNoRegnal] и публично обвиняемся в прелюбодеянии.;x
+EVTDESC_WOL_1010_F;[From.GetFirstName] разозлилась и обиделась на меня, когда я прямо спросил о том, что [FromFromFrom.GetTitledName] для неё значит, и не изменяет ли она мне. Она сказала, что я отношусь к ней, как к собственности, считая себя вправе следить за каждым её шагом и подозревать во всяких "оскорбительных вещах".;x
+EVTDESC_WOL_1010_M;[From.GetFirstName] разозлился, когда я спросила его, что [FromFromFrom.GetTitledName] для него значит и нет ли между ними любовной связи. Он сказал, что я холодна с ним и веду себя, как чужая, и даже хуже. Что вместо доброты и поддержки, он получает от меня только незаслуженные подозрения и недоверие.;x
+EVTDESC_WOL_1033;М[FromFromFrom.GetOyaOy] любовни[FromFromFrom.GetTsaK] [FromFromFrom.GetTitledFirstNameNoRegnal] весь день избегал[FromFromFrom.GetEndA] меня... А чуть позже меня неожиданно навестил[From.GetEndA] [FromFromFrom.GetHersHis] [From.GetFromFromFromVsRelation] [From.GetBestName], шокируя расспросами о нашей любовной связи!;x
+EVTDESC_WOL_1033_DISTANT;М[FromFromFrom.GetOyaOy] любовни[FromFromFrom.GetTsaK] [FromFromFrom.GetTitledFirstNameNoRegnal] предложил[FromFromFrom.GetEndA] встретиться сегодня, и я уже собира[Root.GetLasLsya] выходить, как вдруг обнаружил[Root.GetEndA] адресованное мне письмо, отправитель - [From.GetBestName], [FromFromFrom.GetHersHis] [From.GetFromFromFromVsRelation], [From.GetSheHe] пишет, что подозревает нас в любовной связи и прямо спрашивает меня об этом!;x
+EVTOPTA_WOL_1033;Цинично отрицать.;x
+EVTOPTB_WOL_1033;Признаться и пообещать прекратить это.;x
+EVTOPTC_WOL_1033_F;Я убью эту суку!;x
+EVTOPTC_WOL_1033_M;Я убью его!;x
+EVTTOOLTIP_WoL_1011_ATTACK;[From.GetTitledFirstNameNoRegnal] подвергнется нападению и надеюсь пострадает!;x
+EVTDESC_WOL_1012;[FromFrom.GetTitledFirstNameNoRegnal], похоже, в шоке. [FromFrom.GetSheHeCap] отрицает любые утверждения о том, что м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] - [FromFrom.GetHersHis] любовни[From.GetTsaK].;x
+EVTDESC_WOL_1012_ATTACKED;[FromFrom.GetTitledFirstNameNoRegnal], услышав мои обвинения, в порыве гнева бросается на меня! Реакция неадекватна, даже с учётом "щекотливости" вопроса: не любовни[From.GetTsaK] ли [FromFrom.GetHerHim] - м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName].;x
+EVTOPTA_WOL_1012;Ну хорошо. Нет, так нет.;x
+EVTOPTA_WOL_1012_ATTACKED;Эта ярость из-за обиды на ложные обвинения?;x
+EVTOPTB_WOL_1012;Немного яда нас рассудит...;x
+EVTTOOLTIP_WoL_1013;Отравить персонажа по имени [This.GetFirstName] при первой возможности.;x
+EVTOPTC_WOL_1012_DUEL;Нас рассудит поединок!;x
+EVTTOOLTIP_WoL_1032;[This.GetFirstName] будет вызван[This.GetEndA] на дуэль.;x
+EVTDESC_WOL_1014;Какой чудесный вечер! Вкусная еда, выпивка, любимые друзья... Но... что-то здесь стало немного душновато... Я... я НЕ МОГУ "ДЫШАТЬ*;x
+EVTOPTA_WOL_1014;*хрипло* [FromFrom.GetTitledFirstNameNoRegnal]!;x
+EVTDESC_WOL_1015;Какой чудесный вечер! Вкусная еда, выпивка, любимые друзья... Но... что-то меня подташнивает... С трудом могу пошевелиться. Похоже на отравление...;x
+EVTOPTA_WOL_1015;Наверное, устрицы или... Яд?!;x
+EVTDESC_WOL_1016;Эт[From.GetEtaEtot] [From.GetAdultererAdulteressLong], [From.GetTitledFirstNameNoRegnal], не любит устрицы! Говорят, ночью кто-то из поваров отравился насмерть.;x
+EVTOPTA_WOL_1016;Проклятье!;x
+EVTDESC_WOL_1017;Истинное наслаждение - наблюдать тайком из коридора, как эт[From.GetEtaEtot] [From.GetAdultererAdulteressLong], [From.GetTitledFirstNameNoRegnal], ползает и корчится в агонии, пока слуги в панике бегают вокруг, не в силах [From.GetHerHim] помочь...;x
+EVTOPTA_WOL_1017;Надеюсь, м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetHusbandWife] всё поймёт!;x
+EVTDESC_WOL_1018;Эт[From.GetEtaEtot] [From.GetAdultererAdulteressLong], [From.GetTitledFirstNameNoRegnal], никак не сдохнет - отравленные устрицы вызвали "лёгкое", мать [From.GetHersHis], "недомогание"!;x
+EVTOPTA_WOL_1018;Пора "поговорить" с аптекарем.;x
+EVTDESC_WOL_1019;М[From.GetOyaOy] любовни[From.GetTsaK], [From.GetTitledFirstNameNoRegnal], теперь говорит, что между нами всё кончено! Причина очевидна - м[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] подозревает меня в измене, и недавно у них состоялся откровенный разговор.;x
+EVTDESC_WOL_1019_DUEL;М[From.GetOyaOy] любовни[From.GetTsaK], [From.GetTitledFirstNameNoRegnal], бросил[From.GetEndA] меня! Оказывается, [From.GetSheHe] признал[From.GetEndA] свою вину, чтобы избежать поединка, узнав, что м[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] вызвал[FromFrom.GetEndA] [From.GetHersHis] на дуэль, и покля[From.GetLasLsya] прекратить наши отношения!;x
+EVTOPTA_WOL_1019;Как же я буду жить без н[From.GetHersHis]?;x
+EVTDESC_WOL_1020;[FromFrom.GetTitledFirstNameNoRegnal]  признал[FromFrom.GetEndA] свою вину! Сомнения развеяны, м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] изменял[From.GetEndA] мне! Теперь эт[FromFrom.GetEtaEtot] [GetRootFromFromInsult] смиренно просит меня о прощении и клянётся, что теперь между ними всё кончено.;x
+EVTOPTA_WOL_1020;Да будет так!;x
+EVTDESC_WOL_1021;М[FromFromFrom.GetOyaOy] любовни[FromFromFrom.GetTsaK] унижает себя раскаяниями и мольбами о прощении, но всё зря - м[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] в гневе упрямо настаивает на позоре для себя и всех нас. Я и [FromFromFrom.GetTitledFirstNameNoRegnal] будем публично обвинены в прелюбодеянии!;x
+EVTDESC_WOL_1032;Даже самые правдоподобные отрицания вины с моей стороны не сработали - [From.GetTitledFirstNameNoRegnal] не поверил[From.GetEndA] моим словам. [From.GetSheHeCap] настаивает, что [From.GetAbdPossPronoun] [FromFrom.GetFromVsRelation] [FromFrom.GetTitledFirstNameNoRegnal] изменяет [From.GetHerHim] со мной, и вызывает меня на дуэль, чтобы "доказать справедливость" своих утверждений!;x
+EVTOPTA_WOL_1032;Я принимаю вызов!;x
+EVTOPTB_WOL_1032;Дуэль? К чему это нелепое представление?;x
+EVTOPTC_WOL_1032;Мне не победить. Смиренно молю Вас о прощении.;x
+EVTDESC_WOL_1034;[From.GetTitledFirstNameNoRegnal] трусливо отказывается от поединка!;x
+EVTOPTA_WOL_1034;Какой позор!;;x
+EVTDESC_WOL_1036;После серии замахов, стало ясно, [FromFrom.GetTitledFirstNameNoRegnal] не умеет обращаться с мечом. Победить [FromFrom.GetHersHis] было легко. Теперь [FromFrom.GetSheHe], как и м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] опозорены...;x
+EVTDESC_WOL_1036_WOUND;[FromFrom.GetTitledFirstNameNoRegnal] - достойн[FromFrom.GetAyaYy] противни[FromFrom.GetTsaK]. Поединок был тяжелым, но несмотря на раны, мне удалось победить [FromFrom.GetHersHis]. Теперь [FromFrom.GetSheHe], как и м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] опозорены...;x
+EVTDESC_WOL_1036_MAIM;[FromFrom.GetTitledFirstNameNoRegnal] - достойн[FromFrom.GetAyaYy] противни[FromFrom.GetTsaK]. Мне пришлось расстаться с тремя пальцами и получить серьезные раны, чтобы победить [FromFrom.GetHersHis]. Теперь [FromFrom.GetSheHe], как и м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] опозорены...;x
+EVTOPTA_WOL_1036;Я лишил[Root.GetEndA] [FromFrom.GetHersHis] меча, но [FromFrom.GetSheHe] оста[FromFrom.GetLasLsya] невредим[FromFrom.GetEndA].;x
+EVTOPTB_WOL_1036;Я ранил[Root.GetEndA] [FromFrom.GetHersHis] в плечо.;x
+EVTOPTC_WOL_1036;[FromFrom.GetSheHeCap] сда[FromFrom.GetLasLsya] только, когда потерял[FromFrom.GetEndA] руку.;x
+EVTOPTD_WOL_1036;Я пронзил[Root.GeEndA] [FromFrom.GetAbsPossPronoun] сердце!;x
+EVTDESC_WOL_1037;М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] победил[From.GetEndA] мо[FromFromFrom.GetYuEgo] любовни[FromFromFrom.GetTsuKa] на дуэли, теперь мы об[FromFromFrom.GetRootEndEA], я и [FromFromFrom.GetTitledFirstNameNoRegnal], опозорены...;x
+EVTDESC_WOL_1037_WOUND;М[From.GetOyaOy] жесток[From.GetAyaIy] [From.GetRootRelation] [From.GetFirstName] победил[From.GetEndA] мо[FromFromFrom.GetYuEgo] любовни[FromFromFrom.GetTsuKa] на дуэли и ранил [FromFromFrom.GetHersHis], теперь мы оба, я и [FromFromFrom.GetTitledFirstNameNoRegnal], опозорены...;x
+EVTDESC_WOL_1037_MAIM;М[From.GetOyaOy] ужасн[From.GetAyaYy] [From.GetRootRelation] [From.GetFirstName] победил[From.GetEndA] мо[FromFromFrom.GetYuEgo] любовни[FromFromFrom.GetTsuKa] на дуэли, жестоко изувечив [FromFromFrom.GetHersHis], теперь мы об[FromFromFrom.GetRootEndEA], я и [FromFromFrom.GetTitledFirstNameNoRegnal], опозорены...;x
+EVTDESC_WOL_1037_DEATH;М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName], [GetRootFromInsult], убил[From.GetEndA] мо[FromFromFrom.GetYuEgo] любовни[FromFromFrom.GetTsuKa] на дуэли. Покойся с миром, дорог[FromFromFrom.GetAyaOy] [FromFromFrom.GetFirstName], а мне придётся жить... с этим позором...;x
+EVTOPTA_WOL_1037;Мы должны искупить наши грехи...;x
+EVTOPTB_WOL_1037;Как жесток этот мир!;x
+EVTDESC_WOL_1038;Это был трудный бой - я сража[Root.GetLasLsya], как мог[Root.GetNoneE], но [FromFrom.GetTitledFirstNameNoRegnal] всё равно победил[FromFrom.GetEndA], и тем самым доказал, что мы об[From.GetRootEndEA], [From.GetFirstName] и я, виновны в прелюбодеянии, какой позор...;x
+EVTDESC_WOL_1038_WOUND;[FromFrom.GetTitledFirstNameNoRegnal] победил[FromFrom.GetEndA] меня в честной дуэли. Я сда[Root.GetLasLsya] после ранения в плечо, тем самым доказав, что мы об[From.GetRootEndEA], [From.GetFirstName] и я, виновны в прелюбодеянии, какой позор...;x
+EVTDESC_WOL_1038_MAIM;[FromFrom.GetTitledFirstNameNoRegnal] лишил[FromFrom.GetEndA] меня руки в жестокой дуэли, и тем самым доказал[FromFrom.GetEndA], что мы об[From.GetRootEndEA], [From.GetFirstName] и я, виновны в прелюбодеянии. Увечья и кровотечение - меньшее из бед, главное, что придётся смириться с нашим унижением.;x
+EVTDESC_WOL_1038_DEATH;[FromFrom.GetTitledFirstNameNoRegnal] - достойн[FromFrom.GetAyaYy] противни[FromFrom.GetTsaK]. Казалось, мы бились несколько часов, но к моменту, когда мне удалось обнаружить брешь в защите, [FromFrom.GetHersHis] клинок уже пронзил моё сердце. Тьма сгущается...;x
+EVTOPTA_WOL_1038;[Root.Religion.GetHighGodName] решил[Root.GetHGodEndA] нашу судьбу.;x
+EVTOPTB_WOL_1038;[FromFrom.GetFirstName], ты за это заплатишь!;x
+EVTOPTC_WOL_1038;[From.GetFirstName], прости меня...;x
+EVTDESC_WOL_1039;Несколько пробных замахов дали чётко понять, [From.GetTitledFirstNameNoRegnal] - не мастер клинка. Победить [From.GetHersHis] было легко, тем самым доказав, что м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] и я не повинны в том, в чём нас обвиняют.;x
+EVTDESC_WOL_1039_WOUND;[From.GetTitledFirstNameNoRegnal] - достойн[From.GetAyaYy] противни[From.GetTsaK], но в конце концов я лучше. Хотя [From.GetHerHim] и удалось ранить меня, но оно того стоило, теперь м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] и я оправданы. Поединок доказал нашу невиновность.;x
+EVTDESC_WOL_1039_MAIM;[From.GetTitledFirstNameNoRegnal] - достойн[From.GetAyaYy] противни[From.GetTsaK]. Потеряв три пальца и получив несколько ранений, мне всё же удалось победить и тем самым доказать, что м[FromFromFromFrom.GetOyaOy] [FromFromFromFrom.GetRootRelation] [FromFromFromFrom.GetFirstName] и я невиновны!;x
+EVTDESC_WOL_1040;М[FromFrom.GetOyaOy] [FromFrom.GetRootRelation] [FromFrom.GetFirstName] потерпел[FromFrom.GetEndA] поражение в поединке, м[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] победил[From.GetEndA], своей доблестью доказыв этой мерзкой твари нашу невиновность.;x
+EVTDESC_WOL_1040_WOUND;М[FromFrom.GetOyaOy] [FromFrom.GetRelation] [FromFrom.GetFirstName] получив тяжелые ранения, потерпел[FromFrom.GetEndA] поражение в поединке, м[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] победил[From.GetEndA], своей доблестью доказыв этой мерзкой твари нашу невиновность.;x
+EVTDESC_WOL_1040_MAIM;М[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] победил[From.GetEndA] в поединке, защищая нашу честь. М[FromFrom.GetOyaOy] [FromFrom.GetRelation] [FromFrom.GetFirstName], [From.GetHersHis] противни[FromFrom.GetTsaK], лиши[FromFrom.GetLasLsya] руки. Наша невинность теперь доказана;x
+EVTDESC_WOL_1040_DEATH;М[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] победил[From.GetEndA] в поединке, защищая нашу честь. М[FromFrom.GetOyaOy] [FromFrom.GetRelation] [FromFrom.GetFirstName], [From.GetHersHis] противни[FromFrom.GetTsaK], погиб[FromFrom.GetNoneE] в процессе. Наша невинность теперь доказана;x
+EVTOPTA_WOL_1040;[Root.Religion.GetHighGodName] освятил[Root.GetHGodEndA] нашу любовь!;x
+EVTOPTB_WOL_1040;Да простит нас [Root.Religion.GetRandomGodName]...;x
+EVTDESC_WOL_1041;Переполняясь праведным гневом, я неутомимо сражаюсь, но [FromFrom.GetTitledFirstNameNoRegnal] обезоруживает и побеждает меня в этом честном поединке, тем самым доказывая, что м[From.GetLordLade] [From.GetRootRelation] [From.GetFirstName] и [FromFrom.GetSheHe] невиновны.;x
+EVTDESC_WOL_1041_WOUND;Переполняясь праведным гневом, я неутомимо сражаюсь, но [FromFrom.GetTitledFirstNameNoRegnal] отражает мои удары один за другим, и вскоре кровоточащие раны вынуждают меня отступить. М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] и [FromFrom.GetFirstName] невиновны - сам[Root.GetHGodEndA] [Root.Religion.GetHighGodName] решил[Root.GetHGodEndA] их судьбу.;x
+EVTDESC_WOL_1041_MAIM;[FromFrom.GetTitledFirstNameNoRegnal] атакует снова и снова, но я не собираюсь уступать. Вдруг солнце, отразившись от [FromFrom.GetHersHis] клинка, ослепляет меня, и [FromFrom.GetFirstName] отсекает мне руку! М[From.GetOyaOy] [From.GetRootRelation] [From.GetFirstName] и [FromFrom.GetFirstName] невиновны - сам[Root.GetHGodEndA] [Root.Religion.GetHighGodName] решил[Root.GetHGodEndA] их судьбу.;x
+EVTDESC_WOL_1041_DEATH;[FromFrom.GetTitledFirstNameNoRegnal] - достойный противник. Битва продолжалась несколько часов, но вскоре мой праведный гнев уступил место изнеможению, и [FromFrom.GetHersHis] клинок пронзил моё сердце. Тьма затопила мой взор.;x
+EVTOPTA_WOL_1041;[From.GetFirstName], прости меня...;x
+EVTOPTC_WOL_1041;[Root.Religion.GetHighGodName] сказал[Root.GetHGodEndA] своё слово.;x
+EVTDESC_WOL_1102;Проснувшись сегодня утром, мне стало ясно, что [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] больше не вызвает во мне тех же чувств.;x
+EVTOPTA_WOL_1102;Такова жизнь. Нужно сказать [From.GetHerHim].;x
+EVTOPTB_WOL_1102;Мы женаты. Что ещё нужно для любви?;x
+EVTOPTC_WOL_1102;Я верну нашу любовь!;x
+EVTDESC_WOL_1103;М[From.GetOyaOy] [From.GetRootRelation] [From.GetTitledFirstNameNoRegnal] избегает меня в последнее время, и даже редкие случаи наших встреч превратились из ночей страсти, которые я помню, в вечера споров и разногласий. Поэтому [From.GetHersHis] сообщение о том, что [From.GetSheHe] больше не любит меня, не стало для меня шоком, но это гораздо больнее, чем мне раньше казалось.;x
+EVTOPTC_WOL_1103;Пора оживить наши чувства!;x
+EVTTOOLTIP_WoL_1104;[This.GetSheHeCap] получит ночь, которую не скоро забудет!;x
+EVTDESC_WOL_1104;[From.GetFirstName] узнал[From.GetEndA] о моих потерянных чувствах к н[From.GetHerHim], и вскоре моя спальня заполнилась цветами... О, [Root.Religion.GetRandomGodName], что за наряд?!;x
+EVTOPTA_WOL_1104;Я люблю [From.GetHersHis]! Или это только похоть? Да какая разница!;x
+EVTOPTB_WOL_1104;Прости [From.GetFirstName], но это ничего не меняет.;x
+EVTTOOLTIP_WoL_1105;[This.GetFirstName] останется со мной!;x
+EVTDESC_WOL_1105;Комната в которой спит [From.GetFirstName] заполнена розами - я жду [From.GetHersHis] на кровати... И вскоре [From.GetSheHe] заходит - это весьма впечталило [From.GetHersHis].;x
+EVTOPTA_WOL_1105;[From.GetSheHeCap] м[From.GetOyaOy]!;x
+EVTDESC_WOL_1106;Комната в которой спит [From.GetFirstName] заполнена розами - я жду [From.GetHersHis] на кровати... Вскоре [From.GetSheHe] приходит, но лишь вздохнув, идёт спать в другую комнату.;x
+EVTOPTA_WOL_1106;Неужели между нами всё кончено?;x
+converts_to_castle;Преобразуется в §Y$NAME$§!, когда станет феодальным поселением.;x
+converts_to_city;Преобразуется в §Y$NAME$§!, когда станет городским поселением.;x
+converts_to_temple;Преобразуется в §Y$NAME$§!, когда станет храмовым поселением.;x
+converts_to_tribal;Преобразуется в §Y$NAME$§!, когда станет племенным поселением.;x
+convert_settlement_to_castle;§Y$SETTLEMENT$§! станет феодальным поселением.\n;x
+convert_settlement_to_city;§Y$SETTLEMENT$§! станет городским поселением.\n;x
+convert_settlement_to_temple;§Y$SETTLEMENT$§! станет храмовым поселением.\n;x
+convert_settlement_to_tribal;§Y$SETTLEMENT$§! станет племенным поселением.\n;x
+NOT_ENOUGH_GOLD;(§RX§!) Нужно §G$COST$§!¤;x
+IS_BUILDING;(§RX§!) Во владении в данный момент НЕ должно идти строительство;x
+NOT_ENOUGH_PRESTIGE;(§RX§!) Нужно §G$COST$§! очков престижа;x
+ALLOW_FREE_VICEROY_REVOKATION_ON;Произвольный отзыв вице-герцогских титулов\n;x
+ALLOW_FREE_VICEROY_REVOKATION_OFF;Отзыв вице-герцогских титулов более не произволен\n;x
+REVOKE_TITLE_INTERACTION_2J;Наша имперская администрация позволяет нам отзывать титулы наместников без возражений со стороны аристократии.;x
+action_build_zeal_desc;Пусть [GetLordSpiritualName] подстегнёт религиозный фанатизм среди людей, повысив Ваше благочестие и, возможно даже, призовёт святых воинов. Если Вы не используете эти войска в священных войнах, они обратят свой гнев на Вас и Вы потеряете благочестие.;x
+action_organize_raid_desc;Пусть [GetMarshalName] соберет людей для набега за добычей и славой! Если Вы не используете эти войска для набегов, они обратят свой гнев на Вас и заберут Ваше золото.;x
+action_build_legend_desc;Пусть [GetTreasurerName] создаст легенду о Вас среди людей, повысив Ваш престиж и, возможно даже, призовёт храбрых воинов. Если Вы Не используете эти войска в войне, они обратят свой гнев на Вас и Вы потеряете престиж.;x

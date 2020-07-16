@@ -1,0 +1,13 @@
+confiscate_artifact;Конфисковать артефакт;;;;;;;;;;;;;x
+confiscate_artifact_desc;Конфисковать артефакт у [Root.GetTitledFirstName];;;;;;;;;;;;;x
+confiscate_artifact_special;Конфисковать особый артефакт;;;;;;;;;;;;;x
+confiscate_artifact_special_desc;Конфисковать особый артефакт у [Root.GetTitledFirstName];;;;;;;;;;;;;x
+orgnums_coffer_open;Открыть сундук;;;;;;;;;;;;;x
+orgnums_coffer_open_desc;Взять немного золотишка из этого благословенного небом сундука;;;;;;;;;;;;;x
+EVTDESC149000;Какие из ваших артефактов вы бы хотели отдать [From.GetFirstName] [From.GetOnlyDynastyName]?;;;;;;;;;;;;;x
+EVTOPTA149000;Я передумал.;;;;;;;;;;;;;x
+EVTDESC149001;Какие артефакты вы бы хотели отобрать у [From.GetFirstName] [From.GetOnlyDynastyName]?;;;;;;;;;;;;;x
+grant_artifact;Подарить артефакт;;;;;;;;;;;;;x
+grant_artifact_desc;Это позволяет мне отдавать ненужные артефакты в подарок вассалам и придворным, которые будут рады такому повороту событий.;;;;;;;;;;;;;x
+EVTDESC149003;Недавний поход [From.GetFirstName] [From.GetOnlyDynastyName] в Этериус позволил нам заполучить некоторые мощные артефакты.;;;;;;;;;;;;;x
+EVTOPTA149003;Прекрасно!;;;;;;;;;;;;;x

@@ -1,0 +1,199 @@
+EVTDESC500;[New.GetTitledFirstName] и [From.GetTitledFirstName] поженились. Мы можем собрать Королевский Налог, чтобы оплатить церемонию.;;;;;;;;;;;;;x
+EVTOPTA453;Хорошо, когда ты [This.GetTitle]!;;;;;;;;;;;;;x
+EVTOPTA2100;Нет, у н[From.GetHersHis] есть причина для гордости.;;;;;;;;;;;;;x
+EVTOPTC2100;"Сказать [From.GetHerHim], что ""гордость предшествует погибели"".";;;;;;;;;;;;;x
+EVTOPTA2120;Даже я нахожусь под впечатлением.;;;;;;;;;;;;;x
+EVTOPTA2090;Хорошо, я терпеть не могу безрассудство.;;;;;;;;;;;;;x
+EVTOPTC2120;Рассказать [From.GetHerHim] о честности.;;;;;;;;;;;;;x
+EVTOPTB2150;Некоторые страхи позволительны, но всему есть предел.;;;;;;;;;;;;;x
+EVTOPTC2150;Страх - враг здравого ума.;;;;;;;;;;;;;x
+EVTOPTA2200;[From.GetHerHis] устраивает его жизнь.;;;;;;;;;;;;;x
+EVTDESC3242;Истинное смирение - это проявление смирения, когда оно противоречит нашим желаниям. Скромный [Root.GetManWoman] подчиняется Богам, даже если [Root.GetSheHe] может не любить их духовенство.;;;;;;;;;;;;;x
+EVTOPTA3367;Я научу Вас, но все имеет свою цену.;;;;;;;;;;;;;x
+EVTOPTA3421;Хорошо.;;;;;;;;;;;;;x
+EVTOPTA3430;Это того стоило.;;;;;;;;;;;;;x
+EVTDESC4000;Фермер сказал мне, что его хряку удалось ворваться в загон соседа, и результатом стали семь маленьких поросят. Теперь его сосед требует компенсацию, которую он не может себе позволить. Фермер нуждается в моём совете.;;;;;;;;;;;;;x
+EVTOPTA4000;Он должен заплатить соседу.;;;;;;;;;;;;;x
+EVTOPTB4000;Дайте соседу четырех поросят.;;;;;;;;;;;;;x
+EVTOPTC4000;Оставьте оба себе по одному поросёнку, остальные принадлежат мне.;;;;;;;;;;;;;x
+EVTOPTA4008;Хорошо.;;;;;;;;;;;;;x
+EVTOPTA4018;Хорошо.;;;;;;;;;;;;;x
+EVTOPTA4021;Я отпущу их.;;;;;;;;;;;;;x
+EVTOPTB4021;Пусть [From.GetTitledFirstName] займётся ими.;;;;;;;;;;;;;x
+EVTTOOLTIP4022;[This.GetTitledFirstName] получил желаемое, браконьеры предстали перед ним.;;;;;;;;;;;;;x
+EVTOPTA4022;Самому поговорить с ними.;;;;;;;;;;;;;x
+EVTOPTB4022;Закон требует для них смерти через повешение.;;;;;;;;;;;;;x
+EVTOPTC4022;Да они же чуть не померли с голоду! Освободите их.;;;;;;;;;;;;;x
+EVTOPTE4022;Укоротите им уши!;;;;;;;;;;;;;x
+EVTOPTA4023;Хорошо. Они будут повешены.;;;;;;;;;;;;;x
+EVTTOOLTIP4024;Это - приемлемое наказание.;;;;;;;;;;;;;x
+EVTOPTC4023;Надеюсь, что потеря ушей будет им уроком.;;;;;;;;;;;;;x
+EVTOPTE4023;Хороший браконьер - мёртвый браконьер. Только так!;;;;;;;;;;;;;x
+EVTOPTA4024;Хорошо.;;;;;;;;;;;;;x
+EVTOPTD4115;Мне не нравятся торговцы, но их товары прекрасны.;;;;;;;;;;;;;x
+EVTOPTF4115;Полагаю, ярмарки должны быть запрещены!;;;;;;;;;;;;;x
+EVTOPTA4120;Хороший бой.;;;;;;;;;;;;;x
+EVTOPTA4140;Да упокоится с миром!;;;;;;;;;;;;;x
+EVTOPTB4140;Одним голодным ртом меньше!;;;;;;;;;;;;;x
+EVTOPTA4175;Боль... Но оно того стоило!;;;;;;;;;;;;;x
+EVTDESC6041;Этот мир больше меня не тяготит, для меня настала новая весна, в моем сердце появилась радость, а на лице улыбка.;;;;;;;;;;;;;x
+EVTOPTA6041;Жизнь не так плоха.;;;;;;;;;;;;;x
+EVTOPTA20410;Будем надеяться на это.;;;;;;;;;;;;;x
+EVTOPTA36080;Я найду Белого Оленя.;;;;;;;;;;;;;x
+EVTOPTC38204;Научите [From.GetHerHim] смирению.;;;;;;;;;;;;;x
+EVTOPTB38220;Быть справедливым ко всем.;;;;;;;;;;;;;x
+EVTDESC38221;[From.GetFullName] должна была работать над своей вышивкой, но потом решила показать другую сторону своих способностей. Её фехтование было не так уж плохо, для девушки.;;;;;;;;;;;;;x
+EVTOPTA38221;Нет вреда в том, чтоб позволить ей узнать, как обращаться с мечом.;;;;;;;;;;;;;x
+EVTOPTB38221;Это неприлично для дамы.;;;;;;;;;;;;;x
+EVTOPTA38227;[From.GetFirstName] научится радоваться деньгам.;;;;;;;;;;;;;x
+EVTOPTA38233;Это проявление греха, нужно чтобы ребенок мог быстро искупить свои грехи!;;;;;;;;;;;;;x
+EVTOPTB38233;Врач мог бы вылечить [From.GetFirstName].;;;;;;;;;;;;;x
+EVTOPTB38227;[From.GetFirstName], я расскажу тебе о радости отдавать деньги.;;;;;;;;;;;;;x
+EVTOPTC38227;Деньги для [This.Religion.GetRandomGodName].;;;;;;;;;;;;;x
+EVTDESC39220;Я вынужден(а) томиться в этом подземелье, где злые изверги [Root.Host.GetTitledFirstName] терзают мою душу.;Me voilа rйduit[Root.GetNoneE] а languir dans ce cachot oщ les dйmons [Root.Host.Get_du_Title][Root.Host.GetTitledFirstName] torturent mon вme.;Ich muss hier in diesem Kerker schmachten, wo die bцsen Unholde von [Root.Host.GetTitledFirstName] meine Seele foltern.;;Me obligan a languidecer en esta mazmorra donde los diablos de [Root.Host.GetTitledFirstName] torturan a mi alma.;;;;;;;;;x
+EVTOPTA39220;Написать письмо [Root.RelHead.GetTitle];J'йcris une lettre au [Root.RelHead.GetTitle].;Dem [Root.RelHead.GetTitle] einen Brief schreiben;;Escribe una carta al [Root.RelHead.GetTitle];;;;;;;;;x
+EVTOPTB39220;Молиться о Божественной помощи;Je prie pour recevoir une aide divine.;Betet um gцttliche Hilfe;;Pide ayuda a Dios;;;;;;;;;x
+EVTTOOLTIP39221;[Root.RelHead.GetTitle] узнает мою отчаянную мольбу...;Le [Root.RelHead.GetTitle] va lire mon appel dйsespйrй...;Der [Root.RelHead.GetTitle] wird meinen verzweifelten Appell lesen ...;;El [Root.RelHead.GetTitle] leerб mi desesperada sъplica...;;;;;;;;;x
+EVTTOOLTIP39222;[Root.Host.GetTitledFirstName] узнает о нашем сообщении.;[Root.Host.Get_Le_Title][Root.Host.GetTitledFirstName] va кtre informй[Root.Host.GetNoneE] de notre communication.;[Root.Host.GetTitledFirstName] wird von unserer Korrespondenz erfahren.;;[Root.Host.GetTitledFirstName] se enterarб de nuestra comunicaciуn.;;;;;;;;;x
+EVTDESC39221;Мы получили письмо от [From.GetTitledFirstName] просит нас вмешаться от имени [From.GetHerHis] и попросить [From.Host.GetTitledFirstName] выпустить [From.GetHerHis] из [From.GetHerHis] тюрьмы.;Nous avons reзu une lettre [From.Get_du_Title][From.GetTitledFirstName] nous priant d'intercйder en sa faveur pour que [From.Host.Get_le_Title][From.Host.GetTitledFirstName] le libиre de sa prison.;[From.GetTitledFirstName] bittet uns in einem Brief, [From.Host.GetTitledFirstName] seinethalben um Freilassung aus dem Kerker zu ersuchen.;;Hemos recibido una carta de [From.GetTitledFirstName] para que intervengamos en su nombre y pidamos a [From.Host.GetTitledFirstName] que le libere.;;;;;;;;;x
+EVTOPTA39221;[Root.RelHead.GetTitle] должен(а) подчинится!;Il faut obйir au [Root.RelHead.GetTitle] !;Dem [Root.RelHead.GetTitle] muss gehorcht werden!;;ЎEl [Root.RelHead.GetTitle] debe ser obedecido!;;;;;;;;;x
+EVTOPTB39221;Это светский вопрос...;C'est une affaire profane...;Dies ist eine sдkulare Angelegenheit ...;;Este es un asunto secular...;;;;;;;;;x
+EVTTOOLTIP39224;[From.GetHerHisCap] похититель прислушается к нашему требованию.;Son ravisseur va йcouter notre demande.;Sein Geiselnehmer wird unserer Forderung Gehцr schenken.;;Su captor escucharб nuestra peticiуn.;;;;;;;;;x
+EVTTOOLTIP39225;[From.GetTitledFirstName] будет разочарован(а).;[From.Get_Le_Title][From.GetTitledFirstName] йprouvera de la dйception.;[From.GetTitledFirstName] wird enttдuscht sein.;;[From.GetTitledFirstName] se sentirб decepcionado.;;;;;;;;;x
+EVTDESC39222;Мы поймали [From.GetTitledFirstName] при попытке тайно провезти письмо [From.RelHead.GetTitle], где [From.GetSheHe] желает [From.RelHead.GetTitle] вмешаться в [From.GetHerHis] интересы.;Nous avons interceptй une lettre clandestine [From.Get_du_Title][From.GetTitledFirstName] а l'intention du [From.RelHead.GetTitle] dans laquelle il demande au Saint-Pиre d'intercйder en sa faveur.;Wir haben [From.GetTitledFirstName] dabei erwischt, einen Brief an den [From.RelHead.GetTitle] hinaus zu schmuggeln, in dem er den Heiligen Vater zum Einschreiten seinethalben bittet.;;Hemos pillado a [From.GetTitledFirstName] intentando sacar ilнcitamente una carta al [From.RelHead.GetTitle] en la que le insta a intervenir en su nombre.;;;;;;;;;x
+EVTOPTA39222;Перерезать [From.GetHerHis] горло!;Qu'on lui tranche la gorge !;Schneidet ihm die Kehle durch!;;ЎDegьйllale!;;;;;;;;;x
+EVTOPTB39222;[Root.Religion.GetRandomGodName] будет судить нас.;[Root.Religion.GetRandomGodName] nous jugera.;[Root.Religion.GetRandomGodName] wird ьber uns richten!;;[Root.Religion.GetRandomGodName] nos juzgarб.;;;;;;;;;x
+EVTDESC39223;Молитвы [From.GetTitledFirstName] не остались незамеченными. Существует ли предел у моего могущества?;Les priиres [From.Get_du_Title][From.GetTitledFirstName] ont йtй entendues. Y a-t-il une limite а mon pouvoir ?;Die Gebete von [From.GetTitledFirstName] sind nicht ungehцrt geblieben. Ach, meine Macht scheint grenzenlos zu sein!;;Las oraciones de [From.GetTitledFirstName] no han pasado desapercibidas. їAcaso mi poder tiene lнmite?;;;;;;;;;x
+EVTOPTA39223;Я не могу удержать человека от [Root.Religion.GetRandomGodName] заключения.;Je ne peux pas garder un homme de [Root.Religion.GetRandomGodName] en prison.;Ich kann keinen Mann [Root.Religion.GetRandomGodName] im Kerker behalten.;;No puedo mantener encerrado a un hombre de [Root.Religion.GetRandomGodName].;;;;;;;;;x
+EVTOPTB39223;[From.GetSheHeCap] всё ещё предатель...;C'est toujours un traоtre...;Er ist immer noch ein Verrдter ...;;Sigue siendo un traidor...;;;;;;;;;x
+EVTDESC39224;[From.GetTitledFirstName] пришел(а) к сотрудничеству с нами и написал(а) суровое письмо [Root.Host.GetTitledFirstName] требуя нашего освобождения.;[From.Get_Le_Title][From.GetTitledFirstName] a intercйdй en notre faveur en rйdigeant une lettre sйvиre а l'intention [Root.Host.Get_du_Title][Root.Host.GetTitledFirstName] pour lui demander notre libйration.;[From.GetTitledFirstName] ist unserethalben eingeschritten und hat in einem strengen Brief an [Root.Host.GetTitledFirstName] unsere Freilassung gefordert.;;[From.GetTitledFirstName] ha atendido nuestra intervenciуn y ha escrito una dura carta a [Root.Host.GetTitledFirstName] para que nos libere.;;;;;;;;;x
+EVTOPTA39224;Хвала [Root.Religion.GetRandomGodName]!;Louй soit [Root.Religion.GetRandomGodName]!;[Root.Religion.GetRandomGodName] sei gepriesen!;;ЎAlaba [Root.Religion.GetRandomGodName]!;;;;;;;;;x
+EVTTOOLTIP39226;Я уверен [Root.Host.GetTitledFirstName] сейчас освободит нас.;Je suis sыr[Root.GetNoneE] que [Root.Host.Get_le_Title][Root.Host.GetTitledFirstName] va nous libйrer.;[Root.Host.GetTitledFirstName] wird uns jetzt sicherlich freilassen.;;Sin duda ahora [Root.Host.GetTitledFirstName] nos liberarб.;;;;;;;;;x
+EVTDESC39225;Тайный посланник от [From.GetTitledFirstName] прибыл, сообщив мне, что [Root.RelHead.GetTitle] ничем не может мне помочь...;Un messager secret [From.Get_du_Title][From.GetTitledFirstName] est venu m'annoncer que le [Root.RelHead.GetTitle] ne peut rien pour moi.;Ein Geheimbote von [From.GetTitledFirstName] hat mir berichtet, dass der [Root.RelHead.GetTitle] mir nicht helfen kann ...;;Ha llegado un mensajero secreto de [From.GetTitledFirstName] y me ha dicho que el [Root.RelHead.GetTitle] no puede ayudarme...;;;;;;;;;x
+EVTOPTA39225;[Root.Religion.GetRandomGodName], почему ты оставил(а) меня?;[Root.Religion.GetRandomGodName], pourquoi m'avez-vous abandonnй[Root.GetNoneE] ?;[Root.Religion.GetRandomGodName], warum hast du mich verlassen?;;[Root.Religion.GetRandomGodName], їpor quй me has abandonado?;;;;;;;;;x
+EVTDESC39226;Прибыло письмо от [Root.RelHead.GetTitle], требующего, чтобы мы выпустили [From.GetTitledFirstName] из нашей тюрьмы и подчинились воле [Root.Religion.GetRandomGodName].;Une lettre du [Root.RelHead.GetTitle] est arrivйe. Il nous demande de libйrer [From.Get_le_Title][From.GetTitledFirstName] et de nous soumettre а la volontй de [Root.Religion.GetRandomGodName].;Ein Brief des [Root.RelHead.GetTitle] ist eingetroffen. Er verlangt, dass wir [From.GetTitledFirstName] aus unserem Kerker freilassen und ihm dem Willen [Root.Religion.GetRandomGodName] ьberstellen.;;Ha llegado una carta del [Root.RelHead.GetTitle]. Pide que liberemos a [From.GetTitledFirstName] y le sometamos a la voluntad de [Root.Religion.GetRandomGodName].;;;;;;;;;x
+EVTOPTA39226;Я преклоняю колено ради [Root.RelHead.GetTitle].;Je m'agenouille devant le [Root.RelHead.GetTitle].;Ich knie vor dem [Root.RelHead.GetTitle] nieder;;Me arrodillo ante el [Root.RelHead.GetTitle];;;;;;;;;x
+EVTOPTB39226;Я [Root.PrimaryTitle.GetRulerTitle]!;Je suis [Root.PrimaryTitle.GetRulerTitle] !;Ich bin [Root.PrimaryTitle.GetRulerTitle]!;;ЎSoy [Root.PrimaryTitle.GetRulerTitle]!;;;;;;;;;x
+EVTOPTA50006;Да пусть [From.GetObjectPronoun] хоть сгниёт там!;;;;;;;;;;;;;x
+EVTOPTB50006;Ладно, я проявлю милосердие.;;;;;;;;;;;;;x
+EVTOPTB64055;Может, это пройдёт.;;;;;;;;;;;;;x
+EVTOPTC64055;Разделите их.;;;;;;;;;;;;;x
+EVTOPTC71000;Отказать им!;;;;;;;;;;;;;x
+EVTOPTA72003;Я не буду даже задумываться об экономии на еде.;;;;;;;;;;;;;x
+EVTOPTB72003;Потрачу на еду столько, чтобы удовлетворить голод каждого.;;;;;;;;;;;;;x
+EVTOPTC72003;Я не хочу тратить слишком много на еду.;;;;;;;;;;;;;x
+EVTOPTB72007;Ничего особенного, дешевые трюки!;;;;;;;;;;;;;x
+EVTOPTA72008;[Root.GetMarshalName] [Root.job_marshal.GetFirstName] сделает это.;;;;;;;;;;;;;x
+EVTOPTB72008;Послать моего сына.;;;;;;;;;;;;;x
+EVTOPTD72008;Заставим охотиться крестьян.;;;;;;;;;;;;;x
+EVTOPTA72010;Я приглашаю вас...;;;;;;;;;;;;;x
+EVTOPTA72023;Хорошо сказано, спасибо вам.;;;;;;;;;;;;;x
+EVTOPTA72110;Я получил огромное удовольствие, как и все остальные.;;;;;;;;;;;;;x
+EVTOPTA72112;Будем надеяться.;;;;;;;;;;;;;x
+EVTOPTB72120;Славное веселье. Но мои гости слишком стары для этого.;;;;;;;;;;;;;x
+#EVTOPTA73231;[From.GetSheHeCap] станет моим новым [Root.GetLordSpiritualName].;;;;;;;;;;;;;x
+#EVTOPTA73234;[From.GetSheHeCap] станет моим новым [Root.GetLordSpiritualName].;;;;;;;;;;;;;x
+EVTOPTA73003;Мы можем себе это позволить...;;;;;;;;;;;;;x
+EVTOPTA74047;Было очень весело.;;;;;;;;;;;;;x
+EVTOPTA75095;[Root.job_treasurer.GetTitledFirstName] должен ответить на пару вопросов.;;;;;;;;;;;;;x
+EVTOPTB75095;Мне всё равно.;;;;;;;;;;;;;x
+EVTOPTB100201;Бросьте Вы это дело. Это явно не для Вас.;;;;;;;;;;;;;x
+EVTOPTC100201;Я рискую своей жизнью, хотелось бы компенсацию.;;;;;;;;;;;;;x
+EVTTOOLTIP100203;[This.GetTitledFirstName] разочарован, но принимает то, что [Root.GetTitledFirstName] отказывается обучать его.;;;;;;;;;;;;;x
+EVTTOOLTIP100204;обдумывает просьбу персонажа [Root.GetTitledFirstName].;;;;;;;;;;;;;x
+EVTOPTC100231;Хотите мой совет? Но это будет кое-чего Вам стоить.;;;;;;;;;;;;;x
+EVTDESC100230;Жрецы [Root.Religion.GetName] постоянно преследуют меня со своими речами про религию, [Root.Religion.GetRandomGodName] и религиозные пожертвования. Что бы я не делал, они не оставляют меня в покое!;;;;;;;;;;;;;x
+EVTOPTB100230;О [Root.Religion.GetRandomGodName], помоги мне и стану лучшим(ей) [Root.GetManWoman]!;;;;;;;;;;;;;x
+EVTOPTA_WOL_2300;Пора шпионить за шпионом.;;;;;;;;;;;;;x
+EVTOPTB_WOL_2300;Нет, я доверяю [intrigue_spymaster.GetObjectPronoun].;;;;;;;;;;;;;x
+EVTDESC_WoL_6020;Вы провели много ночей, наблюдая за небесными телами в своей обсерватории. Это воистину увлекательно, столько новых вопросов...;;;;;;;;;;;;;x
+EVTOPTA_WoL_6020;Как луны движутся вокруг Мундуса?;;;;;;;;;x;;;;
+EVTOPTB_WoL_6020;Какие секреты скрыты за вратами Обливиона?;;;;;;;;;x;;;;
+EVTDESC_WoL_6100;Наблюдая за движениями лун ночью, вы начали видеть новые закономерности. Однако эти едва уловимые движения вызвали множество новых вопросов. Вы поражаетесь тому, как на самом деле сложны фазы лун.;;;;;;;;;x;;;;
+EVTDESC_WoL_6122;"Однажды утром ваш(а) [GetFromRelation] [From.GetTitledFirstName] приходит к вам. [From.GetSheHeCap] говорит: ""Я волнуюсь. Ходят слухи, что вы проводите поздние ночи, изучая небо. Разве вы не знаете, что подобные вещи почти всегда приводят к безумию и гибели?""";;;;;;;;;x;;;;
+EVTOPTA_WoL_6140;Терпение и труд...;;;;;;;;;;;;;x
+EVTDESC_WoL_6152;Дорогой [Root.GetTitledName],\nI пташка начирикала мне, что вы слишком усердствовали в изучении лун, вместо того, чтобы полагаться на учение [Root.Religion.GetRandomGodName]. Я уверен, что  слухи являются лишь клеветой и  вы никогда  не пойдёте по такому пути. Однако, если это правда, я буду очень разочарован.\n\nIn во имя [Root.Religion.GetRandomGodName],\n[From.GetTitledName];;;;;;;;;x;;;;
+EVTDESC_WoL_6160;Вы изучаете небесные сферы, исследование идёт хорошо. Вы видите движения и соотношения, о которых вы никогда не смели помыслить. Теперь вам кажется очевидным, что законы, которые направляют движения Массера и Секунды, должны иметь глубокое влияние на состояние Нирна. Неясно только, каким образом оказывается это влияние.;;;;;;;;;x;;;;
+EVTOPTA_WoL_6160;Как поведёт себя Нирн, если Луны…;;;;;;;;;x;;;;
+EVTDESC_WoL_6170;Вы уверены, что сделали прорыв в своих исследованиях. Да, иначе это не описать. Вы смогли построить импровизированный планетарий, который вы сможете использовать, для изучения силы Двух Лун.;;;;;;;;;x;;;;
+heliocentrist_scholar;Учится в планетарии;;;;;;;;;x;;;;
+EVTDESC_WoL_6300;В  лаборатории вы перечитываете один за другим древние тома о царствах Обливиона. Истории, древние, как мир - амбициозные правители и герои-победители совершают удачные сделки и удивительные подвиги для того, чтобы получить невероятные блага. Разве вы  не можете сделать то же самое?;;;;;;;;;x;;;;
+EVTOPTA_WoL_6300;В моей хватке есть истинная сила ...;;;;;;;;;x;;;;
+EVTDESC_WoL_6110_EK;В пыльных текстах, которые вы просматривали ранее, была полезная информация, но ничего важного. Чтобы действительно углубиться в тайны Забвения, вам нужно нанять ученого, специализирующегося на исследовании Князей Даэдра.;;;;;;;;;x;;;;
+EVTOPTA_WoL_6110_EK;Я сделаю это.;;;;;;;;;x;;;;
+EVTOPTB_WoL_6110_EK;Пожалуй, нет.;;;;;;;;;x;;;;
+EVTTOOLTIPWOL10302;Ваша §YДинастия§! оценит этот жест.\n;;;;;;;;;;;;;x
+EVTOPTA_WOL_11102;Пора отчитать этих бездельников.;;;;;;;;;;;;;x 
+EVTOPTB_WOL_11102;Не стоит лезть в чужую жизнь и портить отношения.;;;;;;;;;;;;;x
+CHAR_IMPRISONED_LOG;§Y$VICTIM$§! отправляется в тюрьму, как велит §Y$ACTOR$§!.;;;;;;;;;;;;;x
+CLAIM_LOST_LOG;§Y$TOCHARACTER$§! не наследует претензию на титулы и земли $CLAIM$, которые имеет §Y$FROMCHARACTER$§!;;;;;;;;;;;;;x
+EXILE_FROM_PLAYER_LOG;§Y$NAME$§! покидает Ваш двор. Новое место - §Y$TARGET$§!;;;;;;;;;;;;;x
+EXILE_TO_PLAYER_SETUP;Персонаж прибывает ко двору;;;;;;;;;;;;;x
+EXILE_TO_PLAYER_LOG;§Y$NAME$§! прибывает ко двору;;;;;;;;;;;;;x
+EXILE_FROM_PLAYER_SETUP;Придворный покидает нас;;;;;;;;;;;;;x
+EVTOPTA3425;Приговор приведен в исполнение.;;;;;;;;;;;;;x
+feudal_government_desc;Феодальная система построена на клятве между сюзереном и его вассалом. Феодал непосредственно обладает земельными титулами (владениями), которые вынужден передавать своим вассалам, чтобы заручиться их шаткой поддержкой. При феодализме есть несколько законов Наследования, каждый со своими особенностями. Законы Централизации устанавливают размер домена (вотчины) и количество прямых вассалов.;;;;;;;;;;;;;x
+focus_hunting_desc;[This.GetTitledFirstName] путешествует по стране, заводя друзей и убивая [This.Religion.GetRandomGodName] животных.;;;;;;;;;;;;;x
+haughty_desc;Этот ребенок горделив и тщеславен, убежденный в собственном превосходстве. Может вырасти: §Yвысокомерным§!, §Yсамодуром§! или §Yжестоким§!.;L'enfant est de nature fiиre et vaniteuse. Ceci peut conduire aux traits §YOrgueil§!, §YPartialitй§! ou §YCruautй§!.;Das Kind ist voller Stolz und Eitelkeit und ьberzeugt von der eigenen Ьberlegenheit. Mцgliche Entwicklungen: §YStolz§!, §YЬberheblich§! oder §YGrausam§!.;;Este niсo es orgulloso/a y vanidoso/a, convencido de su propia superioridad. Puede desarrollarse como: §YOrgulloso§!, §YArrogante§! o §YCruel§!.;;;;;;;;;x
+affectionate_desc;Этот ребенок охотно проявляет любовь и ласку. Может вырасти: §Yдобрым§!, §Yудовлетворённым§! или §Yдоверчивым§!.;L'enfant est de nature gentille et affectueuse. Ceci peut conduire aux traits §YGentillesse§!, §YContentement§! ou §YConfiance§!.;Das Kind ist freundlich und zeigt schnell seine Liebe und Zuneigung. Mцgliche Entwicklungen: §YGьtig§!, §YZufrieden§! oder §YTreuherzig§!.;;Este niсo es bueno/a y es rбpido en mostrar amor y afecto. Puede desarrollarse como:  §YAmable§!, §YContento§! o §YConfiado§!.;;;;;;;;;x
+timid_desc;Этот ребенок тихий и скромный, он обычно избегает открытых конфликтов. Может вырасти: §Yскромным§!, §Yзастенчивым§! или §Yтрусливым§!.;L'enfant est de nature timide et discrиte. Ceci peut conduire aux traits §YHumilitй§!, §YTimiditй§! ou §YLвchetй§!.;Das Kind ist schьchtern und still und geht der offenen Konfrontation aus dem Weg. Mцgliche Entwicklungen: §YBescheiden§!, §YSchьchtern§! oder §YFeige§!.;;Este niсo es tнmido y reservado y evita generalmente los conflictos. Puede desarrollarse como: §YHumilde§!, §YTнmido§! o §YCobarde§!.;;;;;;;;;x
+rowdy_desc;Этот ребенок шумный и неугомонный, он редко может усидеть на месте, предпочитая спокойным занятиям физическую активность. Может вырасти: §Yмускулистым§!, §Yчестным§!, §Yтупым§! или §Yбезрассудным§!.;L'enfant est de nature bruyante et chahuteuse. Ceci peut conduire aux traits §YRobuste§!, §YHonnкtetй§!, §YSimplet§! ou §YReckless§!.;Das Kind ist laut und quirlig und geht am liebsten kцrperlich fordernden Aktivitдten nach. Mцgliche Entwicklungen: §YMuskulцs§!, §YEhrlich§!, §YStumpfsinnig§! oder §YReckless§!.;;Este niсo es fuerte y vivaz y generalmente prefiere actividad fнsica dura sobre actividades mбs tranquilas. Puede desarrollarse como:  §YFornido§!, §YHonesto§!, §YTonto§! o §YReckless§!.;;;;;;;;;x
+willful_desc;У этого ребенка сильный характер, его нелегко подчинить или сбить с пути. Может вырасти: §Yамбициозным§!, §Yхрабрым§! или §Yупрямым§!.;L'enfant est de nature tкtue et dйterminйe. Ceci peut conduire aux traits §YForte ambition§!, §YBravoure§! ou §YEntкtement§!.;Das Kind ist stur und eigensinnig. Es gehorcht selten und gibt ungern nach. Mцgliche Entwicklungen: §YEhrgeizig§!, §YTapfer§! oder §YStur§!.;;Este niсo es testarudo/a y voluntarioso/a y no obedece ni cede fбcilmente. Puede desarrollarse como: §YAmbicioso§!, §YValiente§! o §YTerco§!;;;;;;;;;x
+brooding_desc;Играм на свежем воздухе этот ребенок предпочитает тихие уединённые размышления. Может вырасти: §Yсправедливым§!, §Yгневным§!, §Yзавистливым§! или §YБеспощадным§!.;L'enfant est de nature calme, prйfйrant cogiter dans son coin plutфt que jouer avec les autres dehors. Ceci peut conduire aux traits §YSens de la justice§!, §YColиre§!, §YEnvie§! ou §YRuthless§!.;Das Kind hat einen Hang zur stillen Betrachtung und ьberlдsst das Herumtoben im Freien gerne den anderen. Mцgliche Entwicklungen: §YGerecht§!, §YZornig§!, §YNeidisch§! oder §YRuthless§!.;;Este niсo es un pensador tranquilo, a menudo se sienta en profundas reflexiones mientras otros juegan al sol. Puede desarrollarse como: §YJusto§!, §YAirado§!, §YEnvidioso§! o §YRuthless§!.;;;;;;;;;x
+indolent_desc;Этот ребенок не любит напрягаться и избегает любых нагрузок. Может вырасти: §Yщедрым§!, §Yленивым§!, §Yобжорой§! или §Yтщеславным§!.;L'enfant se refuse а tout effort, mental ou physique. Ceci peut conduire aux traits §YCharitй§!, §YParesse§! §YGourmandise§!, ou §YVain§!.;Das Kind hat eine Abneigung gegen Anstrengung jeder Form, ganz gleich ob kцrperlicher oder geistiger Natur. Mцgliche Entwicklungen: §YWohltдtig§!, §YFaul§! §YGefrдЯig§!, oder §YVain§!.;;Este niсo es muy reacio a cualquier tipo de esfuerzo, ya sea mental o fнsico. Puede desarrollarse como: §YCaritativo§!, §YPerezoso§! §YGlotуn§!, o §YVain§!.;;;;;;;;;x
+playful_desc;Этот ребенок любит игры и развлечения, нередко превращая любое удобное занятие в забаву. Может вырасти: §Yобщительным§!, §Yковарным§! или (редко) §Yсумасшедшим§!.;L'enfant est de nature joueuse, faisant de chaque activitй un jeu. Ceci peut conduire aux traits §YSociabilitй§!, §YFourberie§! ou plus rarement §YLunatique§!.;Das Kind liebt Spiele und das Vergnьgen und hat einen spielerischen Zugang zur Welt. Mцgliche Entwicklungen: §YGesellig§!, §YHinterlistig§! oder (selten) §YVerrьckt§!.;;Este niсo quiere participar en diversiones y juegos, convertir casi siempre cualquier actividad en una excusa para jugar. Puede desarrollarse como:  §YGregario§!, §YEmbustero§! o (raramente) §YLunбtico§!.;;;;;;;;;x
+conscientious_desc;Этот ребенок необычайно ответственный и скрупулезно выполняет любые задачи, доводя их до совершенства. Может вырасти: §Yусердным§!, §Yумеренным§! или §YРассеянным§!.;L'enfant est de nature mйticuleuse et responsable. Ceci peut conduire aux traits §YDiligence§!, §YTempйrance§! ou §YAbsent-Minded§!.;Das Kind ist auЯergewцhnlich pflichtbewusst und mцchte ihm gestellte Aufgaben mцglichst perfekt erledigen. Mцgliche Entwicklungen: §YFleiЯig§!, §YGemдЯigt§! oder §YAbsent-Minded§!.;;Este niсo es inusualmente escrupuloso/a y responsable, tomando placer en la realizaciуn de los quehaceres y tareas a la perfecciуn. Puede desarrollarse como: §YDiligente§!, §YModerado§! o §YAbsent-Minded§!;;;;;;;;;x
+fussy_desc;Этот ребенок необычайно придирчив к деталям, которые выглядят совершенно незначительными для других. Может вырасти: §Yтерпеливым§!, §Yжадным§! или §Yпараноиком§!.;L'enfant accorde une grande importance aux dйtails, mкme si ceux-ci semblent sans importance pour les autres, lui causant parfois anxiйtй et frustration. Ceci peut conduire aux traits §YPatience§!, §YAvarice§! ou §YParanoпa§!.;Das Kind misst scheinbar nebensдchlichen Kleinigkeiten groЯe Bedeutung zu, was nicht alle nachvollziehen kцnnen und manchmal fьr Frustration sorgt. Mцgliche Entwicklungen: §YGeduldig§!, §YGierig§! oder §YParanoid§!.;;Este niсo es muy particular acerca de los detalles que parecen triviales para otros, a veces hasta el punto de causar ansiedad y frustraciуn. Puede desarrollarse como: §YPaciente§!, §YCodicioso§! o §YParanoico§!.;;;;;;;;;x
+curious_desc;Этот ребенок очень любознательный, повсюду суёт свой нос, задаёт вопросы, ищет всё новое и необычное. Может вырасти: §Yпроницательным§!, §Yциничным§! или §Yсочувствующим к другим религиям§!.;L'enfant est de nature curieuse et pose constamment des questions, а la recherche de nouvelles choses intйressantes а dйcouvrir. Ceci peut conduire aux traits §YRuse§!, §YCynisme§! ou §YSympathie pour une autre religion§!.;Das Kind kann stundenlang Fragen stellen und ist immer auf der Suche nach neuen und interessanten Dingen. Mцgliche Entwicklungen: §YKlug§!, §YZynisch§! oder §YSympathie fьr andere Religionen§!.;;Este niсo tiene una naturaleza inquisitiva, estб preguntando constantemente y buscando cosas nuevas e interesantes. Puede desarrollarse como:  §YAstuto§!, §YSuspicaz§! o §Ysimpatнas por otras religiones§!.;;;;;;;;;x
+idolizer_desc;Этого ребенка очень легко удивить, его занимают вселенские истины и судьбы мира. Может вырасти: §Yнабожным§!, §Yэрудитом§!, §Yхилым§! или §Yнеопрятным§!.;L'enfant est impressionnable et a йgalement un puissant dйsir de connaоtre les grandes vйritйs de ce monde. Ceci peut conduire aux traits §YZиle§!, §YЙrudition§!, §YFrкle§! ou §YSlovenly§!.;Das Kind ist leicht zu beeindrucken und hat eine groЯe Sehnsucht nach endgьltigen Wahrheiten. Mцgliche Entwicklungen: §YEifrig§!, §YGebildet§!, §YSchwдchlich§! oder §YSlovenly§!.;;Este niсo se impresiona fбcilmente y tambiйn tiene un deseo ferviente de buscar las ъltimas verdades. Puede desarrollarse como: §YCeloso§!, §YErudito§!, §YFrбgil§! or §YSlovenly§!.;;;;;;;;;x
+holding_large_feast;Проведение большого праздника.;;;;;;;;;;;;;x
+JOIN_AMBITION_INTERACTION_LETTER;Мы будем рады, если Вы поддержите наш заговор, цель которого - [Actor.GetPlot].;;;;;;;;;;;;;x
+IS_MARRIED_TO;Состоит в браке с §Y$WHO$§!\n;;;;;;;;;;;;;x
+IS_LOVER_OF;и §Y$WHO$§! - любовники;;;;;;;;;;;;;x
+IS_CLOSE_RELATIVE;Является близким родственником\n;;;;;;;;;;;;;x
+job_chancellor_khajiit_pantheon;Канцлер;;;;;;;;;;;;;x
+job_marshal_khajiit_pantheon;Маршал;;;;;;;;;;;;;x
+job_treasurer_khajiit_pantheon;Управляющий;;;;;;;;;;;;;x
+job_spymaster_khajiit_pantheon;Тайный Советник;;;;;;;;;;;;;x
+job_spiritual_khajiit_pantheon;Магистр;;;;;;;;;;;;;x
+COUNTY_CAPITAL_OF;§Y$NAME$§! (Столица);;;;;;;;;;;;;x
+obj_amass_wealth_desc;[This.GetTitledFirstName] хочет накопить значительную сумму денег.;;;;;;;;;;;;;x
+OFFER_VASSALIZATION_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§W соглашается с предложением, которое делает §Y[Actor.GetBestName]§W, и становится [Actor.GetHersHis] вассалом.;;;;;;;;;;;;;x
+OK;ОК;;;;;;;;;;;;;x
+#PLAYER_SUCCESSOR_CHANGED_LOG;У Вас появился новый наследник. Если Вы умрете сейчас, то будете играть, как §Y$NEW_SUCCESSOR$§!;;;;;;;;;;;;;x
+RANSOM_CHARACTER_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отказывается платить выкуп, и §Y[ThirdPartyCharacter.GetTitledFirstName]§W остаётся в плену, в котором [ThirdPartyCharacter.GetHersHis] держит §Y[Actor.GetBestName]§W;;;;;;;;;;;;;x 
+REL_INVESTITURE_DESC;$NAME$ даёт епископам возможность при желании платить налоги религиозному главе, а не своему светскому сюзерену;;;;;;;;;;;;;x
+RULE_NON_EPIDEMIC_DISEASES_DEFAULT_DESC;Неинфекционные заболевания, такие как Каменная подагра и Зелёные споры, происходят с обычной частотой.;;;;;;;;;;;;;x
+EVTDESC501;[From.GetTitledFirstName] и [From.GetPossPronoun] [GetFromVsNewRelation] [New.GetTitledFirstName] поженились, создав священный союз близких родственников. Мы можем собрать специальный королевский налог, чтобы оплатить церемонию.;;;;;;;;;x;;;;
+maimed_effect_tooltip;§Y[This.GetBestName]§! станет §YИскалеченным§!\n;;;;;;;;;x;;;;
+hedonist_desc;Этот персонаж решил жить в разврате и грехе. Вероятно, это отразится на его здоровье.;;;;;;;;;x;;;;
+hunter_desc;Этот персонаж - охотник, и чувствует себя по-настоящему живым, только когда преследует и убивает свою добычу.;;;;;;;;;x;;;;
+BISHOP_LOYALTY_DESC;Духовентство не обязано платить налоги - или предоставлять солдат - своему светскому сюзерену. Они платят своему религиозному главе, их светскому сюзерену или даже анти-религиозному лидеру, в зависимости от того, кто им больше нравится.;Les йvкques catholiques ne sont pas tenus de payer des impфts, ou de fournir des troupes, а leur seigneur sйculier. Ils versent de l'argent au Pape, а leur seigneur sйculier, voire а un antipape selon leurs prйfйrences.;Katholische Bischцfe sind nicht verpflichtet, ihrem weltlichen Lehnsherrn Steuern zu zahlen oder Aufgebote bereitzustellen. Sie leisten ihre Zahlungen an den Papst, ihren weltlichen Lehnsherrn oder sogar an einen Gegenpapst. Je nachdem, wen sie bevorzugen...;;Los obispos catуlicos no estбn obligados a pagar impuestos o proporcionar levas a su seсor seglar. Pagarбn al que mбs les guste: al papa, al seсor seglar o incluso al Antipapa.;;;;;;;;;x
+OPINION_OF_POPE;Мнение Главы Религии;;;;;;;;;;;;;x
+EVTDESC_WOL_81_F;Не так уж и просто спать с каждым мужчиной, который занимает мои фантазии. Ревнивые жёны, бдительные матери, любопытные придворные - требуются особые навыки, чтобы выжить в этой змеиной яме!;;;;;;;;;;x;;;
+EVTDESC_WOL_81_M;Гоняться за юбками не так-то просто. Ревнивые мужья, бдительные родители, любопытные горничные... Чудо, что я ещё жив!;;;;;;;;;;x;;;
+EVTOPTA9002;Моя пагубная зависимость не должна быть раскрыта...;;;;;;;;;;;;;x
+EVTDESC935;Моя шпионская сеть в [Root.Location.GetName] исследовала местных дворян, и выяснилось, что один из них является рабом ядовитой скумы... Угрожая распространить эти слухи, мой сюзерен мог бы получить от них услуги или деньги.;;;;;;;;;x;;;;
+EVTDESC20350;Мой сеньор, моя сеть шпионов здесь - в [From.Location.GetName] выяснила, что местный дворянин является скумовым наркоманом. Что нам делать с этой информацией?\n\nВаш скромный Тайный Советник,\n[From.GetTitledName];;;;;;;;;;x;;;
+EVTOPTA20350;Шантажировать его!;;;;;;;;;;;;;x
+EVTOPTB20350;Распространяйте слухи о нём.;;;;;;;;;;;;;x
+EVTDESC_RIP_4514;Сегодня ко двору прибыл персонаж по имени [homeless_leper.GetFirstName], страдающий от бурой гнили. Когда карантинные помещения в [hospital_location.GetName] были уже переполнены, [homeless_leper.GetSheHe] оказалось некуда идти, и теперь он(а) просит вас о помощи.;;;;;;;;x
+EVTDESC_RIP_4520;На огороды в [kitchen_hospital.GetName] был недавно совершен налет вредителей, и теперь они практически лишены съедобной пищи. Без них многие бедняки могут умереть с голоду.;;;;;;;;x
+EVTOPTA_RIP_4520;Я оплачу пересаживание овощей и фруктов.;;;;;;;;x
+EVTDESC_MNM_10023_SR_C;[Root.GetTitledFirstName],\n\nНам стало известно, что вы больше не следуете нашим правилам и рекомендациям. Хотя ваша служба была замечательной, мы больше не можем поддерживать с вами контакт.\n\n\nПодписано, [From.GetSocietyRank] [From.GetFirstName];;;;;;;;x
+String_January;Утренней звезды;;;;;;;;x
+String_February;Восхода солнца;;;;;;;;x
+String_March;Первого зерна;;;;;;;;x
+String_April;Руки дождя;;;;;;;;x
+String_May;Второго зерна;;;;;;;;x
+String_June;Середины года;;;;;;;;x
+String_July;Высокого солнца;;;;;;;;x
+String_August;Последнего зерна;;;;;;;;x
+String_September;Огня очага;;;;;;;;x
+String_October;Начала морозов;;;;;;;;x
+String_November;Заката солнца;;;;;;;;x
+String_December;Вечерней звезды;;;;;;;;x
+action_assist_arrest_desc;Пришлите [GetMarshalName] достаточное количество войск, чтобы подавить восстания и облегчить аресты местных вассалов, а также искоренить и уничтожить продолжающуюся преступную деятельность и заражения.;;;;;;;;;;;;;x
+action_hunt_heretics;Охота На Мерзость;;;;;;;;;;;;;x;
+action_hunt_heretics_desc;[GetLordSpiritualName] будет охотиться на вампиров и оборотней, скрывающихся в вашем дворе и Королевстве, вытаскивая этих монстров на свет, чтобы все их увидели..;;;;;;;;;;;;;x;
+RULE_ACHIEVEMENTS_WARNINGS; §RНе поддерживается командой Elder Kings!§!;;;;;;;;x

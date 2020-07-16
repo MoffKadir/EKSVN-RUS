@@ -1,0 +1,12 @@
+	spriteType = {
+		name = "GFX_settlement_temple_westerngfx_africangfx"
+		texturefile = "gfx\\interface\\placeholder_temple_west_african.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_settlement_temple_westerngfx_africangfx_looted"
+		texturefile = "gfx\\interface\\placeholder_temple_west_african_looted.tga"
+		noOfFrames = 1
+		norefcount = yes
+	}

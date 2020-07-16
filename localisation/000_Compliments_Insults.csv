@@ -1,0 +1,324 @@
+INSULT_SUPREMACIST;сторонник превосходства;;;;;;;;;;;;;x
+INSULT_RACIST;расист;;;;;;;;;;;;;x
+INSULT_PREJUDICED;предвзятый;;;;;;;;;;;;;x
+INSULT_PRETENTIOUS;пафосный;;;;;;;;;;;;;x
+COMPL_CULTURED_ONE;культурный;;;;;;;;;;;;;x
+COMPL_EXALTED_ONE;возвышенный;;;;;;;;;;;;;x
+COMPL_VENERABLE;почтенный;;;;;;;;;;;;;x
+COMPL_DIGNIFIED;достойный;;;;;;;;;;;;;x
+INSULT_LIZARD;ящерица;;;;;;;;;;;;;x
+INSULT_PURSE;тучный;;;;;;;;;;;;;x
+INSULT_SLIMY;скользкий;;;;;;;;;;;;;x
+INSULT_SCALY;чешуйчатый;;;;;;;;;;;;;x
+COMPL_HONOURED_FRIEND;друг;;;;;;;;;;;;;x
+COMPL_HONOURED_ONE;уважаемый;;;;;;;;;;;;;x
+COMPL_VIBRANT;энергичный;;;;;;;;;;;;;x
+COMPL_RADIANT;лучезарный;;;;;;;;;;;;;x
+INSULT_SCUM;мерзавец;;;;;;;;;;;;;x
+INSULT_LEECH;пиявка;;;;;;;;;;;;;x
+INSULT_IMPERIOUS;властный;;;;;;;;;;;;;x
+INSULT_PEREMPTORY;безапелляционный;;;;;;;;;;;;;x
+COMPL_HEARTLAND_LORD;лорд хартленда;;;;;;;;;;;;;x
+COMPL_HEARTLAND_LADY;леди хартленда;;;;;;;;;;;;;x
+COMPL_STATELY;величавый;;;;;;;;;;;;;x
+COMPL_LOVELY;прекрасный;;;;;;;;;;;;;x
+INSULT_CANNIBAL;каннибал;;;;;;;;;;;;;x
+INSULT_TREEHUGGER;спаситель деревьев;;;;;;;;;;;;;x
+INSULT_WOLFISH;Зверский;;;;;;;;;;;;;x
+INSULT_PREDATORY;хищный;;;;;;;;;;;;;x
+COMPL_WARDEN;хранитель;;;;;;;;;;;;;x
+COMPL_CARETAKER;смотритель;;;;;;;;;;;;;x
+COMPL_RUSTIC;простоватый;;;;;;;;;;;;;x
+COMPL_SYLVAN;лесной;;;;;;;;;;;;;x
+INSULT_CUR;невоспитанный;;;;;;;;;;;;;x
+INSULT_MONGREL;ублюдок;;;;;;;;;;;;;x
+INSULT_DETESTABLE;отвратительный;;;;;;;;;;;;;x
+INSULT_WORTHLESS;никчемный;;;;;;;;;;;;;x
+COMPL_LORD_OF_HIGH_ROCK;лорд Хай Рока;;;;;;;;;;;;;x
+COMPL_LADY_OF_HIGH_ROCK;леди Хай Рока;;;;;;;;;;;;;x
+COMPL_EXTRAORDINARY;удивительный;;;;;;;;;;;;;x
+COMPL_EXEMPLARY;примерный;;;;;;;;;;;;;x
+INSULT_CUTTHROAT;беспощадный;;;;;;;;;;;;;x
+INSULT_BRIGAND;разбойник;;;;;;;;;;;;;x
+INSULT_MALEVOLENT;злорадный;;;;;;;;;;;;;x
+INSULT_BLOODTHIRSTY;кровожадный;;;;;;;;;;;;;x
+COMPL_NO_SHIRA;но шира;;;;;;;;;;;;;x
+COMPL_NO_SHIRA;но шира;;;;;;;;;;;;;x
+COMPL_STEADFAST;стойкий;;;;;;;;;;;;;x
+COMPL_VALIANT;доблестный;;;;;;;;;;;;;x
+INSULT_DEFECTOR;перебежчик;;;;;;;;;;;;;x
+INSULT_TURNCOAT;отступник;;;;;;;;;;;;;x
+INSULT_RENEGADE;ренегат;;;;;;;;;;;;;x
+INSULT_REBELLIOUS;мятежник;;;;;;;;;;;;;x
+COMPL_PARAGON;совершенный;;;;;;;;;;;;;x
+COMPL_EXEMPLAR;образцовый;;;;;;;;;;;;;x
+COMPL_LAUDABLE;достойный;;;;;;;;;;;;;x
+COMPL_COMMENDABLE;славный;;;;;;;;;;;;;x
+INSULT_DEMON;демон;;;;;;;;;;;;;x
+INSULT_SUCCUBUS;суккуб;;;;;;;;;;;;;x
+INSULT_DEMONIC;демонический;;;;;;;;;;;;;x
+INSULT_DIABOLIC;дьявольский;;;;;;;;;;;;;x
+COMPL_MASTER;мастер;;;;;;;;;;;;;x
+COMPL_MISTRESS;мастерица;;;;;;;;;;;;;x
+COMPL_GRAND;великий;;;;;;;;;;;;;x
+COMPL_MAJESTIC;величественный;;;;;;;;;;;;;x
+INSULT_GREY_SKIN;серокожий;;;;;;;;;;;;;x
+INSULT_ASH_BREATHER;дышащий в пепле;;;;;;;;;;;;;x
+INSULT_CURSED;проклятый;;;;;;;;;;;;;x
+INSULT_TREACHEROUS;коварный;;;;;;;;;;;;;x
+COMPL_SERA;сэра;;;;;;;;;;;;;x
+COMPL_MUTHSERA;мутсэра;;;;;;;;;;;;;x
+COMPL_FAITHFUL;верный;;;;;;;;;;;;;x
+COMPL_PRAISEWORTHY;достойный похвалы;;;;;;;;;;;;;x
+INSULT_SLAVE;раб;;;;;;;;;;;;;x
+INSULT_FIEND;изверг;;;;;;;;;;;;;x
+INSULT_WRETCHED;несчастный;;;;;;;;;;;;;x
+INSULT_PITIFUL;жалкий;;;;;;;;;;;;;x
+COMPL_NOBLE_ONE;благородный;;;;;;;;;;;;;x
+COMPL_WINTER_ROSE;зимняя роза;;;;;;;;;;;;;x
+COMPL_DISTINGUISHED;выдающийся;;;;;;;;;;;;;x
+COMPL_ILLUSTRIOUS;прославленный;;;;;;;;;;;;;x
+INSULT_ORPHAN;сирота;;;;;;;;;;;;;x
+INSULT_FOSSIL;старомодный;;;;;;;;;;;;;x
+INSULT_ENDANGERED;подвергшийся опасности;;;;;;;;;;;;;x
+INSULT_GODLESS;безбожный;;;;;;;;;;;;;x
+COMPL_ARTISAN;ремесленник;;;;;;;;;;;;;x
+COMPL_TECHNOLOGIST;технолог;;;;;;;;;;;;;x
+COMPL_TITANIC;титанический;;;;;;;;;;;;;x
+COMPL_GLORIOUS;славный;;;;;;;;;;;;;x
+INSULT_DESPOT;деспот;;;;;;;;;;;;;x
+INSULT_MEGALOMANIAC;страдающий манией величия;;;;;;;;;;;;;x
+INSULT_NARCISSISTIC;самовлюбленный;;;;;;;;;;;;;x
+INSULT_POMPOUS;напыщенный;;;;;;;;;;;;;x
+COMPL_COSMOPOLITAN;космополитичный;;;;;;;;;;;;;x
+COMPL_DAUGHTER_OF_ALESSIA;дочь Алессии;;;;;;;;;;;;;x
+COMPL_AUGUST;август;;;;;;;;;;;;;x
+COMPL_EMINENT;именитый;;;;;;;;;;;;;x
+INSULT_HAIRBALL;пушистый;;;;;;;;;;;;;x
+INSULT_THROW_RUG;брошенный ковёр;;;;;;;;;;;;;x
+INSULT_SUSPICIOUS;подозрительный;;;;;;;;;;;;;x
+INSULT_UNTRUSTWORTHY;неблагонадежный;;;;;;;;;;;;;x
+COMPL_MOON-SON;лунный сын;;;;;;;;;;;;;x
+COMPL_MOON-DAUGHTER;лунная дочь;;;;;;;;;;;;;x
+COMPL_WISE;мудрый;;;;;;;;;;;;;x
+COMPL_INSIGHTFUL;проницательный;;;;;;;;;;;;;x
+INSULT_FISH_ELF;рыба-эльф;;;;;;;;;;;;;x
+INSULT_SLIME;склизкий;;;;;;;;;;;;;x
+INSULT_GREASY;жирный;;;;;;;;;;;;;x
+INSULT_PUTRID;гнилостный;;;;;;;;;;;;;x
+COMPL_MARINER;мореплаватель;;;;;;;;;;;;;x
+COMPL_SEAFARER;моряк;;;;;;;;;;;;;x
+COMPL_ETHEREAL;неземной;;;;;;;;;;;;;x
+COMPL_SUBLIME;возвышенный;;;;;;;;;;;;;x
+INSULT_MILK_DRINKER;молокосос;;;;;;;;;;;;;x
+INSULT_SNOW-BACK;снежный защитник;;;;;;;;;;;;;x
+INSULT_SIMPLE;простодушный;;;;;;;;;;;;;x
+INSULT_FRIGID;бесстрастный;;;;;;;;;;;;;x
+COMPL_SON_OF_SKYRIM;сын Скайрима;;;;;;;;;;;;;x
+COMPL_DAUGHTER_OF_SKYRIM;дочь Скайрима;;;;;;;;;;;;;x
+COMPL_HEROIC;героический;;;;;;;;;;;;;x
+COMPL_EPIC;эпический;;;;;;;;;;;;;x
+INSULT_MONSTER;монстр;;;;;;;;;;;;;x
+INSULT_GREENSKIN;зелёнокожий;;;;;;;;;;;;;x
+INSULT_BRUTISH;звероподобный;;;;;;;;;;;;;x
+INSULT_VILE;подлый;;;;;;;;;;;;;x
+COMPL_BLOOD_BROTHER;кровный брат;;;;;;;;;;;;;x
+COMPL_BLOOD_SISTER;кровная сестра;;;;;;;;;;;;;x
+COMPL_POWERFUL;мощный;;;;;;;;;;;;;x
+COMPL_IMPOSING;внушительный;;;;;;;;;;;;;x
+COMPL_PROTECTOR;защитник;;;;;;;;;;;;;x
+COMPL_GUARDIAN;хранитель;;;;;;;;;;;;;x
+COMPL_HARDY;выносливый;;;;;;;;;;;;;x
+COMPL_RESILIENT;жизнерадостный;;;;;;;;;;;;;x
+INSULT_SAVAGE;дикарь;;;;;;;;;;;;;x
+INSULT_WITCH;ведьма;;;;;;;;;;;;;x
+INSULT_VISCIOUS;свирепый;;;;;;;;;;;;;x
+INSULT_FERAL;одичавший;;;;;;;;;;;;;x
+INSULT_INVADER;захватчик;;;;;;;;;;;;;x
+INSULT_RAIDER;налётчик;;;;;;;;;;;;;x
+INSULT_VAGRANT;бродяга;;;;;;;;;;;;;x
+INSULT_ALIEN;чужеземец;;;;;;;;;;;;;x
+COMPL_SHI;ши;;;;;;;;;;;;;x
+COMPL_DEMOISELLE;демуазель;;;;;;;;;;;;;x
+COMPL_NOBLE;благородный;;;;;;;;;;;;;x
+COMPL_UNYIELDING;непреклонный,;;;;;;;;;;;;;x
+INSULT_SNOW_DEMON;снежный демон;;;;;;;;;;;;;x
+INSULT_FROZEN_FIEND;ледяной злодей;;;;;;;;;;;;;x
+INSULT_MALICIOUS;зловредный;;;;;;;;;;;;;x
+INSULT_SPITEFUL;злорадный;;;;;;;;;;;;;x
+COMPL_WARLORD;завоеватель;;;;;;;;;;;;;x
+COMPL_WARLADY;завоевательница;;;;;;;;;;;;;x
+COMPL_TERRIFYING;ужасающий;;;;;;;;;;;;;x
+COMPL_FEARSOME;грозный;;;;;;;;;;;;;x
+INSULT_CHAIR-COVER;чехол кресла;;;;;;;;;;;;;x
+INSULT_BLANKET;одеяло;;;;;;;;;;;;;x
+INSULT_FLEA-BITTEN;искусанный блохами;;;;;;;;;;;;;x
+INSULT_MANGY;шелудивый;;;;;;;;;;;;;x
+COMPL_DRAGON;дракон;;;;;;;;;;;;;x
+COMPL_DRAGONESS;драконица;;;;;;;;;;;;;x
+COMPL_MIGHTY;могучий;;;;;;;;;;;;;x
+COMPL_FORCEFUL;убедительный;;;;;;;;;;;;;x
+INSULT_IMP;бес;;;;;;;;;;;;;x
+INSULT_DEMON-MONKEY;демоническая обезьяна;;;;;;;;;;;;;x
+INSULT_DERANGED;невменяемый;;;;;;;;;;;;;x
+INSULT_DISTURBED;беспокойный;;;;;;;;;;;;;x
+COMPL_RASCAL;подлый;;;;;;;;;;;;;x
+COMPL_SCAMP;скамп;;;;;;;;;;;;;x
+COMPL_LIVELY;деятельный;;;;;;;;;;;;;x
+COMPL_VIVACIOUS;жизнерадостный;;;;;;;;;;;;;x
+INSULT_SNAKE;змеиный;;;;;;;;;;;;;x
+INSULT_BELLY-CRAWLER;гусеничное брюхо;;;;;;;;;;;;;x
+INSULT_REPTILIAN;рептилия;;;;;;;;;;;;;x
+INSULT_SCURFY;покрытый отложениями;;;;;;;;;;;;;x
+COMPL_SERPENT;змей;;;;;;;;;;;;;x
+COMPL_SERPENTESS;Змея;;;;;;;;;;;;;x
+COMPL_SLY;хитрый;;;;;;;;;;;;;x
+COMPL_ASTUTE;сообразительный;;;;;;;;;;;;;x
+INSULT_SHUFFLING_CORPSE;шаркающий труп;;;;;;;;;;;;;x
+INSULT_SHAMBLING_HUSK;шаркающая оболочка;;;;;;;;;;;;;x
+INSULT_ROTTING;гниющий;;;;;;;;;;;;;x
+INSULT_DESSICATED;ветхий;;;;;;;;;;;;;x
+COMPL_REVENANT;призрак;;;;;;;;;;;;;x
+COMPL_BREATHLESS_ONE;бездыханный;;;;;;;;;;;;;x
+COMPL_DREADED;страшный;;;;;;;;;;;;;x
+COMPL_DAUNTING;пугающий;;;;;;;;;;;;;x
+INSULT_SAVAGE;дикий;;;;;;;;;;;;;x
+INSULT_PRIMITIVE;примитивный;;;;;;;;;;;;;x
+INSULT_BACKWARDS;ретроград;;;;;;;;;;;;;x
+INSULT_ARTLESS;бесхитростный;;;;;;;;;;;;;x
+COMPL_ISLAND-DWELLER;островитянин;;;;;;;;;;;;;x
+COMPL_VIGOROUS;энергичный;;;;;;;;;;;;;x
+COMPL_SPIRITED;резвый;;;;;;;;;;;;;x
+COMPL_MAESTRO;маэстро;;;;;;;;;;;;;x
+COMPL_SPECTACULAR;эффектный;;;;;;;;;;;;;x
+COMPL_ACROBATIC;акробат;;;;;;;;;;;;;x
+COMPL_LITHE;гибкий;;;;;;;;;;;;;x
+COMPL_STURDY;крепкий;;;;;;;;;;;;;x
+COMPL_TOUGH;жесткий;;;;;;;;;;;;;x
+INSULT_HUNCHBACK;горбун;;;;;;;;;;;;;x
+INSULT_HUNCHBACKED;горбатый;;;;;;;;;;;;;x
+COMPL_KEEN;зоркий;;;;;;;;;;;;;x
+COMPL_SHARP;резкий;;;;;;;;;;;;;x
+INSULT_DELICATE;деликатный;;;;;;;;;;;;;x
+INSULT_FRAIL;хилый;;;;;;;;;;;;;x
+##Personality Traits##;;;;;;;;;;;;;;x
+COMPL_RESPECTABLE;уважаемый;;;;;;;;;;;;;x
+COMPL_ADMIRABLE;восхитительный;;;;;;;;;;;;;x
+INSULT_NAIVE;наивный;;;;;;;;;;;;;x
+INSULT_SCOUNDREL;негодяй;;;;;;;;;;;;;x
+INSULT_VILLAIN;злодей;;;;;;;;;;;;;x
+INSULT_DISGRACEFUL;бесчестный;;;;;;;;;;;;;x
+INSULT_REPREHENSIBLE;достойный порицания;;;;;;;;;;;;;x
+INSULT_OPPRESSOR;поработитель;;;;;;;;;;;;;x
+INSULT_DICTATOR;диктатор;;;;;;;;;;;;;x
+INSULT_TYRANNICAL;тиранический;;;;;;;;;;;;;x
+INSULT_OPPRESSIVE;угнетающий;;;;;;;;;;;;;x
+INSULT_IRRESPONSIBLE;безответственный;;;;;;;;;;;;;x
+INSULT_CARELESS;беспечный;;;;;;;;;;;;;x
+INSULT_DAYDREAMER;мечтатель;;;;;;;;;;;;;x
+INSULT_AIRHEAD;пустоголовый;;;;;;;;;;;;;x
+INSULT_BEMUSED;ошеломленный;;;;;;;;;;;;;x
+INSULT_UNMINDFUL;невнимательный;;;;;;;;;;;;;x
+COMPL_STYLISH;элегантный;;;;;;;;;;;;;x
+COMPL_FASHIONABLE;модный;;;;;;;;;;;;;x
+INSULT_FILTHY;отвратительный;;;;;;;;;;;;;x
+INSULT_DISGUSTING;противный;;;;;;;;;;;;;x
+INSULT_CRIMINAL_SCUM;преступное отродье;;;;;;;;;;;;;x
+COMPL_OPERATIVE;быстрый;;;;;;;;;;;;;x
+COMPL_VEILED;скрытный;;;;;;;;;;;;;x
+COMPL_INTELLIGENCER;осведомитель;;;;;;;;;;;;;x
+COMPL_OBFUSCATED;затемнённый;;;;;;;;;;;;;x
+COMPL_ASSASSIN;ассасин;;;;;;;;;;;;;x
+COMPL_COLD_BLOODED;хладнокровный;;;;;;;;;;;;;x
+COMPL_DEATH_MANIFESTED;несущий смерть;;;;;;;;;;;;;x
+COMPL_INESCAPABLE;неотвратимый;;;;;;;;;;;;;x
+INSULT_PRIMITIVE;примитивный;;;;;;;;;;;;;x
+INSULT_CRUDE;незрелый;;;;;;;;;;;;;x
+COMPL_BERSERKER;берсерк;;;;;;;;;;;;;x
+COMPL_FEROCIOUS;свирепый;;;;;;;;;;;;;x
+COMPL_CHAOS_INCARNATE;воплощение хаоса;;;;;;;;;;;;;x
+COMPL_UNFLINCHING;неустрашимый;;;;;;;;;;;;;x
+COMPL_VIRTUOSO;виртуоз;;;;;;;;;;;;;x
+COMPL_CAPTIVATING;очаровательный;;;;;;;;;;;;;x
+COMPL_EXQUISITE_PERFORMER;прекрасный исполнитель;;;;;;;;;;;;;x
+COMPL_ENTRANCING;восхитительный;;;;;;;;;;;;;x
+COMPL_SPELLSLINGER;заклинатель;;;;;;;;;;;;;x
+COMPL_DEVASTATING;разрушительный;;;;;;;;;;;;;x
+COMPL_WARLOCK;колдун;;;;;;;;;;;;;x
+COMPL_ALL-POWERFUL;всемогущий;;;;;;;;;;;;;x
+COMPL_EMISSARY;эмиссар;;;;;;;;;;;;;x
+COMPL_HONEY_WORDED;сладкоголосый;;;;;;;;;;;;;x
+COMPL_WORDSMITH;составитель чужих речей;;;;;;;;;;;;;x
+COMPL_SILVER_TONGUED;сладкоречивый;;;;;;;;;;;;;x
+COMPL_SIR_KNIGHT;сэр рыцарь;;;;;;;;;;;;;x
+COMPL_MADAM_KNIGHT;мадам рыцарь;;;;;;;;;;;;;x
+COMPL_STRIKING;поразительный;;;;;;;;;;;;;x
+COMPL_KNIGHT_OF_LEGENDS;легендарный рыцарь;;;;;;;;;;;;;x
+COMPL_RIGHTEOUS;праведный;;;;;;;;;;;;;x
+COMPL_WIZARD;волшебник;;;;;;;;;;;;;x
+COMPL_ENCHANTING;зачарователь;;;;;;;;;;;;;x
+COMPL_ARCHMAGE;архимаг;;;;;;;;;;;;;x
+COMPL_MYSTIFYING;мистификатор;;;;;;;;;;;;;x
+COMPL_ARBITER;арбитр;;;;;;;;;;;;;x
+COMPL_UPSTANDING;добропорядочный;;;;;;;;;;;;;x
+COMPL_ADJUDICATOR;судья;;;;;;;;;;;;;x
+COMPL_VIRTUOUS;добродетельный;;;;;;;;;;;;;x
+COMPL_ACOLYTE;служитель;;;;;;;;;;;;;x
+COMPL_LEARNED;учёный;;;;;;;;;;;;;x
+COMPL_SAGE;мудрец;;;;;;;;;;;;;x
+COMPL_ENLIGHTENED;просвещённый;;;;;;;;;;;;;x
+COMPL_WITCH-THIEF;ведьма-воровка;;;;;;;;;;;;;x
+COMPL_SNEAKY;пронырливый;;;;;;;;;;;;;x
+COMPL_SHADOW-CASTER;управляющий тенями;;;;;;;;;;;;;x
+COMPL_DEATH-DEALING;смертоносный;;;;;;;;;;;;;x
+COMPL_WANDERER;странник;;;;;;;;;;;;;x
+COMPL_NUMINOUS;сверхъестественный;;;;;;;;;;;;;x
+COMPL_WAYFARER;путник;;;;;;;;;;;;;x
+COMPL_BLESSED;благословенный;;;;;;;;;;;;;x
+COMPL_CLERIC;священник;;;;;;;;;;;;;x
+COMPL_ERUDITE;эрудированный;;;;;;;;;;;;;x
+COMPL_HOLY_ONE;святой;;;;;;;;;;;;;x
+COMPL_BLESSED;благословленный;;;;;;;;;;;;;x
+COMPL_SNEAK_THIEF;крадущийся вор;;;;;;;;;;;;;x
+COMPL_CUNNING;хитрый;;;;;;;;;;;;;x
+COMPL_LORD_OF_SHADOWS;повелитель теней;;;;;;;;;;;;;x
+COMPL_LADY_OF_SHADOWS;повелительница теней;;;;;;;;;;;;;x
+COMPL_IMPERCEPTIBLE;незаметный;;;;;;;;;;;;;x
+COMPL_MERCHANT;торговец;;;;;;;;;;;;;x
+COMPL_AFFLUENT;зажиточный;;;;;;;;;;;;;x
+COMPL_DOYEN_OF_TRADE;мастерский торговец;;;;;;;;;;;;;x
+COMPL_PROSPEROUS;состоятельный;;;;;;;;;;;;;x
+COMPL_SWORD_MASTER;мастер меча;;;;;;;;;;;;;x
+COMPL_SHIELD_MAIDEN;воительница;;;;;;;;;;;;;x
+COMPL_INTREPID;бесстрашный;;;;;;;;;;;;;x
+COMPL_COMBAT_EXTRAORDINAIRE;экстраординарный воин;;;;;;;;;;;;;x
+COMPL_GALLANT;галантный;;;;;;;;;;;;;x
+DRAGONBORN;драконорождённый;;;;;;;;;;;;;x
+DRAGONBLOOD;драконокровный;;;;;;;;;;;;;x
+USER_OF_THE_VOICE;использующий голос;;;;;;;;;;;;;x
+COMPL_OVERSEER;надзиратель;;;;;;;;;;;;;x
+COMPL_UNFAILING;неизменный;;;;;;;;;;;;;x
+COMPL_ENGINEER;инженер;;;;;;;;;;;;;x
+COMPL_INNOVATIVE;новатор;;;;;;;;;;;;;x
+COMPL_GAME_MASTER;мастер игры;;;;;;;;;;;;;x
+COMPL_WILY;лукавый;;;;;;;;;;;;;x
+COMPL_CRAFTY;искусный;;;;;;;;;;;;;x
+COMPL_CONVERSATIONIST;красноречивый;;;;;;;;;;;;;x
+COMPL_SOCIALITE;светский человек;;;;;;;;;;;;;x
+COMPL_CHARISMATIC;харизматичный;;;;;;;;;;;;;x
+COMPL_STRATEGIST;стратег;;;;;;;;;;;;;x
+COMPL_MASTERFUL;властный;;;;;;;;;;;;;x
+COMPL_PLOTTER;интриган;;;;;;;;;;;;;x
+COMPL_SHREWD;прозорливый;;;;;;;;;;;;;x
+COMPL_THEOLOGIAN;теолог;;;;;;;;;;;;;x
+COMPL_SAGACIOUS;дальновидный;;;;;;;;;;;;;x
+INSULT_CORPSE-WIZARD;заклинатель мертвецов;;;;;;;;;;;;;x
+INSULT_CORPSE-WITCH;заклинательница мертвецов;;;;;;;;;;;;;x
+INSULT_COCKEREL;петушок;;;;;;;;;;;;;x
+INSULT_HEN;курочка;;;;;;;;;;;;;x
+INSULT_CORPSE-RAISER;восставший мертвец;;;;;;;;;;;;;x
+INSULT_GRAVE-ROBBER;расхититель гробниц;;;;;;;;;;;;;x
+BLOOD-CRAZED_MANIAC;кровожадно-безумный маньяк;;;;;;;;;;;;;x
+SLAVE_DRIVER;рабовладелец;;;;;;;;;;;;;x
+RABBLE-ROUSER;подстрекатель;;;;;;;;;;;;;x
+EMANCIPATOR;освободитель;;;;;;;;;;;;;x

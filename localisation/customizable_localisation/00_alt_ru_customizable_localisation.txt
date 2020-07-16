@@ -1,0 +1,1311 @@
+#Родительный падеж
+defined_text = {
+	name = GetChristNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } catholic = { is_name_randomized = yes } }
+		localisation_key = string_christ_randomGEN
+	}
+	text = { trigger = { NAND = { has_alternate_start_parameter = { key = religion_names value = random } catholic = { is_name_randomized = yes } } }
+		localisation_key = string_christGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_catholicGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_catholicGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_catholicGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_catharGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_catharGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_catharGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_fraticelliGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_fraticelliGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_fraticelliGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_waldensianGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_waldensianGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_waldensianGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_lollardGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_lollardGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_lollardGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_orthodoxGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_orthodoxGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_orthodoxGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_miaphysiteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_miaphysiteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_miaphysiteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_monophysiteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_monophysiteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_monophysiteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bogomilistGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bogomilistGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bogomilistGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_monotheliteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_monotheliteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_monotheliteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_iconoclastGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_iconoclastGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_iconoclastGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_paulicianGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_paulicianGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_paulicianGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_nestorianGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_nestorianGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_nestorianGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_messalianGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_messalianGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_messalianGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_sunniGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_sunniGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_sunniGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zikriGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zikriGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zikriGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_yazidiGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_yazidiGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_yazidiGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_ibadiGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_ibadiGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_ibadiGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_kharijiteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_kharijiteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_kharijiteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_shiiteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_shiiteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_shiiteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_druzeGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_druzeGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_druzeGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hurufiGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hurufiGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hurufiGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_norse_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_norse_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_norse_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_norse_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_norse_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_norse_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_tengri_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_tengri_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_tengri_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_tengri_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_tengri_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_tengri_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_baltic_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_baltic_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_baltic_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_baltic_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_baltic_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_baltic_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_finnish_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_finnish_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_finnish_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_finnish_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_finnish_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_finnish_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_aztec_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_aztec_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_aztec_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_aztecGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_aztecGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_aztecGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_slavic_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_slavic_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_slavic_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_slavic_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_slavic_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_slavic_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_west_african_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_west_african_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_west_african_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_west_african_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_west_african_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_west_african_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zun_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zun_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zun_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zun_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zun_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zun_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bonGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bonGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bonGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bon_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bon_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bon_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hellenic_pagan_reformedGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hellenic_pagan_reformedGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hellenic_pagan_reformedGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hellenic_paganGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hellenic_paganGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hellenic_paganGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zoroastrianGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zoroastrianGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zoroastrianGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_mazdakiGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_mazdakiGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_mazdakiGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_manicheanGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_manicheanGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_manicheanGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_khurmaztaGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_khurmaztaGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_khurmaztaGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_jewishGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_jewishGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_jewishGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_samaritanGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_samaritanGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_samaritanGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_karaiteGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_karaiteGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_karaiteGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hinduGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hinduGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hinduGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_buddhistGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_buddhistGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_buddhistGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_jainGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_jainGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_jainGEN
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_taoistGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_taoistGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_taoistGEN
+	}
+}
+defined_text = {
+	name = GetLucifersOwnSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_satanists_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_satanists_realGEN
+	}
+}
+defined_text = {
+	name = GetHelSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_trollcrafters_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_trollcrafters_realGEN
+	}
+}
+defined_text = {
+	name = GetKaliSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_cult_of_kali_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_cult_of_kali_realGEN
+	}
+}
+defined_text = {
+	name = GetColdOnesSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_cold_ones_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_cold_ones_realGEN
+	}
+}
+defined_text = {
+	name = GetPlaguebringersSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_plaguebringers_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_plaguebringers_realGEN
+	}
+}
+defined_text = {
+	name = GetBenedictineSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_benedictine_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_benedictine_realGEN
+	}
+}
+defined_text = {
+	name = GetDominicanSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_dominican_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_dominican_realGEN
+	}
+}
+defined_text = {
+	name = GetSaintBasilSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_orthodox_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_orthodox_realGEN
+	}
+}
+defined_text = {
+	name = GetSaintAbrahamSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_nestorian_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_nestorian_realGEN
+	}
+}
+defined_text = {
+	name = GetSaintAnthonySocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_monophysite_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_monophysite_realGEN
+	}
+}
+defined_text = {
+	name = GetAdvaitaMathaSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_hindu_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_hindu_realGEN
+	}
+}
+defined_text = {
+	name = GetSavakaSanghaSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_buddhist_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_buddhist_realGEN
+	}
+}
+defined_text = {
+	name = GetSravakaSamghaSocietyNameGEN
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_jain_randomGEN
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_jain_realGEN
+	}
+}
+#Дательный падеж
+defined_text = {
+	name = GetReligiousCommunityName_catholicDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_catholicDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_catholicDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_catharDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_catharDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_catharDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_fraticelliDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_fraticelliDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_fraticelliDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_waldensianDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_waldensianDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_waldensianDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_lollardDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_lollardDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_lollardDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_orthodoxDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_orthodoxDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_orthodoxDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_miaphysiteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_miaphysiteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_miaphysiteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_monophysiteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_monophysiteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_monophysiteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bogomilistDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bogomilistDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bogomilistDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_monotheliteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_monotheliteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_monotheliteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_iconoclastDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_iconoclastDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_iconoclastDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_paulicianDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_paulicianDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_paulicianDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_nestorianDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_nestorianDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_nestorianDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_messalianDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_messalianDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_messalianDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_sunniDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_sunniDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_sunniDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zikriDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zikriDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zikriDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_yazidiDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_yazidiDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_yazidiDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_ibadiDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_ibadiDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_ibadiDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_kharijiteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_kharijiteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_kharijiteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_shiiteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_shiiteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_shiiteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_druzeDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_druzeDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_druzeDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hurufiDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hurufiDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hurufiDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_norse_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_norse_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_norse_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_norse_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_norse_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_norse_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_tengri_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_tengri_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_tengri_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_tengri_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_tengri_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_tengri_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_baltic_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_baltic_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_baltic_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_baltic_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_baltic_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_baltic_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_finnish_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_finnish_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_finnish_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_finnish_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_finnish_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_finnish_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_aztec_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_aztec_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_aztec_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_aztecDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_aztecDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_aztecDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_slavic_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_slavic_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_slavic_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_slavic_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_slavic_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_slavic_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_west_african_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_west_african_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_west_african_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_west_african_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_west_african_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_west_african_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zun_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zun_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zun_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zun_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zun_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zun_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bonDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bonDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bonDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_bon_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_bon_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_bon_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hellenic_pagan_reformedDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hellenic_pagan_reformedDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hellenic_pagan_reformedDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hellenic_paganDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hellenic_paganDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hellenic_paganDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_zoroastrianDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_zoroastrianDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_zoroastrianDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_mazdakiDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_mazdakiDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_mazdakiDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_manicheanDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_manicheanDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_manicheanDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_khurmaztaDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_khurmaztaDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_khurmaztaDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_jewishDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_jewishDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_jewishDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_samaritanDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_samaritanDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_samaritanDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_karaiteDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_karaiteDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_karaiteDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_hinduDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_hinduDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_hinduDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_buddhistDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_buddhistDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_buddhistDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_jainDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_jainDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_jainDAT
+	}
+}
+defined_text = {
+	name = GetReligiousCommunityName_taoistDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = alt_start_community_name_taoistDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = secret_religious_society_REAL_taoistDAT
+	}
+}
+defined_text = {
+	name = GetLucifersOwnSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_satanists_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_satanists_realDAT
+	}
+}
+defined_text = {
+	name = GetHelSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_trollcrafters_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_trollcrafters_realDAT
+	}
+}
+defined_text = {
+	name = GetKaliSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_cult_of_kali_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_cult_of_kali_realDAT
+	}
+}
+defined_text = {
+	name = GetColdOnesSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_cold_ones_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_cold_ones_realDAT
+	}
+}
+defined_text = {
+	name = GetPlaguebringersSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = the_plaguebringers_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = the_plaguebringers_realDAT
+	}
+}
+defined_text = {
+	name = GetBenedictineSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_benedictine_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_benedictine_realDAT
+	}
+}
+defined_text = {
+	name = GetDominicanSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_dominican_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_dominican_realDAT
+	}
+}
+defined_text = {
+	name = GetSaintBasilSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_orthodox_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_orthodox_realDAT
+	}
+}
+defined_text = {
+	name = GetSaintAbrahamSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_nestorian_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_nestorian_realDAT
+	}
+}
+defined_text = {
+	name = GetSaintAnthonySocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_monophysite_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_monophysite_realDAT
+	}
+}
+defined_text = {
+	name = GetAdvaitaMathaSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_hindu_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_hindu_realDAT
+	}
+}
+defined_text = {
+	name = GetSavakaSanghaSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_buddhist_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_buddhist_realDAT
+	}
+}
+defined_text = {
+	name = GetSravakaSamghaSocietyNameDAT
+	text = { trigger = { has_alternate_start_parameter = { key = religion_names value = random } }
+		localisation_key = monastic_order_jain_randomDAT
+	}
+	text = { trigger = { NOT = { has_alternate_start_parameter = { key = religion_names value = random } } }
+		localisation_key = monastic_order_jain_realDAT
+	}
+}
+#Capitalized version
+defined_text = {
+	name = GetJewsNameCap
+	
+	text = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		localisation_key = string_jewsCap
+	}
+	text = {
+		trigger = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		localisation_key = string_random_jews_nameCap
+	}
+}
+#Винительный и родительный падежи
+defined_text = {
+	name = GetJewsNameGENACC
+	
+	text = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		localisation_key = string_jewsGENACC
+	}
+	text = {
+		trigger = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		localisation_key = string_random_jews_nameGENACC
+	}
+}
+#Capitalized version
+defined_text = {
+	name = GetJewsNameCapGENACC
+	
+	text = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		localisation_key = string_jewsCapGENACC
+	}
+	text = {
+		trigger = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		localisation_key = string_random_jews_nameCapGENACC
+	}
+}
+#Творительный падеж
+defined_text = {
+	name = GetJewsNameINS
+	
+	text = {
+		trigger = {
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+		}
+		localisation_key = string_jewsINS
+	}
+	text = {
+		trigger = {
+			has_alternate_start_parameter = { key = religion_names value = random }
+		}
+		localisation_key = string_random_jews_nameINS
+	}
+}
+#Religion.GetFullName
+defined_text = {
+	name = GetReligionFullName
+	
+	text = {
+		trigger = { is_renamed_religion_trigger = yes }
+		localisation_key = string_RFullName_random
+	}
+	fallback_text = {
+		localisation_key = string_RFullName_default
+	}
+}
+#TrueReligion.GetFullName
+defined_text = {
+	name = GetTrueReligionFullName
+	
+	text = {
+		trigger = { is_renamed_true_religion_trigger = yes }
+		localisation_key = string_TRFullName_random
+	}
+	fallback_text = {
+		localisation_key = string_TRFullName_default
+	}
+}
+#SecretReligion.GetFullName
+defined_text = {
+	name = GetSecretReligionFullName
+	
+	text = {
+		trigger = { is_renamed_secret_religion_trigger = yes }
+		localisation_key = string_SRFullName_random
+	}
+	fallback_text = {
+		localisation_key = string_SRFullName_default
+	}
+}

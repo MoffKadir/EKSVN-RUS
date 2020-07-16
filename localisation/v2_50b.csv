@@ -1,0 +1,1759 @@
+#CODE;RUSSIAN;x
+haughty;Надменн[_ый];x #GetAyaYy_TT_ый
+affectionate;Ласков[_ый];x #GetAyaYy_TT_ый
+timid;Робк[_ий];x #GetAyaIy_TT_ий
+rowdy;Буйн[_ый];x #GetAyaYy_TT_ый
+willful;Волев[__ой];x #GetAyaOy_TT_ой
+brooding;Вдумчив[_ый];x #GetAyaYy_TT_ый
+indolent;Праздн[_ый];x #GetAyaYy_TT_ый
+playful;Игрив[_ый];x #GetAyaYy_TT_ый
+conscientious;Добросовестн[_ый];x #GetAyaYy_TT_ый
+fussy;Привередлив[_ый];x #GetAyaYy_TT_ый
+curious;Любопытн[_ый];x #GetAyaYy_TT_ый
+idolizer;Впечатлительн[_ый];x #GetAyaYy_TT_ый
+no_objective_title;Нет цели;x
+focus_ch_pride;Гордость;x
+focus_ch_pride_title;Гордость;x
+focus_ch_pride_desc;[This.GetTitledFirstName] воспитывается советниками и аристократами, которые готовят [This.GetHersHis] к тому, чтобы быть правителем. От такого воспитания дети становятся §Yнадменными§! и §Yвдумчивыми§!.;x
+focus_ch_humility;Смирение;;x
+focus_ch_humility_title;Смирение;x
+focus_ch_humility_desc;[This.GetTitledFirstName] воспитывается придворными слугами в духе кроткости и покорности. От такого воспитания дети становятся §Yробкими§! и §Yласковыми§!.;x
+focus_ch_duty;Долг;x
+focus_ch_duty_title;Долг;x
+focus_ch_duty_desc;[This.GetTitledFirstName] воспитывается охранниками и придворными служащими, которые ставят ответственность и долг во главу угла. От такого воспитания дети становятся §Yдобросовестными§!.;x
+focus_ch_etiquette;Этикет;x
+focus_ch_etiquette_title;Этикет;x
+focus_ch_etiquette_desc;[This.GetTitledFirstName] воспитывается советниками и придворными, искушёнными в правилах хорошего тона и нормах поведения.  От такого воспитания дети становятся §Yигривыми§! и §Yпраздными§!.;x
+focus_ch_thrift;Расчётливость;x
+focus_ch_thrift_title;Расчётливость;x
+focus_ch_thrift_desc;[This.GetTitledFirstName] воспитывается среди ремесленников и торговцев, которые хорошо разбираются в математике и технических достижениях. От такого воспитания дети становятся §Yлюбопытными§! и §Yпривередливыми§!.;x
+focus_ch_faith;Вера;x
+focus_ch_faith_title;Вера;x
+focus_ch_faith_desc;[This.GetTitledFirstName] воспитывается священниками, а это значит учения о мироздании, странные ритуалы и всё то, чем может повлиять §Y[This.Educator.GetReligionFullName]§! на неокрепшую психику ребёнка. От такого воспитания дети становятся §Yвпечатлительными§!.;x
+focus_ch_struggle;Выживание;x
+focus_ch_struggle_title;Выживание;x
+focus_ch_struggle_desc;[This.GetTitledFirstName] ставится в условия, в которых приходится справляться с большинством задач самостоятельно и состязаться во всём с другими детьми. От такого воспитания дети становятся §Yбуйными§! и §Yволевыми§!.;x
+focus_ch_heritage;Наследие;x
+focus_ch_heritage_title;Наследие;x
+focus_ch_heritage_desc;[This.GetTitledFirstName] воспитывается членами семьи и придворными в §Y[This.Educator.GetCultureAdj]их§! традициях с уклоном на то, что §Y[This.Educator.GetReligionFullName]§! - единственное истинное учение. Такое воспитание не оказывает заметного влияния на характер ребёнка.;x
+focus_ed_diplomacy;Дипломатия;x
+focus_ed_diplomacy_title;Дипломатическое образование;x
+focus_ed_diplomacy_desc;[This.GetTitledFirstName] стремится изучить хитрости дипломатии и государственные дела.\n§GЛасковые§! и §Gлюбопытные§! дети добьются в этом большего чем §Rволевые§! и §Rпривередливые§!.;x
+focus_ed_martial;Военное дело;x
+focus_ed_martial_title;Военное образование;x
+focus_ed_martial_desc;[This.GetTitledFirstName] стремится изучить тонкости военного искусства.\n§GБуйные§! и §Gволевые§! добьются в этом большего чем §Rробкие§! и §Rвпечатлительные§! дети.;x
+focus_ed_stewardship;Управление;x
+focus_ed_stewardship_desc;[This.GetTitledFirstName] направляет свои усилия на изучение бухгалтерского учёта и администрирования.\n§GВдумчивые§! и §Gдобросовестные§! дети добьются в этом большего чем §Rпраздные§! и §Rнадменные§!.;x
+focus_ed_stewardship_title;Экономическое образование;x
+focus_ed_intrigue;Интрига;x
+focus_ed_intrigue_title;Шпионское образование;x
+focus_ed_intrigue_desc;[This.GetTitledFirstName] учится скрытности и коварству.\n§GИгривые§! и §Gпривередливые§! дети добьются в этом большего чем §Rбуйные§! и §Rласковые§!.;x
+focus_ed_learning;Духовность;x
+focus_ed_learning_title;Духовное образование;x
+focus_ed_learning_desc;[This.GetTitledFirstName] направляет свои усилия на изучение философии и религии.\n§GРобкие§! и §Gвпечатлительные§! добьются в этом большего чем §Rвдумчивые§! и §Rигривые§! дети.;x
+INSULT_USELESS;Бесполезн[This.GetAyaYy];x
+INSULT_SNEAK;приставала;x
+silence_is_golden;Молчание - золото;x
+silence_is_golden_desc;Эт[GetEtaEtot] [GetAgedPerson] мудро решил[GetEndA] держать язык за зубами.;x
+EVTDESCA_ZE_12000;Недавно я заметил[Root.GetEndA], как [haughty_events_char_1.GetTitledFirstNameWithNick] целует кого-то из прислуги в коридоре.;x
+EVTOPTA_ZE_12000;Это неправильно, я скажу [haughty_events_char_1.GetHerHim]!;x
+EVTOPTB_ZE_12000;Это будет наш секрет.;x
+EVTDESCB_ZE_12000;Гуляя по двору я увидел[Root.GetEndA], как [haughty_events_char_1.GetTitledFirstName] бьёт собаку большой палкой.;x
+EVTDESCC_ZE_12000;Гуляя вдоль дороги, я прош[Root.GetLaYol] мимо простолюдинов. Один из них позвал меня и сказал, что я отлично выгляжу сегодня.;x
+EVTOPTE_ZE_12000;Как он посмел говорить так со мной? Наказать!;x
+EVTOPTF_ZE_12000;Благодарю Вас!;x
+EVTOPTE_ZE_12000_TOOLTIP1;Крестьяне разозлятся.;x
+EVTOPTE_ZE_12000_TOOLTIP2;Крестьяне покорятся.;x
+EVTOPTC_ZE_12000;Взять палку и ударить [haughty_events_char_1.GetHersHis]!;x
+EVTOPTD_ZE_12000;Присоединиться.;x
+EVTDESCA_ZE_12002;Сегодня, наслаждаясь прекрасным поцелуем, мне пришлось прерваться, потому что обнаглевш[From.GetAyaIy] [From.GetFirstName] посмел[From.GetEndA] отчитывать меня за аморальное поведение!;x
+EVTDESCB_ZE_12002;Сегодня, наслаждаясь прекрасным поцелуем, я заметил[Root.GetEndA], как юн[From.GetAyaYy] [From.GetFirstName] подсматривал[From.GetEndA] за нами. Затем, подмигнув мне, [From.GetSheHe] разверну[From.GetLasLsya] и уш[From.GetLaYol], делая вид, что ничего не произошло.;x
+EVTOPTA_ZE_12002;Я поймаю [From.GetHersHis] и выпорю!;x
+EVTOPTB_ZE_12002;А.. не важно.;x
+EVTDESCA_ZE_12004;[From.GetTitledFirstName] разозли[From.GetLasLsya], услышав мои слова. [From.GetSheHeCap] догнал[From.GetEndA] и выпорол[From.GetEndA] меня.;x
+EVTOPTA_ZE_12004;[GetRootFromInsult]! Я всем расскажу!;x
+EVTOPTB_ZE_12004;Я спрячусь, чтобы [From.GetSheHe] больше не наш[From.GetLaYol] меня.;x
+EVTDESCA_ZE_12006;[From.GetFirstName], [GetRootFromInsult], теперь ходит и жалуется всем на меня, но ведь [From.GetSheHe] сунул[From.GetEndA] нос не в своё дело и заслужил[From.GetEndA] эту порку!;x
+EVTDESCB_ZE_12006;Когда я поверну[Root.GetLasLsya], собака укусила меня за ногу, а [From.GetFirstName] убежал[From.GetEndA] прочь. Но с тех пор [From.GetSheHe] вечно ошивается вокруг и злобно пялится.;x
+EVTDESCC_ZE_12002;Когда я бил[Root.GetEndA] эту бешеную псину во дворе, эта мелкая падлюга [From.GetFirstName] схватил[From.GetEndA] палку и начал[From.GetEndA] бить меня!;x
+EVTDESCD_ZE_12002;Когда я бил[Root.GetEndA] эту бешеную псину во дворе, маленьк[From.GetAyaIy] [From.GetFirstName] подош[From.GetLaYol] и стал[From.GetEndA] бить собаку вместе со мной.;x
+EVTOPTD_ZE_12002;Отвали мелюзга!;x
+EVTOPTE_ZE_12002;Ха-ха, как мило!;x
+EVTOPTF_ZE_12002;Не толкайся, здесь всем хватит места.;x
+EVTDESCB_ZE_12004;Когда я ударил[Root.GetEndA] [From.GetHersHis], [From.GetSheHe] лишь засмея[From.GetLasLsya]. Но собака укусила [From.GetHersHis] за ногу, и я убежал[Root.GetEndA].;x
+EVTOPTC_ZE_12004;[From.GetSheHeCap] ещё не знает с кем связа[From.GetLasLsya]!;x
+EVTOPTD_ZE_12004;А где мои игрушки?;x
+opinion_complicity;Сопричастность;x
+opinion_contempt;Презрение;x
+EVTDESCC_ZE_12004;То, как я поступил[Root.GetEndA] с этим нахальным деревенщиной, похоже сильно разозлило его односельчан.;x
+EVTDESCD_ZE_12004;То, как я поступил[Root.GetEndA] с этим нахальным деревенщиной, удивило его односельчан.;x
+EVTOPTE_ZE_12004;Он заслужил это!;x
+EVTOPTF_ZE_12004;Они должны знать своё место.;x
+EVTDESCA_ZE_13001;Я уже практически взросл[Root.GetAyaYy], и людям следует прислушиваться ко мне, если они хотят лучшего для себя.;x
+EVTDESCB_ZE_13001;Правила для слабаков. Я [Root.GetHerselfHimself] знаю, чего хочу.;x
+EVTDESCC_ZE_13001;Я знаю свою ценность, и людям лучше не стоять у меня на пути.;x
+EVTOPTA_ZE_13001;Я не стану склонять голову ни перед кем.;x
+EVTOPTB_ZE_13001;И знаю, как это получить.;x
+EVTOPTC_ZE_13001;Иначе я раздавлю их.;x
+EVTDESCA_ZE_13002;Юн[From.GetAyaYy] [From.GetFirstName] выражает явную склонность к горделивому поведению.;x
+EVTDESCB_ZE_13002;Юн[From.GetAyaYy] [From.GetFirstName] становится настоящим самодуром. С каждым днём это заметнее проявляется в [From.GetHersHis] поведении.;x
+EVTDESCC_ZE_13002;Юн[From.GetAyaYy] [From.GetFirstName] выражает всё большую склонность к жестокости.;x
+EVTOPTA_ZE_13002;[From.GetHerHimCap] явно не хватает амбициозности.;x
+EVTOPTB_ZE_13002;Так[From.GetOyIm] уж вырос[From.GetNoneE], что поделать.;x
+haughty_may_become_ambitious;может получить черту §Yамбициозн[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13004;[From.GetTitledFirstName] не одобряет моё поведение. [From.GetSheHeCap] осуждает мою гордыню и говорит, что ради достижения успеха, порой надо переступать через себя.;x
+EVTDESCB_ZE_13004;[From.GetTitledFirstName] не одобряет моё поведение. [From.GetSheHeCap] называет это самодурством и глупым ребячеством, утверждая, что только амбициозный благоразумный человек добивается успеха в жизни.;x
+EVTDESCC_ZE_13004;[From.GetTitledFirstName] не одобряет моё поведение. [From.GetSheHeCap] осуждает мою жестокость, утверждая, что самые добрые и полезные мне люди отвернуться от меня, и что мне следует сдерживать такие склонности в угоду личным амбициям.;x
+EVTOPTA_ZE_13004;[From.GetSheHeCap] прав[From.GetEndA]. Мне суждено стать велик[Root.GetOyIm].;x
+EVTOPTB_ZE_13004;Никто не будет указывать мне, что делать!;x
+EVTOPTC_ZE_13004;Как прикажете, [From.PrimaryTitle.GetFOA].;x
+EVTOPTD_ZE_13004;[From.GetHerHimCap] повезёт, если я не отравлю [From.GetHersHis].;x
+EVTDESCA_ZE_13011;Оказывается, радовать других намного приятнее, чем сам[Root.GetUOgo] себя.;x
+EVTDESCB_ZE_13011;Я в хороших отношениях с другими, в то время, как многие слишком амбициозны и наживают себе врагов.;x
+EVTDESCC_ZE_13011;Я понял[Root.GetEndA], что большинство людей в глубине души добрые, а недоверие и подозрения лишь отравляют наш разум, истощая нас.;x
+EVTOPTA_ZE_13011;Доброта объединяет всех нас.;x
+EVTOPTB_ZE_13011;У меня есть всё, чего я желаю.;x
+EVTOPTC_ZE_13011;Да и зачем кому-то вредить мне?;x
+EVTDESCA_ZE_13012;Юн[From.GetAyaYy] [From.GetFirstName] с каждым днём становится всё добрее к окружающим.;x
+EVTDESCB_ZE_13012;Юн[From.GetAyaYy] [From.GetFirstName] всегда довольствуется малым и совершенно неамбициоз[From.GetNaEn].;x
+EVTDESCC_ZE_13012;Юн[From.GetAyaYy] [From.GetFirstName] слишком доверчив[From.GetEndA] и совершенно не видит угрозу со стороны других людей.;x
+EVTOPTA_ZE_13012;[From.GetSheHeCap] мог[From.GetNoneE] бы стать более щедр[From.GetOyYm].;x
+EVTOPTB_ZE_13012;[From.GetSheHeCap] может быть лишь собой.;x
+affectionate_may_become_charitable;может получить черту §Yщедр[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13014;[From.GetTitledFirstName] говорит, что доброта - это хорошо, но если я хочу действительно помогать другим, мне следует быть более щедр[Root.GetOyYm].;x
+EVTDESCB_ZE_13014;[From.GetTitledFirstName] говорит, что я слишком пассив[Root.GetNaEn], чтобы по-настоящему помогать другим людям.;x
+EVTDESCC_ZE_13014;[From.GetTitledFirstName] осуждает меня за наивность и утверждает, что только реальная помощь другим может расположить их к себе.;x
+EVTOPTA_ZE_13014;[From.GetSheHeCap] прав[From.GetEndA], я могу сделать больше.;x
+EVTOPTB_ZE_13014;Я постараюсь.;x
+EVTOPTC_ZE_13014;Я помогу, когда это действительно будет нужно.;x
+EVTOPTD_ZE_13014;Но ведь [Root.TopLiege.GetTitle] заботится о нас.;x
+EVTDESCA_ZE_13021;Чем старше я становлюсь, тем отчетливее вижу, что смирение присуще мне от природы.;x
+EVTDESCB_ZE_13021;Мне всегда было комфортнее не выставлять себя на передний план перед окружающими.;x
+EVTDESCC_ZE_13021;Чем больше я узнаю о жизни, тем яснее понимаю, что мудрее держаться подальше от опасности.;x
+EVTOPTA_ZE_13021;Гордыня опасна, она делает нас уязвимыми.;x
+EVTOPTB_ZE_13021;Зачем подставляться, если лучше действовать в тени?;x
+EVTOPTC_ZE_13021;Только дурак идёт на неоправданный риск.;x
+EVTDESCA_ZE_13022;Юн[From.GetAyaYy] [From.GetFirstName] развивает в себе невероятное смирение.;x
+EVTDESCB_ZE_13022;Трудно не заметить, что юн[From.GetAyaYy] [From.GetFirstName] избегает контакта с людьми и [From.GetHersHis] устраивает такое положение дел.;x
+EVTDESCC_ZE_13022;Юн[From.GetAyaYy] [From.GetFirstName] постоянно избегает риска и опасностей.;x
+EVTOPTA_ZE_13022;[From.GetSheHeCap] долж[From.GetNaEn] меньше заморачиваться.;x
+EVTOPTB_ZE_13022;Всё именно так, как и должно быть.;x
+timid_may_become_content;может получить черту §Yудовлетворённ[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13024;[From.GetTitledFirstName] говорит, что смирение - самообман. Нужно просто быть собой.;x
+EVTDESCB_ZE_13024;[From.GetTitledFirstName] говорит, что застенчивость мешает мне быть собой и не зависеть от окружающих.;x
+EVTDESCC_ZE_13024;[From.GetTitledFirstName] говорит, что страх - главный враг самопознания.;x
+EVTOPTA_ZE_13024;[From.GetSheHeCap] прав[From.GetEndA]. Я долж[Root.GetNaEn] отпустить это.;x
+EVTOPTB_ZE_13024;Но я так[Root.GetAyaOy] и есть.;x
+EVTOPTC_ZE_13024;Проще всего быть собой наедине с собой.;x
+EVTOPTD_ZE_13024;Зато осторожность - мой лучший друг.;x
+EVTDESCA_ZE_13031;Я всегда любил[Root.GetEndA] бегать, драться и лазить по деревьям. Сейчас, повзрослев, я понимаю, что стал[Root.GetEndA] сильнее других.;x
+EVTDESCB_ZE_13031;Я люблю прямоту и не выношу скользких формулировок. Кто-то говорит, что правда никому не нужна, но она освобождает и делает нас сильнее.;x
+EVTDESCC_ZE_13031;Когда играешь на природе, нет времени думать, надо действовать, иначе будет беда. Со мной всегда так было.;x
+EVTOPTA_ZE_13031;И мне это нравится!;x
+EVTOPTB_ZE_13031;Я всегда говорю то, что думаю.;x
+EVTOPTC_ZE_13031;А теперь уже поздно учиться.;x
+EVTDESCA_ZE_13032;Юн[From.GetAyaYy] [From.GetFirstName] физически развит[From.GetEndA] не по годам и любит спорт.;x
+EVTDESCB_ZE_13032;Юн[From.GetAyaYy] [From.GetFirstName] отличается честностью и прямолинейностью.;x
+EVTDESCC_ZE_13032;Юн[From.GetAyaYy] [From.GetFirstName] всё больше похож[From.GetEndA] на человека действия чем мыслителя, и это наиболее вежливый способ описать [From.GetHersHis]...;x
+EVTOPTA_ZE_13032;Пора научить [From.GetHersHis] храбрости.;x
+EVTOPTB_ZE_13032;[From.GetSheHeCap] [From.GetHerselfHimself] вершит свою судьбу.;x
+rowdy_may_become_brave;может получить черту §Yхрабр[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13034;[From.GetTitledFirstName] заметил[From.GetEndA], что я становлюсь сильнее, но говорит, что куда важнее быть храбр[Root.GetOyYm].;x
+EVTDESCB_ZE_13034;[From.GetTitledFirstName] уважает мою честность, но говорит, что настоящая храбрость - это нечто большее.;x
+EVTDESCC_ZE_13034;[From.GetTitledFirstName] говорит, что мои необдуманные действия ведут лишь к глупости и неудачам. Что мне следует набраться храбрости и взяться за ум.;x
+EVTOPTA_ZE_13034;Да, я хочу быть храбр[Root.GetOyYm], как [From.GetSheHe]!;x
+EVTOPTB_ZE_13034;Сила - это всё, что мне нужно.;x
+EVTOPTC_ZE_13034;Если честно, мне плевать.;x
+EVTOPTD_ZE_13034;О чём [From.GetSheHe] вообще?;x
+EVTDESCA_ZE_13041;Я много читал[Root.GetEndA] о великих исторических личностях, и однажды я хочу стать так[Root.GetOyIm], как они.;x
+EVTDESCB_ZE_13041;Я знаю, на что способ[Root.GetNaEn] и ничто не испугает меня.;x
+EVTDESCC_ZE_13041;Я понял[Root.GetEndA], что если никогда не сдаваться, всегда добьёшься своего.;x
+EVTOPTA_ZE_13041;Я стану велик[Root.GetOyIm].;x
+EVTOPTB_ZE_13041;Лишь преодолевая свой страх, мы движемся вперёд.;x
+EVTOPTC_ZE_13041;Да, я упрям[Root.GetAyaYy], и в этом моя сила.;x
+EVTDESCA_ZE_13042;[From.GetFirstName] становится амбициозн[From.GetOyYm] молод[From.GetOyYm] [From.GetManWoman]ой.;x
+EVTDESCB_ZE_13042;Юн[From.GetAyaYy] [From.GetFirstName] всё больше становится извест[From.GetNaEn] своей храбростью.;x
+EVTDESCC_ZE_13042;Юн[From.GetAyaYy] [From.GetFirstName] становится всё более упрям[From.GetOyYm].;x
+EVTOPTA_ZE_13042;[From.GetSheHeCap] долж[From.GetNaEn] гордиться собой.;x
+EVTOPTB_ZE_13042;[From.GetSheHeCap] никогда не станет так[From.GetOyIm], как я.;x
+willful_may_become_proud;может получить черту §Yвысокомерн[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13044;[From.GetTitledFirstName] говорит, что амбиции - это хорошо, но мне следует гордиться тем, как[Root.GetAyaOy] я есть.;x
+EVTDESCB_ZE_13044;[From.GetTitledFirstName] похвалил[From.GetEndA] меня за храбрость. [From.GetSheHeCap] считает, что я долж[Root.GetNaEn] гордиться собой.;x
+EVTDESCC_ZE_13044;[From.GetTitledFirstName] считает, что я долж[Root.GetNaEn] гордиться своей твёрдостью и целеустремлённостью.;x
+EVTOPTA_ZE_13044;[From.GetSheHeCap] прав[From.GetEndA]. Мне есть чем гордиться!;x
+EVTOPTB_ZE_13044;Но этого мало!;x
+EVTOPTC_ZE_13044;Еще рано, впереди столько свершений!;x
+EVTOPTD_ZE_13044;Спасибо, но я [Root.GetHerselfHimself] решу, что мне делать.;x
+EVTDESCA_ZE_13051;Чем больше я думаю об этом, тем яснее вижу, что справедливость - единственное, за что стоит сражаться.;x
+EVTDESCB_ZE_13051;Как же меня всё бесит...;x
+EVTDESCC_ZE_13051;Чем чаще я думаю об этом, тем яснее понимаю, что другим больше повезло в жизни.;x
+EVTOPTA_ZE_13051;Именно этим, мы отделяем себя от диких зверей.;x
+EVTOPTB_ZE_13051;Иногда, это просто невыносимо!;x
+EVTOPTC_ZE_13051;Всё должно быть моим.;x
+EVTDESCA_ZE_13052;Юн[From.GetAyaYy] [From.GetFirstName] постоянно думает об исправлении ошибок общества, правде и справедливости.;x
+EVTDESCB_ZE_13052;Я заметил[Root.GetEndA], что юн[From.GetAyaYy] [From.GetFirstName] временами не способ[From.GetNaEn] совладать со своим гневом.;x
+EVTDESCC_ZE_13052;Юн[From.GetAyaYy] [From.GetFirstName] никак не может успокоиться, [From.GetSheHe] завидует всем вокруг.;x
+EVTOPTA_ZE_13052;[From.GetHerHimCap] следует научиться умеренности.;x
+EVTOPTB_ZE_13052;Я долж[Root.GetNaEn] умерить своё стремление менять [From.GetHersHis] жизнь.;x
+brooding_may_become_temperate;может получить черту §Yумеренн[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13054;[From.GetTitledFirstName] считает, что мне следует умерить свои несбыточные мечты о правде и справедливости в этом мире.;x
+EVTDESCB_ZE_13054;[From.GetTitledFirstName] считает, что важно научиться сдерживать свой гнев.;x
+EVTDESCC_ZE_13054;[From.GetTitledFirstName] говорит, что мне бы не помешало обуздать свою зависть, пока она не отравила мою жизнь.;x
+EVTOPTA_ZE_13054;[From.GetSheHeCap] прав[From.GetEndA], всему есть разумные пределы.;x
+EVTOPTB_ZE_13054;Наше бездействие позволяет злу торжествовать.;x
+EVTOPTC_ZE_13054;Да пош[From.GetLaYol] [From.GetSheHe]!;x
+EVTOPTD_ZE_13054;[From.GetHerHimCap] легко говорить!;x
+EVTDESCA_ZE_13061;С некоторомы вещами столько мороки, куда проще отдать их другим.;x
+EVTDESCB_ZE_13061;В мире столько бесполезного, так зачем же тратить усилия?;x
+EVTDESCC_ZE_13061;Я считаю, что нет ничего в жизни лучшего, чем наслаждение вкусом изысканных блюд. Есть ещё столько всего, что я не успел[Root.GetEndA] попробовать.;x
+EVTOPTA_ZE_13061;Накопление выматывает нас.;x
+EVTOPTB_ZE_13061;И это можно сказать почти обо всех занятиях.;x
+EVTOPTC_ZE_13061;Один раз ведь живём.;x
+EVTDESCA_ZE_13062;Юн[From.GetAyaYy] [From.GetFirstName] склон[From.GetNaEn] делиться всем, что имеет с другими.;x
+EVTDESCB_ZE_13062;Юн[From.GetAyaYy] [From.GetFirstName] становится всё более и более ленив[From.GetOyYm].;x
+EVTDESCC_ZE_13062;Юн[From.GetAyaYy] [From.GetFirstName] никогда не прекращает есть, это уже похоже на одержимость.;x
+EVTOPTA_ZE_13062;[From.GetHerHimCap] нужно больше общаться с людьми.;x
+EVTOPTB_ZE_13062;Но, что тут поделаешь?;x
+indolent_may_become_gregarious;может получить черту §Yобщительн[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13064;[From.GetTitledFirstName] говорит, что иногда люди гораздо больше ценят общение, чем материальные блага.;x
+EVTDESCB_ZE_13064;[From.GetTitledFirstName] говорит, что общение с людьми может облегчить мою жизнь и сделать её увлекательнее.;x
+EVTDESCC_ZE_13064;[From.GetTitledFirstName] думает, что я столько ем, потому что мне попросту нечем больше заняться, и если бы я чаще обща[Root.GetLasLsya] с людьми, это сделало бы меня лучше.;x
+EVTOPTA_ZE_13064;Ну хорошо, стоит попробовать!;x
+EVTOPTB_ZE_13064;Но люди напрягают ничуть не меньше чем лишние вещи.;x
+EVTOPTC_ZE_13064;Но мне лень.;x
+EVTOPTD_ZE_13064;Люди не любят, когда говорят с набитым ртом.;x
+EVTDESCA_ZE_13071;Я люблю играть, а играть всегда интереснее с другими людьми.;x
+EVTDESCB_ZE_13071;Я всегда любил[Root.GetEndA] игры, но увлекательнее всего - играть судьбами других людей.;x
+EVTDESCC_ZE_13071;Вся наша жизнь - одна большая игра. С каждым днём, я всё больше понимаю, что в мире нет ничего реального, только игры с нашим воображением.;x
+EVTOPTA_ZE_13071;И людям это нравится.;x
+EVTOPTB_ZE_13071;И дёргать за ниточки.;x
+EVTOPTC_ZE_13071;Мир сделан из пыльцы фей!;x
+EVTDESCA_ZE_13072;Юн[From.GetAyaYy] [From.GetFirstName] обладает естественной способностью привлекать других людей.;x
+EVTDESCB_ZE_13072;Юн[From.GetAyaYy] [From.GetFirstName] всё больше превращается в коварного манипулятора.;x
+EVTDESCC_ZE_13072;Юн[From.GetAyaYy] [From.GetFirstName] настолько заигра[From.GetLasLsya], что перестал[From.GetEndA] адекватно воспринимать реальность и свои поступки в ней.;x
+EVTOPTA_ZE_13072;Я выбью эту дурь из н[From.GetHersHis]!;x
+EVTOPTB_ZE_13072;Уверен[Root.GetEndA], это [From.GetHerHim] ещё аукнется.;x
+playful_may_become_cruel;может получить черту §Yжесток[From.GetAyaIy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13074;[From.GetTitledFirstName] на дух не переносит мою общительную натуру и даже бьёт меня за это.;x
+EVTDESCB_ZE_13074;[From.GetTitledFirstName] постоянно бьёт меня. Говорит, что я - подлая скользкая тварь, которой следует больше уважать других людей.;x
+EVTDESCC_ZE_13074;[From.GetTitledFirstName] регулярно бьёт меня. Говорит, что я странн[Root.GetAyaYy] и долж[Root.GetNaEn] повзрослеть, чтобы уяснить, насколько жесток реальный мир.;x
+EVTOPTA_ZE_13074;Когда-нибудь я покажу вам всем...;x
+EVTOPTB_ZE_13074;Я всем расскажу об этом.;x
+EVTOPTC_ZE_13074;Cделаю так, чтобы [From.GetSheHe] поверил[From.GetEndA], что это [From.GetHerHim] удалось.;x
+EVTOPTD_ZE_13074;Но я же невидим[Root.GetAyaYy], как [From.GetSheHe] наш[From.GetLaYol] меня?;x
+EVTDESCA_ZE_13081;Я стараюсь никогда не оставлять незавершённых дел и выполняю их, как следует. Иногда даже приходится исправлять и доделывать за кем-то другим.;x
+EVTDESCB_ZE_13081;Очень важно всё делать правильно, а для этого нужно во всём знать меру.;x
+EVTOPTA_ZE_13081;Люблю, когда всё сделано, как надо.;x
+EVTOPTB_ZE_13081;Самоконтроль - первый шаг к величию.;x
+EVTDESCA_ZE_13082;Юн[From.GetAyaYy] [From.GetFirstName] всегда пол[From.GetNaOn] энергии, когда видит перед собой поставленную задачу или незаконченное дело.;x
+EVTDESCB_ZE_13082;Юн[From.GetAyaYy] [From.GetFirstName] впечатляет всех своим благоразумием и выдержкой, [From.GetSheHe] всегда ставит интересы дела выше своих собственных.;x
+EVTOPTA_ZE_13082;[From.GetSheHeCap] долж[From.GetNaEn] использовать это во благо.;x
+EVTOPTB_ZE_13082;Жизнь наградит [From.GetHersHis].;x
+conscientious_may_become_just;может получить черту §Yсправедлив[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13084;[From.GetTitledFirstName] думает, что мне следует направить свою страсть к порядку на стремление к справедливости.;x
+EVTDESCB_ZE_13084;[From.GetTitledFirstName] хвалит меня за благоразумие и выдержку. [From.GetSheHeCap] рекомендует мне использовать эти качества для развития чувства справедливости.;x
+EVTOPTA_ZE_13084;Мудрый совет.;x
+EVTOPTB_ZE_13084;Я и так знаю, что мне делать.;x
+EVTOPTC_ZE_13084;Мне кажется, это уже перебор.;x
+EVTDESCA_ZE_13091;Люблю, когда всё правильно и на своих местах. Иногда я готов[Root.GetEndA] тратить массу времени, пока не добьюсь этого.;x
+EVTDESCB_ZE_13091;Я люблю следить за вещами, трогать их, перекладывать, считать. Особенно, монеты...;x
+EVTDESCC_ZE_13091;Я знаю, каким всё должно быть, но боюсь другие постоянно пытаются мне помешать.;x
+EVTOPTA_ZE_13091;Торопиться некуда.;x
+EVTOPTB_ZE_13091;Они прекрасны.;x
+EVTOPTC_ZE_13091;Нужно быть начеку.;x
+EVTDESCA_ZE_13092;Юн[From.GetAyaYy] [From.GetFirstName] не выносит, когда вещи имеют изъяны или находятся в беспорядке. [From.GetSheHeCap] проводит большую часть времени в контроле за совершенством.;x
+EVTDESCB_ZE_13092;Юн[From.GetAyaYy] [From.GetFirstName] любит красивые и дорогие вещи, перебирает их, сортирует, расставляет. [From.GetHerHimCap] всегда их мало, и кажется, эта страсть никогда не утихнет.;x
+EVTDESCC_ZE_13092;Юн[From.GetAyaYy] [From.GetFirstName] одержим[From.GetEndA] порядком в собственных вещах и делах. [From.GetSheHeCap] панически боится, что кто-то его нарушит.;x
+EVTOPTA_ZE_13092;Я долж[Root.GetNaEn] направить [From.GetHersHis] в правильное русло.;x
+EVTOPTB_ZE_13092;[From.GetSheHeCap] просто занят[From.GetEndA] своим делом.;x
+fussy_may_become_diligent;может получить черту §Yусердн[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13094;[From.GetTitledFirstName] одобряет моё терпение, но считает, что его следует направить на достижение новых целей.;x
+EVTDESCB_ZE_13094;[From.GetTitledFirstName] одобряет мою тягу к прекрасному, но считает, что создание чего-то нового принесёт мне больше радости, нежели обычное накопительство.;x
+EVTDESCC_ZE_13094;[From.GetTitledFirstName] говорит, что хорошо иметь сильные убеждения, но лучше направить их на достижение своих целей, чем на беспокойство о других.;x
+EVTOPTA_ZE_13094;Я хочу стать так[Root.GetOyIm], как [From.GetSheHe].;x
+EVTOPTB_ZE_13094;К чему спешить? Цели появятся, когда-нибудь...;x
+EVTOPTC_ZE_13094;Но я ведь могу оставить всё это себе, да?;x
+EVTOPTD_ZE_13094;Но они наверняка мне помешают...;x
+EVTDESCA_ZE_13101;Думая о многих вещах, я приш[Root.GetLaYol] к выводу, что этот мир устроен вовсе не так, как утверждают священослужители.;x
+EVTDESCB_ZE_13101;Есть некоторые среди моих знакомых, которые придерживаются совсем других традиций, [Root.GetReligionFullName] для них является чем-то чуждым. Мне стало любопытно, и я поговорил[Root.GetEndA] с ними об этом. Теперь их верования вовсе не кажутся мне странными.;x
+EVTDESCC_ZE_13101;Меня всегда интересовало, как устроен мир, я много думал[Root.GetEndA] об этом и теперь понял[Root.GetEndA], как мало я знаю, и сколько всего нового могу изучить...;x
+EVTOPTA_ZE_13101;Лжецы!;x
+EVTOPTB_ZE_13101;Всем нам есть чему поучиться друг у друга.;x
+EVTOPTC_ZE_13101;Учиться - это так здорово!;x
+EVTDESCA_ZE_13102;Юн[From.GetAyaYy] [From.GetFirstName] имеет собственное мнение по очень многим вопросам, в частности, [From.GetSheHe] совершенно не уважает авторитет священников.;x
+EVTDESCB_ZE_13102;Юн[From.GetAyaYy] [From.GetFirstName] проявляет повышенный интерес к чужим традиями и верованиям. [From.GetSheHeCap] отказывается признавать, что [From.GetReligionFullName] - единственное истинное учение.;x
+EVTDESCC_ZE_13102;Юн[From.GetAyaYy] [From.GetFirstName] всё больше увлекается исследованием окружающего мира, постоянно находит какие-то новые идеи, эксперименты и области знаний, которые время от времени полностью захватывают [From.GetHersHis] разум.;x
+EVTOPTA_ZE_13102;Надо остановить [From.GetHersHis], пока не поздно.;x
+curious_may_become_patient;может получить черту §Yтерпелив[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13104;[From.GetTitledFirstName] считает, что мне следует сдерживать свой цинизм в отношении священников, хотя бы из соображений личной выгоды и успеха.;x
+EVTDESCB_ZE_13104;Мне очень нравится изучать чужеземные обычаи, но [From.GetTitledFirstName] считает, что мне следует помнить об угрозе навредить нашей вере и научиться сдерживать своё любопытство.;x
+EVTDESCC_ZE_13104;[From.GetTitledFirstName] говорит, что на фоне других мой ум делает меня слишком странн[Root.GetOyYm], не стоит этим отделять себя от людей, иначе я всегда буду одинок[Root.GetEndA]. Что иногда надо терпеть общество людей ради успеха в жизни.;x
+EVTOPTA_ZE_13104;[From.GetSheHeCap] прав[From.GetEndA], меня возненавидят.;x
+EVTOPTB_ZE_13104;Сдерживай, не сдерживай, они-то всё равно идиоты.;x
+EVTOPTC_ZE_13104;Что это за вера такая, раз она запрещает познание?;x
+EVTOPTD_ZE_13104;Но я хочу знаний, а не одобрения от дураков.;x
+EVTDESCA_ZE_13111;Чем старше я становлюсь, тем яснее понимаю, что [Root.GetReligionFullName] - мой главный духовный стержень.;x
+EVTDESCB_ZE_13111;Мне всегда впечатляли слова древних мудрецов. Я хочу стать, как они, изучать их великие труды.;x
+EVTDESCC_ZE_13111;Меня так увлекали достижения других, что я даже забыл[Root.GetEndA] заняться собственным телом.;x
+EVTOPTA_ZE_13111;Я - ничто без своей веры.;x
+EVTOPTB_ZE_13111;Истинная сила в знании.;x
+EVTOPTC_ZE_13111;Да и куда уж мне до них.;x
+EVTDESCA_ZE_13112;Юн[From.GetAyaYy] [From.GetFirstName] становится всё более набожн[From.GetOyYm].;x
+EVTDESCB_ZE_13112;Юн[From.GetAyaYy] [From.GetFirstName] частенько ссылается на великих мыслителей прошлого и хочет стать похож[From.GetEyIm] на них.;x
+EVTDESCC_ZE_13112;Юн[From.GetAyaYy] [From.GetFirstName] думает только о других и совсем забыл[From.GetEndA] о себе. Это яснее всего видно в том, насколько слабым стало [From.GetHersHis] тело по мере взросления.;x
+EVTOPTA_ZE_13112;[From.GetSheHeCap] долж[Root.GetNaEn] сосредоточиться на помощи другим.;x
+EVTOPTB_ZE_13112;Как[From.GetAyaOy] хорош[From.GetAyaIy] [From.GetLadLass].;x
+idolizer_may_become_kind;может получить черту §Yдобр[From.GetAyaYy]§!.;x #§Y[From.GetFirstName]§! 
+EVTDESCA_ZE_13114;[From.GetTitledFirstName] утверждает, что служение высшей силе больше всего проявляется вовсе не в молитвах и церемониях, но в любви к ближнему.;x
+EVTDESCB_ZE_13114;[From.GetTitledFirstName] говорит, что великих мыслителей прошлого давно уже нет с нами, но есть масса людей вокруг, нуждающихся в нашей помощи прямо здесь и сейчас.;x
+EVTDESCC_ZE_13114;[From.GetTitledFirstName] говорит, что я не смогу помочь другим, если [Root.GetHerselfHimself] буду слаб[Root.GetEndA]. Люди не нуждаются в почитании, им нужна реальная поддержка.;x
+EVTOPTA_ZE_13114;[From.GetSheHeCap] прав[From.GetEndA].;x
+EVTOPTB_ZE_13114;Не ничего важнее [Root.GetReligionHighGodGEN]!;x
+EVTOPTC_ZE_13114;Люди приходят и уходят, но мудрость живёт в веках.;x
+EVTOPTD_ZE_13114;Я в порядке.;x
+EVTDESCA_ZE_14100;Я только что закончил[Root.GetEndA] своё дипломатическое образование. Отмечу, что занятия были весьма утомительны.;x
+EVTDESCB_ZE_14100;Я только что закончил[Root.GetEndA] своё дипломатическое образование. Это было так интересно!;x
+EVTDESCC_ZE_14100;Я только что закончил[Root.GetEndA] своё дипломатическое образование. У меня явно талант к этому.;x
+EVTDESCD_ZE_14100;Я только что закончил[Root.GetEndA] своё дипломатическое образование, и чувствую, что наш[Root.GetLaYol] своё призвание.;x
+EVTOPTA_ZE_14100;Говорите откровенно, и вас полюбят.;x
+EVTOPTB_ZE_14100;Ненавидеть врагов опасно, это влияет на суждения.;x
+EVTOPTC_ZE_14100;Говорите мягко, но с увесистой дубиной в руках.;x
+EVTOPTD_ZE_14100;Лучший способ сдержать слово - не давать его.;x
+EVTDESCA_ZE_14110;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] дипломатическое образование. Но [From.GetHersHis] успехи были не слишком впечатляющими.;x
+EVTDESCB_ZE_14110;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] дипломатическое образование. Похоже, [From.GetSheHe] приобрел[From.GetEndA] все необходимые навыки.;x
+EVTDESCC_ZE_14110;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] дипломатическое образование. Очевидно, [From.GetSheHe] весьма преуспел[From.GetEndA] в этой области.;x
+EVTDESCD_ZE_14110;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] дипломатическое образование. И я могу с гордостью заявить, что [From.GetSheHe] достиг[From.GetNoneE] высшего уровня в этой специальности.;x
+EVTOPTA_ZE_14110;Ну это не так уж плохо.;x
+EVTOPTB_ZE_14110;Очень хорошо.;x
+EVTOPTC_ZE_14110;Это прекрасно!;x
+EVTDESCA_ZE_14200;Я только что закончил[Root.GetEndA] своё военное образование. Отмечу, что занятия были весьма утомительны.;x
+EVTDESCB_ZE_14200;Я только что закончил[Root.GetEndA] своё военное образование. Это было так интересно!;x
+EVTDESCC_ZE_14200;Я только что закончил[Root.GetEndA] своё военное образование. У меня явно талант к этому.;x
+EVTDESCD_ZE_14200;Я только что закончил[Root.GetEndA] своё военное образование. И чувствую, что наш[Root.GetLaYol] своё призвание.;x
+EVTOPTA_ZE_14200;Смелость - всё, что нужно воину.;x
+EVTOPTB_ZE_14200;Знай своего врага.;x
+EVTOPTC_ZE_14200;Умнее использовать силу противника против него.;x
+EVTOPTD_ZE_14200;Война - лишь продолжение политики.;x
+EVTDESCA_ZE_14210;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] военное образование. Но [From.GetHersHis] успехи были не слишком впечатляющими.;x
+EVTDESCB_ZE_14210;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] военное образование. Похоже, [From.GetSheHe] приобрел[From.GetEndA] все необходимые навыки.;x
+EVTDESCC_ZE_14210;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] военное образование. Очевидно, [From.GetSheHe] весьма преуспел[From.GetEndA] в этой области.;x
+EVTDESCD_ZE_14210;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] военное образование. И я могу с гордостью заявить, что [From.GetSheHe] достиг[From.GetNoneE] высшего уровня в этой специальности.;x
+EVTDESCA_ZE_14300;Я только что закончил[Root.GetEndA] своё экономическое образование. Отмечу, что занятия были весьма утомительны.;x
+EVTDESCB_ZE_14300;Я только что закончил[Root.GetEndA] своё экономическое образование. Это было так интересно!;x
+EVTDESCC_ZE_14300;Я только что закончил[Root.GetEndA] своё экономическое образование. У меня явно талант к этому.;x
+EVTDESCD_ZE_14300;Я только что закончил[Root.GetEndA] своё экономическое образование, и чувствую, что наш[Root.GetLaYol] своё призвание.;x
+EVTOPTA_ZE_14300;Это невероятно сложно.;x
+EVTOPTB_ZE_14300;Снижать расходы эффективнее чем повышать доходы.;x
+EVTOPTC_ZE_14300;Накопление увеличивает потенциал прибыли.;x
+EVTOPTD_ZE_14300;Богатство служит мудрому и помыкает глупцом.;x
+EVTDESCA_ZE_14310;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] экономическое образование. Но [From.GetHersHis] успехи были не слишком впечатляющими.;x
+EVTDESCB_ZE_14310;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] экономическое образование. Похоже, [From.GetSheHe] приобрел[From.GetEndA] все необходимые навыки.;;x
+EVTDESCC_ZE_14310;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] экономическое образование. Очевидно, [From.GetSheHe] весьма преуспел[From.GetEndA] в этой области.;x
+EVTDESCD_ZE_14310;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] экономическое образование. И я могу с гордостью заявить, что [From.GetSheHe] достиг[From.GetNoneE] высшего уровня в этой специальности.;x
+EVTDESCA_ZE_14400;Я только что закончил[Root.GetEndA] своё шпионское образование. Отмечу, что занятия были весьма утомительны.;x
+EVTDESCB_ZE_14400;Я только что закончил[Root.GetEndA] своё шпионское образование. Это было так интересно!;x
+EVTDESCC_ZE_14400;Я только что закончил[Root.GetEndA] своё шпионское образование. У меня явно талант к этому.;x
+EVTDESCD_ZE_14400;Я только что закончил[Root.GetEndA] своё шпионское образование, и чувствую, что наш[Root.GetLaYol] своё призвание.;x
+EVTOPTA_ZE_14400;Коварство прикрывается честью.;x
+EVTOPTB_ZE_14400;Никогда не мешай врагу совершать ошибки.;x
+EVTOPTC_ZE_14400;Покорить врага без боя - вот истинное искусство.;x
+EVTOPTD_ZE_14400;То, что нельзя предотвратить, можно использовать.;x
+EVTDESCA_ZE_14410;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] шпионское образование. Но [From.GetHersHis] успехи были не слишком впечатляющими.;x
+EVTDESCB_ZE_14410;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] шпионское образование. Похоже, [From.GetSheHe] приобрел[From.GetEndA] все необходимые навыки.;x
+EVTDESCC_ZE_14410;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] шпионское образование. Очевидно, [From.GetSheHe] весьма преуспел[From.GetEndA] в этой области.;x
+EVTDESCD_ZE_14410;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] шпионское образование. И я могу с гордостью заявить, что [From.GetSheHe] достиг[From.GetNoneE] высшего уровня в этой специальности.;x
+EVTDESCA_ZE_14500;Я только что закончил[Root.GetEndA] своё религиозное образование. Отмечу, что занятия были весьма утомительны.;x
+EVTDESCB_ZE_14500;Я только что закончил[Root.GetEndA] своё религиозное образование. Это было так интересно!;x
+EVTDESCC_ZE_14500;Я только что закончил[Root.GetEndA] своё религиозное образование. У меня явно талант к этому.;x
+EVTDESCD_ZE_14500;Я только что закончил[Root.GetEndA] своё религиозное образование, и чувствую, что наш[Root.GetLaYol] своё призвание.;x
+EVTOPTA_ZE_14500;Учение - это борьба со скукой.;x
+EVTOPTB_ZE_14500;Мир - это открытая книга.;x
+EVTOPTC_ZE_14500;Учение никогда не истощает разум.;x
+EVTOPTD_ZE_14500;Комната без книги, как тело без души.;x
+EVTDESCA_ZE_14510;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] религиозное образование. Но [From.GetHersHis] успехи были не слишком впечатляющими.;x
+EVTDESCB_ZE_14510;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] религиозное образование. Похоже, [From.GetSheHe] приобрел[From.GetEndA] все необходимые навыки.;x
+EVTDESCC_ZE_14510;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] религиозное образование. Очевидно, [From.GetSheHe] весьма преуспел[From.GetEndA] в этой области.;x
+EVTDESCD_ZE_14510;Юн[From.GetAyaYy] [From.GetFirstName] только что получил[From.GetEndA] религиозное образование. И я могу с гордостью заявить, что [From.GetSheHe] достиг[From.GetNoneE] высшего уровня в этой специальности.;x
+mysterious_charm;Таинственное очарование;x
+mysterious_charm_desc;Эт[GetEtaEtot] [GetAgedPerson] неразговорчив[GetEndA], но в н[GetEyYom] явно есть что-то интересное и загадочное...;x
+EVTDESCA_ZE_12010;Я видел[Root.GetEndA], как [affectionate_events_char_1.GetFirstName] смотрит на мои новые деревянные игрушки.;x
+EVTDESCB_ZE_12010;Нянек нет поблизости, и я шата[Root.GetLasLsya] по окрестностям, пока [affectionate_events_char_1.GetTitledFirstName] не встретил[affectionate_events_char_1.GetEndA] меня. [affectionate_events_char_1.GetSheHeCap] заговорил[affectionate_events_char_1.GetEndA] со мной перв[affectionate_events_char_1.GetOyYm].;x
+EVTDESCC_ZE_12010;Сегодня я опять играл[Root.GetEndA] на свежем воздухе, и как обычно, решил[Root.getEndA] сделать перерыв, чтобы перекусить. Развернув взятый с собой кусок хлеба, я увидел[Root.GetEndA], как какой-то бедный крестьянский мальчик смотрит на него, похоже, он очень голодный.;x
+EVTOPTA_ZE_12010;Пусть поиграет с ними, если хочет.;x
+EVTOPTB_ZE_12010;Да, мои игрушки лучше чем у н[affectionate_events_char_1.GetHersHis].;x
+EVTOPTC_ZE_12010;Я поговорю с н[affectionate_events_char_1.GetEyIm].;x
+EVTOPTD_ZE_12010;Я стесняюсь.;x
+EVTOPTE_ZE_12010;Хочешь есть? Вот, держи.;x
+EVTOPTF_ZE_12010;Пора уходить, пока он не украл мою еду.;x
+EVTOPTE_ZE_12010_TOOLTIP1;Вы совершите хороший поступок.;x
+EVTOPTE_ZE_12010_TOOLTIP2;Вы совершите хороший поступок, но кто-нибудь это заметит...;x
+EVTDESCA_ZE_12012;[From.GetFirstName] предложил[From.GetEndA] мне поиграть с [From.GetHersHis] игрушками. У н[From.GetHersHis] они гораздо лучше чем у меня.;x
+EVTDESCB_ZE_12012;[From.GetFirstName] сегодня играл[From.GetEndA] со своими новыми игрушками. Они такие классные, я тоже такие хочу, но [From.GetSheHe] сказал[From.GetEndA], что ни за что не даст мне поигратьс ними.;x
+EVTDESCC_ZE_12012;Юн[From.GetAyaYy] [From.GetTitledFirstName] сегодня встрети[From.GetLasLsya] мне на прогулке, и мы разговорились. Беседа была весьма интересной, мы обсудили многие вещи вместе.;x
+EVTDESCD_ZE_12012;Юн[From.GetAyaYy] [From.GetTitledFirstName] сегодня встрети[From.GetLasLsya] мне на прогулке, и я поприветствовал[Root.GetEndA] [From.GetHersHis], но [From.GetSheHe] не смог[From.GetNoneE] вымолвить и слова, а потом и вовсе убежал[From.GetEndA]...;x
+EVTOPTA_ZE_12012;Ура, спасибо!;x
+EVTOPTB_ZE_12012;Но они твои, играй с ними [From.GetHerselfHimself]!;x
+EVTOPTC_ZE_12012;Я ненавижу [From.GetHersHis]!;x
+EVTOPTD_ZE_12012;Как мило!;x
+EVTOPTE_ZE_12012;Ну и проваливай, козявка!;x
+EVTOPTF_ZE_12012;Странный ребёнок.;x
+EVTDESCA_ZE_12014;[From.GetFirstName] и я целый день играли с моими игрушками.;x
+EVTDESCB_ZE_12014;[From.GetTitledFirstName] и я долго разговаривали. [From.GetSheHeCap] рассказал[From.GetEndA] мне много интересного, было весело, мы отлично провели время.;x
+EVTDESCC_ZE_12014;Вы поделились хлебом с голодным ребёнком, а потом поиграли вместе пару часов. Когда пришло время расходитсья, он помахал Вам на прощание.;x
+EVTDESCD_ZE_12014;Вы поделились хлебом с голодным ребёнком, а потом немного поиграли вместе, но няньки вернулись и прервали вас. Они очень злились и пообещали, что [Educator.GetTitledFirstName] обязательно узнает, что Вы плохо себя вели.;x
+EVTOPTA_ZE_12014;Делить радость с другими так приятно.;x
+EVTOPTB_ZE_12014;Потом поиграем ещё?;x
+EVTOPTC_ZE_12014;Хорошо, когда есть друзья.;x
+EVTOPTD_ZE_12014;Увидимся завтра!;x
+EVTOPTE_ZE_12014;Было весело!;x
+EVTOPTF_ZE_12014;Но он - мой друг!;x
+EVTDESCA_ZE_12016;[From.GetFirstName] дал[From.GetEndA] мне поиграть с [From.GetHersHis] игрушками весь день и это было здорово.;x
+EVTDESCB_ZE_12016;[From.GetFirstName] и я долго разговаривали о разных вещах. Было весело. Похоже, мы стали друзьями.;x
+EVTOPTA_ZE_12016;Давай, поиграем потом ещё!;x
+EVTOPTB_ZE_12016;Какой милый ребёнок.;x
+EVTDESCA_ZE_12020;Проходя по коридору, я услышал[Root.GetEndA] крики в холле: "Что скажет [Root.Liege.GetTitle], когда узнает, что Вы крали еду из [Root.Liege.GetHersHis] личной кладовой? Чем Вы вообще думали?!" — [timid_events_char_1.GetTitledFirstName] выслушивал[timid_events_char_1.GetEndA] публичные обвинения, не в силах возразить. Но я знаю, что [timid_events_char_1.GetSheHe] не мог[timid_events_char_1.GetNoneE] ничего украсть, [timid_events_char_1.GetHersHis] там вообще не было.;x
+EVTDESCB_ZE_12020;Мне нравится [timid_events_char_1.GetFirstName], [timid_events_char_1.GetSheHe] классн[timid_events_char_1.GetAyaYy]. Может позвать [timid_events_char_1.GetHersHis] поиграть?;x
+EVTDESCC_ZE_12020;Сегодня большой праздничный ужин, приглашено много важных людей, и мне сказали, что я долж[Root.GetNaEn] спеть для них.;x
+EVTOPTA_ZE_12020;Всё равно никто меня не послушает...;x
+EVTOPTB_ZE_12020;Я долж[Root.GetNaEn] поговорить с н[timid_events_char_1.GetEyIm]!;x
+EVTOPTC_ZE_12020;Подожду немного, пусть [timid_events_char_1.GetSheHe] подойдёт...;x
+EVTOPTD_ZE_12020;Да!;x
+EVTOPTE_ZE_12020;Ни за что!;x
+EVTOPTF_ZE_12020;Ладно, спою. Пора разделаться с этим.;x
+EVTOPTE_ZE_12020_TOOLTIP1;Гости развлекутся.;x
+EVTOPTE_ZE_12020_TOOLTIP2;Гости обидятся.;x
+EVTDESCA_ZE_12022;Мне обвинили в краже еды из личных запасов нашего сюзерена. Я знаю, что юн[From.GetAyaYy] [From.GetFirstName] может подтвердить, что меня не было там, но [From.GetSheHe] побоя[From.GetLasLsya] выступить в пользу моей невиновности.;x
+EVTDESCB_ZE_12022;Мне обвинили в краже еды из личных запасов нашего сюзерена, но юн[From.GetAyaYy] [From.GetFirstName] услышал[From.GetEndA] это и выступил[From.GetEndA] в мою защиту, рассказав, что видел[From.GetEndA] меня в это время в другом месте.;x
+EVTDESCC_ZE_12022;Похоже, [From.GetFirstName] что-то хочет от меня, но никак не может подойти и спросить.;x
+EVTDESCD_ZE_12022;[From.GetFirstName] подош[From.GetLaYol] ко мне и сказал[From.GetEndA], что хочет подружиться.;x
+EVTOPTA_ZE_12022;Мелкое отродье!;x
+EVTOPTB_ZE_12022;Что поделать, если ребёнок стесняется...;x
+EVTOPTC_ZE_12022;Молодец!;x
+EVTOPTD_ZE_12022;Я поговорю с н[From.GetEyIm].;x
+EVTOPTE_ZE_12022;Чего это [From.GetSheHe] устави[From.GetLasLsya]? Это бесит!;x
+EVTOPTF_ZE_12022;Как мило!;x
+EVTDESCA_ZE_12024;[From.GetTitledFirstName] злится на меня за то, что я не выступил[Root.GetEndA] в [From.GetHersHis] защиту.;x
+EVTDESCB_ZE_12024;[From.GetFirstName] подош[From.GetLaYol] ко мне и сказал[From.GetEndA], что хочет подружиться.;x
+EVTDESCC_ZE_12024;Смех прокатился по залу, когда гостям сказали, что я отказа[Root.GetLasLsya] петь. Некоторые даже подозвали меня, чтобы угостить конфеткой.;x
+EVTDESCD_ZE_12024;Гости очень обиделись, когда услышали, что я отказа[Root.GetLasLsya] петь для них.;x
+EVTOPTA_ZE_12024;Но я-то тут при чём?;x
+EVTOPTB_ZE_12024;Ещё не поздно, я всё расскажу!;x
+EVTOPTC_ZE_12024;Ну... Я не могу, мне пора.;x
+EVTOPTD_ZE_12024;Конечно, давай поиграем!;x
+EVTOPTE_ZE_12024;Хорошо, что это кончилось.;x
+EVTOPTF_ZE_12024;Мне всё равно.;x
+EVTDESCA_ZE_12026;Из-за того, что [From.GetFirstName] отказа[From.GetLasLsya] защитить мою честь, многие считают, что я - вор. Моя репутация при дворе безнадёжно испорчена.;x
+EVTDESCB_ZE_12026;[From.GetFirstName] всё-таки в последний момент вмеша[From.GetLasLsya] в разговор и рассказал[From.GetEndA] всё, что видел[From.GetEndA], тем самым защитив мою честь.;x
+EVTOPTA_ZE_12026;Я [From.GetHerHim] это припомню.;x
+EVTOPTB_ZE_12026;Нужна смелось, чтобы выступить перед взрослыми.;x
+EVTDESCA_ZE_12030;[rowdy_events_char_1.GetFirstName] вечно меня задирает. Думаю, [rowdy_events_char_1.GetSheHe] пытается победить меня только, чтобы унизить!;x
+EVTDESCB_ZE_12030;Есть столько весёлых вещей, которые можно попробовать. Захочет ли [rowdy_events_char_1.GetFirstName] пошалить со мной?;x
+EVTOPTA_ZE_12030;Я велю [rowdy_events_char_1.GetHerHim] остановиться!;x
+EVTOPTA_ZE_12030_TOOLTIP1;Дело обострится...\n;x
+EVTOPTB_ZE_12030;Не важно, пусть [rowdy_events_char_1.GetSheHe] победит.;x
+EVTOPTC_ZE_12030;Я попрошу [rowdy_events_char_1.GetHersHis]!;x
+EVTOPTD_ZE_12030;А может лучше поиграть в кости?;x
+EVTDESCA_ZE_12032;[From.GetFirstName] злится на меня за то, что я постоянно обыгрываю [From.GetHersHis] во всём.;x
+EVTDESCB_ZE_12032;Похоже, [From.GetFirstName] решил[From.GetEndA] смириться с тем, что я побеждаю в играх.;x
+EVTDESCC_ZE_12032;[From.GetFirstName] предлагает вместе пошалить, что в [From.GetHersHis] случае означает, подшутить над кем-то, нарушить правила и всё такое.;x
+EVTDESCD_ZE_12032;[From.GetFirstName] предлагает мне поиграть в кости.;x
+EVTOPTA_ZE_12032;Не нравится, пусть проваливает!;x
+EVTOPTB_ZE_12032;Лучше не общаться с н[From.GetEyIm].;x
+EVTOPTC_ZE_12032;Это [From.GetHersHis] проблемы.;x
+EVTOPTD_ZE_12032;Да!;x
+EVTOPTE_ZE_12032;Нет, это нехорошо.;x
+EVTOPTF_ZE_12032;А почему бы и нет?;x
+EVTDESCA_ZE_12034;[From.GetFirstName] разозли[From.GetLasLsya] и сказал[From.GetEndA], чтобы я "проваливал[Root.GetEndA]"!;x
+EVTDESCB_ZE_12034;[From.GetFirstName] согласи[From.GetLasLsya], и мы вместе делали всякие забавные штуки, веселились по полной программе.;x
+EVTDESCB2_ZE_12034;[From.GetFirstName] не хочет играть.;x
+EVTOPTE_ZE_12034;Какой позор.;x
+EVTOPTA_ZE_12034;Дать [From.GetHerHim] по роже!;x
+EVTOPTB_ZE_12034;Ну и ладно, больно надо!;x
+EVTOPTC_ZE_12034;Мы должны делать это каждый день!;x
+EVTOPTD_ZE_12034;Было здорово, а теперь давай в кости.;x
+EVTDESCA_ZE_12036;[From.GetFirstName] взбеси[From.GetLasLsya] и начал драться со мной!;x
+EVTDESCB_ZE_12036;Я и [From.GetFirstName] вместе делали всякие запрещённые и сумасшедшие штуки, было весело!;x
+EVTOPTA_ZE_12036;Дать [From.GetHerHim] сдачи!;x
+EVTOPTB_ZE_12036;Было круто! Надо будет повторить!;x
+playing_dice;Играет в кости;x
+playing_dice_desc;Чтобы хорошо играть в кости, требуется зоркий глаз и быстрый ум.;x
+EVTDESCC_ZE_12030;Сегодня мы играли во дворе, и ребята принялись уговаривать меня забраться на самую высокую башню.;x
+EVTOPTE_ZE_12030;Я не боюсь!;x
+EVTOPTE_ZE_12030_TOOLTIP1;Так и поскользнуться можно.;x
+EVTOPTE_ZE_12030_TOOLTIP2;Вверх и вниз, словно белка.;x
+EVTOPTF_ZE_12030;Нет, это слишком высоко.;x
+EVTDESCC_ZE_12034;Я быстро взобра[Root.GetLasLsya] на вершину башни. Но спускаясь обратно, я поскользну[Root.GetLasLsya]. Падение было болезненным, но, к счастью, я уже не был[Root.GetEndA] так высоко.;x
+EVTDESCD_ZE_12034;С проворством белки, я быстро забра[Root.GetLasLsya] на башню и спустился обратно вниз. Это удивило всех.;x
+EVTOPTF_ZE_12034;Ааа!;x
+EVTOPTG_ZE_12034;Ха!;x
+EVTDESC_ZE_12230;Изнывая от тоски в тёмном подземелье, в какой-то момент я осознал[Root.GetEndA], что в соседней камере кто-то есть. Я слышу сопение, кашель и какое-то бормотание.;x
+EVTOPTA_ZE_12230;Попробую заговорить с ним.;x
+EVTOPTB_ZE_12230;Ну и что?;x
+EVTDESCA_ZE_12232;Томясь в своей камере, однажды я услышал[Root.GetEndA] какой-то тихий голос, который зовёт меня. Похоже, это ребёнок, здесь, в соседней камере...;x
+EVTDESCB_ZE_12232;Томясь в своей камере, однажды я услышал[Root.GetEndA] какой-то тихий голос, который зовёт меня. Неужели здесь есть ещё дети, кроме меня?;x
+EVTOPTA_ZE_12232;Наконец-то кто-то, с кем можно поговорить!;x
+EVTOPTB_ZE_12232;Мне никто не нужен...;x
+EVTDESC_ZE_12234;Моим соседом оказа[From.GetLasLsya] [From.GetTitledName]. Мы часто перешёптывались в темноте и вскоре стали хорошими друзьями.;x
+EVTOPTA_ZE_12234;Теперь мне не так одиноко.;x
+EVTDESC_ZE_12236;Мои попытки наладить контакт с другим заключённым закончились ничем. В ответ на зов, я слышал[Root.GetEndA] лишь тишину.;x
+EVTOPTA_ZE_12236;Все ненавидят меня.;x
+pet_rat_dungeon;Ручная крыса;x
+pet_rat_dungeon_desc;Эт[GetEtaEtot] [GetAgedPerson] подружи[GetLasLsya] с крысой в подземелье.;x
+EVTDESC_ZE_12210;Страдая от тоски в тёмном подземелье, Вы нашли нового друга. Это маленький замызганный крысёныш. Он ни на минуту не покидает Вас и трётся у Ваших ног.;x
+EVTOPTA_ZE_12210;Я назову тебя Проныра.;x
+EVTOPTB_ZE_12210;Я назову тебя Пушистик.;x
+EVTOPTC_ZE_12210;Я назову тебя Вонючка.;x
+EVTOPTD_ZE_12210;Ну привет, еда...;x
+EVTDESCA_ZE_12211;Недавно Вы заметили, что с Пронырой что-то не так. Он больше не бегает вокруг, а просто лежит, жалобного попискивая. Похоже, он заболел или голодает.;x
+EVTDESCB_ZE_12211;Недавно Вы заметили, что с Пушистиком что-то не так. Он больше не бегает вокруг, а просто лежит, жалобного попискивая. Похоже, он заболел или голодает.;x
+EVTDESCC_ZE_12211;Недавно Вы заметили, что с Вонючкой что-то не так. Он больше не бегает вокруг, а просто лежит, жалобного попискивая. Похоже, он заболел или голодает.;x
+EVTOPTA_ZE_12211;Поделиться едой с ним.;x
+EVTOPTB_ZE_12211;Мне будет его не хватать.;x
+rat_dies_tooltip_1;Проныра погибнет!;x
+rat_dies_tooltip_2;Пушистик погибнет!;x
+rat_dies_tooltip_3;Вонючка погибнет!;x
+EVTDESCA_ZE_12219;Когда стражники выпустили Вас из подземелья, Вы в последний раз взглянули на то, что осталось позади. Проныра посмотрел на Вас своими маленькими сияющими глазками, а потом скрылся из виду в тёмном углу камеры.;x
+EVTDESCB_ZE_12219;Когда стражники выпустили Вас из подземелья, Вы в последний раз взглянули на то, что осталось позади. Пушистик посмотрел на Вас своими маленькими сияющими глазками, а потом скрылся из виду в тёмном углу камеры.;x
+EVTDESCC_ZE_12219;Когда стражники выпустили Вас из подземелья, Вы в последний раз взглянули на то, что осталось позади. Вонючка посмотрел на Вас своими маленькими сияющими глазками, а потом скрылся из виду в тёмном углу камеры.;x
+EVTOPTA_ZE_12219;Прощай, Проныра, я не забуду тебя.;x
+EVTOPTB_ZE_12219;Прощай, Пушистик, я не забуду тебя.;x
+EVTOPTC_ZE_12219;Прощай, Вонючка, я не забуду тебя.;x
+EVTDESC_ZE_12220;Томясь в подземелье, я уже потерял[Root.GetEndA] счёт времени. Бесцельное блуждание хаотичных мыслей, уходящих в дремоту стало для меня привычным, но вдруг я очну[Root.GetLasLsya], леденящий душу страх поразил меня. Вглядываясь в темноту, я услышал[Root.GetEndA] шипящий злой голос: "Я - владыка тьмы и ужаса. Подчинись моей воле...";x
+EVTOPTA_ZE_12220;Приказывай, повелитель...;x
+EVTOPTB_ZE_12220;Никогда!;x
+EVTDESC_ZE_12221;Однажды ночью, владыка тьмы появился снова и заговорил со мной: "Три камня тёмного колдовства. Они где-то здесь. Ты долж[Root.GetNaEn] найти и принести их мне!";x
+EVTOPTA_ZE_12221;Я обыщу всё, пока не найду их!;x
+EVTOPTB_ZE_12221;Я решу эту загадку и найду камни!;x
+EVTDESC_ZE_12222;Наконец-то мне удалось найти три камня тёмного колдовства для владыки тьмы. Они выглядят, как совершенно обычные камни, но уверен[Root.GetEndA], он будет доволен.;x
+EVTOPTA_ZE_12222;Я - герой! Его сам[Root.GetAyaYy] ценн[Root.GetAyaYy] слуга!;x
+EVTDESC_ZE_12223;Мне так и не удалось найти камни тёмного колдовства. Боюсь, теперь владыка тьмы накажет меня за провал.;x
+EVTOPTA_ZE_12223;Может, если я спрячусь в углу, он не найдёт меня?;x
+EVTDESC_ZE_12225;Моя война с владыкой тьмы началась. Каждую ночь он насылал на меня свои легионы призраков.;x
+EVTOPTA_ZE_12225;Надо собраться с силами и дать ему отпор!;x
+EVTOPTB_ZE_12225;Использую ловкость и хитрость!;x
+EVTDESC_ZE_12226;В своих битвах с владыкой тьмы и ужаса, я наконец-то доби[Root.GetLasLsya] преимущества, в самый ответственный момент, я победил[Root.GetEndA] его.;x
+EVTOPTA_ZE_12226;Отныне я - правитель подземелья!;x
+EVTDESC_ZE_12227;Сколько бы я ни стара[Root.GetLasLsya], мне никак не удавалось победить владыку тьмы, в наших битвах он всегда на шаг впереди меня. Похоже, у меня нет выбора, пришло время сдаться.;x
+EVTOPTA_ZE_12227;Я больше никогда не встану у него на пути.;x
+12220_submit_to_king;Подчиниться владыке тьмы и ужаса.;x
+12220_fight_king;Сражаться с владыкой тьмы и ужаса;x
+found_dark_stones;Камни тёмного колдовства;x
+found_dark_stones_desc;Эт[GetEtaEtot] [GetAgedPerson] вообразил[GetEndA] себе странные удивительные приключения в подземелье и наш[GetLaYol] камни тёмного колдовства.;x
+defeated_dread_king;Победил владыку тьмы и ужаса;x
+defeated_dread_king_desc;Эт[GetEtaEtot] [GetAgedPerson] вообразил[GetEndA] себе странные удивительные приключения в подземелье и победил[GetEndA] владыку тьмы и ужаса.;x
+dread_king_martial_tooltip;Влияет на военный навык.;x
+dread_king_intrigue_tooltip;Влияет на навык интриги.;x
+CHILDHOOD_FOCUS_PRIDE;Тип воспитания: Гордость;x
+CHILDHOOD_FOCUS_HUMILITY;Тип воспитания: Смирение;x
+CHILDHOOD_FOCUS_DUTY;Тип воспитания: Долг;x
+CHILDHOOD_FOCUS_ETIQUETTE;Тип воспитания: Этикет;x
+CHILDHOOD_FOCUS_THRIFT;Тип воспитания: Расчётливость;x
+CHILDHOOD_FOCUS_FAITH;Тип воспитания: Вера;x
+CHILDHOOD_FOCUS_STRUGGLE;Тип воспитания: Выживание;x
+CHILDHOOD_FOCUS_HERITAGE;Тип воспитания: Наследие;x
+EDUCATION_FOCUS_DIPLOMACY;Тип образования: Дипломатическое;x
+EDUCATION_FOCUS_MARTIAL;Тип образования: Военное;x
+EDUCATION_FOCUS_STEWARDSHIP;Тип образования: Экономическое;x
+EDUCATION_FOCUS_INTRIGUE;Тип образования: Шпионское;x
+EDUCATION_FOCUS_LEARNING;Тип образования: Духовное;x
+erudite;Эрудит;x
+erudite_desc;Эт[GetEtaEtot] [GetAgedPerson] склон[GetNaEn] к академическим и книжным знаниям.;x
+stubborn;Упрям[_ый];x #GetAyaYy_TT_ый
+stubborn_desc;Эт[GetEtaEtot] [GetAgedPerson] упрям[GetEndA], как осёл.;x
+INSULT_WINDBAG;пустозвон[This.GetEndKa];x
+INSULT_BLATHERING;Вздорн[This.GetAyaYy];x
+INSULT_MULE;[This.GetDonkey];x
+INSULT_PIGHEADED;Твердолоб[This.GetAyaYy];x
+REMOVE_GUARDIAN_EFFECT;$GUARDIAN$ перестанет обучать ребёнка, известного как $WHO$.\n;x
+ALL_CHARACTERS;Все персонажи;x
+ALL_PROVINCES;Все округа;x
+ALL_LANDED_TITLES;Все титулы;x
+ANY_CHAR_STARTS;Любой персонаж;x
+ANY_LANDED_TITLE_STARTS;Любой титул;x
+LOG_IN;Войти;x
+LOG_OUT;Выйти;x
+NOT_LOGGED_IN;Не в сети;x
+LOGGED_IN;В сети;x
+NEWSFEED_LOADING;Загрузка ленты новостей...;x
+PARADOX_ACCOUNT;Учётная запись Paradox;x
+CREATE_ACCOUNT;Создать учётную запись;x
+PERFORMING_LOGIN;Подключение...;x
+Not%authorized;§RНеправильные email или пароль§!;x
+LOGIN_TIMEOUT;§RВремя сессии истекло§!;x
+EMAIL;Email;x
+PASSWORD;Пароль;x
+EMAIL_REQUIRED;Email§R *§!;x
+EMAIL_HINT;Введи адрес электронной почты;x
+PASSWORD_REQUIRED;Пароль§R *§!;x
+PASSWORD_HINT;Введите пароль;x
+REPEAT_PASSWORD_REQUIRED;Пароль ещё раз§R *§!;x
+REPEAT_PASSWORD_HINT;Повторите пароль;x
+LANGUAGE_REQUIRED;Язык§R *§!;x
+LANGUAGE_HINT;Выберите язык;x
+ENTER_LANGUAGE;Язык;x
+COUNTRY_REQUIRED;Страна§R *§!;x
+COUNTRY_HINT;Выберите страну;x
+ENTER_COUNTRY;Выберите страну;x
+DATE_OF_BIRTH_REQUIRED;Дата рождения§R *§!;x
+DATE_OF_BIRTH_HINT;YYYY-MM-DD;x
+FIRST_NAME;Имя;x
+LAST_NAME;Фамилия;x
+ADDRESS;Адрес;x
+ADDRESS_LINE_1;Адрес (строка 1);x
+ADDRESS_LINE_2;Адрес (строка 2);x
+ADDRESS_CITY;Город;x
+ADDRESS_CITY_HINT;Введите город;x
+ADDRESS_STATE;Регион;x
+ADDRESS_STATE_HINT;Введите регион;x
+ADDRESS_ZIP_CODE;Почтовый индекс;x
+ADDRESS_ZIP_CODE_HINT;Введите почтовый индекс;x
+PHONE;Телефон;x
+PHONE_HINT;Введите номер телефона;x
+ACCEPT_AND_SUBMIT;Подтвердить;x
+CLICK_TO_OPEN_IN_BROWSER;Нажмите здесь, чтобы открыть браузер;x
+HAVE_READ_TOS;Я прочитал Пользовательское Соглашение и принимаю его;x
+TERMS_OF_USE;Пользовательское Соглашение;x
+PRIVACY_POLICY;Конфиденциальность;x
+REQUIRED_FIELD_DESCRIPTION;§R* §! Обязательное поле;x
+ONE_MOMENT;Минуту...;x
+MISSING_REQUIRED_FIELD;§RОбязательное поле не заполнено§!;x
+INVALID_EMAIL;§RНеправильный email адрес§!;x
+PASSWORDS_DONT_MATCH;§RПароли не совпадают§!;x
+INVALID_PASSWORD;§RНеправильный пароль§!;x
+PASSWORD_DONT_MATCH;§RПароли не совпадают§!;x
+WRONG_DOB_FORMAT;§RНеправильная дата рождения§!;x
+SUCCESS_VERIFICATION_EMAIL_SENT;Учётная запись успешно создана! Письмо для подтверждения отправлено на Вашу электронную почту.;x
+SERVER_ERROR;Ошибка сервера;x
+COULD_NOT_FIND_ACCOUNT;Учётная запись не найдена.;x
+EVTTITLE_ZE_8001;Bторая половинка;x
+MINOR_TITLE_REVOKABLE;Титул $TITLE$ можно отозвать;x
+FAVOR_EXPIRES_IN;Действие §Yуслуги§! закончится через $FAVOR_EXPIRATION|Y$ месяцев;x
+BUY_FAVOR_INTERACTION_ACCEPT_SETUP;Взятка принята;x
+BUY_FAVOR_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetDynName]§! принял[Recipient.GetEndA] взятку, которую предложил[Actor.GetEndA] [Recipient.GetHerHim] §Y[Actor.GetDynName]§!;x
+ATTRITION_WEIGHT_SELECTION;Численность войск после прибытия: $VALUE$;x
+UNITS_CROSS_WATER;$VALUE|Y$ из выбранных отрядов пересекут реку, чтобы достичь этого округа;x
+ALL_CROSS_WATER;§YВсе§! выбранные отряды пересекут реку, чтобы достичь этого округа;x
+PROVINCE_TOOLTIP_MILITARY_HEADER;Военная информация;x
+SEPARATOR;---;x
+opinion_recently_fired;Недавно уволил[___] меня;x #[From.GetEndA]`
+AIREASON_USED_FAVOR;§Y[Actor.GetBestName]§! напоминает, что §Y[Recipient.GetBestName]§! - [Actor.GetHersHis] должни[Recipient.GetTsaK].;x
+DIPLO_USE_FAVOR;§Y[Recipient.GetBestName]§! перед Вами в долгу, напомнить [Recipient.GetHerHim] об этом, чтобы получить [Recipient.GetHersHis] согласие.;x
+CANNOT_DECLINE_FAVOR;Вы не можете отказать, ибо §Y[Actor.GetBestName]§! взывает к §Yуслуге§!, которую Вы должны [Actor.GetHerHim];x
+ASK_TO_DECLARE_WAR_INTERACTION_LONG_DESC;Вы можете напомнить сюзерену об §Yуслуге§!, попросив §Yобъявить войну§! и заявить о Ваших претензиях.;x
+ASK_TO_DECLARE_WAR_INTERACTION_DESC;Напомнить сюзерену об §Yуслуге§!, чтобы попросить §Yобъявить войну§!, заявив о Ваших претензиях.;x
+ASK_TO_DECLARE_WAR_INTERACTION_LETTER;$RECIPIENT$ владеет тем, что по праву моё, и я прошу Вас как сюзерена, объявить войну ($CB$). У нас уговор, за Вами должок. Вы ведь не хотите, чтобы совету стало известно об этом?;x
+COUNCIL_MUST_AGREE;Требуется одобрение совета;x
+PRESS_CLAIMS_RECENTLY_REFUSED;Убедитесь, что недавно НЕ было отказа заявить претензии (проситель: $ACTOR|Y$, сюзерен: $LIEGE|Y$);x
+INTERACTION_REQUIRES_PEACE;Убедитесь, что $ATTACKER|Y$ НЕ воюет;x
+INTERACTION_REQUIRES_NO_TRUCE;Убедитесь, что $ATTACKER|Y$ и $DEFENDER|Y$ НЕ под действием мирного договора;x
+ENFORCEABLE_CBS;Убедитесь, что $ACTOR|Y$ имеет претензии, о которых $LIEGE|Y$ может заявить;x
+VALID_CB;Убедитесь, что $LIEGE|Y$ может $CB|Y$;x #ПРОВЕРИТЬ
+LIEGE_WAR_VALID;Убедитесь, что $LIEGE|Y$ имеет право объявлять эту войну;x
+opinion_refused_press_claims;Отказ[__лся] заявить о моих претензиях;x #[From.GetLasLsya]`
+REFUSED_TO_PRESS_CLAIM;Отказано в завлении претензий;x #ПРОВЕРИТЬ
+INTERACTION_FAVOR_FORCED_SETUP;Наша услуга задействована;x
+INTERACTION_FAVOR_FORCED_LOG;$ACTOR|Y$ напомнил[Actor.GetEndA], что $RECIPIENT|Y$ в долгу и возвал[Recipient.GetEndA] к §Yуслуге§!, чтобы $INTERACTION$.;x #ПРОВЕРИТЬ
+INTERACTION_FAVOR_FORCED_LETTER;$ACTOR|Y$ напоминает о нашем уговоре и в качестве §Yуслуги§! требует $INTERACTION$.;x
+FAVOR_INTERACTION_VALID;Переговоры допустимы;x
+FAVOR_NOT_RULER;$TARGET|Y$ НЕ является правителем;x
+ARMY_EXPL_DEL;Ваше ополчение может быть призвано с личных владений или Ваших прямых вассалов. \nСодержание ополчения Ваших личных владений Вы ложится на Ваши плечи, но ополчение Ваших вассалов содержится за их счёт, что безусловно не радует их.;x
+YOU_IN_UNIT;§YЛичное присутствие§!\nВ настоящий момент Вы находитесь среди солдат, рискуя своей жизнью вместе с ними.;x
+CHARACTER_POWERFUL_EXPLANATION;Является одним из ключевых вассалов и ожидает, что будет частью §Yсовета§!;x
+COUNCIL_TABS_JOBS;Советники;x
+loyalist;§YЛоялист§!;x
+malcontent;§YФрондёр§!;x
+zealot;§YФанатик§!;x
+pragmatist;§YПрагматик§!;x
+glory_hound;§YАрривист§!;x #ПОМЕНЯТЬ
+LAWS_COUNCIL_POWER;Полномочия совета;x
+councillors_changed_jobs;Недавно менял должность в совете;x
+COUNCIL_JOBS_TITLE;§YВаши советники§!;x
+change_council_job;Поменять должность в совете;x
+EVTDESC_ZE_6021;Какая же должность в совете больше всего подойдёт для такого человека, как [moving_councillor.GetTitledName]?;x
+REQUEST_SUPPORT_INTERACTION_LONG_DESC;[Recipient.GetBestName] может голосовать в Вашу пользу в совете в обмен на услугу с Вашей стороны, если Вы попросите [Recipient.GetHersHis] об этом.;x
+REGENCY_VOTING;В период §Yрегенства§! совет голосует по всем вопросам, включая те, которые обычно вне его компетенции.;x
+WAR_ENFORCED_PEACE;\nСпециальным указом установлен принудительный мир внутри этой страны;x
+INTERACTION_LIEGE_HAS_NOT_ENFORCED_PEACE;Убедитесь, что принуждение к миру не было задействовано внутри этой страны;x
+alert_peace_soon_enforced_instant;§YПринуждение к миру внутри страны!§!;x
+alert_peace_soon_enforced_delayed;$LIEGE|Y$ уведомляет о решении совета: закон о принудительном мире внутри страны скоро вступит в силу!\nВсе войны, которые вассалы ведут между собой завершатся §Yбелым миром§! через $MONTHS|Y$ месяцев!\nЕсли Вы состоите в совете, Вы можете попросить об §Yуслуге§! у своего сюзерена, чтобы положение о §Yмире внутри страны§! было отменено.;x
+alert_peace_being_enforced_instant;§YПринудительный мир внутри страны вступил в силу!§!;x
+alert_peace_being_enforced_delayed;$LIEGE|Y$ уведомляет о решении совета: отныне внутри страны действует закон о принудительном мире!\nЭто значит, что вассалы не смогут объявлять друг другу войны в течение следующих $MONTHS|Y$ месяцев!;x
+ENFORCEPEACE_SETUP;Мир внутри страны;x
+ENFORCEPEACE_LOG;$LIEGE|Y$ уведомил[From.GetEndA] своего вассала, известного как $VASSAL|Y$, о своём решении утвердить принудительный мир внутри страны.;x
+ENFORCEPEACE_LETTER;\nПри поддержке моего совета я объявляю, что отныне в пределах этой страны действует закон о принудительном мире. У Вас есть три месяца, чтобы закончить все свои внутригосударственные конфликты.;x
+ENFORCE_PEACE;Мир внутри страны;x
+OWES_FAVOR;Убедитесь, что $RECIPIENT|Y$ в долгу перед человеком, известным как $ACTOR|Y$;x #ПРОВЕРИТЬ
+STOP_ENFORCE_PEACE_INTERACTION_TITLE;Предотвратить принудительный мир;x
+STOP_ENFORCE_PEACE_INTERACTION_LONG_DESC;В качестве ответной §Yуслуги§!, Вы можете попросить у своего сюзерена не вводить в действие закон о принудительном §Yмире внутри страны§!. Кроме того, в этом случае Ваш сюзерен возьмёт на себя обязательство не созывать §Yсовет§! по этому вопросу в течение двух лет.;x
+STOP_ENFORCE_PEACE_INTERACTION_DESC;В качестве ответной §Yуслуги§! Вам принудительный §Yмир внутри страны§! не вступит в силу. Ваш сюзерен будет не в праве вводить принудительный мир в течение двух лет.;x
+STOP_ENFORCE_PEACE_INTERACTION_LETTER;Мой сюзерен, я напоминаю, что Вы в долгу передо мной, но Ваш указ о мире внутри страны идёт вразрез с моими интересами...;x
+STOP_ENFORCE_PEACE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! напомнил[Actor.GetEndA], что §Y[Recipient.GetBestName]§! у н[Actor.GetHersHis] в долгу и в качестве §Yуслуги§! вынудил[Actor.GetEndA] [Recipient.GetHersHis] отказаться от принятия §Yмира внутри страны§!.;x
+CAN_VOTE_ON_ENFORCE_PEACE;Совет может принимать решение о принудительном мире.;x
+PEACE_NOT_ENFORCED;Убедитесь, что положение о принудительном мире НЕ вступило в силу.;x
+PEACE_ENFORCED_NOT_BLOCKED;Убедитесь, что решение о §Yмире внутри страны§! НЕ блокируется из-за кулуарных договорённостей.;x
+ENFORCE_PEACE_BUTTON_DESC_TITLE;§YУстановить мир внутри страны§!;x
+horse_group;Equidae;x #Лошадиная;x
+horse;[_Непарнокопытное];x #GetMareSteedCap_TT_Непарнокопытное
+horse_desc;Это существо - сам[GetAyaYy] настоящ[GetAyaIy] [GetMareSteed].;x
+opinion_my_master;М[_ой__] хозя[___ин];x #[From.GetOyaOy] [From.GetYkaIn]`
+opinion_my_horse;М[_оя__] [__лошадь];x #[From.GetOyaOy] [From.GetMareSteed]`
+disorganised_swarm_tactic;Стихийный рой;x
+disorganised_harass_tactic;Стихийное преследование;x
+STEAL_POPULATION_SCALED_EFFECT;$PERCENTAGE|Y%$ §Yнаселения§! перейдёт из клана $FROM|Y$ в клан $TO|Y$\n;x #ПРОВЕРИТЬ
+CB_NAME_HUMILIATE;Унизить;x
+WAR_NAME_HUMILIATE;$ORDER$[Actor.PrimaryTitle.GetAdjective]ская война за унижение противника, известного как $DEFENDER$;x
+nomad_humiliate_cb_desc;Унизить врага и украсть его народ, чтобы укрепить свой клан.;x
+DECLINE_LAW;Отклонить закон ;x
+EVTOPTC290;Я голосую против.;x
+INFAMY_HISTORY_STR;$TEXT$: §Y$VALUE$%§!;x
+INFAMY_DECAY;Убыль в месяц: §Y$DECAY$%§!;x
+VASSAL_REALM_INFAMY;Правитель государства $REALM|Y$;x #ПРОВЕРИТЬ
+ADJUST_SIPHON_FACTOR_EFFECT;$TITLE$ изменит долю оплаты с $VALUE1|%$ до $VALUE2$%.;x #ПРОВЕРИТЬ
+SET_SIPHON_FACTOR_TO_EFFECT;$TITLE$ установит долю оплаты в $VALUE$%.;x #ПРОВЕРИТЬ
+CREATE_DYNAMIC_MERC_TOOLTIP;§Y[Root.GetFirstName]§! соберёт солдат и начнёт искать нанимателя.;x
+EVTDESC_ZE_10031;[Root.PrimaryTitle.GetFOA],\nМои люди уже давно сидят без дела, не имея возможности применить свои навыки на поле боя и получить за это достойную плату. К сожалению, у нас уже заканчиваются припасы, и я прошу Вас о дополнительном финансировании, пока войска не поразил голод.\nС уважением,\n [From.GetTitledName];x
+EVTOPTA_ZE_10031;Я покрою расходы на питание.;x
+EVTOPTB_ZE_10031;Что не убивает нас, то делает сильнее.;x
+EVTDESC_ZE_10033;[Root.PrimaryTitle.GetFOA],\nБлагодарю Вас за экстренное финансирование, но все эти деньги были потрачены на еду. Нам необходимо новое снаряжение, чтобы успешно сражаться на поле боя. Конечно, оно дорогое, но уверен[From.GetEndA], Вы оцените все преимущества подобного вложения.\nС уважением,\n [From.GetTitledFirstName];x
+EVTOPTA_ZE_10033;Понятно. Высылаю немедленно.;x
+EVTOPTB_ZE_10033;У меня на это денег.;x
+EVTOPTC_ZE_10033;Не забывайте об условиях нашего договора.;x
+EVTDESC_ZE_10071;[Root.PrimaryTitle.GetFOA],\nВойна - жестокое занятие. Мои люди требуют больше денег, поэтому вынужден[From.GetEndA] проинформировать Вас, что эти деньги будут вычтены из Вашей доли. Как бы то ни было, эти люди сражаются на поле боя, пока люди вроде Вас отсиживаются в своих креслах.\nС уважением,\n [From.GetTitledFirstName];x
+EVTOPTA_10071;Кто же спорит? Они это заслужили.;x
+EVTOPTB_10071;Хорошо, я готов[Root.GetEndA] уменьшить свою долю.;x
+EVTOPTC_10071;Всё бы ничего, но этим Вы нарушаете наш договор.;x
+MERCENARY_SIPHON_FACTOR_LOWER;$TITLE$ имеет более высокую долю оплаты чем $VALUE|%$.;x
+MERCENARY_SIPHON_FACTOR_HIGHER;$TITLE$ имеет более низкую долю оплаты чем $VALUE|%$.;x
+tax_levy_law_feudal;Феодалы;x
+tax_levy_law_feudal_desc;Обязательства феодалов;x
+tax_levy_law_feudal_0;Предельные налоговые феодальные обязательства;x
+tax_levy_law_feudal_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_1;Налоговые феодальные обязательства;x
+tax_levy_law_feudal_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_2;Преимущественно налоговые феодальные обязательства;x
+tax_levy_law_feudal_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_3;Смещённые в сторону налогов феодальные обязательства;x
+tax_levy_law_feudal_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_4;Сбалансированные феодальные обязательства;x
+tax_levy_law_feudal_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_5;Смещённые в сторону ополчения феодальные обязательства;x
+tax_levy_law_feudal_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_6;Преимущественно войсковые феодальные обязательства;x
+tax_levy_law_feudal_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_7;Войсковые феодальные обязательства;x
+tax_levy_law_feudal_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_feudal_8;Предельные войсковые феодальные обязательства;x
+tax_levy_law_feudal_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_republic;Представители горожан;x
+tax_levy_law_republic_desc;Обязательства представителей горожан;x
+tax_levy_law_republic_0;Предельные налоговые бюргерские обязательства;x
+tax_levy_law_republic_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_1;Налоговые бюргерские обязательства;x
+tax_levy_law_republic_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_2;Преимущественно налоговые бюргерские обязательства;x
+tax_levy_law_republic_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_3;Смещённые в сторону налогов бюргерские обязательства;x
+tax_levy_law_republic_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_4;Сбалансированные бюргерские обязательства;x
+tax_levy_law_republic_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_5;Смещённые в сторону ополчения бюргерские обязательства;x
+tax_levy_law_republic_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_6;Преимущественно войсковые бюргерские обязательства;x
+tax_levy_law_republic_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_7;Войсковые бюргерские обязательства;x
+tax_levy_law_republic_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_republic_8;Предельные войсковые бюргерские обязательства;x
+tax_levy_law_republic_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену избранными представителями горожан. Они больше предпочитают делиться ополчением, чем деньгами.;x
+tax_levy_law_theocracy;Духовенство;x
+tax_levy_law_theocracy_desc;Обязательства вассального духовенства;x
+tax_levy_law_theocracy_0;Предельные налоговые церковные обязательства;x
+tax_levy_law_theocracy_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_1;Налоговые церковные обязательства;x
+tax_levy_law_theocracy_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_2;Преимущественно налоговые церковные обязательства;x
+tax_levy_law_theocracy_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_3;Смещённые в сторону налогов церковные обязательства;x
+tax_levy_law_theocracy_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_4;Сбалансированные церковные обязательства;x
+tax_levy_law_theocracy_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_5;Смещённые в сторону ополчения церковные обязательства;x
+tax_levy_law_theocracy_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_6;Преимущественно войсковые церковные обязательства;x
+tax_levy_law_theocracy_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_7;Войсковые церковные обязательства;x
+tax_levy_law_theocracy_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_theocracy_8;Предельные войсковые церковные обязательства;x
+tax_levy_law_theocracy_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену вассальным духовенством. Они предпочитают смягчать свои обязательства, делясь как ополчением так и доходами.;x
+tax_levy_law_tribal;Вожди племенных общин;x
+tax_levy_law_tribal_desc;Обязательства вождей племенных общин;x
+tax_levy_law_tribal_0;Предельные налоговые племенные обязательства;x
+tax_levy_law_tribal_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_1;Налоговые племенные обязательства;x
+tax_levy_law_tribal_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_2;Преимущественно налоговые племенные обязательства;x
+tax_levy_law_tribal_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_3;Смещённые в сторону налогов племенные обязательства;x
+tax_levy_law_tribal_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_4;Сбалансированные племенные обязательства;x
+tax_levy_law_tribal_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_5;Смещённые в сторону ополчения племенные обязательства;x
+tax_levy_law_tribal_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_6;Преимущественно войсковые племенные обязательства;x
+tax_levy_law_tribal_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_7;Войсковые племенные обязательства;x
+tax_levy_law_tribal_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_tribal_8;Предельные войсковые племенные обязательства;x
+tax_levy_law_tribal_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую вождями племенных общин своему сюзерену. Вожди предпочитают делить свои обязательства на денежную и войсковую части.;x
+tax_levy_law_iqta;Икта;x
+tax_levy_law_iqta_desc;Обязательства по икте;x
+tax_levy_law_iqta_0;Предельно налоговые обязательства по икте;x
+tax_levy_law_iqta_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_1;Налоговые обязательства по икте;x
+tax_levy_law_iqta_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_2;Преимущественно налоговые обязательства по икте;x
+tax_levy_law_iqta_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_3;Смещённые в сторону налогов обязательства по икте;x
+tax_levy_law_iqta_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_4;Сбалансированные обязательства по икте;x
+tax_levy_law_iqta_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_5;Смещённые в сторону ополчения обязательства по икте;x
+tax_levy_law_iqta_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_6;Преимущественно войсковые обязательства по икте;x
+tax_levy_law_iqta_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_7;Войсковые обязательства по икте;x
+tax_levy_law_iqta_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+tax_levy_law_iqta_8;Предельные войсковые обязательства по икте;x
+tax_levy_law_iqta_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену. Феодалы охотнее платят налоги чем предоставляют ополчение.;x
+execution_voting_power;Казнь;x
+execution_voting_power_desc;Полномочия совета по вопросам казни.;x
+execution_voting_power_0;Прерогатива правителя по казням;x
+execution_voting_power_0_desc;Только правитель имеет право принимать решения по смертным приговорам.\n;x
+execution_voting_power_0_option;Суверен;x
+execution_voting_power_1;Комитет по казням;x
+execution_voting_power_1_desc;Совет голосует по вопросам смертных приговоров.\n;x
+execution_voting_power_1_option;Совет;x
+DYNAMIC_MERCENARY_COMPANY_FEUDAL;[PrevPrev.Capital.County.GetAdjective]ская банда;x #Prev.
+LAW_REJECTED_LOG;§Y$VASSAL$§! отклонил[From.GetEndA] предложенный закон - §Y$LAW$§! (§Y$TITLE$§!);x
+LAW_REJECTED_SETUP;Вассал отклонил закон;x
+EVTDESC8218;Чтобы избавить страну от гражданской войны, я удовлетворяю Вашу просьбу - [Root.GetCouncilName] отныне получает больше полномочий в этом государстве. Однако Ваш бесчестный шантаж не будет забыт...\n\nПодпись:\n [From.GetTitledName];x
+EVTDESC8217;Под давлением влиятельной фракции, §Y[[From.GetTitledName]§! предоставляет больше полномочий своему совету.;x
+EVTDESC8216;Чтобы не позволить гражданской войне разорвать страну на части, [From.GetTitledName] соглашается с условиями, по которым [Root.GetCouncilName] получит больше полномочий в управлении государством. Ваш ценный вклад в этот конфликт не будет забыт.\nС уважением,\n [FromFrom.GetTitledName];x
+faction_increase_council_power_ultimatum;Потребовать усиления совета;x #ПРОВЕРИТЬ
+faction_increase_council_power_ultimatum_desc;§Y[Root.Liege.GetBestName]§! получит ультиматум с требованием расширить полномочия совета. Если [Root.Liege.GetSubjectPronoun] откажется, Ваша фракция поднимет мятеж.;x
+faction_increase_council_power_short;Власть совету;x
+faction_increase_council_power_title;Власть [This.GetAdjective]скому совету;x
+faction_increase_council_power_desc;Фракция стремится расширить полномочия совета, ограничив решения, принимаемые правителем самостоятельно. Набрав достаточную силу, §Y[From.GetBestName]§! может выдвинуьт ультиматум, и сюзерен, §Y[From.Liege.GetBestName]§!, вынужден будет ответить.;x
+opinion_increased_council_power;Усилил[___] совет;x #[From.GetEndA]`
+opinion_decreased_council_power;Ослабил[___] совет;x #[From.GetEndA]`
+opinion_likes_new_obligation_law;Поддержию новый закон об обязательствах;x
+opinion_dislikes_new_obligation_law;Не поддерживаю новый закон об обязательствах;x
+out_of_realm_inheritance_law_0;Свободное наследование;x
+out_of_realm_inheritance_law_0_desc;Титулы вассалов не имеют специальных ограничений в вопросах наследования за пределы государства.;x
+out_of_realm_inheritance_law_0_option;Да;x
+out_of_realm_inheritance_law_1;Внутригосударственное наследование;x
+out_of_realm_inheritance_law_1_desc;Наследование титулов вассалов регулируется особым законом, который запрещает им переходить за пределы государства.;x
+out_of_realm_inheritance_law_1_option;Нет;x
+out_of_realm_inheritance_law_desc;Принятие закона об иностранном наследовании защитит титулы в государстве от ухода за границу через механизмы наследования.;x
+out_of_realm_inheritance_law;Иностранное наследование;x
+status_of_women;Положение женщин;x
+status_of_women_desc;Средневековое общество в массе своей представляет собой патриархальную систему, в которой женщинам отведено место наиболее отдалённое от власти и принятия решений. Правитель может изменить это, издавая указы, дающие женщинам больше полномочий и открывая им путь к высоким ступеням социальной иерарахии.;x
+status_of_women_0;Традиционное положение женщин;x
+status_of_women_0_desc;Женщинам запрещено занимать любые должности. Некоторые из государственных систем ограничены агнатическим законом наследования.;x
+status_of_women_0_option;Обычное;x #Традиционное
+status_of_women_1;Незначительное положение женщин;x
+status_of_women_1_desc;Женщинам разрешается занимать некоторые второстепенные должности, которые иногда позволяют им влиять на решения тех, кто действительно отвечает за что-либо.;x
+status_of_women_1_option;Низкое;x #Низкое
+status_of_women_2;Существенное положение женщин;x
+status_of_women_2_desc;Женщины обладают официальными возможностями занимать государственные должности.;x
+status_of_women_2_option;Значимое;x #Значимое
+status_of_women_3;Значительное положение женщин;x
+status_of_women_3_desc;Гендерные ограничения официально упразднены. Некоторые женщины могут добиться любых успехов по служебной лестнице.;x
+status_of_women_3_option;Важное;x #Важное
+status_of_women_4;Полноправный статус женщин;x
+status_of_women_4_desc;Структура законов не только устраняет ограничения, но и существенно влияет на общепринятое отношение к женщинам в социальной иерархии.;x
+status_of_women_4_option;Равное;x #Полноценное
+TOOLTIP_ALLOW_FEMALE_SPYMASTER;[Root.Holder.GetSpymasterName] может быть женщиной.\n;x
+TOOLTIP_DISALLOW_FEMALE_SPYMASTER;[Root.Holder.GetSpymasterName] НЕ может быть женщиной.\n;x
+TOOLTIP_ALLOW_FEMALE_CHANCELLOR;[Root.Holder.GetChancellorName] может быть женщиной.\n;x
+TOOLTIP_DISALLOW_FEMALE_CHANCELLOR;[Root.Holder.GetChancellorName] НЕ может быть женщиной.\n;x
+TOOLTIP_ALLOW_FEMALE_TREASURER;[Root.Holder.GetTreasurerName] может быть женщиной.\n;x
+TOOLTIP_DISALLOW_FEMALE_TREASURER;[Root.Holder.GetTreasurerName] НЕ может быть женщиной.\n;x
+TOOLTIP_ALLOW_FEMALE_MARSHAL;[Root.Holder.GetMarshalName] может быть женшиной.\n;x
+TOOLTIP_DISALLOW_FEMALE_MARSHAL;[Root.Holder.GetMarshalName] НЕ может быть женшиной.\n;x
+EVTDESC_ZE_2100;[target_child.GetFirstName] буквально засыпал[target_child.GetEndA] меня вопросами о том, кто так[Root.GetHGodAyaOy] [Root.Religion.GetHighGodName], что такое [Root.GetReligionFullName], и для чего существуют те или иные ритуалы.;x
+EVTOPTA_ZE_2100;Ну что ж, пора обучить [target_child.GetHersHis].;x
+EVTOPTB_ZE_2100;Лучше [target_child.GetHerHim] об этом не знать.;x
+EVTDESC_ZE_2101;В последнее время меня одолевает любопытство по поводу ритуалов и учений, которые исповедует м[From.GetOyaOy] [From.GetRootRelation]. Сегодня [From.GetSheHe] решил[From.GetEndA] ответить на мои вопросы.;x
+EVTOPTA_ZE_2101;Вот это да!;x
+EVTOPTB_ZE_2101;Что за отвратительные идеи!;x
+EVTDESC_ZE_2102;Ваш[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] теперь исповедует [FromFrom.GetReligionFullName]. [FromFrom.GetTitledFirstName] привил[FromFrom.GetEndA] [From.GetHerHim] основы своей веры.;x
+EVTOPTA_ZE_2102;Интересно.;x
+EVTDESC_ZE_2120;В последние месяцы [target_child.GetFirstName] проявляет неподдельный интерес к изучению нашего языка. А теперь [target_child.GetSheHe] выразил[target_child.GetEndA] желание побольше узнать об истории нашего народа.;x
+EVTOPTA_ZE_2120;Надо помочь [target_child.GetHerHim] в этом.;x
+EVTOPTB_ZE_2120;Важнее убедиться, что [target_child.GetSheHe] помнит родные обычаи.;x
+EVTDESC_ZE_2121;Мне нравится изучать местный язык, а сегодня [From.GetFirstName] подарил[From.GetEndA] мне книгу о происхождении [From.GetCultureAdj]ого народа.;x
+EVTOPTA_ZE_2121;Как познавательно!;x
+EVTOPTB_ZE_2121;Но думаю, важнее знать о наследии своих предков.;x
+EVTDESC_ZE_2122;Ходят слухи, что Ваш[From.GetEndA] [From.GetRootRelation] [From.GetFirstName] попал[From.GetEndA] под влияние своего наставника и теперь в большей степени принадлежит [From.GetCultureAdj]ой культуре.;x
+EVTOPTA_ZE_2122;Надеюсь, это к лучшему.;x
+EVTDESC_ZE_2130;Уважаем[Root.GetAyaYy] [Root.GetTitledNameWithNick],\nПрошу Вас дать своё согласие на то, чтобы м[From.GetOyaOy] воспитанни[From.GetTsaK] [From.GetFirstName] получил[From.GetEndA] соответствующее образование. Это позволит [From.GetHerHim] принять [FromFrom.GetReligionFullName] и [FromFrom.GetCultureAdj]ую культуру.\n [FromFrom.GetTitledFirstName].;x
+EVTOPTA_ZE_2130;Здравая мысль.;x
+EVTOPTB_ZE_2130;Ни за что!;x
+EVTDESCA_ZE_2132;Дорог[Root.GetAyaOy] [Root.GetFirstName].\nНесмотря на то, что я одобряю Ваш энтузиазм, всё же будет лучше, если [FromFrom.GetFirstName] продолжит обучение в прежнем ключе.;x
+EVTDESCB_ZE_2132;Уважаем[Root.GetAyaYy] [Root.GetTitledFirstName],\nНадеюсь, Вы понимаете, насколько нелепо Ваше предложение. [FromFrom.GetFirstName] долж[FromFrom.GetNaEn] воспитываться в правильных традициях, это поможет [FromFrom.GetHerHim] снискать уважение и понимание среди окружающих.;x
+EVTOPTA_ZE_2132;Я подозревал[Root.GetEndA] подобный ответ.;x
+EVTOPTB_ZE_2132;Как грубо!;x
+ask_wards_liege_to_allow_culture_religion_swap;Разрешение на традиционное воспитание;x
+EVTDESC_ZE_13610;В последнее время у меня возникают особые чувства. Странные порывы побуждают меня быть ближе к другому человеку. Если бы только я мог[Root.GetNoneE] остаться наедине с...;x
+EVTOPTA_ZE_13610;...учеником кузнеца.;x
+EVTOPTA_ZE_13610_MALE;...дочерью плотника.;x
+EVTOPTB_ZE_13610;...дочерью плотника.;x
+EVTOPTB_ZE_13610_MALE;...учеником кузнеца.;x
+EVTOPTC_ZE_13610;Нет! Эти мысли отвлекают меня.;x
+EVTOPTD_ZE_13610;Нет! Это неправильно!;x
+EVTDESCA_ZE_13611;Неделями выжидая удобную возможность для встречи, я наконец-то оказа[Root.GetLasLsya] за амбаром наедине с учеником кузнеца. Мои руки потеют, а сердце готово выскочить из груди.;x
+EVTDESCB_ZE_13611;Неделями выжидая удобную возможность для встречи, я наконец-то оказа[Root.GetLasLsya] за амбаром наедине с дочерью плотника. Мои руки потеют, а сердце готово выскочить из груди.;x
+EVTOPTA_ZE_13611_CARP;Признаться ей в любви.;x
+EVTOPTA_ZE_13611_FERR;Признаться ему в любви.;x
+EVTOPTB_ZE_13611_CARP;Поцеловать её в щёку.;x
+EVTOPTB_ZE_13611_FERR;Поцеловать его в щёку.;x
+EVTOPTC_ZE_13611_CARP;Обнять её и затащить в амбар.;x
+EVTOPTC_ZE_13611_FERR;Обнять его и затащить в амбар.;x
+revoke_title_law;Отзыв титулов;x
+revoke_title_law_desc;Этот закон регулирует условия и возможности правителя отзывать титулы, принадлежащие другим.;x
+revoke_title_law_0;Отзыв титулов запрещён;x
+revoke_title_law_0_desc;Правитель ни при каких обстоятельствах не может вмешиваться в право владения титулами.;x
+revoke_title_law_0_option;Нельзя;x
+revoke_title_law_1;Отзыв титулов разрешён;x
+revoke_title_law_1_desc;Правитель имеет право отнимать титулы предателей и преступников.;x
+revoke_title_law_1_option;Можно;x
+revoke_title_law_2;Религиозный мандат;x
+revoke_title_law_2_desc;Правителю принадлежит право религиозного контроля, которое позволяет свободно отзывать титулы еретиков и неверных.;x
+revoke_title_law_2_option;Религия;x
+ze_administration_laws;Администрация;x
+ze_administration_laws_desc;Эти законы регулируют то, как общество контролирует и организует право собственности.;x
+ze_administration_laws_1;Позднефеодальная администрация;x
+ze_administration_laws_1_desc;Поздние феодалы понимают важность наследственного права наряду с упрощением роста влияния и богатства своей династии. Такая система позволяет вассалам быстро наращивать власть, если их не ограничивать.;x
+ze_administration_laws_1_option;Поздняя;x
+pattern_this_is_not_my_war_target_custom_tooltip;Сейчас есть и другие, более важные войны.\n;x
+title_councilmember_king_desc;Советник - уважаемая должность в государственном совете. На нём лежит ответственность за решения, по которым правитель получает от него рекомендации.;x
+title_councilmember_emperor_desc;Советник - уважаемая должность в государственном совете. На нём лежит ответственность за решения, по которым правитель получает от него рекомендации.;x
+your_allies;§YСоюзники на Вашей стороне.§!;x
+enemy_allies;§YСоюзники на стороне противника.§!;x
+relations_instant;§YОтношения персонажа $NAME$§!;x #ПРОВЕРИТЬ
+relations_delayed;Друзья, враги, любовные и брачные связи;x
+enforce_realm_peace;Мир внутри страны;x
+EVTDESC_ZE_11001;Капитан Вашей военной кампани [From.GetTitledName] уже давно не пытается скрывать тот факт, что [From.GetHersHis] интересует Ваш[chosen_child.GetEndA] [chosen_child.GetSonDaughter] [chosen_child.GetFirstName]. А теперь [From.GetSheHe] заявил[From.GetEndA] о намерении [From.GetToMarry] [From.GetMarryHimHer]. Разумеется, их дети будут принадлежать династии [From.GetOnlyDinastyName].;x
+EVTOPTA_ZE_11001;Неплохая идея.;x
+EVTOPTB_ZE_11001;Это возмутительно!;x
+EVTOPTA_ZE_9100_TOOLTIP;Все прибрежные округа испытают проблемы со сбором налогом\n;x
+EVTOPTB_ZE_8112;Это [From.GetHersHis] не касается.;x
+EVTDESC_ZE_8113;Похоже, [From.GetTitledName] весьма признател[From.GetSoftNaEn] мне за помощь и обещает вернуть долг в любое время.;x
+EVTOPTA_ZE_8113;Рад[Root.GetEndA], что это им помогло.;x
+EVTDESC_ZE_8114;[From.GetTitledName] возмущ[From.GetNaEn] тем, как бесцеремонно я вмеша[Root.GetLasLsya] в их с [From.GetHusbandWifeOppINS] личную беседу. [From.GetSheHeCap] попросил[From.GetEndA] меня впредь "держаться подальше" от [From.GetHersHis] личной жизни.;x
+EVTOPTA_ZE_8114;Неблагодарн[From.GetAyaYy]!;x
+EVTDESC_ZE_11011;[From.GetFullName] предлагает послать больше солдат, чтобы укрепить военную мощь Вашей компании. [From.GetSheHeCap] утверждает, что с учётом приобретённого [From.GetEyuIm] опыта, доверить [From.GetHerHim] более крупную армию - совершенно естественный способ оказать доверие.;x
+EVTOPTA_ZE_11011;Соглас[Root.GetNaEn].;x
+EVTOPTB_ZE_11011;Я так не думаю.;x
+EVTDESC_ZE_11021;[From.GetFullName] был[From.GetEndA] весьма разочарован[From.GetEndA] Вашим решением распустить "[From.GetHersHis]" военную компанию. Уведя войско за собой, [From.GetSheHe] выразил[From.GetEndA] своё негодование и исчез[From.GetNoneE].;x
+EVTOPTA_ZE_11021;Когда я найду эту подлую крысу...;x
+EVTOPTA_ZE_11021_TOOLTIP;Кто знает, что они выкинут.;x
+dissolve_mercenary_company_feudal_desc;Это положит конец Вашей личной военной компании и распустит наёмников. Их капитану это явно не понравится.;x
+law_voting_power;Власть совета;x
+law_voting_power_desc;Наделяет совет властью или лишает её.;x
+law_voting_power_0;Единовластие;x
+law_voting_power_1;Уполномоченный совет;x
+law_voting_power_0_desc;Правитель имеет полный контроль над политикой и законами.\n;x
+law_voting_power_1_desc;Это наделяет совет властью.\n;x
+law_voting_power_0_option;Нет;x
+law_voting_power_1_option;Есть;x
+banish_voting_power;Изгнание;x
+banish_voting_power_desc;Полномочия совета в вопросах изгнания.;x
+banish_voting_power_0;Прерогатива правителя по изгнанию;x
+banish_voting_power_1;Комитет по изгнаниям;x
+banish_voting_power_0_desc;Только правитель имеет право принимать решения по изгнаниям.\n;x
+banish_voting_power_1_desc;Совет голосует по вопросам изгнаний.\n;x
+banish_voting_power_0_option;Суверен;x
+banish_voting_power_1_option;Совет;x
+revoke_title_voting_power;Отзыв титулов;x
+revoke_title_voting_power_desc;Полномочия совета в вопросах отзыва титулов.;x
+revoke_title_voting_power_0;Прерогатива правителя по отзыву титулов;x
+revoke_title_voting_power_1;Комитет по отзыву титулов;x
+revoke_title_voting_power_0_desc;Только правитель имеет право принимать решения по отзыву титулов.\n;x
+revoke_title_voting_power_1_desc;Совет голосует по отзыву титулов.\n;x
+revoke_title_voting_power_0_option;Суверен;x
+revoke_title_voting_power_1_option;Совет;x
+grant_title_voting_power;Передача титулов;x
+grant_title_voting_power_desc;Полномочия совета в вопросах передачи титулов.;x
+grant_title_voting_power_0;Прерогатива правителя в передаче титулов;x
+grant_title_voting_power_1;Комитет по передаче титулов;x
+grant_title_voting_power_0_desc;Только правитель имеет право даровать титулы.\n;x
+grant_title_voting_power_1_desc;Совет голосует по вопросам передачи титулов.\n;x
+grant_title_voting_power_0_option;Суверен;x
+grant_title_voting_power_1_option;Совет;x
+imprison_voting_power;Лишение свободы;x
+imprison_voting_power_desc;Полномочия совета в вопросах лишения свободы.;x
+imprison_voting_power_0;Прерогатива правителя по вопросам тюремных заключений;x
+imprison_voting_power_1;Комитет по тюремному заключению;x
+imprison_voting_power_0_desc;Только правитель имеет право принимать решения по поводу заключения в тюрьму.\n;x
+imprison_voting_power_1_desc;Совет голосует по вопросам тюремного заключения.\n;x
+imprison_voting_power_0_option;Суверен;x
+imprison_voting_power_1_option;Совет;x
+war_voting_power;Объявление войны;x
+war_voting_power_desc;Полномочия совета в вопросах объявления войны.;x
+war_voting_power_0;Прерогатива правителя в объявлении войны;x
+war_voting_power_1;Комитет по объявлению войны;x
+war_voting_power_0_desc;Только правитель имеет право объявлять войну.\n;x
+war_voting_power_1_desc;Совет голосует по вопросам объявления войны.\n;x
+war_voting_power_0_option;Суверен;x
+war_voting_power_1_option;Совет;x
+opinion_lowered_tribal_organization;Понизил[___] организованность племени;x #[From.GetEndA]`
+EVTDESC38315;Люди считают меня одержим[Root.GetOyYm]. Думаю, это всё из-за того, что иногда я говорю на непонятных языках, а бывает, что выкрикиваю непристойности в неподходящий момент.;x
+EVTOPTA_ZE_6021;[Root.GetChancellorName];x
+EVTOPTB_ZE_6021;[Root.GetMarshalName];x
+EVTOPTC_ZE_6021;[Root.GetTreasurerName];x
+EVTOPTD_ZE_6021;[Root.GetSpymasterName];x
+EVTOPTE_ZE_6021;[Root.GetLordSpiritualName];x
+EVTOPTF_ZE_6021;Я передумал[Root.GetEndA].;x
+EVTDESCA_ZE_12100;Сегодня [curious_events_char_1.GetFullName] сказал[curious_events_char_1.GetEndA], что у н[curious_events_char_1.GetHersHis] какие-то важные дела, и мне придётся побыть одно[Root.GetYMu].;x
+EVTDESCB_ZE_12100;Сегодня утром я просну[Root.GetLasLsya] рано и наш[Root.GetLaYol] какое-то письмо. Оно было запечатано, а в графе "Кому" было написано "[curious_events_char_2.GetTitledName]". Интересно, что же там?;x
+EVTDESCC_ZE_12100;Мне показалось, в кустах что-то шевелится. Я спросил[Root.GetEndA] "кто там", но никто не ответил.;x
+EVTOPTA_ZE_12100;Я пойду за н[curious_events_char_1.GetEyIm] и посмотрю.;x
+EVTOPTB_ZE_12100;Я могу играть весь день!;x
+EVTOPTC_ZE_12100;Положу его на стол и спрошу позже.;x
+EVTOPTD_ZE_12100;Надо это выяснить. Вдруг что-то важное.;x
+EVTOPTE_ZE_12100;Заглянуть туда.;x
+EVTOPTF_ZE_12100;Рассказать кому-нибудь об этом.;x
+EVTDESCA_ZE_12102;Уверен[Root.GetEndA], [From.GetFirstName] ясно понял[From.GetEndA], что я велел[Root.GetEndA] [From.GetHerHim] оставаться дома, но когда я уже закончил[Root.GetEndA] с покупкой подарка для н[From.GetHersHis] и оберну[Root.GetLasLsya], чтобы посмотреть кто за мной следит, то заметил, что [From.GetSheHe] прячется за углом. Сюрприз испорчен.;x
+EVTDESCB_ZE_12102;Вернувшись вечером с рыночной площади, я увидел[Root.GetEndA], что [From.GetFirstName] терпеливо ожидает меня дома, как я [From.GetHersHis] и просил[Root.GetEndA].;x
+EVTDESCC_ZE_12102;Мне послышалось, что в дом проникли воры, и я пош[Root.GetLaYol] вниз, чтобы проверить. Оказалось, это был[From.GetEndA] [From.GetFirstName]. Я застукал[Root.GetEndA] [From.GetHersHis] на месте преступления, [From.GetSheHe] вскрывал[From.GetEndA] одно из моих писем!;x
+EVTDESCD_ZE_12102;Сегодня я ждал[Root.GetEndA] письмо, но никак не мог[Root.GetNoneE] его нигде найти. "[From.GetFirstName], дорог[From.GetAyaOy], ты случайно не видел[From.GetEndA] тут письмо?" — спросил[Root.GetEndA] я без особой надежды на успех. Но каково же было моё удивление, когда в ответ [From.GetSheHe] указал[From.GetEndA] на стол, оно лежало на виду, невскрытое.;x
+EVTOPTA_ZE_12102;Я задам [From.GetHerHim] серьёзную взбучку.;x
+EVTOPTB_ZE_12102;[From.GetSheHeCap] не виноват[From.GetEndA].;x
+EVTOPTC_ZE_12102;Как[From.GetAyaOy] хорош[From.GetAyaIy] [From.GetLadLass].;x
+EVTOPTD_ZE_12102;Я покажу [From.GetHerHim], как совать нос в чужие дела!;x
+EVTOPTE_ZE_12102;Нам предстоит серьезный разговор...;x
+EVTOPTF_ZE_12102;Спасибо, [From.GetFirstName]. Что бы я без тебя делал[Root.GetEndA]?;x
+EVTDESCA_ZE_12104;Оказывается, [From.GetTitledName] покупал[From.GetEndA] на рынке всякие штуки. [From.GetSheHeCap] увидел[From.GetEndA], что я слежу за н[From.GetEyIm], и отругал[From.GetEndA] за моё непослушание. Хуже того, те подарки, которые [From.GetSheHe] мне там купил[From.GetEndA], я теперь не получу!;x
+EVTDESCB_ZE_12104;[From.GetTitledName] велел[From.GetEndA] мне оставаться дома и ждать [From.GetHersHis], но я не удержа[Root.GetLasLsya] и пош[Root.GetLaYol] за н[From.GetEyIm]. Оказалось, [From.GetSheHe] отправи[From.GetLasLsya] на рынок, чтобы купить мне подарок, но заметил[From.GetEndA] меня там. Расхохотавшись, [From.GetSheHe] сказал[From.GetEndA], что я безнадёж[Root.GetNaEn].;x
+EVTDESCC_ZE_12104;[From.GetTitledName] увидел[From.GetEndA], как я открываю [From.GetHersHis] письмо и схватил[From.GetEndA] меня за руку. [From.GetSheHeCap] разозли[From.GetLasLsya] не на шутку и порезал[From.GetEndA] мой палец бумагой, сказав, чтобы я "не смел[Root.GetEndA] совать нос в чужие дела".;x
+EVTDESCD_ZE_12104;[From.GetTitledName] заметил[From.GetEndA], что я вскрываю [From.GetHersHis] письмо, когда заш[From.GetLaYol] в свой кабинет, но, на удивление, совсем не разозли[From.GetLasLsya]. [From.GetSheHeCap] начал[From.GetEndA] подробно объяснять мне, как важно уважать частную жизнь и собственность других людей.;x
+EVTDESCE_ZE_12104;Это была огромная мерзкая крыса. Она пискнула и укусила меня! Теперь рука сильно болит.;x
+EVTDESCF_ZE_12104;Я наш[Root.GetLaYol] раненую птичку. Похоже, она выпала из гнезда. Надо оставить её у себя, пока она не поправится.;x
+EVTOPTA_ZE_12104;[From.GetSheHeCap] что-то скрывает от меня.;x
+EVTOPTB_ZE_12104;Я долж[Root.GetNaEn] извиниться.;x
+EVTOPTC_ZE_12104;[From.GetSheHeCap] так[From.GetAyaOy] классн[From.GetAyaYy]!;x
+EVTOPTD_ZE_12104;Но это же секретное письмо!;x
+EVTOPTE_ZE_12104;Я больше так не буду.;x
+EVTOPTF_ZE_12104;Наверное, в письме всё равно ничего интересного.;x
+EVTOPTG_ZE_12104;Круто, да?;x
+EVTOPTH_ZE_12104;Это послужит мне уроком.;x
+EVTOPTI_ZE_12104;Надеюсь, она скоро снова сможет летать!;x
+EVTDESCA_ZE_12106;[From.GetFirstName] отреагировал[From.GetEndA] на мои методы воспитания не лучшим образом. Боюсь, теперь [From.GetSheHe] ещё более подозрител[From.GetSoftNaEn] по отношению ко мне.;x
+EVTDESCB_ZE_12106;Похоже, [From.GetFirstName] сожалеет о своём поведении. Надеюсь, больше это не повторится.;x
+EVTDESCC_ZE_12106;Судя по всему, теперь [From.GetFirstName] ещё больше интересуется содержимым этого письма, когда узнал[From.GetEndA], что его нельзя читать.;x
+EVTDESCD_ZE_12106;Мы поговорили, и теперь, думаю, [From.GetFirstName] понимает, насколько важна неприкосновенность частной жизни.;x
+EVTOPTA_ZE_12106;Нда...;x
+EVTOPTB_ZE_12106;Для этого ребёнка ещё не всё потеряно.;x
+EVTOPTC_ZE_12106;Видимо, мне нужно сменить тактику.;x
+EVTOPTD_ZE_12106;Шаг в правильном направлении.;x
+EVTOPTE_ZE_12100_TOOLTIP1;Найдется какая-нибудь гадость.;x
+EVTOPTE_ZE_12100_TOOLTIP2;Новый друг.;x
+EVTDESCA_ZE_12080;Не знаю, настолько ли [conscientious_events_char_1.GetFullName] безответствен[conscientious_events_char_1.GetNaEn] во всём, но когда я вош[Root.GetLaYol] в [conscientious_events_char_1.GetHersHis] личные [conscientious_events_char_1.GetChamberACC], там был ужасный бардак, бумаги, вещи, книги были разбросаны повсюду!;x
+EVTDESCB_ZE_12080;[conscientious_events_char_2.GetFirstName] ведёт себя крайне легкомысленно. После ужина мы вместе помогали убирать со стола, но когда пришло время мыть посуду, [conscientious_events_char_2.GetSheHe] бросил[conscientious_events_char_2.GetEndA] всё, чтобы пойти играть.;x
+EVTDESCC_ZE_12080;Уже поздно, но я никак не могу найти свой новый плащ. Должно быть, я забыл[Root.GetEndA] его где-то, когда снял[Root.GetEndA], чтобы поиграть. Если я вернусь без него, все подумают, что я - неряха!;x
+EVTOPTA_ZE_12080;Я этого так не оставлю, пора навести тут порядок.;x
+EVTOPTB_ZE_12080;Но ничего не поделать, это [conscientious_events_char_1.GetHersHis] комната.;x
+EVTOPTC_ZE_12080;Рассказать о н[conscientious_events_char_2.GetEyYom].;x
+EVTOPTD_ZE_12080;Ничего страшного, всё равно никто не узнает.;x
+EVTOPTE_ZE_12080;Пойти поискать.;x
+EVTOPTF_ZE_12080;Вернуться без него и объяснить, что случилось.;x
+EVTOPTE_ZE_12080_TOOLTIP1;Заболею;x
+EVTOPTE_ZE_12080_TOOLTIP2;Найду то, что ищу;x
+EVTDESCA_ZE_12082;Войдя в св[Root.GetMyChamberACC], я обнаружил[Root.GetEndA], что вся моя работа последних дней исчезла! Бумаги разложены по местам, книги расставлены в алфавитном порядке, а заметки выброшены, как мусор. Очевидно, [From.GetFullName] "прибира[From.GetLasLsya]" здесь.;x
+EVTDESCB_ZE_12082;Невероятно, но [From.GetFirstName] наябедничал[From.GetEndA] на меня! После ужина мы вместе помогали убирать со стола и, когда все ушли, должны были помыть посуду. Я не стал[Root.GetEndA] это делать и уш[Root.GetLaYol] играть, но [From.GetSheHe] рассказал взрослым, и теперь всю работу повесили на меня!;x
+EVTDESCC_ZE_12082;[From.GetFirstName] - настоящий друг. После ужина мы вместе помогали убирать со стола, а когда пришло время мыть посуду, все уже ушли, и я предложил[Root.GetEndA] бросить всё и пойти играть. [From.GetSheHeCap] очень ответственн[From.GetAyaYy], но всё равно сохранил[From.GetEndA] наш секрет.;x
+EVTOPTA_ZE_12082;Я сделаю то же самое с [From.GetHersHis] комнатой!;x
+EVTOPTB_ZE_12082;Чистота и порядок - это явно не моё...;x
+EVTOPTC_ZE_12082;Нечестно! Я не буду это делать!;;x
+EVTOPTD_ZE_12082;Чёртовы тарелки!;x
+EVTOPTE_ZE_12082;Мы весь вечер играли вместе!;x
+EVTDESCA_ZE_12084;[From.GetTitledName] был[From.GetEndA] просто в бешенстве из-за того, что я навел[Root.GetEndA] порядок в [From.GetHersHis] комнате. [From.GetSheHeCap] не смог[From.GetNoneE] найти свои книги и заметки. В отместку [From.GetSheHe] переставил[From.GetEndA] всё в м[Root.GetMyChamberPREP] и сказал[From.GetEndA], чтобы я "держа[Root.GetLasLsya] от н[From.GetHersHis] подальше".;x
+EVTDESCB_ZE_12084;[From.GetFirstName] не стал[From.GetEndA] мыть посуду и просто сбежал[From.GetEndA]. Мне сказали, что я не долж[Root.GetNaEn] делать что-либо вместо н[From.GetHersHis], но правильно сделал[Root.GetEndA], что рассказал[Root.GetEndA].;x
+EVTDESCC_ZE_12084;[From.GetFirstName] разозли[From.GetLasLsya] на меня, но я всё равно помог[Root.GetNoneE] [From.GetHerHim] с мытьем посуды. Возможно, [From.GetSheHe] теперь презирает меня...;x
+EVTDESCD_ZE_12084;Говорят, это всё потому что я долго гулял[Root.GetEndA] на сыром и холодном воздухе. У меня слабость и больно дышать.;x
+EVTDESCE_ZE_12084;Да! Я наш[Root.GetLaYol] свой плащ! Никто даже не узнал, что я терял[Root.GetEndA] его.;x
+EVTOPTA_ZE_12084;Теперь надо снова убираться...;x
+EVTOPTB_ZE_12084;Я всем расскажу!;x
+EVTOPTC_ZE_12084;Я домою эти тарелки [Root.GetHerselfHimself].;x
+EVTOPTD_ZE_12084;Ладно, пойду почитаю.;x
+EVTOPTE_ZE_12084;Зато взрослые довольны.;x
+EVTOPTF_ZE_12084;Чувствую себя ужасно.;x
+EVTOPTG_ZE_12084;В следующий раз, буду всегда держать вещи при себе.;x
+EVTDESCA_ZE_12086;[From.GetFirstName] снова убирается в своей комнате после того, что я там натворил[Root.GetEndA]. Невероятно прилежный ребёнок.;x
+EVTDESCB_ZE_12086;Похоже, [From.GetFirstName] серьёзно обиде[From.GetLasLsya] на меня. [From.GetSheHeCap] рассказал[From.GetEndA] всем, что я сделал[Root.GetEndA].;x
+EVTOPTA_ZE_12086;Мне не стоило так поступать с н[From.GetEyIm].;x
+EVTOPTB_ZE_12086;Маленькое чудовише.;x
+EVTDESCA_ZE_12090;Уже пора спать, а я никак не могу найти любимую игрушку. Что же делать?;x
+EVTDESCB_ZE_12090;Миска с похлёбкой давно у меня на тарелке, но всё ещё идёт пар. Не обожгусь ли я? [fussy_events_char_2.GetTitledName] смотрит на меня и ждёт, когда же я наконец начну есть.;x
+EVTDESCC_ZE_12090;Слуги предложили мне зайти сегодня вечером к ним в домик, чтобы попробовать новый торт. Я выш[Root.GetLaYol] во двор, но начался дождь.;x
+EVTOPTA_ZE_12090;Я не могу заснуть без неё!;x
+EVTOPTB_ZE_12090;Я уже больш[Root.GetAyaOy] [Root.GetLadLass].;x
+EVTOPTC_ZE_12090;Нет, слишком горячо.;x
+EVTOPTD_ZE_12090;Ну хорошо.;x
+EVTOPTE_ZE_12090;Надо скорей бежать туда, пока он не усилися.;x
+EVTOPTF_ZE_12090;Нет, так я промокну, лучше переждать.;x
+EVTOPTE_ZE_12090_TOOLTIP1;Всё получится;x
+EVTOPTE_ZE_12090_TOOLTIP2;Сырость и холод сделают своё дело;x
+EVTDESCA_ZE_12092;[From.GetFirstName] говорит, что не может найти свою любимую игрушку, а без неё хочет идти спать. Скорее всего, я выбросил[Root.GetEndA] её, когда в последний раз прибира[Root.GetLasLsya].;x
+EVTDESCB_ZE_12092;[From.GetFirstName] поначалу беспокои[From.GetLasLsya], что не может найти свою любимую игрушку, но потом смири[From.GetLasLsya] и пош[From.GetLaYol] спать.;x
+EVTDESCC_ZE_12092;Сегодня за столом [From.GetFirstName] побоя[From.GetLasLsya] пробовать похлёбку, опасаясь, что она горячая, и даже не притроону[From.GetLasLsya] к ней, чтобы проверить.;x
+EVTDESCD_ZE_12092;Сегодня за обедом [From.GetFirstName] ел[From.GetEndA] с большим аппетитом и был[From.GetEndA] весьма довол[From.GetSoftNaEn].;x
+EVTOPTA_ZE_12092;Я предложу [From.GetHerHim] купить новую.;x
+EVTOPTB_ZE_12092;Попробую найти её.;x
+EVTOPTC_ZE_12092;Очередной шаг на пути к взрослой жизни.;x
+EVTOPTD_ZE_12092;Давай, я попробую.;x
+EVTOPTE_ZE_12092;Хорошо, давай подождём, пока остынет.;x
+EVTOPTF_ZE_12092;Замечательно.;x
+EVTDESCA_ZE_12094;[From.GetFirstName] предложил[From.GetEndA] купить мне новую игрушку. [From.GetSheHeCap] сказал[From.GetEndA], что мы можем сходить за ней завтра.;x
+EVTDESCB_ZE_12094;Спустя какое-то время [From.GetFirstName] всё-таки наш[From.GetLaYol] мою игрушку, среди мусора...;x
+EVTDESCC_ZE_12094;[From.GetFirstName] взял[From.GetEndA] мою миску и попробовал[From.GetEndA] похлёбку. "Видишь? Она не горячая, можешь есть", — сказал[From.GetEndA] [From.GetSheHe] совершенно невозмутимым тоном.;x
+EVTDESCD_ZE_12094;[From.GetFirstName] с трудом сдерживал[From.GetEndA] гнев. "Ладно. Мы подождём, пока остынет... Но ты не выйдешь из-за стола, пока не поешь", — сказал[From.GetEndA] [From.GetSheHe], уставившись на меня презрительным взглядом. Мы просидели так полчаса.;x
+EVTDESCE_ZE_12094;Я бежал[Root.GetEndA] достаточно быстро и успел[Root.GetEndA] до того, как дождь усилился. Мы весело провели время, слугам я понрави[Root.GetLasLsya].;x
+EVTDESCF_ZE_12094;К тому моменту, когда я добежал[Root.GetEndA] к домику для слуг, вся моя одежда насквозь промокла. И хотя мы хорошо провели время, они долго извинялись за то, что всё так обернулось.;x
+EVTOPTA_ZE_12094;Но я хочу СВОЮ игрушку!;x
+EVTOPTB_ZE_12094;Ну... ладно.;x
+EVTOPTC_ZE_12094;Она воняет!;x
+EVTOPTD_ZE_12094;А я боя[Root.GetLasLsya], что потерял[Root.GetEndA] её.;x
+EVTOPTE_ZE_12094;Но... Вы... ели из моей миски.;x
+EVTOPTF_ZE_12094;Хорошо.;x
+EVTOPTG_ZE_12094;И теперь она холодная!;x
+EVTOPTH_ZE_12094;Ладно, я съем её.;x
+EVTOPTI_ZE_12094;Торт был просто объеденье.;x
+EVTOPTJ_ZE_12094;Что-то мне нехорошо...;x
+EVTDESCA_ZE_12096;Я предложил[Root.GetEndA] купить новую игрушку, но [From.GetFirstName] обиде[From.GetLasLsya] на меня за это и отказа[From.GetLasLsya].;x
+EVTDESCB_ZE_12096;[From.GetFirstName] согласи[From.GetLasLsya] сходить со мной и купить новую игрушку.;x
+EVTDESCC_ZE_12096;Я наш[Root.GetLaYol] потерянную игрушку среди мусора, и [From.GetFirstName] расстроен[From.GetEndA], ведь она теперь грязная.;x
+EVTDESCD_ZE_12096;[From.GetFirstName] наконец-то лег[From.GetNoneE] спать, когда я наш[Root.GetLaYol] [From.GetHersHis] любимую игрушку.;x
+EVTDESCE_ZE_12096;Что бы я ни делал[Root.GetEndA], [From.GetFirstName] вечно недовол[From.GetSoftNaEn]. [From.GetSheHeCap] отказывается есть, и мне уже надоело бороться с этим.;x
+EVTDESCF_ZE_12096;[From.GetFirstName] наконец-то согласи[From.GetLasLsya] поесть.;x
+EVTOPTA_ZE_12096;[From.GetSheHeCap] просто невыносим[From.GetEndA].;x
+EVTOPTB_ZE_12096;Какое облегчение.;x
+EVTOPTC_ZE_12096;Седьмое пекло!;x
+EVTOPTD_ZE_12096;Вот и славно.;x
+EVTOPTE_ZE_12096;Это безнадёжно.;x
+EVTOPTF_ZE_12096;Хвала Небесам.;x
+EVTDESCA_ZE_12110;[idolizer_events_char_1.GetTitledName] так добр[idolizer_events_char_1.GetEndA] ко мне, и [idolizer_events_char_1.GetSheHe] столько знает обо всём.;x
+EVTDESCB_ZE_12110;[idolizer_events_char_2.GetFirstName] просто невероят[idolizer_events_char_2.GetNaEn], и нам так хорошо вместе. Даже когда мы делаем какую-то неприятную работу, время проходит намного быстрее.;x
+EVTDESCC_ZE_12110;Большинство уже покинуло храм, а я продолжаю молиться. Имеенно здесь я чувствую себя на своём месте...;x
+EVTOPTA_ZE_12110;Я сочиню для н[idolizer_events_char_1.GetHersHis] песню!;x
+EVTOPTB_ZE_12110;Другие придворные тоже могут зайти, если хотят.;x
+EVTOPTC_ZE_12110;Всё вокруг расцветает, когда [idolizer_events_char_2.GetSheHe] рядом.;x
+EVTOPTD_ZE_12110;Друзья навсегда!;x
+EVTOPTE_ZE_12110;Надеюсь, [Root.Religion.GetRandomGodName] ценит это.;x
+EVTOPTF_ZE_12110;И я могу оставить пожертвования себе.;x
+EVTDESCA_ZE_12112;[From.GetFirstName] сочинил[From.GetEndA] песню для меня. Похоже, [From.GetSheHe] считает, что я - лучший человек на свете.;x
+EVTDESCB_ZE_12112;[From.GetFirstName] сказал[From.GetEndA], что здесь все так добры к н[From.GetHersHis], и [From.GetSheHe] хотел[From.GetEndA] бы выразить свою благодарность.;x
+EVTDESCC_ZE_12112;[From.GetFirstName] сказал[From.GetEndA], что [From.GetHerHim] очень нравится проводить со мной время, и [From.GetSheHe] очень счастлив[From.GetEndA], когда я рядом.;x
+EVTDESCD_ZE_12112;[From.GetFirstName] сказал[From.GetEndA], что нам так весело вместе, и [From.GetSheHe] хочет, чтобы мы всегда оставались лучшими друзьями.;x
+EVTOPTA_ZE_12112;Ну что ж, расскажу [From.GetHerHim] пару историй.;x
+EVTOPTB_ZE_12112;Я лишь ответственный взрослый.;x
+EVTOPTC_ZE_12112;Какой милый ребёнок.;x
+EVTOPTD_ZE_12112;Я поцелую [From.GetHersHis] в щёчку.;x
+EVTOPTE_ZE_12112;[From.GetSheHeCap] хорош[From.GetAyaIy], но это не взаимно.;x
+EVTOPTF_ZE_12112;Я всегда могу на [From.GetHersHis] положиться.;x
+EVTDESCA_ZE_12114;[From.GetFirstName] высоко оценил[From.GetEndA] мой жест и согласи[From.GetLasLsya] с тем, что [From.GetHersHis] выдающаяся личность заслуживает этой песни, а теперь и другие смогут об этом узнать.;x
+EVTDESCB_ZE_12114;[From.GetFirstName] был[From.GetEndA] тронут[From.GetEndA] моей песней в свою честь, но сказал[From.GetEndA], что я преувеличиваю, [From.GetSheHe] - самый обычный человек, и мне не следует "творить себе кумиров".;x
+EVTDESCC_ZE_12114;[From.GetFirstName] сказал[From.GetEndA], что тоже чувствует нечто подобное, а потом поцеловал[From.GetEndA] меня в щёку и убежал[From.GetEndA].;x
+EVTDESCD_ZE_12114;[From.GetFirstName] был[From.GetEndA] смущен[From.GetEndA] моим признанием, а потом сказал[From.GetEndA], что "всё это очень мило, но нам лучше видеться не так часто".;x
+EVTDESCE_ZE_12114;Проведя всю ночь в храме, я проголода[Root.GetLasLsya], и у меня закружилась голова. Думаю, [Root.Religion.GetRandomGodName] заметит, как я стараюсь.;x
+EVTOPTA_ZE_12114;Жаль, что [From.GetSheHe] - не м[From.GetOyaOy] [From.GetMomDad]а.;x
+EVTOPTB_ZE_12114;Выпендрёжни[From.GetTsaK].;x
+EVTOPTC_ZE_12114;[From.GetSheHeCap] нереально крут[From.GetEndA].;x
+EVTOPTD_ZE_12114;Взрослые могут всё.;x
+EVTOPTE_ZE_12114;[From.GetSheHeCap] лучше всех.;x
+EVTOPTF_ZE_12114;Я не это имел[Root.GetEndA] в виду...;x
+EVTOPTG_ZE_12114;Мне надо было помалкивать...;x
+EVTOPTH_ZE_12114;Я прош[Root.GetLaYol] испытание и долж[Root.GetNaEn] остаться здесь.;x
+EVTOPTI_ZE_12114;Фехтование! Совсем забыл[Root.GetEndA]!;x
+EVTDESCA_ZE_12116;[From.GetFirstName] продолжает боготворить меня.;x
+EVTDESCB_ZE_12116;Похоже, [From.GetFirstName] разочарова[From.GetLasLsya] во мне. Так или иначе во всём надо знать меру, я ведь не такой уж особенн[Root.GetAyaYy] в конце концов.;x
+EVTDESCC_ZE_12116;[From.GetFirstName] поцеловал[From.GetEndA] меня в ответ, а потом раскрасне[From.GetLasLsya] и убежал[From.GetEndA].;x
+EVTDESCD_ZE_12116;Похоже, [From.GetFirstName] совсем не то имел[From.GetEndA] в виду. Теперь [From.GetSheHe] избегает меня. Как же стыдно...;x
+EVTOPTA_ZE_12116;Надеюсь, смогу хорошо на н[From.GetHersHis] повлиять.;x
+EVTOPTB_ZE_12116;Все когда-то взрослеют...;x
+EVTOPTC_ZE_12116;Как это мило.;x
+EVTOPTD_ZE_12116;Не могу [From.GetHersHis] больше видеть.;x
+INHERITANCE_INFAMY;$FROM$ передаёт по наследству;x
+INDEPENDENCE_INFAMY;Независимость вассала ($VASSAL$);x
+VASSELIZATION_INFAMY;$VASSAL$ станет вассалом;x
+EVTDESCA_ZE_12070;Долгий день подходит к концу, и [playful_events_char_1.GetTitledName], взвалив на себя тяжёлые сумки, напомнил[playful_events_char_1.GetEndA], что нам пора возвращаться домой. Это мой шанс - может в этот раз я смогу обогнать [playful_events_char_1.GetHersHis]?;x
+EVTDESCB_ZE_12070;Позней ночью я встал[Root.GetEndA] с постели, чтобы воспользоваться ночным горшком. [playful_events_char_2.GetFirstName] уже позвал[playful_events_char_2.GetEndA] меня обратно, но вдруг я увидел[Root.GetEndA], что какой-то мужчина прячется под столом. Он заметил меня и прошептал "эй, [Root.GetLadLass], подойди сюда".;x
+EVTDESCC_ZE_12070;Сегодя я долж[Root.GetNaEn] помогать в саду, но это ужасно скучно. Садовница тоже скучная, хотя...;x
+EVTOPTA_ZE_12070;Не догоните!;x
+EVTOPTB_ZE_12070;Помочь [playful_events_char_1.GetHerHim] с сумками.;x
+EVTOPTC_ZE_12070;Спрятаться с незнакомцем.;x
+EVTOPTD_ZE_12070;Ответить на зов.;x
+EVTOPTE_ZE_12070;Пощекотать её.;x
+EVTOPTF_ZE_12070;Труд укрепляет волю.;x
+EVTOPTE_ZE_12070_TOOLTIP1;Садовница боится щекотки.;x
+EVTOPTE_ZE_12070_TOOLTIP2;Садовница не боится щекотки.;x
+EVTDESCA_ZE_12072;Пришло время возвращаться домой. [From.GetFirstName] посмотрел[From.GetEndA] на меня с коварной ухмылкой и предложив догнать [From.GetHersHis], побежал[From.GetEndA] со всех ног, тем самым вынудив меня одн[Root.GetUOgo] тащить все сумки.;x
+EVTDESCB_ZE_12072;Я и [From.GetFirstName] уже заканчивали прогулку, и пришло время возвращаться домой. Когда я сказал[Root.GetEndA] [From.GetHerHim] об этом, [From.GetSheHe] взял у меня одну из сумок и помог мне, хотя я даже не просил [From.GetHersHis] об этом.;x
+EVTDESCC_ZE_12072;[playful_events_char_2.GetFirstName] перестал[playful_events_char_2.GetEndA] звать меня, послышался звук удаляющихся шагов. Незнакомец прошептал: "Готов поставить золотой на то, что ты не сможешь задержать дыхание до тех пор, пока я не покину эту комнату".;x
+EVTDESCD_ZE_12072;[From.GetFirstName] не был[From.GetEndA] в своей комнате, и я уже стал[Root.GetEndA] волноваться, но когда [From.GetSheHe] наконец отозва[From.GetLasLsya], я увидел[Root.GetEndA], что [From.GetSheHe] наш[From.GetLaYol] того вора, который прятался под столом.;x
+EVTOPTA_ZE_12072;Побежать за н[From.GetEyIm].;x
+EVTOPTB_ZE_12072;Рассказать [From.GetHerHim] об ответственности.;x
+EVTOPTC_ZE_12072;Похвалить ребёнка.;x
+EVTOPTD_ZE_12072;Сыграть на спор.;x
+EVTOPTE_ZE_12072;Позвать на помощь.;x
+EVTOPTF_ZE_12072;Стража!;x
+EVTDESCA_ZE_12074;[From.GetFirstName] всё равно догнал[From.GetEndA] и поймал[From.GetEndA] меня. Что ж, может в другой раз я буду быстрее.;x
+EVTDESCB_ZE_12074;[From.GetFirstName] рассерди[From.GetLasLsya] из-за того, что я убежал[From.GetEndA]. Теперь я наказан[Root.GetEndA] и под домашним арестом на весь следующий день.;x
+EVTDESCC_ZE_12074;Прежде чем я что-то понял[Root.GetEndA], незнакомец удрал через дверь. Он даже не оглянулся.;x
+EVTDESCD_ZE_12074;[From.GetFirstName] был[From.GetEndA] удивл[From.GetNaEn], когда наш[From.GetLaYol] меня. Стражники куда-то увели мужчину из под стола. Они сказали, он был плохим человеком, а мне не следует разговаривать с незнакомцами.;x
+EVTDESCE_ZE_12074;Мы немного поиграли во время работы.;x
+EVTDESCF_ZE_12074;Она явно не любит щекотку. Более того, она рассказала всем, какой я "несносный ребёнок".;x
+EVTOPTA_ZE_12074;[From.GetSheHeCap] так[From.GetAyaOy] быстр[From.GetAyaYy].;x
+EVTOPTB_ZE_12074;[From.GetSheHeCap] наверняка сжульничал[From.GetEndA].;x
+EVTOPTC_ZE_12074;Скучно!;x
+EVTOPTD_ZE_12074;Я победил[Root.GetEndA].;x
+EVTOPTE_ZE_12074;Так кто же это был?;x
+EVTOPTF_ZE_12074;Это было весело!;x
+EVTOPTG_ZE_12074;Да что с ней не так? Все любят щекотку!;x
+EVTDESCA_ZE_12076;[From.GetFirstName] никогда не бывает серьёзн[From.GetOyYm]. [From.GetSheHeCap] постоянно играет, не заботясь ни о чём.;x
+EVTDESCB_ZE_12076;[From.GetFirstName] был[From.GetEndA] немного расстроен[From.GetEndA], когда я догнал[Root.GetEndA] и поймал[Root.GetEndA] [From.GetHersHis], и даже назвал[From.GetEndA] меня мошенником. Умение проигрывать - важный урок для ребёнка.;x
+EVTDESCC_ZE_12076;Среди ночи я услышал[Root.GetEndA] шум и пош[Root.GetLaYol] проверить, где [From.GetFirstName], позвав [From.GetHersHis] несколько раз. Когда [From.GetSheHe] наконец отозвался, я наш[Root.GetLaYol] [From.GetHersHis] под столом с каким-то вором! Стража позаботилась об остальном.;x
+EVTOPTA_ZE_12076;Это рано или поздно изменится.;x
+EVTOPTB_ZE_12076;Потом [From.GetSheHe] поймёт.;x
+EVTOPTC_ZE_12076;Хорошо, что я успел[Root.GetEndA].;x
+EVTDESCA_ZE_12060;[indolent_events_char_1.GetFirstName] попросил[indolent_events_char_1.GetEndA] меня помочь с вырубкой деревьев. Сказал[indolent_events_char_1.GetEndA], что это тяжёлая работа, но я справлюсь.;x
+EVTDESCB_ZE_12060;Меня попросили сходить на рынок, купить кое-что, но это так далеко. [indolent_events_char_2.GetFirstName] всё равно туда пойдёт. Может [indolent_events_char_2.GetSheHe] купит это для меня?;x
+EVTDESCC_ZE_12060;Я читаю книжку в своей комнате, но сегодня такая хорошая погода. Дети играют во дворе.;x
+EVTOPTA_ZE_12060;Ох. Кажется, у меня живот разболелся.;x
+EVTOPTB_ZE_12060;Я займусь самым большим.;x
+EVTOPTC_ZE_12060;Заплатить [indolent_events_char_2.GetHerHim] за свои покупки.;x
+EVTOPTD_ZE_12060;Сходить туда вместе с н[indolent_events_char_2.GetEyIm].;x
+EVTOPTE_ZE_12060;Пойти посмотреть, что они делают.;x
+EVTOPTF_ZE_12060;Продолжить чтение.;x
+EVTDESCA_ZE_12062;Когда я приш[Root.GetLaYol] за помощью с рубкой деревьев, [From.GetFirstName] отказа[From.GetLasLsya] идти со мной, сказал[From.GetEndA], что у н[From.GetHersHis] живот разболелся.;x
+EVTDESCB_ZE_12062;Сегодня [From.GetFirstName] и я вместе занимались вырубкой деревьев в саду. Удивительно, но [From.GetLadLass] ни разу даже не пожалова[From.GetLasLsya], и мы быстро управились с работой.;x
+EVTDESCC_ZE_12062;[From.GetFirstName] попросил[From.GetEndA] меня купить кое-что на рынке, раз уж я всё равно туда иду. [From.GetSheHeCap] даже предложил[From.GetEndA] за это деньги.;x
+EVTDESCD_ZE_12062;[From.GetFirstName] и я сегодня вместе сходили на рынок. Мы купили всё, что нам велели, и отлично провели время.;x
+EVTOPTA_ZE_12062;Маленьк[From.GetAyaIy] лентяй[From.GetEndKa]! Я [From.GetHerHim] покажу!;x
+EVTOPTB_ZE_12062;А вдруг [From.GetHerHim] и правда нехорошо?;x
+EVTOPTC_ZE_12062;Отличная работа!;x
+EVTOPTD_ZE_12062;Не в деньгах счастье, а в их количестве.;x
+EVTOPTE_ZE_12062;Вот хитрожо... Ну уж нет!;x
+EVTOPTF_ZE_12062;С н[From.GetEyIm] интересно.;x
+EVTDESCA_ZE_12064;Когда я сказал[Root.GetEndA], что у меня болит живот, [From.GetFirstName] отшлёпал[From.GetEndA] меня, потом схватил[From.GetEndA] за руку и потащил[From.GetEndA] во двор.;x
+EVTDESCB_ZE_12064;[From.GetFirstName] забеспокои[From.GetLasLsya] о моём здоровье, когда я сказал[Root.GetEndA], что у меня болит живот. [From.GetSheHeCap] принес[From.GetNoneE] мне чаю и даже свежие булочки, чтобы я мог[Root.GetNoneE] поесть их, когда мне станет лучше.;x
+EVTDESCC_ZE_12064;[From.GetFirstName] согласи[From.GetLasLsya] купить для меня всё, что потребуется, если я дам [From.GetHerHim] денег. Но я долж[Root.GetNaEn] оставаться в своей комнате, чтобы никто не узнал, что я не пош[Root.GetLaYol] на рынок.;x
+EVTDESCD_ZE_12064;[From.GetFirstName] отказа[From.GetLasLsya] купить то, что мне поручили, когда пойдёт на рынок. Похоже, даже мои деньги не излечат [From.GetHersHis] душевные страдания от того, что я буду отдыхать, а [From.GetSheHe] нет.;x
+EVTDESCE_ZE_12064;Другие дети бегают друг за другом, прыгают и всё такое.;x
+EVTOPTA_ZE_12064;Ай! Теперь из-за Вас у меня рука болит.;x
+EVTOPTB_ZE_12064;Хорошо, хорошо. Я пойду!;x
+EVTOPTC_ZE_12064;Как это здорово!;x
+EVTOPTD_ZE_12064;Это уж слишком. Я долж[Root.GetNaEn] помочь [From.GetHerHim].;x
+EVTOPTE_ZE_12064;Можно немного вздремнуть.;x
+EVTOPTF_ZE_12064;Почитаю книжку про деньги.;x
+EVTOPTG_ZE_12064;Придётся тащиться на этот чёртов рынок.;x
+EVTOPTH_ZE_12064;Просто посмотреть на них.;x
+EVTOPTI_ZE_12064;Присоединиться к ним.;x
+EVTDESCA_ZE_12066;Ну вот. Теперь [From.GetFirstName] жалуется, что я повредил[Root.GetEndA] [From.GetHerHim] руку, когда потащил[Root.GetEndA] [From.GetHersHis] работать в сад, и теперь уж [From.GetSheHe] точно не может помочь мне с вырубкой деревьев.;x
+EVTDESCB_ZE_12066;[From.GetFirstName] был[From.GetEndA] так рад[From.GetEndA], когда я принес[Root.GetNoneE] [From.GetHerHim] немного чая и свежих булочек. Надеюсь, [From.GetSheHe] скоро поправится.;x
+EVTDESCC_ZE_12066;Некоторые методы иногда срабатывают неожиданным образом. Когда я принес[Root.GetNoneE] [From.GetHerHim] чая и свежих булочек, боль внезапно прошла, [From.GetSheHe] призна[From.GetLasLsya], что отлынивал[From.GetEndA] от работы, и мы вместе пошли в сад, чтобы заняться деревьями.;x
+EVTOPTA_ZE_12066;Ну твою ж...;x
+EVTOPTB_ZE_12066;Бедный ребёнок.;x
+EVTOPTC_ZE_12066;Замечательно.;x
+EVTDESCA_ZE_12050;[brooding_events_char_1.GetTitledName] обещал[brooding_events_char_1.GetEndA] взять меня сегодня с собой покататься верхом, но когда я приш[Root.GetLaYol] к н[brooding_events_char_1.GetHerHim], [brooding_events_char_1.GetSheHe] был[brooding_events_char_1.GetEndA] пьян[brooding_events_char_1.GetEndA] и не в силах даже стоять на ногах.;x
+EVTDESCB_ZE_12050; "Попробуй ещё раз", — сказал[brooding_events_char_2.GetEndA] [brooding_events_char_2.GetFirstName].\n"Но у меня не выходит! Я не умею свистеть", — настаивал[Root.GetEndA] я.;x
+EVTDESCC_ZE_12050;Дома все были заняты, и я пош[Root.GetLaYol] прогуляться на рынок. Оказавшись там, я заметил[Root.GetEndA], что несколько детей обижают малыша в рваной одежде.;x
+EVTOPTA_ZE_12050;Окатить [brooding_events_char_1.GetHersHis] водой из кувшина.;x
+EVTOPTB_ZE_12050;Оставить [brooding_events_char_1.GetHersHis] в покое.;x
+EVTOPTC_ZE_12050;Как вообще у тебя это получается?!;x
+EVTOPTD_ZE_12050;Ладно, попробую ещё раз.;x
+EVTOPTE_ZE_12050;Помешать им.;x
+EVTOPTF_ZE_12050;Это меня не касается.;x
+EVTDESCA_ZE_12052;Да, признаю, я забыл[Root.GetEndA] о своём обещании, [From.GetFirstName] имеет право злиться на меня, мы должны были вместе покататься верхом... Но... Но это переходит все границы. [From.GetSheHeCap] облил[From.GetEndA] меня водой, пока я спал[Root.GetEndA]. Я не так уж много выпил[Root.GetEndA] и... и вообще, я - [Root.PrimaryTitle.GetRulerTitle]!;x
+EVTDESCB_ZE_12052;Я просну[Root.GetLasLsya] с жутким похмельем, и уже почти вечер. Помню, перед тем как я заснул[Root.GetEndA], [From.GetFirstName] искал[From.GetEndA] меня. У нас были какие-то планы на вчерашний день, но... какие?;x
+EVTDESCC_ZE_12052;[From.GetFirstName] хочет научиться свистеть. После серии неудачных попыток [From.GetSheHe] спросил[From.GetEndA] меня, как я это делаю.;x
+EVTDESCD_ZE_12052;[From.GetFirstName] попросил[From.GetEndA] меня научить [From.GetHersHis] свистеть. Должно быть, я вдохновил[Root.GetEndA] [From.GetHersHis], и теперь [From.GetSheHe] часами пытается это сделать.;x
+EVTOPTA_ZE_12052;[From.GetSheHeCap] у меня получит!;x
+EVTOPTB_ZE_12052;Я долж[Root.GetNaEn] извиниться.;x
+EVTOPTC_ZE_12052;Как же мне плохо...;x
+EVTOPTD_ZE_12052;Это легко, у тебя получится.;x
+EVTOPTE_ZE_12052;Не каждому это удаётся.;x
+EVTOPTF_ZE_12052;У н[From.GetHersHis] получится, рано или поздно.;x
+EVTDESCA_ZE_12054;[From.GetFirstName] попыта[From.GetLasLsya] пробурчать что-то недоброе в мой адрес, но я не смог[Root.GetNoneE] разобрать ни слова. Потом [From.GetSheHe] занес[From.GetNoneE] кулак надо мной, но грохну[From.GetLasLsya] на кушетку и захрапел[From.GetEndA].;x
+EVTDESCB_ZE_12054;[From.GetFirstName] пробубнил[From.GetEndA] что-то непонятное несколько раз, но я смог[Root.GetNoneE] разобрать "прости меня"...;x
+EVTDESCC_ZE_12054;[From.GetFirstName] сказал[From.GetEndA], что свистеть очень просто, и что если я постараюсь, у меня всё получится. Но я пробовал[Root.GetEndA] уже много раз.;x
+EVTDESCD_ZE_12054;[From.GetFirstName] сказал[From.GetEndA], что не каждый может научиться свистеть. Некоторым это не дано.;x
+EVTDESCE_ZE_12054;Хулиганы бросились врассыпную, как только я сказал[Root.GetEndA] им остановиться. Маленький мальчик посмотрел на меня и, как ни в чем не бывало, попросил еды, не обращая внимания на произошедшее только что. Вот значит как живут простолюдины.;x
+EVTOPTA_ZE_12054;Я никогда не стану так[Root.GetOyIm], как [From.GetSheHe].;x
+EVTOPTB_ZE_12054;Возьму у н[From.GetHersHis] деньги в качестве компенсации.;x
+EVTOPTC_ZE_12054;[From.GetSheHeCap] слишком слаб[From.GetEndA], чтобы взять себя в руки.;x
+EVTOPTD_ZE_12054;Обнять [From.GetHersHis] и успокоить.;x
+EVTOPTE_ZE_12054;Все это могут, кроме меня.;x
+EVTOPTF_ZE_12054;Зато я хорош[Root.GetEndA] в чём-то другом.;x
+EVTOPTG_ZE_12054;Дать ему денег на еду и одежду.;x
+EVTOPTH_ZE_12054;Сказать ему, чтобы попросил у своих мамы и папы.;x
+EVTDESCA_ZE_12056;Голова всё ещё раскалывается, но смутные воспоминания о случившемся понемногу всплывают в памяти. [From.GetFirstName] прав[From.GetEndA], моему поступку нет оправданий, но что ещё хуже, эт[From.GetEtaEtot] [From.GetLadLass] отчитал[From.GetEndA] меня.;x
+EVTDESCB_ZE_12056;Придя в себя после тяжёлого похмелья, я заметил[Root.GetEndA], что мои деньги пропали. Кажется, [From.GetFirstName] был[From.GetEndA] здесь. Да... точно.;x
+EVTDESCC_ZE_12056;Последнее, что я помню - это мои извинения, но [From.GetFirstName] их явно не оценил[From.GetEndA]. Похоже, извинения - совсем не то, что [From.GetSheHe] от меня ждал[From.GetEndA].;x
+EVTDESCD_ZE_12056;Когда я приш[Root.GetLaYol] в себя, [From.GetFirstName] всё ещё был[From.GetEndA] рядом. [From.GetSheHeCap] принес[From.GetNoneE] мне немного воды и накрыл[From.GetEndA] одеялом. Я не заслуживаю столь доброго отношения к себе, но [From.GetSheHe] видит во мне что-то хорошее...;x
+EVTDESCE_ZE_12056;[From.GetFirstName], кажется, немного расстроен[From.GetEndA] из-за неудачных попыток. Не похоже, чтобы [From.GetSheHe] реагировал[From.GetEndA] на мои ободрящие слова с должным энтузиазмом.;x
+EVTDESCF_ZE_12056;[From.GetFirstName], в конце концов, просто верну[From.GetLasLsya] в свою комнату и заня[From.GetLasLsya] другими делами.;x
+EVTOPTA_ZE_12056;Хреновый выдался денёк...;x
+EVTOPTB_ZE_12056;М[From.GetBratLong]!;x
+EVTOPTC_ZE_12056;Печально...;x
+EVTOPTD_ZE_12056;Я могу измениться. И я изменюсь!;x
+EVTOPTE_ZE_12056;Некоторые вещи слишком трудны для ребёнка.;x
+EVTOPTF_ZE_12056;Я рад[Root.GetEndA], что [From.GetSheHe] не зацикливается на таких вещах.;x
+EVTDESCA_ZE_12040; "Пустая трата времени. Она не налезет. Ты вырос[Root.GetNoneE] из неё", — заявил[willful_events_char_1.GetEndA] [willful_events_char_1.GetFirstName], слегка нахмурившись.\n"Но это моя любимая шляпа!" — воскликнул[Root.GetEndA] я.;x
+EVTDESCB_ZE_12040;[willful_events_char_2.GetFirstName] и я с самого утра уже играем вместе. Но стоило нам подойти к старому заброшенному дому, как [willful_events_char_2.GetFirstName] сразу заволнова[willful_events_char_2.GetLasLsya], [willful_events_char_2.GetSheHe] выглядит напуганн[willful_events_char_2.GetOyYm].;x
+EVTDESCC_ZE_12040;Я уже несколько часов торчу на этой чёртовой рыбалке и до сих пор не поймал[Root.GetEndA] ни одной рыбы, хоть немного похожей по размеру на ту, которую сын слуги поймал вчера.;x
+EVTOPTA_ZE_12040;Она налезет! Помогите мне.;x
+EVTOPTB_ZE_12040;Хорошо, отдайте её кому-нибудь помладше.;x
+EVTOPTC_ZE_12040;Пошли внутрь.;x
+EVTOPTD_ZE_12040;Мы возвращаемся.;x
+EVTOPTE_ZE_12040;Рано сдаваться, надо ждать...;x
+EVTOPTF_ZE_12040;Бесполезное занятие!;x
+EVTOPTE_ZE_12040_TOOLTIP1;Поймаю что-нибудь.;x
+EVTOPTE_ZE_12040_TOOLTIP2;Потрачу время впустую.;x
+EVTDESCA_ZE_12042;[From.GetFirstName] настаивает, чтобы я помог[Root.GetNoneE] [From.GetHerHim] надеть старую шляпу. Пустая трата времени, ведь [From.GetSheHe] давно вырос[From.GetNoneE] из неё, мы уже говорили об этом много раз.;x
+EVTDESCB_ZE_12042;[From.GetFirstName] действительно хочет пойти в этот жуткий дом. Это очень опасно и нам говорили много раз держаться от него подальше.;x
+EVTOPTA_ZE_12042;Ни один ребёнок не будет указывать мне, что делать.;x
+EVTOPTB_ZE_12042;А попробуем! [From.GetHerHimCap] же хуже.;x
+EVTOPTC_ZE_12042;Я ни за что туда не пойду!;x
+EVTOPTD_ZE_12042;Ну, ладно. Думаю, я справлюсь с этим.;x
+EVTDESCA_ZE_12044;[From.GetFirstName] дал[From.GetEndA] мне подзатыльник за то, что не слушаю [From.GetHersHis].;x
+EVTDESCB_ZE_12044;[From.GetFirstName] сказал[From.GetEndA], что нам пора возвращаться сейчас же, иначе [From.GetSheHe] расскажет взрослым об этом.;x
+EVTDESCC_ZE_12044;Через пару часов, поплавок наконец задёргался. Это была огромная рыба, возможно самая большая из [Root.Capital.County.GetAdjective]ских рыб.;x
+EVTDESCD_ZE_12044;Уже почти отчаявшись, я наконец поймал[Root.GetEndA] рыбу, но она была небольшой.;x
+EVTOPTA_ZE_12044;[From.GetSheHeCap] зл[From.GetAyaOy]!;x
+EVTOPTB_ZE_12044;Попрошу кого-нибудь другого.;x
+EVTOPTC_ZE_12044;Пошли, иначе я скажу, что это была твоя идея.;x
+EVTOPTD_ZE_12044;Ладно-ладно... ссыкунишка.;x
+EVTOPTE_ZE_12044;Этот момент войдёт в историю.;x
+EVTOPTF_ZE_12044;Зато я попыта[Root.GetLasLsya].;x
+EVTDESCA_ZE_12046;Я отказа[Root.GetLasLsya] помочь, и теперь [From.GetFirstName] думает, что я плох[Root.GetAyaOy]. [From.GetSheHeCap] даже показал[From.GetEndA] мне язык.;x
+EVTDESCB_ZE_12046;[From.GetFirstName] сказал[From.GetEndA], что попросить кого-нибудь другого помочь [From.GetHerHim] со шляпой.;x
+EVTDESCC_ZE_12046;[From.GetFirstName] всё равно хочет пойти. [From.GetSheHeCap] сказал[From.GetEndA], что обвинит меня во всём, если я откажусь пойти с н[From.GetEyIm].;x
+EVTDESCD_ZE_12046;[From.GetFirstName], обозвав меня трусишкой, согласи[From.GetLasLsya] уйти подальше от страшного дома и вернуться домой.;x
+EVTOPTA_ZE_12046;Маленьк[From.GetAyaIy] и глуп[From.GetAyaYy], что тут поделать...;x
+EVTOPTB_ZE_12046;По крайней мере [From.GetSheHe] знает, что хочет.;x
+EVTOPTC_ZE_12046;Твою ж мать!;x
+EVTOPTD_ZE_12046;Так-то лучше...;x
+EVTDESCA_ZE_13700;Я просну[Root.GetLasLsya] среди ночи с очень странным ощущением, что же мне на самом деле приснилось?;x
+EVTOPTA_ZE_13700;Т[Root.GetEtaEtot] деревенск[Root.GetAyaIy] [Root.GetAgedPersonM], котор[Root.GetUyuOgo] я видел[Root.GetEndA] раньше.;x
+EVTOPTB_ZE_13700;[lustful_target.GetFirstName], [lustful_target.GetSheHe] целовал[lustful_target.GetEndA] меня.;x
+EVTOPTC_ZE_13700;Что бы это ни было, не важно.;x
+EVTOPTD_ZE_13700;Не важно, постараюсь уснуть.;x
+EVTDESCA_ZE_13701;И всё-таки есть в н[Root.GetEyYom] что-то, что я никак не могу выкинуть из головы. [Root.GetHersHisCap] волосы, походка... Я постоянно думаю о н[Root.GetEyYom] снова и снова.;x
+EVTOPTA_ZE_13701;Каково же это, сжать [Root.GetHersHis] в своих объятьях?;x
+EVTOPTB_ZE_13701;[Root.GetSheHeCap] - т[Root.GetEtaEtot] сам[Root.GetAyaYy].;x
+EVTOPTC_ZE_13701;Я хочу [Root.GetHersHis].;x
+EVTOPTD_ZE_13701;Так нельзя. Это грех!;x
+EVTDESCA_ZE_13702;[lustful_target.GetHersHisCap] губы касаются моих. Мои руки легко скользят по [lustful_target.GetHersHis] плечам. Чувствует ли [lustful_target.GetFirstName] то же самое ко мне?;x
+EVTOPTA_ZE_13702;Я сохраню себя для н[lustful_target.GetHersHis].;x
+EVTOPTB_ZE_13702;Рядом с н[lustful_target.GetEyIm] я с трудом сдерживаю себя.;x
+EVTDESCA_ZE_13703;Подобные мысли постоянно отвлекают меня и не дают мне спать.;x
+EVTOPTA_ZE_13703;Надо сосредоточиться на чём-то другом.;x
+EVTOPTB_ZE_13703;Может, это пройдёт со временем.;x
+EVTDESCA_ZE_13704;В последнее время [From.GetFirstName] смотрит на меня совсем иначе, улыбается мне, смеётся над моими неудачными шутками...;x
+EVTOPTA_ZE_13704;Похоже, [From.GetSheHe] влюби[From.GetLasLsya] в меня.;x
+EVTOPTD63041;Соглас[Root.GetNaEn], но Вы будете мне должны.;x
+EVTOPTC_ZE_12060_TOOLTIP;Может не принять предложение.\n;x
+EVTDESC20134;[Root.PrimaryTitle.GetFOA], моя работа в округе [FromFrom.Location.GetName], похоже, принесла плоды. Подкупы, угрозы и вымогательства, подделка документов помогли мне сфабриковать претензии на титул. [FromFrom.Location.Kingdom.GetFullName], которым правит [From.GetTitledName], теперь официально принадлежит Вам, реализовать ли это право - решайте сами.\nВаш верный [Root.GetChancellorName],\n [FromFrom.GetTitledName];x
+EVTDESCA_ZE_14700;Я завершил[Root.GetEndA] своё обучение без какой-либо чёткой цели. Мне понравилось изучать дипломатию, но не имея конкретного учебного плана, я не доби[Root.GetLasLsya] большого успеха.;x
+EVTDESCB_ZE_14700;Я завершил[Root.GetEndA] своё обучение без какой-либо чёткой цели. Мне понравилось изучать военное дело, но не имея конкретного учебного плана, я не доби[Root.GetLasLsya] большого успеха.;x
+EVTDESCC_ZE_14700;Я завершил[Root.GetEndA] своё обучение без какой-либо чёткой цели. Мне понравилось изучать экономику, но не имея конкретного учебного плана, я не доби[Root.GetLasLsya] большого успеха.;x
+EVTDESCD_ZE_14700;Я завершил[Root.GetEndA] своё обучение без какой-либо чёткой цели. Мне понравилось изучать приёмы шпионажа, но не имея конкретного учебного плана, я не доби[Root.GetLasLsya] большого успеха.;x
+EVTDESCE_ZE_14700;Я завершил[Root.GetEndA] своё обучение без какой-либо чёткой цели. Мне понравилось изучать священные тексты, но не имея конкретного учебного плана, я не доби[Root.GetLasLsya] большого успеха.;x
+EVTOPTA_ZE_14700;Никто не говорил мне, насколько это важно.;x
+EVTDESCA_ZE_14710;Юн[From.GetAyaYy] [From.GetFirstName] завершил[From.GetEndA] своё обучение. Не имея чёткого направления и учебного плана, [From.GetSheHe] приложил[From.GetEndA] немало усилий в изучении дипломатии, но, к сожалению, без особого успеха.;x
+EVTDESCB_ZE_14710;Юн[From.GetAyaYy] [From.GetFirstName] завершил[From.GetEndA] своё обучение. Не имея чёткого направления и учебного плана, [From.GetSheHe] приложил[From.GetEndA] немало усилий в изучении военного дела, но, к сожалению, без особого успеха.;x
+EVTDESCC_ZE_14710;Юн[From.GetAyaYy] [From.GetFirstName] завершил[From.GetEndA] своё обучение. Не имея чёткого направления и учебного плана, [From.GetSheHe] приложил[From.GetEndA] немало усилий в изучении экономики, но, к сожалению, без особого успеха.;x
+EVTDESCD_ZE_14710;Юн[From.GetAyaYy] [From.GetFirstName] завершил[From.GetEndA] своё обучение. Не имея чёткого направления и учебного плана, [From.GetSheHe] приложил[From.GetEndA] немало усилий в изучении приёмов шпионажа, но, к сожалению, без особого успеха.;x
+EVTDESCE_ZE_14710;Юн[From.GetAyaYy] [From.GetFirstName] завершил[From.GetEndA] своё обучение. Не имея чёткого направления и учебного плана, [From.GetSheHe] приложил[From.GetEndA] немало усилий в изучении священных текстов, но, к сожалению, без особого успеха.;x
+EVTOPTA_ZE_14710;Я подвел[Root.GetEndA] [From.GetHersHis].;x
+loyalist_desc;Лоялист - верный сторонник, который поддержит своего правителя всегда и во всём. За исключением тех случаев, когда это может навредить самому лоялисту, разумеется.;x
+pragmatist_desc;Будь то благополучие государства или же личные интересы, прагматик всегда выберет путь наименьшего сопротивления. Когда нужно воевать, он предпочтёт освобождение де-юре территорий или, по крайней мере, земли с той же культурой, что у правителя своей страны и, по возможности, против слабых противников. Такой советник не поддерживает любое усиление других вассалов, а когда у наделённых властью отбирают титулы, он всегда за.;x
+glory_hound_desc;Такой советник всегда ставит славу превыше всего - чем больше престижа для страны сулит то или иное решение, тем лучше. Он не станет поддерживать войны против слабых соседей. Другое дело - сильные противники. Не оглядываясь на риск и издержки, он будет искать любой повод прославить государство, потягавшись с ними. В его приоритетах централизованное государственное устройство.;x
+LAWS_TAB_INHERITANCE;Наследование;x
+LAWS_TAB_COUNCIL;Совет;x
+LAWS_TAB_OBLIGATIONS;Обязательства;x
+LAWS_TAB_REALM;Страна;x
+TAX;Налоги;x
+LEVY;Войска;x
+COUNCIL_VOTER_NAME;$VOTER_TITLE$\n[GetFirstName];x
+title_councilmember_king;Советник;x
+title_councilmember_emperor;Советник;x
+LAWS_VASSAL_OBLIGATIONS;Вассальные обязательства;x
+LAWS_CIVIC_RELIGIOUS;Государственное и религиозное право;x
+war_taxes;Военные налоги;x
+war_taxes_desc;Эт[GetEtaEtot] [GetAgedPerson] взимает военные налоги со своих подданных.;x
+extra_tax;Тройной налог!;x
+extra_tax_desc;Этот округ выплатил слишком много налогов, и это разорило крестьян.;x
+extra_tax_kind;Необходимый налог;x
+extra_tax_kind_desc;Правитель этого округа собрал дополнительные налоги, чтобы подготовиться к предстоящей войне.;x
+seize_church_assets;Храмовое имущество разграблено;x
+seize_church_assets_desc;Из этого храма вынесли всё ценное.;x
+extort_subjects;Обобрать своих подданных;x
+extort_subjects_desc;Выколачивать деньги из своих подданных - лёгкий и быстрый способ пополнить военный бюджет, хоть и воспринимается как акт тирании. Убедитесь, что судьба Ваших подданых, справедливость и прочая чепуха не тревожат Вас, иначе это может негативно сказаться на Вашем психическом здоровье.;x
+obj_build_a_war_chest_title;пополнить военный бюджет;x
+obj_build_a_war_chest_desc;[This.GetTitledFirstName] хочет собрать средства для подготовки к войне.;x
+obj_build_a_war_chest_success_custom_tooltip;Накопит достаточно денег: 300¤ для графства, 500¤ для герцогства, 700¤ для королевства и 1000¤ для империи.;x
+extort_consequences_custom_tooltip;Варианты отъема средств предоставят Вам.;x
+extort_cooldown_custom_tooltip;В последние 6 месяцев не было таких поборов.;x
+EVTTOOLTIP_ZE_21100;Собрать "специальный" налог с [extra_tax_target.County.GetAdjective]ских крестьян.;x
+EVTDESC_ZE_21000;Очевидно, что военный бюджет сам собой не наполнится. Вы решили заняться этим лично, привлекая "пожертвования" своих верных подданных. Но что конкретно следует предпринять?;x
+EVTOPTA_ZE_21000;Жители округа [extra_tax_target.GetShortBaseName] помогут!;x
+EVTOPTB_ZE_21000;Пусть [extortion_target.GetFullName] поделится.;x
+EVTOPTC_ZE_21000;Храм [seize_church_target.GetShortBaseName] слишком богат.;x
+EVTOPTD_ZE_21000;Пожалуй, это плохая идея...;x
+extort_tyrant_custom_tooltip;Так поступают только тираны, §R-10§! к мнению всех подданых о Вас.\n;x
+EVTDESC_ZE_21100;[extra_tax_target.County.GetAdjective]ские жители, как и ожидалось, были вовсе не в восторге от "экстренной" подати. Среди них даже появился лидер, который начал задавать вопросы о новом налоге и его целесообразности. Возможно, надо принять меры, пока они не взялись за вилы.;x
+EVTOPTA_ZE_21100;Объяснить им важность налога и пообещать пособия.;x
+EVTOPTB_ZE_21100;Этих жадюг никто и не спрашивал!;x
+EVTTOOLTIP_ZE_21200;[extortion_target.GetFullName] даст мне средства, даже если придётся применить силу.;x
+EVTDESC_ZE_21200;Даже после того, как Вы подробно объяснили, зачем всё это нужно, [extortion_target.GetFirstName] всё равно не понял[extortion_target.GetEndA] для чего понадобилось разорять [extortion_target.GetHersHis] особняк и конфисковать имущество. Казалось бы финансовая поддержка страны - это хорошо, но подобное расхищение "уже ни в какие ворота не лезет".;x
+EVTOPTA_ZE_21200;Извиниться и объяснить, как это спасёт всех нас.;x
+EVTOPTB_ZE_21200;Лишь благодаря мне, у н[extortion_target.GetHersHis] всё это было!;x
+EVTTOOLTIP_ZE_21300;Согласно Вашему указу [seize_church_target.GetFullName] отдаст всё ценное, Ваши люди позаботятся об этом.;x
+EVTDESC_ZE_21300;Ваши люди погрузили всё ценное имущество храма [seize_church_target.GetShortBaseName] в повозки, и тут к ним приблизилась разъярённая группа священников. Очевидно, они не рады тому, что "священное достояние" разграбляется, и грозят карой со стороны высших сил.;x
+EVTOPTA_ZE_21300;Уверен[Root.GetEndA], [Root.Religion.GetRandomGodName] на моей стороне!;x
+EVTOPTB_ZE_21300;Так и знал[Root.GetEndA], что они поклоняются именно этому.;x
+extort_dynasty_upset_custom_tooltip;Вся династия §Y[extortion_target.GetOnlyDynastyName]§! Вам это припомнит\n;x
+sensitive_character_custom_tooltip;Поскольку Вы не обладаете чертами характера тирана, это действие может оказать негативное влияние на Вас.\n;x
+EVTDESC_ZE_22000;Ваш верный вассал [From.GetFullName] послал[From.GetEndA] к Вам гонца с предложением. [From.GetSheHeCap] хочет сделать личное пожертвование в военный бюджет, но взамен просит Вас об ответной услуге в будущем.;x
+EVTOPTA_ZE_22000;Как раз то, что нам нужно!;x
+EVTOPTB_ZE_22000;[From.GetSheHeCap] хочет поиметь меня! Не выйдет!;x
+EVTOPTC_ZE_22000;Щедрый дар от хорошего друга!;x
+EVTDESC_ZE_22100;[From.GetFullName] решил[From.GetEndA] принять Ваше пожертвование. Теперь у нас есть рычаг воздействия на н[From.GetHersHis], нужно использовать его с умом.;x
+EVTDESC_ZE_22200;[From.GetFullName] отказа[From.GetLasLsya] от Вашего предложения. [From.GetSheHeCap] утверждает, что Вы просто хотите купить [From.GetHersHis]!;x
+EVTOPTA_ZE_22200;Какой позор.;x
+donate_to_liege;Пожертвовать 200¤ сюзерену;x
+donate_to_liege_desc;Ваш сюзерен собирает средства на подготовку к войне, и Вы можете помочь ему в этом. Возможно, столь щедрый жест не будет забыт и Вы сможете попросить что-то взамен в будущем.;x
+offer_donation_custom_tooltip;Ваш сюзерен получит от Вас предложение принять пожертвование.\n;x
+donation_cooldown_custom_tooltip;За последние 5 лет не было отказов принять от Вас такое пожертвование.;x
+HIRED_MERCENARIES_INCOME_ENTRY;$HOLDER$: $INCOME|Y$;x
+INCOME_MERCENARY_HIRED;Наёмники поступили на службу;x
+HAS_MERCENARY_MAINTENANCE_MODIFIER;$TITLE|Y$ имеет модификатор $MOD|Y$;x
+HAS_MERCENARY_MAINTENANCE_MODIFIER_NOT;$TITLE|Y$ НЕ имеет модификатора $MOD|Y$;x
+HAS_MERCENARY_BAND;$CHARACTER|Y$ имеет частную военную компанию\n;x
+HAS_MERCENARY_BAND_NOT;$CHARACTER|Y$ НЕ имеет частной военной компании\n;x
+CUT_MERCENARY_CREATOR_RELATION;$MERCENARY|Y$ разрывает отношения с человеком, известным как $CREATOR|Y$;x
+CUT_MERCENARY_CREATOR_RELATION_NOT;$MERCENARY|Y$ НЕ разрывает отношений с человеком, известным как $CREATOR|Y$;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_TITLE;Заменить капитана наёмников;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_DESC;Заменить капитана наёмников;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_LONG_DESC;Наёмников возлгавит кто-другой;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECT;Выберите нового капитана, $CURRENT|Y$ покинет свой пост;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECTED;$BAND|Y$ получит нового лидера, $REPLACEMENT|Y$ станет новым капитаном;x
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_REQ;Убедитесь, что есть подходящий кандидат на замену;x
+ENABLE_COUNCIL_VOTING_ON_ISSUE;Совет может голосовать за $ISSUE|Y$\n;x
+DISABLE_COUNCIL_VOTING_ON_ISSUE;Совет НЕ может голосовать за $ISSUE|Y$\n;x
+declare_war_interaction_voting;Объявление войны;x
+REJECTED_LAW_TIMEOUT;§RСовет уже отклонил этот закон. Вы можете попробовать снова $DATE$§!;x
+CAN_SWAP_JOB_TITLE;$CHARACTER|Y$ и $TARGET|Y$ могут менять должность;x
+CAN_NOT_SWAP_JOB_TITLE;$CHARACTER|Y$ и $TARGET|Y$ НЕ могут менять должность;x
+FORM_ALLIANCE_NOT_LANDLESS;Убедитесь, что основной титул правителя НЕ является безземельным.;x
+SET_FACTION_JOIN_RESTRICTION_ON;Вассалы НЕ могут вступать во фракции против сюзерена.\n;x
+SET_FACTION_JOIN_RESTRICTION_OFF;Вассалы могут вступать во фракции против сюзерена.\n;x
+HAS_FACTION_JOIN_RESTRICTION;Под действием запрета на вступление во фракции;x
+HAS_NO_FACTION_JOIN_RESTRICTION;НЕ под действием запрета на вступление во фракции;x
+EVTDESC750;[From.GetLawProposer] считает, что я долж[From.Holder.GetNaEn] утвердить новый закон ([From.GetProposedLaw]). Всё, что для этого нужно - это поддержка со стороны Вас и преданных мне вассалов.\n Ваш[From.Holder.GetEndA] [From.Holder.GetTitle];x
+COUNCIL_LAW_VOTING_DISABLED;§RВы не можете предлагать изменение закона при нынешних законах§!;x
+COUNCIL_LAW_VOTING_DISABLED_BY_FAVOR_OWNER;§RВы не можете предлагать изменение закона, уговор связывает Вам руки§!;x
+LAW_VOTE_DISABLED_UNDER_FAVOR;§RВы не можете голосовать за закон, уговор связывает Вам руки§!;x
+VOTE_AS_FAVOR_OWNER_LOG;$CHARACTER|Y$ проголосовал[From.GetEndA] $VOTE$ принятие закона $LAW|Y$ в качестве ответной §Yуслуги§!, бенефициар которой - $TARGET|Y$.;x
+CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP;Успешное напоминание об услуге;x
+CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG;$RECIPIENT|Y$ напомнил[Recipient.GetEndA] об §Yуслуге§!, и $ACTOR|Y$ выполнил[Actor.GetEndA] свою часть сделки.;x #ПРОВЕРИТЬ!
+BUY_FAVOR_INTERACTION_DECLINE_SETUP;Взятка не принята;x
+BUY_FAVOR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetDynName]§! отказа[Recipient.GetLasLsya] брать взятку, которую [Recipient.GetHerHim] предложил[Actor.GetEndA] §Y[Actor.GetDynName]§!;x
+LOAD_OLD_SAVE_TO_ZEUS_TITLE;Загрузить устаревшее сохранение;x
+LOAD_OLD_SAVE_TO_ZEUS_DESC;Вы собираетесь загрузить сохранение предыдущей версии игры. Последствия столь смелого шага могут быть непредсказуемы. Уверены в своём решении?;x
+LOAD_ZEUS_SAVE_TO_OLD_VERSION;§RЭто сохранение было создано с дополнением Conclave и требует это дополнение.§!;x
+FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC;Убедитесь, что $RECIPIENT|Y$ НЕ голосует сейчас по какому-либо закону.;x
+LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC;Законы совета недоступны. Уровень организованности (племени) недостаточно высок для этого.;x
+LAW_VIEW_NO_COUNCIL_LAWS_DESC;Законы совета недоступны в данный момент.;x
+COUNCIL_JOBS_INSTANT;Здесь показаны советники, которые влияют на характеристики государства.;x
+COUNCIL_JOBS_DELAYED;Советники занимают определённые должности. Каждая должность требует вполне конкретных навыков, которые влияют на качество работы советника.;x
+MINOR_TITLES_TITLE;§YПочетные титулы§!;x
+MINOR_TITLES_INSTANT;Здесь показан список почетных титулов, а также Ваших полководцев.;x
+MINOR_TITLES_DELAYED;Почётные титулы жалуются чаще всего для того, чтобы повысить мнение их обладателя о Вас, однако существуют и специальные, такие как титул полководца, позволяющий командовать войсками. Вы можете жаловать почётные титулы напрямую в этом окне.;x
+MY_COUNCIL_TITLE;§YМой совет§!;x
+MY_COUNCIL_INSTANT;Здесь показан Ваш совет.;x
+MY_COUNCIL_DELAYED;Список всех Ваших советников, а также свободные места представлены в этом окне. Политическая позиция каждого советника обозначена особым значком, она влияет на то, как этот советник голосует.;x
+LIEGE_COUNCIL_TITLE;§YСовет сюзерена§!;x
+LIEGE_COUNCIL_INSTANT;Здесь показан совет Вашего сюзерена.;x
+LIEGE_COUNCIL_DELAYED;Список всех советников сюзерена, а также свободные места представлены в этом окне. Политическая позиция каждого советника обозначена особым значком, она влияет на то, как этот советник голосует.;x
+ENFORCE_PEACE_EXECUTE_BUTTON_TITLE;§YУтвердить§!;x
+ENFORCE_PEACE_EXECUTE_BUTTON_DESC_DELAYED;Одобрено советом;x
+LAW_COUNCIL_REJECTED_LOG;Совет государства $TITLE$ отклонил принятие закона "$LAW$".;x
+tut_9b_6;Вкладки Страна и Обязательства содержат законы, влияющие не только на Вас, но и на Ваших вассалов - налоги и ополчение, которые они Вам предоставляют. Вы можете влиять на устройство государства согласно Вашим предпочтениям. Нажмите "Следующая глава", чтобы продолжить.;x
+tut_8b_6;Обратите внимание на закон о назначении епископов - инвеституру. Она может быть папской - епископов выбирает Папа, или свободной - выбирает правитель. Во втором случае Папа будет недоволен. Теперь поговорим о крестовых походах.;x
+tut_9c_6;Во вкладке Страна перечислены законы, не связанные с вопросами наследования. Выше - законы Короны, помеченные соответствующей иконкой. Они касаются вопросов власти короля или императора. Вассалов будет сложно убедить поддержать Ваши законодательные решения. Но, если их мнение о Вас и Ваш престиж достаточно высоки, это не доставит проблем.;x
+HINT_CHAR_VIEW_TEXT_2; "Семья" показывает родственные отношения. "Вассалы" - подданные правителя. Вкладка "Двор" показывает людей при дворе. "Пакты" - это международные соглашения, например альянсы. А во вкладке "За рубежом" можно увидеть придворных, находящихся в данный момент вне двора.;x
+HINT_COUNCIL_VIEW_TEXT_4;Некоторые персонажи мечтают занять пост советника. Удовлетворите их просьбу и они будут Вам за это благодарны.;x
+tut_4b_9;Они действуют до определённой даты. К примеру некоторые события могут присвоить Вам модификатор мнения других по отношению к Вам, который будет действовать какое-то время (год или два, например). Нажмите "Следующая глава", чтобы продолжить.;x
+EVTDESC107301;Если у Вас есть союзники, они всегда будут присоединяться к Вашим войнам. Некоторые из них (племена, например) должны быть уведомлены о Вашем желании призвать их к войне (и они могут отказать Вам).;x
+INTERACTION_REQUIRES_NO_ACTIVE_FAVOR;Убедитесь, что $OWES_FAVOR|Y$ НЕ действует в чьих-то интересах, в данный момент выполняя свою часть сделки.;x #ПРОВЕРИТЬ
+BUY_FAVOR_INTERACTION_LETTER;\nЯ в долгу перед Вами, и надеюсь, $GOLD$§W¤§! помогут Вам забыть об этом.;x
+BUY_FAVOR_INTERACTION_LETTER_GET;\nЯ предлагаю Вам $GOLD$§W¤§!, а у Вас прошу сущую мелочь - небольшую услугу в будущем.;x
+INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! НЕ находится под Вашим влиянием;x #§Y[Actor.GetTitledFirstName]§! #ПРОВЕРИТЬ
+INTERACTION_REQUIRES_NOT_OWING_FAVOR;Убедитесь, что $OWES_FAVOR|Y$ НЕ в долгу перед человеком, известным как $HAS_FAVOR|Y$;x #ПРОВЕРИТЬ
+EVTDESC_ZE_1031;Ваша дочь [target_daughter_killed_her_friend.GetFirstName] ненавидит Вас за убийство своего любовника: "[From.GetFirstName], м[From.GetOyaOy] [From.GetFirstName]! За что?! Я никогда тебя прощу! Гори в аду!";x
+EVTDESC_ZE_2061B;Казначейские сундуки опять открыты и оставлены без присмотра. Уверен[Root.GetEndA], [Root.Liege.GetTitledFirstName] хочет этим показать, что для меня припасена небольшая премия. [Root.Liege.GetSheHeCap] знает, что другие советники будут возражать, если это произойдёт у них на виду.;x
+EVTOOLTIP38228;[Root.Guardian.GetFullName] ответит на вопрос, который задаёт [Root.GetFirstName].;x
+EVTDESC1928;Сегодня прибыли гости издалека. Несмотря на их непонятный язык, странные одежды и цвет кожи, [Root.Guardian.GetFullName] горячо поприветствовал[Root.Guardian.GetEndA] эту делегацию. Я с нетерпением жду возможности поговорить с ними, разузнать откуда они, но не уверен[Root.GetEndA], что [Root.Guardian.GetTitledFirstName] одобрит моё любопытство.;x
+EVTDESC3516;[From.GetTitledFirstName] будет вне себя, если узнает, что решив передать [From.GetHersHis] сокола сокольничьему, я совсем забыл[Root.GetEndA] о снаряжении, и он улетел.;x
+EVTDESC_SOA_4111;Инквизиторы вернулись домой, провалив задание в округе [Root.GetName], подальше от раздражённых местных жителей.;x
+EVTDESC_SOA_4113;Успешно искоренив ересь в округе [Root.GetName], инквизиторы вернулись домой.;x
+EVTDESC_SOA_4131;Теологи, которых [FromFrom.GetTitledName] отправил[FromFrom.GetEndA] в округ [Root.GetName], вернулись домой, еле унеся ноги.;x
+EVTDESC_SOA_4133;Теологи, которых [FromFrom.GetTitledName] отправил[FromFrom.GetEndA] в округ [Root.GetName], с триумфом вернулись домой. Еретики отказались от своих ложных верований!;x
+RESIGN_COMMANDER_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W освободил[Actor.GetEndA] полководца, известного как §Y[Recipient.GetTitledFirstName]§W, от занимаемой должности;x
+EVTDESCdiploresponse.1;Я, [From.GetBestName], принимаю Ваше предложение об альянсе.;x
+EVTDESCdiploresponse.2;Я, [From.GetBestName], отвергаю Ваше предложение об альянсе.;x
+EVTOPTC_ZE_12002;Я дам [From.GetHerHim] конфетку.;x
+EVTDESC_ZE_8000;[target_spouse.GetTitledName], [target_spouse.GetHusbandWife] правителя, известного как [target_ruler.GetTitledName], пробыл[target_spouse.GetEndA] несколько дней в столице. Было на удивление приятно общаться с н[target_spouse.GetEyIm]. [target_spouse.GetSheHeCap] сказал[target_spouse.GetEndA], что [capital.GetName] - прекрасное место и хотел[target_spouse.GetEndA] бы приехать снова.;x
+EVTDESC_ZE_8001;Дорог[target_ruler.GetAyaOy] [target_ruler.GetTitledName],\nМы с Ваш[target_ruler.GetEyImOpp] [target_ruler.GetHusbandWifeOppINS] прекрасно провели время, обсуждая взаимоотношения между нашими народами, когда [target_ruler.GetSheHeOpp] был[target_ruler.GetEndAOpp] здесь с визитом. Я считаю, что пакт о ненападении пришёлся бы весьма кстати. Приезжайте в гости.\nС наилучшими пожеланиями,\n [From.GetTitledFirstName];x
+EVTDESC_ZE_8002;Дорог[Root.GetAyaOy] [Root.GetTitledName],\nЕсли это соглашение поспособствует взаимопониманию между нашими народами, я приложу все усилия для открытия границ для посетителей из Вашей страны.\nС уважением,\n [target_ruler.GetTitledName].;x
+EVTDESC_ZE_2075;[Root.GetSpymasterName] [Root.job_spymaster.GetFirstName] сегодня попросил[Root.job_spymaster.GetEndA] о дополнительном финансировании. [Root.job_spymaster.GetHersHisCap] беспокоит, насколько лёгко шпионы могут проникнуть к нам, а для укрепления тайных операции нужны средства.;x
+MERCENARY_ON_CONTRACT;Наняты;x #ПРОВЕРИТЬ
+LAW_VOTER;$NAME$\n;x
+LAW_VOTER_X;$NAME$ x$NUM|Y$\n;x
+CANCEL_LAW_VOTE;§YОтказать от голосования по смене закона§!;x
+VOTE_FOR_LAW;§YГолосовать за изменение закона§!;x
+VOTE_AGAINST_LAW;§YГолосовать против изменения закона§!;x
+OPEN_LIST_OF_UNDECIDED_VOTERS;§YОткрыть список тех, кто ещё не проголосовал.§!;x
+LAW_VOTE_STATUS_ZEUS;Голосование: §Y$LAW$§! ( $YES|G$/$NO|R$/$WAITING$ );x
+REQUEST_SUPPORT_INTERACTION_ACCEPT_SETUP;Просьба о поддержке удовлетворена;x
+REQUEST_SUPPORT_INTERACTION_ACCEPT_LOG;§Y[Actor.GetDynName]§W согласи[Actor.GetLasLsya] поддержать человека по имени §Y[Recipient.GetDynName]§W;x
+REQUEST_SUPPORT_INTERACTION_DECLINE_SETUP;Просьба о поддержке отвергнута;x
+REQUEST_SUPPORT_INTERACTION_DECLINE_LOG;§Y[Actor.GetDynName]§W отказал[Actor.GetEndA] в поддержке человеку по имени §Y[Recipient.GetDynName]§W;x
+FAM_EDUCATOR;Воспитатель;x
+ZEUS_WARD_DESC;Взрослые могут брать двоих детей в качествен своих воспитанников.;x
+ZEUS_GUARDIAN_DESC;Наставник - это учитель, воспитанник, которого вынужден проживать с ним при одном дворе. Учтите, что когда кто-то держит Вашего близкого родственника при своём дворе, Вы не можете объявить ему войну.;x
+HOSTAGE_NAME;\n        $WHO|Y$;x
+CHANGE_MERCENARY_COMPOSITION_CONVERT;Заменить отряд ($COUNT|Y$ $FROM$) другим видом войск ($TYPE$)\n;x
+CHANGE_MERCENARY_COMPOSITION;$TYPE$: $COUNT|=-+$\n;x
+alert_child_needs_focus_instant;§Y$NUM$ детей нуждаются в выборе типа воспитания§!;x
+alert_child_needs_focus_delayed;Следующие дети нуждаются в выборе типа воспитания:\n$LIST$;x
+alert_child_needs_focus_name;Детям нужно воспитание;x
+alert_adolescent_needs_focus_instant;§Y$NUM$ детей нуждаются в выборе образования§!;x
+alert_adolescent_needs_focus_delayed;Следующие дети нуждаются в выборе образования:\n$LIST$;x
+alert_adolescent_needs_focus_name;Детям нужно образование;x
+GOV_FLAVOR;$TYPE$;x
+gov_feudal_monarchy;Феодальная монархия;x
+opinion_inherited;Мнение о предшественнике;x
+opinion_inherited_negative;Мнение о предшественнике;x
+CHARACTER_POWERFUL_TOOLTIP;§YМогущественный вассал§!;x
+CHARACTER_POWERFUL_TOOLTIP_ANGRY;§RЗлится за то, что не состоит в совете.§!;x
+alert_has_favor_instant;§Y$NUM$ человек перед Вами в долгу§!;x
+alert_has_favor_delayed;Следующие люди перед Вами в долгу:\n$LIST$\nВозможны следующие услуги:\n$ACTIONS$;x
+alert_has_favor_name;Вам должны;x
+HAS_FAVOR_ON;\n§YМожет взыскать долг (услугу) с:§!\n;x
+OWES_FAVOR_TO_TOOLTIP;\n§YВ долгу перед:§!\n;x
+COUNCIL_LAW_VOTING_DISABLED_FOR_GROUP;\n§YСовет не в праве инициировать голосование по такому закону.§!;x
+COUNCIL_LAW_VOTING_ENABLED_FOR_GROUP;\n§YСоветник может инициировать голосование по такому закону, ибо сюзерен в долгу перед ним.§!;x
+tribal_duchy;Верховное вождество;x
+tribal_duchy_norse;Ярлство;x
+duchy_norse;Ярлство;x
+gov_default;Анархия;x
+gov_electorial_absolute_autocracy;Выборная абсолютная автократия;x
+gov_electorial_absolute_autocracy_norse;Выборная абсолютная автократия;x
+gov_electorial_absolute_autocracy_tengri;Выборная абсолютная автократия;x
+gov_electorial_absolute_monarchy;Выборная абсолютная монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_absolute_monarchy_norse;Выборная абсолютная монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_absolute_monarchy_tengri;Выборная абсолютная монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_aristocratic_autocracy;Выборная аристократическая автократия;x
+gov_electorial_aristocratic_autocracy_norse;Выборная аристократическая автократия;x
+gov_electorial_aristocratic_autocracy_tengri;Выборная аристократическая автократия;x
+gov_electorial_aristocratic_monarchy;Выборная аристократическая монархия;x #Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_aristocratic_monarchy_norse;Выборная аристократическая монархия;x #Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_aristocratic_monarchy_tengri;Выборная аристократическая монархия;x #Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_despotic_autocracy;Выборная деспотическая автократия;x #Elective Despotic Imperial Autocracy
+gov_electorial_despotic_autocracy_norse;Выборная деспотическая автократия;x #Elective Despotic Imperial Autocracy
+gov_electorial_despotic_autocracy_tengri;Выборная деспотическая автократия;x #Elective Despotic Imperial Autocracy
+gov_electorial_despotic_monarchy;Выборная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_zoro;Выборная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_norse;Выборная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_tengri;Выборная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_absolute_autocracy;Наследственная абсолютная автократия;x
+gov_hereditary_absolute_autocracy_indian;Абсолютная автократия;x
+gov_hereditary_absolute_autocracy_norse;Наследственная абсолютная автократия;x
+gov_hereditary_absolute_autocracy_tengri;Наследственная абсолютная автократия;x
+gov_hereditary_absolute_monarchy;Наследственная абсолютная монархия;x #Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_indian;Абсолютная монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_norse;Наследственная абсолютная монархия;x #Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_tengri;Наследственная абсолютная монархия;x #Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_autocracy;Наследственная аристократическая автократия;x
+gov_hereditary_aristocratic_autocracy_indian;Аристократическая автократия;x
+gov_hereditary_aristocratic_autocracy_norse;Наследственная аристократическая автократия;x
+gov_hereditary_aristocratic_autocracy_tengri;Наследственная аристократическая автократия;x
+gov_hereditary_aristocratic_monarchy;Наследственная аристократическая монархия;x #Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_indian;Аристократическая монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_norse;Наследственная аристократическая монархия;x #Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_tengri;Наследственная аристократическая монархия;x #Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_autocracy;Наследственная деспотическая автократия;x
+gov_hereditary_despotic_autocracy_indian;Деспотическая автократия;x
+gov_hereditary_despotic_autocracy_norse;Наследственная деспотическая автократия;x
+gov_hereditary_despotic_autocracy_tengri;Наследственная деспотическая автократия;x
+gov_hereditary_despotic_monarchy;Наследственная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_zoro;Наследственная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_indian;Деспотическая монархия;x #Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_norse;Наследственная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_tengri;Наследственная деспотическая монархия;x #[PrimaryTitle.GetTier]
+gov_muslim_absolute_autocracy;Абсолютная автократия;x
+gov_muslim_absolute_monarchy;Абсолютная монархия;x #Absolute [PrimaryTitle.GetTier]
+gov_muslim_aristocratic_autocracy;Аристократическая автократия;x
+gov_muslim_aristocratic_monarchy;Аристократическая монархия;x #Aristocratic [PrimaryTitle.GetTier]
+gov_muslim_despotic_autocracy;Деспотическая автократия;x
+gov_muslim_despotic_monarchy;Деспотическая монархия;x #Despotic [PrimaryTitle.GetTier]
+gov_aristocratic_republic;Аристократическая республика;x #[PrimaryTitle.GetTier]
+gov_plutocratic_republic;Плутократическая республика;x #[PrimaryTitle.GetTier]
+gov_oligarchic_republic;Олигархическая республика;x #[PrimaryTitle.GetTier]
+gov_patrician;Дело семьи [GetOnlyDynastyName];x
+gov_prince_electorate;Курфюршество;x #Prince Electorate
+gov_king_electorate;Великое курфюршество;x #King Electorate
+gov_carolingian_hegemony;Каролингская гегемония;x
+gov_imperial_carolingian_hegemony;Имперская Каролингская гегемония;x
+gov_chiefdom;Вождество;x #[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_grand_chiefdom;Великое вождество;x #[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_noble_chiefdom;Вождество;x #Noble [Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_crusader_state;Государство крестоносцев;x
+gov_crusader_kingdom;Королевство крестоносцев;x
+gov_hereditary_zun;Империя Солнца;x #Hereditary [PrimaryTitle.GetTier] of the Sun
+gov_electorial_zun;Империя Солнца;x #Elective [PrimaryTitle.GetTier] of the Sun
+gov_terror;[PrimaryTitle.GetTier] Ужаса;x
+gov_duchy_viceroy;[Liege.PrimaryTitle.GetAdjective]ское вице-герцоство;x
+gov_king_viceroy;[Liege.PrimaryTitle.GetAdjective]ское вице-королевство;x
+gov_duchy_viceroy_byz;[Liege.PrimaryTitle.GetAdjective]ская фема;x
+gov_king_viceroy_byz;[Liege.PrimaryTitle.GetAdjective]ский экзархат;x
+gov_aztec;Ацтекская колония;x
+gov_electorial_absolute_hre;Выборная абсолютная монархия;x #Elective Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_hre;Наследственная абсолютная монархия;x #Hereditary Absolute [PrimaryTitle.GetTier]
+gov_electorial_despotic_hre;Выборная деспотическая монархия;x #Elective Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_hre;Наследственная деспотическая монархия;x #Hereditary Despotic [PrimaryTitle.GetTier]
+gov_aristocratic_electorial_hre;Выборная аристократическая монархия;x #Elective Aristocratic [PrimaryTitle.GetTier]
+gov_aristocratic_hereditary_hre;Наследственная аристократическая монархия;x #Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_nomadic_mongol_empire;Великое Монгольское государство;x #Ikh Mongol Uls
+gov_khaganate;[GetCultureAdj]ий каганат;x #[PrimaryTitle.GetTier]
+gov_clan;[PrimaryTitle.GetTier] [GetOnlyDynastyName];x
+LAW_COUNCIL_REJECTED_SETUP;Совет отверг предложенный закон;x
+ALLOW_FEMINISM_ON;Правители-женщины НЕ получают негативных модификаторов к мнению о себе\n;x
+ALLOW_FEMINISM_OFF;Правители-женщины получают негативные модификаторы к мнению о себе\n;x
+ALLOW_GENDER_LAWS_ON;Разрешает менять гендерные законы\n;x
+ALLOW_GENDER_LAWS_OFF;Запрещает менять гендерные законы\n;x
+alert_my_peace_soon_enforced_instant;§YВы утвердили мир внутри страны!§!;x
+alert_my_peace_soon_enforced_delayed;Ваш совет объявил, что внутри страны будет действовать принудительный мир!\nВсе войны, которые вассалы ведут между собой завершатся §Yбелым миром§! через $MONTHS|Y$ месяцев!;x
+alert_my_peace_being_enforced_instant;§YМир внутри страны вступил в силу!§!;x
+alert_my_peace_being_enforced_delayed;Ваш совет объявил, что внутри страны отныне действует принудительный мир!\nВаши вассалы не смогут объявлять друг другу войны в течение следующих $MONTHS|Y$ месяцев!;x
+tribal_county;Вождество;x
+tribal_kingdom_old_saxon;Великое вождество;x
+tribal_kingdom_altaic;Ханство;x
+tribal_empire_altaic;Каганат;x
+tribal_kingdom_arabic;Султанат;x
+tribal_empire_russian;Царство;x
+duchy_russian;Княжество;x
+empire_russian;Царство;x
+gov_revolt;Правительство мятежников;x #[PrimaryTitle.GetAdjective]ское Восстание
+gov_romuva_eldership;[_Балтий]ское старейшинство;x
+gov_norse_chiefdom;[_Скандинав]ское вождество;x #[Religion.GetName] [PrimaryTitle.GetTier]
+gov_noble_norse_chiefdom;[_Скандинав]ское вождество;x #Noble [Religion.GetName] [PrimaryTitle.GetTier]
+gov_muslim_chiefdom;[Religion.GetGroupName]ское вождество;x # [PrimaryTitle.GetTier]
+gov_noble_muslim_chiefdom;[Religion.GetGroupName]ское вождество;x #Noble  [PrimaryTitle.GetTier]
+gov_african_chiefdom;Африканское вождество;x #[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_noble_african_chiefdom;Африканское вождество;x #Noble [Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_hereditary_danelaw;Наследственный данелаг;x
+gov_electorial_danelaw;Выборный данелаг;x
+COUNCIL_DISCONTENT_FROM_SUCCESSION;Наследование всегда делает совет недовольным.;x
+FAVOR_ALERT_ACTION; §Y- $ACTION$§!\n;x
+FAVOR_FORCE_VOTE;Заставить кого-то голосовать в совете так, как нужно Вам;x
+FAVOR_PRESS_CLAIM;Попросить сюзерена заявить о Ваших претензиях в войне;x
+FAVOR_START_LAW_VOTE;Инициировать голосование по закону для сюзерена;x
+FAVOR_FORCE_MARRIAGE;Вынудить к согласию с предложением брака;x
+FAVOR_FORCE_GUARDIANSHIP;Вынудить к согласию с предложением обучить ребёнка;x
+FAVOR_END_PLOT;Вынудить к согласию выйти из заговора;x
+COUNCIL_CONTENT;Совет доволен;x
+COUNCIL_DISCONTENT;Недоволен до $UNTIL$;x #ПРОВЕРИТЬ
+COUNCIL_STATUS_LONG_CONTENT_PLAYER;Ваш [Actor.GetCouncilName] §Yдоволен§!;x
+COUNCIL_STATUS_LONG_CONTENT_LIEGE;[Actor.GetCouncilName] сюзерена §Yдоволен§!;x #§Y[Actor.GetBestName]§!
+COUNCIL_STATUS_LONG_DISCONTENT_PLAYER;Ваш [Actor.GetCouncilName] §Yнедоволен§! уже $DISCONTENT_DURATION$ месяцев.;x
+COUNCIL_STATUS_LONG_DISCONTENT_LIEGE;[Actor.GetCouncilName] Вашего сюзерена §Yнедоволен§! уже $DISCONTENT_DURATION$ месяцев.;x #[Actor.GetBestName]
+COUNCIL_REASON_FOR_DISCONTENT;Причина недовольства:\n$REASON|Y$\n\n;x
+GENERIC_DISCONTENT_REASON;Принятие решения, которое не было одобрен советом;x
+INHERITANCE_TAB;§YЗаконы наследования§!;x
+INHERITANCE_TAB_DELAYED;Эти законы регулируют передачу власти от одного правителя к другому.;x
+REALM_TAB;§YГосударственное и религиозное право§!;x
+REALM_TAB_DELAYED;Эти законы регулируют внутреннюю политику государства и религиозное право.;x
+OBLIGATIONS_TAB;§YВассальные обязательства§!;x
+OBLIGATIONS_TAB_DELAYED;Эти законы регулируют долю ополчения и налогов, передаваемую вассалами своему сюзерену.;x
+COUNCIL_LAW_TAB;§YПолномочия совета§!;x
+COUNCIL_LAW_TAB_DELAYED;Эти законы определяют возможности государственного совета в управлении страной.;x
+revoke_title_interaction_voting;Отзыв титулов;x
+imprison_character_interaction_voting;Лишение свободы;x
+grant_landed_title_interaction_voting;Передача титулов;x
+exile_imprisoned_interaction_voting;Изгнание;x
+execute_imprisoned_interaction_voting;Казнь;x
+laws_voting;Голосование по закону;x
+IMPRISON_DISCONTENT_REASON;[Actor.GetBestName] попыта[Actor.GetLasLsya] заключить в тюрьму человека, известного как [Recipient.GetBestName], несмотря на то, что совет проголосовал против.;x
+EXECUTE_DISCONTENT_REASON;[Actor.GetBestName] казнил[Actor.GetEndA] человека, известного как [Recipient.GetBestName], несмотря на то, что совет проголосовал против.;x
+REVOKE_TITLE_DISCONTENT_REASON;[Actor.GetBestName] отозвал[Actor.GetEndA] титул [ThirdPartyTitle.GetFullName] у человека, известного как [Recipient.GetBestName], несмотря на то, что совет проголосовал против.;x
+GRANT_TITLE_DISCONTENT_REASON;[Actor.GetBestName] пожаловал[Actor.GetEndA] титул [ThirdPartyTitle.GetFullName] человеку, известному как [Recipient.GetBestName], несмотря на то, что совет проголосовал против.;x
+EXILE_IMPRISONED_DISCONTENT_REASON;[Actor.GetBestName] изгнал[Actor.GetEndA] человека, известного как [Recipient.GetBestName], несмотря на то, что совет проголосовал против.;x
+CB_NAME_INCREASE_COUNCIL_POWER;Усилить совет;x
+WAR_NAME_INCREASE_COUNCIL_POWER;$ORDER$[Recipient.PrimaryTitle.GetAdjective]ская гражданская война за усиление совета;x
+council_off_custom;Запрещает принуждение к §Yмиру внутри страны§!;x
+council_on_custom;Разрешает дополнительные законы о совете\nРазрешает принуждение к §Yмиру внутри страны§!;x
+EVTDESC8215;Слишком долго Вы ограничивали политические права своих верных вассалов. [Root.GetCouncilName] должен получить больше полномочий, время пришло! Согласитесь с требованием мирно или столкнётесь с нежелательными последствиями. Будьте уверены, на моей стороне немало тех, кто думает так же...\nПодпись:\n [From.GetTitledName];x
+opinion_childhood_sweetheart;Любовь детства;x
+pattern_loyalist_vote_as_liege_custom_tooltip;Лоялист обычно голосует, как сюзерен\n;x
+pattern_pragmatist_weak_opponent_custom_tooltip;Противник намного слабее нас\n;x
+pattern_pragmatist_de_jure_or_culture_custom_tooltip;Это наши законные земли (де-юре или наша культурная группа)\n;x
+pattern_pragmatist_strong_opponent_custom_tooltip;Противник слишком силён, не стоит нарываться\n;x
+pattern_pragmatist_dislike_large_demesne_custom_tooltip;Многовато личных владений, Вам не кажется? (4 или более владений)\n;x
+pattern_glory_hound_glorious_war_custom_tooltip;Достойный противник! Это будет славная битва!\n;x
+pattern_glory_hound_preferred_war_custom_tooltip;Я хочу сразиться с этим противником!\n;x
+pattern_glory_hound_land_grab_custom_tooltip;Победа в этой войне расширит нашу страну!\n;x
+pattern_glory_hound_opponent_too_weak_custom_tooltip;Мы не должны нападать на слабых, в этом нет чести\n;x
+pattern_zealot_depose_wicked_pope_custom_tooltip;Наш долг - свергнуть этого гнусного Папу\n;x
+pattern_zealot_dislikes_heathens_heretics_custom_tooltip;Они - иноверцы, эта война - нащ святой долг!\n;x
+pattern_attacking_excom_or_antipope_custom_tooltip;Это враг Церкви!\n;x
+pattern_zealot_not_other_religion_antipope_custom_tooltip;Антипапа лжецеркви нам на руку\n;x
+pattern_malcontent_vote_against_liege_custom_tooltip;Фрондёр обычно голосует противоположно сюзерену\n;x
+pattern_selfish_gain_title_custom_tooltip;Я хочу титул!\n;x
+pattern_selfish_save_my_hide_custom_tooltip;Я проигрываю войну, а это спасёт мою шкуру\n;x
+pattern_selfish_save_ally_custom_tooltip;Мой союзник проигрывает, надо помочь ему\n;x
+pattern_selfish_lose_title_custom_tooltip;Я могу потерять титул!\n;x
+pattern_selfish_affects_me_custom_tooltip;Я себе не враг!\n;x
+pattern_i_am_unlanded_custom_tooltip;У меня нет земли, мне нужен титул!\n;x
+pattern_my_de_jure_title_custom_tooltip;Эти земли - мои по праву!\n;x
+pattern_i_desire_this_title_custom_tooltip;Я хочу этот титул\n;x
+pattern_selfish_i_am_winning_custom_tooltip;Я побеждаю в войне\n;x
+pattern_selfish_ally_is_winning_custom_tooltip;Мой союзник побеждает в войне\n;x
+pattern_family_member_gain_title_custom_tooltip;Моя семья заслуживает титул!\n;x
+pattern_family_against_family_custom_tooltip;Это война против моей семьи\n;x
+pattern_family_member_lose_title_custom_tooltip;Моя семья может потерять титул!\n;x
+pattern_family_member_affected_negatively_custom_tooltip;Я - не враг своей семье\n;x
+pattern_this_is_my_war_target_custom_tooltip;Мне нужна эта война!\n;x
+pattern_interaction_dislike_custom_tooltip;Этот человек мне не нравится\n;x
+pattern_interaction_like_custom_tooltip;Этот человек мне нравится\n;x
+pattern_interaction_dont_dislike_unlanded_custom_tooltip;Я не испытываю неприязни к этому безземельному человеку\n;x
+PICK_CHILDHOOD_FOCUS_DESC;Воспитание можно выбрать только раз.\n§RЕсли его не выбрать, развитие ребёнка будет менее предсказуемо.§!;x
+PICK_ADOLESCENCE_FOCUS_DESC;Образование можно выбрать только раз.\n§RЕсли этого не сделать, результат обучения будет непредсказуемым и значительно худшим, чем при конкретном выборе.§!;x
+CANNOT_CHANGE_CHILDHOOD_FOCUS;§RВоспитание ребёнка может быть выбрано только раз.§!\n§YКогда ребёнок подрастёт (по достижении 12 лет), появится возможность выбрать тип образования.§!;x
+CANNOT_CHANGE_EDUCATION_FOCUS;§RТип образования можно выбрать только раз.§!\n§YОн пропадёт сам, когда подросток достигнет совершеннолетия.§!;x
+LAW_CHANGE_TIMEOUT;§RСовет недавно отверг принятие закона. Вы можете попыться снова не ранее чем $DATE$§!;x
+dissolve_mercenary_company_feudal;Распустить военную компанию;x
+INTERACTION_TITLE_REVOCATION_ALLOWED;Убедитесь, что §Y$TITLE$§! допускает отзыв титулов (законы);x
+EVTOPTB63043;Это бесполезно.;x
+EVTOPTB63043_TOOLTIP;Отказаться от амбиции.;x
+EVTOPTB_ZE_13102;Эх... молодежь!;x
+EVTOPTC_ZE_13102;Эх... молодежь!;x
+SAME_POSITION_AS;склонен голосовать также как и $TARGET|Y$, поскольку является $POSITION$ом;x
+HAS_POSITION;голосует как $POSITION|Y$;x
+HAS_MERCENARY_UNITS;$CHARACTER$ владеет отрядами наёмников;x
+COUNCILOR_VOTES;Голосует за $ISSUE|Y$;x #ПРОВЕРИТЬ

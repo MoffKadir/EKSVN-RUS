@@ -1,0 +1,95 @@
+#CODE;RUSSIAN;x
+TOOLTIP_DISALLOW_TRUE_COGNATIC;Запрещает когнатическое наследование.\n;x
+TOOLTIP_ALLOW_TRUE_COGNATIC;Разрешает когнатическое наследование.\n;x
+opinion_powerful_vassal_not_voter;Желает получить пост в совете;x
+REQUEST_SUPPORT_INTERACTION_TITLE;Заручиться поддержкой в совете;x
+ASK_TO_DECLARE_WAR_INTERACTION_TITLE;Попросить заявить о претензиях;x
+change_council_job_desc;Если Вы считаете, что §Y[Root.GetTitledName]§! больше подходит для другой работы, Вы можете снять [Root.GetHersHis] с нынешнего поста в совете, назначив на другой.;x
+IS_AFFECTED_BY_AN_ACTIVE_REALM_PEACE;Под воздействием принуждения к миру (мир внутри страны).;x
+IS_NOT_AFFECTED_BY_AN_ACTIVE_REALM_PEACE;НЕ под воздействием принуждения к миру (мир внутри страны).;x
+horse_death;, откинув копыта;x #horsing around
+AIREASON_EXPANDING_HORDE;Некогда. Завоёвываю мир. И, кстати, на очереди Вы: ;x #ПРОВЕРИТЬ
+HAS_LIEGE_ENFORCED_PEACE;$LIEGE|Y$ принуждает к миру.;x
+HAS_LIEGE_ENFORCED_PEACE_NOT;$LIEGE|Y$ НЕ принуждает к миру.;x
+WILL_LIEGE_ENFORCE_PEACE;$LIEGE|Y$ будет принуждать к миру.;x
+WILL_LIEGE_ENFORCE_PEACE_NOT;$LIEGE|Y$ НЕ будет принуждать к миру.;x
+INTERACTION_TYRANNY_AGAINST_COUNCIL;§RДействия вопреки решению совета будут расцениваться как акт тирании!§!;x
+FORCE_JOIN_FACTION_INTERACTION_TITLE;Заставить вступиить во фракции;x
+FORCE_JOIN_FACTION_INTERACTION_DESC;§Y[Recipient.GetTitledFirstName]§! может вступить в Ваши фракции, [Recipient.GetSheHe] в долгу перед Вами.;x
+FORCE_JOIN_FACTION_INTERACTION_LONG_DESC;§Y[Recipient.GetTitledFirstName]§! перед Вами в долу и в качестве §Yуслуги§! с [Recipient.GetHersHis] стороны, Вы можете попросить [Recipient.GetHersHis] вступить в Ваши фракции.;x
+FORCE_JOIN_FACTION_INTERACTION_LETTER;\nПришло время для ответной услуги с Вашей стороны - я прошу Вас присоединиться к моим фракциям.;x
+FORCE_JOIN_FACTION_INTERACTION_LETTER_GET;\nВступайте в мои фракции.;x
+FORCE_JOIN_FACTION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! воспользова[Actor.GetLasLsya] тем, что §Y[Recipient.GetBestName]§! - [Actor.GetHersHis] должни[Recipient.GetTsaK], вынудив [Recipient.GetHersHis] вступить в свою фракцию.;x
+CAN_JOIN_FACTION;$RECIPIENT|Y$ может вступить во фракцию $FACTION|Y$;x
+CAN_JOIN_ONE_FACTION;$RECIPIENT|Y$ может вступить хотя бы в одну из Ваших фракций;x
+NOT_DISSUADED_FROM_FACTIONS;$RECIPIENT|Y$ НЕ отстранен от политики (может вступать во фракции);x
+JOIN_FACTION;§YВступить во фракцию§!;x
+IS_DE_FACTO_LIEGE;Де-факто сюзерен;x
+LEAVE_FACTION_COERCED;Вы не можете покинуть фракцию, если Вас вынудили вступить в неё;x
+INVITE_FAVOR_MARRIED;Убедитесь, что $RECIPIENT|Y$ НЕ в браке;x
+INVITE_FAVOR_LIEGE_RELATIVE;Убедитесь, что $RECIPIENT|Y$ и $LIEGE|Y$ - НЕ близкие родственники;x
+INVITE_FAVOR_JOB;Убедитесь, что $RECIPIENT|Y$ НЕ занимает пост в совете;x
+AIREASON_LIEGE_HATE;Ненавидит сюзерена (§Y[GetTitledName]§!);x
+ASK_REALM_PEACE_INTERACTION_TITLE;Попросить о мире внутри страны;x
+ASK_REALM_PEACE_INTERACTION_DESC;Напомнить сюзерену об §Yуслуге§!, чтобы попросить установить §Yмир внутри страны§!.;x
+ASK_REALM_PEACE_INTERACTION_LONG_DESC;§Y[Recipient.GetTitledFirstName]§! перед Вами в долгу. В качестве §Yуслуги§! с [Recipient.GetHersHis] стороны Вы можете попросить установить §Yмир внутри страны§!.;x
+ASK_REALM_PEACE_INTERACTION_LETTER;\nПришло время для ответной услуги с Вашей стороны - я прошу Вас установить мир внутри страны.;x
+ASK_REALM_PEACE_INTERACTION_LETTER_GET;\nУстановите мир внутри страны.;x
+ASK_REALM_PEACE_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! воспользова[Actor.GetLasLsya] тем, что §Y[Recipient.GetBestName]§! - [Actor.GetHersHis] должни[Recipient.GetTsaK], вынудив установить §Yмир внутри страны§!.;x
+ASK_COUNCIL_POSITION_INTERACTION_TITLE;Потребовать пост в совете;x
+ASK_COUNCIL_POSITION_INTERACTION_DESC;Напомнить сюзерену об §Yуслуге§! и попросить пост в §Yсовете§!.;x
+ASK_COUNCIL_POSITION_INTERACTION_LONG_DESC;§Y[Recipient.GetTitledFirstName]§! перед Вами в долу и в качестве §Yуслуги§! с [Recipient.GetHersHis] стороны, Вы можете попросить у н[Recipient.GetHersHis] пост в §Yсовете§!.;x
+ASK_COUNCIL_POSITION_INTERACTION_LETTER;\nПришло время для ответной услуги с Вашей стороны - я хочу пост в совете.;x
+ASK_COUNCIL_POSITION_INTERACTION_LETTER_GET;\nДайте мне пост в совете.;x
+ASK_COUNCIL_POSITION_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§! воспользова[Actor.GetLasLsya] тем, что §Y[Recipient.GetBestName]§! - [Actor.GetHersHis] должни[Recipient.GetTsaK], чтобы получить место в совете.;x #$POSITION|Y$ $FIRED$
+COUNCIL_POSITION_FIRED;, $FIRED|Y$ теряет свой пост.;x
+coerced_into_council_position;Заставил меня дать пост в совете;x
+DEMAND_POSITION_MUST_HAVE_POSITIONS;Убедитесь, что $RECIPIENT|Y$ обладает местами в §Yсовете§!, которые $ACTOR|Y$ может занять;x
+DEMAND_POSITION_CAN_HOLD_POSITION;Убедитесь, что $ACTOR|Y$ может занимать эту должность ($POSITION|Y$) в совете правителя, известного как $RECIPIENT|Y$;x
+DEMAND_POSITION_MUST_CHOOSE_POSITION;Убедитесь, что $ACTOR|Y$ знает какой пост в §Yсовете§! хочет занять, прежде чем $RECIPIENT|Y$ даст свой ответ;x
+EVTDESC527;[From.GetTitledFirstName] пользуясь тем, что [This.GetTitledFirstName] - [From.GetHersHis] должни[This.GetTsaK], требует для себя место в совете, но в ответ получает отказ.;x
+EVTDESC528;[From.GetTitledFirstName] воспользова[From.GetLasLsya] тем, что [This.GetTitledFirstName] - [From.GetHersHis] должни[This.GetTsaK] и вынудил[From.GetEndA] установить мир внутри страны.;x
+EVTDESC529;[From.GetTitledFirstName] пользуясь тем, что [This.GetTitledFirstName] - [From.GetHersHis] должни[This.GetTsaK], требует установить мир внутри страны, но в ответ получает отказ.;x
+EVTDESC530;[From.GetTitledFirstName] воспользова[From.GetLasLsya] тем, что [This.GetTitledFirstName] - [From.GetHersHis] должни[This.GetTsaK], и вынудил[From.GetEndA] вступить в свои фракции.;x
+EVTDESC531;[From.GetTitledFirstName] пользуясь тем, что [This.GetTitledFirstName] - [From.GetHersHis] должни[This.GetTsaK], требует вступить в свои фракции, но в ответ получает отказ.;x
+HAS_FACTION_TO_JOIN;$ACTOR|Y$ долж[Actor.GetNaEn] возглавлять хотя бы одну §Yфракцию§!;x
+CAN_ENFORCE_PEACE;§YМир внутри страны§! может быть установлен;x
+TOOLTIP_SoA_5357;Этот вариант доступен благодаря Вашей §Yпохоти§! и §Yцинизму§!, а также высокому навыку §YИнтрига§!\n;x
+AIREASON_IS_A_THREAT;Это несёт угрозу;x
+stutter_desc;Эт[GetEtaEtot] [GetAgedPerson] - заикается, что мешает [GetHersHis] способности к эффективному общению.;x
+EVTDESC1690;Я стану лучшим из правителей, когда вырасту!;x
+council_war_off_custom; члены совета могут свободно вступать во фракции.\n;x
+council_war_on_custom; члены совета могут вступать во фракции только, когда совет выражает §Rнедовольство§!. Предствители племенных и кочевых общин всегда могут вступать во фракции.;x
+CROWN_LAW_CHANGE_TIMEOUT;§RСовет недавно отклонил введение нового закона Короны. Вы можете попытаться снова не раньше чем $DATE$§!;x
+ALLOW_MATRILINEAL_MARRIAGE_ON;Разрешает матрилинейные браки\n;x
+ALLOW_MATRILINEAL_MARRIAGE_OFF;Запрещает матрилинейные браки\n;x
+LANDED_TITLE_BEING_CREATED;Создан титул: $TITLE$;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_DESC;Предложить пакт о ненападении. Стороны соглашения: §Y[Actor.GetBestName]§! и §Y[Recipient.GetBestName]§!.;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LONG_DESC;Если династические связи достаточно близки, Вы можете предложить пакт о ненападении.;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LETTER;\nЯ предлагаю пакт о ненападении между нами.;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_LETTER_GET;\nДавайте подпишем пакт о ненападении.;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_REQ;Убедитесь, что §Y[Actor.GetBestName]§! и §Y[Recipient.GetBestName]§! могут сформировать пакт о ненападении;x
+FORM_NON_AGGRESSION_PACT_INTERACTION_REJECTED_REQ;Убедитесь, что §Y[Recipient.GetBestName]§! НЕ отвергает возможность пакта о ненападении  между вами (не было отказа в последнее время);x #§Y[Actor.GetBestName]§!
+EVTDESC524;Я, [From.GetBestName], принимаю Ваше предложение сформировать пакт о ненападении между нами.;x
+EVTDESC525;Я, [From.GetBestName], к сожалению не могу поддержать Ваш пакт о ненападении.;x
+EVTOPTA524;Мудрый выбор.;x
+EVTOPTA525;Эт[From.GetEtaEtot] [GetRootFromInsult] явно что-то замышляет!;x
+COUNCILOR_LAW_CHANGE_IN_LIEGE_REALM_NOTIFICATION;$COUNCILOR$ принял[From.GetEndA] новый закон - $LAW$ ($TITLE$);x
+VOTE_AS_FAVOR_OWNER_SETUP;Голосование согласно уговору (услуга за услугу);x
+COUNCILOR_LAW_CHANGE_IN_LIEGE_REALM_SETUP;Советник продвигает новый закон в государстве, используя кулуарные договоренности;x
+COUNCILOR_LAW_CHANGE_IN_LIEGE_REALM_LOG;$COUNCILOR|Y$ вынудил[From.GetEndA] Вас голосовать за принятие закона $LAW|Y$ ($TITLE|Y$) в качестве §Yответной услуги§!.;x
+ALLIANCE_BROKEN_SETUP;Альянс расторгнут;x
+ALLIANCE_BROKEN_LOG;$CHAR$ и $ALLY$ разорвали альянс;x
+VOTE_AS_REQUESTOR_LOG;$CHARACTER|Y$ проголосовал[From.GetEndA] $VOTE$ закон ($LAW|Y$), поскольку $REQUESTOR$ потребовал[FromFrom.GetEndA] поддержку.;x #ПРОВЕРИТЬ!
+VOTE_AS_REQUESTOR_SETUP;Голосование, как того требует тот, кто просит поддержки;x
+ConclaveDLC;Conclave;x
+UNDECIDED;Думает;x
+LOWER_RELATIVE_POWER_WITH_ALLIES;Численность союзных войск составляет меньше чем $VAL|Y%$ от союзной армии противника ($OTHER|Y$).;x
+HIGHER_RELATIVE_POWER_WITH_ALLIES;Численность союзных войск составляет НЕ меньше чем $VAL|Y%$ от союзной армии противника ($OTHER|Y$).;x
+FAVOR_INVITE;Вынудить к согласию принять просьбу о присоединении ко двору;x
+FAVOR_JOIN_WAR;Вынудить к согласию принять призыв к оружию;x
+FAVOR_EMBARGO;Вынудить к согласию принять просьбу о введении эмбарго;x
+FAVOR_JOIN_FACTION;Вынудить кого-либо вступить в Ваши фракции;x
+FAVOR_COUNCIL_POSITION;Вынудить сюзерена предоставить место в совете;x
+FAVOR_PREVENT_ENFORCE_PEACE;Вынудить сюзерена попросить о прекращении принудительного мира внутри страны;x
+CALL_IN_FAVOR_INTERACTION_TITLE;Попросить поддержку в совете;x

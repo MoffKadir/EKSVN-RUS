@@ -1,0 +1,5852 @@
+#Pellitinian: 66000-68999
+#Anequinan: 69000-71999
+
+
+#Pellitinian
+
+#Mane
+66000 = {
+	name = "Рид-Тар-ри'Датта" #Riddle'Thar Prophet
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3210.1.1 = { birth = yes }
+	3226.1.1 = { add_trait = traditional_mane }
+	3310.1.1 = { death = yes }
+}
+66001 = {
+	name = "Ма'рандру-йо"
+	dna = "afjdmacgkaa"
+	properties="at0dtx000000"
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3310.1.1 = { birth = yes }
+	3326.1.1 = { add_trait = traditional_mane }
+	3400.1.1 = { death = yes }
+}
+66002 = {
+	name = "Йо'Три-Дар"
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mage_4
+	add_trait = mane
+	
+	3400.1.1 = { birth = yes }
+	3416.1.1 = { add_trait = powerful_mane }
+	3462.11.12 = { add_trait = wounded }
+	3462.11.29 = { 
+		death = { death_reason = death_trait }
+	}
+}
+66003 = {
+	name = "Аккгуз-ри" #ESO Mane
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = magistrate_1
+	add_trait = just
+	add_trait = content
+	add_trait = mane
+	
+	3462.11.29 = { 
+		birth = yes 
+		add_trait = sign_atronach
+	}
+	3478.11.29 = { add_trait = weak_mane }
+	3503.8.9 = { death = yes }
+}
+66004 = {
+	name = "Кгали'Шазаг" #ESO Mane
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	add_trait = mane
+	
+	3503.8.8 = { birth = yes }
+	3508.1.1 = { death = yes }
+}
+66005 = {
+	name = "Туллар-дра" #Ancient Mane
+	dynasty = 500006
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	add_trait = mane
+	
+	30.1.1 = { birth = yes }
+	46.1.1 = { add_trait = powerful_mane }
+	102.1.1 = { death = yes }
+}
+66006 = {
+	name = "Йиннинйи-ри" #First Era Mane
+	dynasty = 500006
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	add_trait = mane
+	
+	2880.8.9 = { birth = yes }
+	2996.8.9 = { add_trait = weak_mane }
+	3002.1.1 = { death = yes }
+}
+66007 = {
+	name = "Зебиден-йо" #Pre-ESO Second Era Mane
+	dynasty = 500006
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	add_trait = mane
+	
+	3073.1.1 = { birth = yes }
+	3098.1.1 = { add_trait = powerful_mane }
+	3157.1.1 = { death = yes }
+}
+66008 = {
+	name = "Нгад-гатта" #Post-ESO Second Era Mane
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3752.1.1 = { birth = yes }
+	3770.1.1 = { add_trait = powerful_mane }
+	3810.1.1 = { death = yes }
+}
+66009 = {
+	name = "Ма'Йидарр" #Warlord Rising/Crisis in the Rim
+	dna = "kncej0goh00"
+	properties = "hg000000a00000"
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = raht
+	add_trait = fortitude
+	add_trait = mane
+	
+	3508.1.1 = { birth = yes }
+	3524.1.1 = {
+		add_trait = warrior_4
+		add_trait = brave
+		add_trait = powerful_mane 
+	}
+	3525.1.1 = {
+		add_claim = c_irony
+		add_claim = c_nomore
+		add_claim = c_leyawiin
+		effect = { add_friend = 136500 }
+	}
+	3595.1.1 = { death = yes }
+}
+66010 = {
+	name = "Турсган-дар"
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3595.1.1 = { birth = yes }
+	3611.1.1 = { 
+		add_trait = traditional_mane
+	}
+	3664.1.1 = { death = yes }
+}
+66011 = {
+	name = "Накмарго"
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3664.1.1 = { birth = yes }
+	3680.1.1 = { 
+		add_trait = traditional_mane
+	}
+	3718.1.1 = { death = yes }
+}
+66012 = {
+	name = "Бакгиг-я"
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3718.1.1 = { birth = yes }
+	3734.1.1 = { 
+		add_trait = weak_mane
+	}
+	3752.1.1 = { death = yes }
+}
+66013 = {
+	name = "Гаибарр"
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3810.1.1 = { birth = yes }
+	3826.1.1 = {
+		add_trait = traditional_mane 
+	}
+	3884.1.1 = { death = yes }
+}
+66014 = {
+	name = "Дугарр"
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3884.1.1 = { birth = yes }
+	3900.1.1 = {
+		add_trait = weak_mane 
+	}
+	3953.1.1 = { death = yes }
+}
+66015 = {
+	name = "Иандзир"
+	dynasty = 500006
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	3953.1.1 = { birth = yes }
+	3969.1.1 = {
+		add_trait = weak_mane 
+	}
+	4015.1.1 = { death = yes }
+}
+66016 = {
+	name = "Шаразка"
+	dynasty = 500006
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mane
+	
+	4015.1.1 = { birth = yes }
+	4031.1.1 = {
+		add_trait = traditional_mane 
+	}
+	4068.1.1 = { death = yes }
+}
+
+#Zatani
+66050 = {
+	name = "Есгита"
+	dynasty = 220082 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	3200.1.1 = { birth = yes }
+	3229.1.1 = { add_spouse = 69000 } # Keirgo Soloni
+	3240.1.1 = { create_bloodline = { type = bloodline_eshita } } 
+	3290.1.1 = { death = yes }
+}
+69051 = {
+	name = "Мирани"
+	dynasty = 220082
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69000 # Keirgo Soloni
+	mother = 66050 # Eshita Zatani
+	female = yes
+	3230.1.1 = { birth = yes }
+	3301.1.1 = { death = yes }
+}
+69052 = {
+	name = "Сасгави"
+	dynasty = 220082
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69051
+	female = yes
+	3262.1.1 = { birth = yes }
+	3328.1.1 = { death = yes }
+}
+69053 = {
+	name = "Абернура-дра"
+	dynasty = 220082
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69052
+	female = yes
+	3300.1.1 = { birth = yes }
+	3365.1.1 = { death = yes }
+}
+
+#Zadavi
+66150 = {
+	name = "Вадаркгу"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3336.1.1 = { birth = yes }
+	3407.1.1 = { death = yes }
+}
+66151 = {
+	name = "Ма'йгад"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66150
+	3372.1.1 = { birth = yes }
+	3439.1.1 = { death = yes }
+}
+66152 = {
+	name = "К'Шарр"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66151
+	3395.1.1 = { birth = yes }
+	3498.1.1 = { death = yes }
+}
+66153 = {
+	name = "Кгарйо"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66152
+	3444.1.1 = { birth = yes }
+	3505.1.1 = { death = yes }
+}
+66154 = {
+	name = "Ра'Згид"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66153
+	3470.1.1 = { birth = yes }
+	3546.1.1 = { death = yes }
+}
+66155 = {
+	name = "Зоараим"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66153
+	3501.1.1 = { birth = yes }
+	3572.1.1 = { death = yes }
+}
+66156 = {
+	name = "Ралкасг-дар"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66155
+	3538.1.1 = { birth = yes }
+	3617.1.1 = { death = yes }
+}
+66157 = {
+	name = "Микзен"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66156
+	3565.1.1 = { birth = yes }
+	3615.1.1 = { death = yes }
+}
+66158 = {
+	name = "Шелзака"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66157
+	3592.1.1 = { birth = yes }
+	3656.1.1 = { death = yes }
+}
+66159 = {
+	name = "Й'Ярсга"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66158
+	3614.1.1 = { birth = yes }
+	3683.1.1 = { death = yes }
+}
+66160 = {
+	name = "Дугарр"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66159
+	3652.1.1 = { birth = yes }
+	3730.1.1 = { death = yes }
+}
+66161 = {
+	name = "Дидакаг"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66160
+	3679.1.1 = { birth = yes }
+	3737.1.1 = { death = yes }
+}
+66162 = {
+	name = "Ра'йирр"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66161
+	3704.1.1 = { birth = yes }
+	3778.1.1 = { death = yes }
+}
+66163 = {
+	name = "Куралит"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66162
+	3731.1.1 = { birth = yes }
+	3797.1.1 = { death = yes }
+}
+66164 = {
+	name = "Ра'йирр"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66163
+	3762.1.1 = { birth = yes }
+	3823.1.1 = { death = yes }
+}
+66165 = {
+	name = "Улулмалит"
+	dynasty = 220041 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66164
+	3785.1.1 = { birth = yes }
+	3868.1.1 = { death = yes }
+}
+
+#Mahtani
+66200 = {
+	name = "С'Бгака"
+	dynasty = 220100
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3400.1.1 = { death = yes }
+}
+66201 = {
+	name = "Ри'Йирр"
+	dynasty = 220100
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66200
+	3390.1.1 = { birth = yes }
+	3470.1.1 = { death = yes }
+}
+
+#Samanni
+66250 = {
+	name = "Дро'Канар"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3380.1.1 = { add_spouse = 70000 }
+	3421.1.1 = { death = yes }
+}
+66251 = {
+	name = "Ра'Карим"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66250
+	mother = 70000
+	3380.1.1 = { birth = yes }
+	3443.1.1 = { death = yes }
+}
+66252 = {
+	name = "Ранарр-Йо"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66251
+	add_trait = clubfooted
+	add_trait = harelip
+	diplomacy = 8
+	intrigue = 9
+	3420.1.1 = { birth = yes }
+	3424.1.1 = { add_trait = honest }
+	3430.1.1 = { add_trait = content }
+	3433.1.1 = { add_trait = gregarious }
+	3436.1.1 = { add_trait = diplomat_3 }
+	3439.1.1 = { add_trait = diligent }
+	3458.1.1 = { add_spouse = 66455 }
+	3478.1.1 = { add_trait = scholar }
+	3494.1.1 = { death = yes }
+}
+66253 = {
+	name = "Тсииа"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66251
+	female = yes
+	3430.1.1 = { birth = yes }
+	3488.1.1 = { death = yes }
+}
+66254 = {
+	name = "Асгидасга"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	father = 66252
+	mother = 66455
+	3468.1.1 = { birth = yes }
+	3473.1.1 = { add_trait = cruel }
+	3476.1.1 = { add_trait = deceitful }
+	3479.1.1 = { add_trait = homosexual }
+	3482.1.1 = { add_trait = lustful }
+	3484.1.1 = { add_trait = agent_3 }
+	3488.1.1 = { add_trait = poet }
+	3490.1.1 = { add_trait = ambitious }
+	3526.1.1 = { death = yes }
+}
+66255 = {
+	name = "С'ратад"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66253
+	3456.1.1 = { birth = yes }
+	3487.1.1 = { add_spouse = 68004 }
+	3508.1.1 = { death = yes }
+}
+66256 = {
+	name = "Тсалани"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66255
+	mother = 68004
+	3491.1.1 = { birth = yes }
+	3554.1.1 = { death = yes }
+}
+66257 = {
+	name = "Дро'Барри"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66254
+	3496.1.1 = { birth = yes }
+	3555.1.1 = { death = yes }
+}
+66258 = {
+	name = "Изисгир"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66257
+	3531.1.1 = { birth = yes }
+	3587.1.1 = { death = yes }
+}
+66259 = {
+	name = "Манарни-ла"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66258
+	3562.1.1 = { birth = yes }
+	3625.1.1 = { death = yes }
+}
+66260 = {
+	name = "Ка'йгирр"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66259
+	3601.1.1 = { birth = yes }
+	3661.1.1 = { death = yes }
+}
+66261 = {
+	name = "Кгизуна"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66260
+	3626.1.1 = { birth = yes }
+	3679.1.1 = { death = yes }
+}
+66262 = {
+	name = "Йото"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66261
+	3650.1.1 = { birth = yes }
+	3727.1.1 = { death = yes }
+}
+66263 = {
+	name = "Кгизуна"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66262
+	3693.1.1 = { birth = yes }
+	3745.1.1 = { death = yes }
+}
+66264 = {
+	name = "Ват'ира"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66263
+	3711.1.1 = { birth = yes }
+	3758.1.1 = { death = yes }
+}
+66265 = {
+	name = "Дузал-я"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66264
+	3739.1.1 = { birth = yes }
+	3803.1.1 = { death = yes }
+}
+66266 = {
+	name = "Кгалайо"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66265
+	3769.1.1 = { birth = yes }
+	3830.1.1 = { death = yes }
+}
+66267 = {
+	name = "Ра'тасса"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66266
+	3794.1.1 = { birth = yes }
+	3852.1.1 = { death = yes }
+}
+
+#Bamastae
+66300 = {
+	name = "Р'ванни"
+	dynasty = 220026
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+
+#Barudavi
+66350 = {
+	name = "Кисгасги"
+	dynasty = 220003
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+
+#Adavi
+66400 = {
+	name = "Екапи"
+	dynasty = 220002
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	3330.1.1 = { birth = yes }
+	3410.1.1 = { death = yes }
+}
+
+#Robiri
+66450 = {
+	name = "Дазсги"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69053
+	3340.1.1 = { birth = yes }
+	3380.1.1 = { add_spouse = 66350 }
+	3420.1.1 = { death = yes }
+}
+66451 = {
+	name = "Дро'Сакгар"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66450
+	mother = 66350
+	3380.1.1 = { birth = yes }
+	3450.1.1 = { death = yes }
+}
+66452 = {
+	name = "Кгалайо"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66451
+	female = yes
+	add_trait = slow
+	3430.1.1 = { birth = yes }
+	3439.1.1 = { add_trait = kind }
+	3445.1.1 = { add_trait = diligent }
+	3446.1.1 = { add_trait = magistrate_3 }
+	3449.1.1 = { add_trait = just }
+	3454.1.1 = { add_trait = patient }
+	3497.1.1 = { death = yes }
+}
+66453 = {
+	name = "Убаази"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	intrigue = 8
+	female = yes
+	father = 66451
+	3440.1.1 = { birth = yes }
+	3450.1.1 = { add_trait = deceitful }
+	3456.1.1 = { add_trait = paranoid }
+	3460.1.1 = { add_trait = lustful }
+	3503.1.1 = { death = yes }
+}
+66454 = {
+	name = "Шомара"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66452
+	female = yes
+	add_trait = slow
+	add_trait = strong
+	3451.1.1 = { birth = yes }
+	3459.1.1 = { add_trait = brave }
+	3465.1.1 = { add_trait = gluttonous }
+	3466.1.1 = { add_trait = wroth }
+	3467.1.1 = { add_trait = warrior_2 }
+	3472.1.1 = { add_spouse = 66507 }
+	3474.1.1 = { add_trait = cruel }
+	3529.1.1 = { death = yes }
+}
+66455 = {
+	name = "Низаба"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66451
+	female = yes
+	add_trait = fair
+	3442.1.1 = { birth = yes }
+	3447.1.1 = { add_trait = ambitious}
+	3452.1.1 = { add_trait = deceitful }
+	3455.1.1 = { add_trait = lustful }
+	3457.1.1 = { add_trait = ruthless }
+	3458.1.1 = { add_trait = agent_4 }
+	3465.1.1 = { add_trait = schemer }
+	3503.1.1 = { death = yes }
+}
+66456 = {
+	name = "Даглима"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66452
+	add_trait = slow
+	add_trait = strong
+	3454.1.1 = { birth = yes }
+	3459.1.1 = { add_trait = patient }
+	3465.1.1 = { add_trait = just }
+	3466.1.1 = { add_trait = chaste }
+	3470.1.1 = { 
+		add_trait = warrior_1
+		add_trait = diligent
+	}
+	3474.1.1 = { add_trait = craven }
+	3479.1.1 = { add_spouse = 68003 }
+	3527.1.1 = { death = yes }
+}
+66457 = {
+	name = "Й'Дато"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66456
+	mother = 68003
+	3482.1.1 = { birth = yes }
+	3485.1.1 = { add_trait = wroth }
+	3489.1.1 = { add_trait = honest }
+	3491.1.1 = { add_trait = just }
+	3494.1.1 = { add_trait = brave }
+	3496.1.1 = { add_trait = agent_1 }
+	3527.1.1 = { death = yes }
+}
+66458 = {
+	name = "Инорра"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	mother = 66453
+	3467.1.1 = { birth = yes }
+	3528.1.1 = { death = yes }
+}
+66459 = {
+	name = "Ма'заддга"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66457
+	3505.1.1 = { birth = yes }
+	3572.1.1 = { death = yes }
+}
+66460 = {
+	name = "Ри'Васса"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66458
+	3490.1.1 = { birth = yes }
+	3546.1.1 = { death = yes }
+}
+66461 = {
+	name = "Нирайлар"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66460
+	3523.1.1 = { birth = yes }
+	3603.1.1 = { death = yes }
+}
+66462 = {
+	name = "Мабит"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66461
+	3553.1.1 = { birth = yes }
+	3615.1.1 = { death = yes }
+}
+66463 = {
+	name = "Адара'гаи"
+	female = yes
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66462
+	3588.1.1 = { birth = yes }
+	3652.1.1 = { death = yes }
+}
+66464 = {
+	name = "Ри'Шайирр"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66463
+	3610.1.1 = { birth = yes }
+	3676.1.1 = { death = yes }
+}
+66465 = {
+	name = "Макам"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66464
+	3635.1.1 = { birth = yes }
+	3707.1.1 = { death = yes }
+}
+66466 = {
+	name = "Ианабир-я"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66465
+	3684.1.1 = { birth = yes }
+	3731.1.1 = { death = yes }
+}
+66467 = {
+	name = "Тсигила"
+	female = yes
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66466
+	3704.1.1 = { birth = yes }
+	3770.1.1 = { death = yes }
+}
+66468 = {
+	name = "С'драсса"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66467
+	3735.1.1 = { birth = yes }
+	3796.1.1 = { death = yes }
+}
+66469 = {
+	name = "Макам"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66468
+	3761.1.1 = { birth = yes }
+	3804.1.1 = { death = yes }
+}
+66470 = {
+	name = "Макам"
+	dynasty = 230020
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66469
+	3797.1.1 = { birth = yes }
+	3851.1.1 = { death = yes }
+}
+
+#Khaspoor
+66500 = {
+	name = "Ра'Згид"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3330.1.1 = { birth = yes }
+	3360.1.1 = { add_spouse = 66400 }
+	3410.1.1 = { death = yes }
+}
+66501 = {
+	name = "Агкари"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = fair
+	father = 66500
+	mother = 66400
+	female = yes
+	3360.1.1 = { birth = yes }
+	3440.1.1 = { death = yes }
+}
+66502 = {
+	name = "Ра'Йирр"
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3358.1.1 = { birth = yes }
+	3383.1.1 = { add_matrilineal_spouse = 66501 }
+	3421.1.1 = { death = yes }
+}
+66503 = {
+	name = "Ри'Васса"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66502
+	mother = 66501
+	3388.1.1 = { birth = yes }
+	3454.1.1 = { death = yes }
+}
+66504 = {
+	name = "С'мирра"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3393.1.1 = { birth = yes }
+	3416.1.1 = { add_spouse = 66503 }
+	3448.1.1 = { death = yes }
+}
+66505 = {
+	name = "Баадарго"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = strong
+	father = 66503
+	mother = 66504
+	3417.1.1 = { birth = yes }
+	3437.1.1 = { effect = { add_lover = 66506 } }
+	3476.1.1 = { death = yes }
+}
+66506 = {
+	name = "Гарасса"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = fair
+	father = 66503
+	mother = 66504
+	female = yes
+	3420.1.1 = { birth = yes }
+	3482.1.1 = { death = yes }
+}
+66507 = {
+	name = "Ггаресг-ри"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = strong
+	add_trait = genius
+	add_trait = legit_bastard
+	father = 66505
+	mother = 66506
+	3448.1.1 = { birth = yes }
+	3480.1.1 = {
+		employer = 66003
+		give_job_title = job_chancellor
+		effect = { c_66003 = { add_friend = ROOT } } 
+	}
+	3520.1.1 = { death = yes }
+}
+66508 = {
+	name = "Уняра"
+	dynasty = 230023
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66507
+	mother = 66454
+	3478.1.1 = { birth = yes }
+	3494.1.1 = { add_trait = agent_3 }
+	3561.1.1 = { death = yes }
+}
+66509 = {
+	name = "Дегнарра"
+	dynasty = 230023
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66508
+	3510.1.1 = { birth = yes }
+	3577.1.1 = { death = yes }
+}
+66510 = {
+	name = "Киграсга"
+	dynasty = 230023
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66508
+	3514.1.1 = { birth = yes }
+	3574.1.1 = { death = yes }
+}
+66511 = {
+	name = "Ри'Думива"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66509
+	3533.1.1 = { birth = yes }
+	3602.1.1 = { death = yes }
+}
+66512 = {
+	name = "Курназиран"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66511
+	3568.1.1 = { birth = yes }
+	3629.1.1 = { death = yes }
+}
+66513 = {
+	name = "Аисгар-са"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66512
+	3593.1.1 = { birth = yes }
+	3645.1.1 = { death = yes }
+}
+66514 = {
+	name = "Зазаниза"
+	female = yes
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66513
+	3630.1.1 = { birth = yes }
+	3688.1.1 = { death = yes }
+}
+66515 = {
+	name = "Огаматур"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66514
+	3658.1.1 = { birth = yes }
+	3742.1.1 = { death = yes }
+}
+66516 = {
+	name = "Ра'Йган"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66515
+	3689.1.1 = { birth = yes }
+	3755.1.1 = { death = yes }
+}
+66517 = {
+	name = "Ялан"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66516
+	3712.1.1 = { birth = yes }
+	3767.1.1 = { death = yes }
+}
+66518 = {
+	name = "Иаману-ко"
+	female = yes
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66517
+	3744.1.1 = { birth = yes }
+	3802.1.1 = { death = yes }
+}
+66519 = {
+	name = "М'яддга"
+	dynasty = 230023
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66518
+	3760.1.1 = { birth = yes }
+	3821.1.1 = { death = yes }
+}
+
+#Harabiri
+66650 = {
+	name = "С'ратад"
+	dynasty = 220004 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3347.1.1 = { birth = yes }
+	3415.1.1 = { death = yes }
+}
+66651 = {
+	name = "Й'Згирр"
+	dynasty = 220004 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66650
+	3385.1.1 = { birth = yes }
+	3448.1.1 = { death = yes }
+}
+66652 = {
+	name = "Дро'Згирр"
+	dynasty = 220004 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66651
+	3419.1.1 = { birth = yes }
+	3487.1.1 = { death = yes }
+}
+66653 = {
+	name = "Ранарр-Йо"
+	dynasty = 220004 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66652
+	3456.1.1 = { birth = yes }
+	3476.1.1 = { add_spouse = 68001 }
+	3537.1.1 = { death = yes }
+}
+66654 = {
+	name = "Дро'сганйи"
+	dynasty = 220004 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66653
+	mother = 68001
+	3485.1.1 = { birth = yes }
+	3543.1.1 = { death = yes }
+}
+66655 = {
+	name = "Мегдир"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66654
+	3520.1.1 = { birth = yes }
+	3593.1.1 = { death = yes }
+}
+66656 = {
+	name = "Шалубар"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66655
+	3557.1.1 = { birth = yes }
+	3612.1.1 = { death = yes }
+}
+66657 = {
+	name = "Й'зидзо"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66656
+	3591.1.1 = { birth = yes }
+	3657.1.1 = { death = yes }
+}
+66658 = {
+	name = "Безур"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66657
+	3629.1.1 = { birth = yes }
+	3696.1.1 = { death = yes }
+}
+66659 = {
+	name = "Ггадар"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66658
+	3655.1.1 = { birth = yes }
+	3702.1.1 = { death = yes }
+}
+66660 = {
+	name = "С'Вандра"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66659
+	3685.1.1 = { birth = yes }
+	3753.1.1 = { death = yes }
+}
+66661 = {
+	name = "Юл-дар"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66660
+	3711.1.1 = { birth = yes }
+	3790.1.1 = { death = yes }
+}
+66662 = {
+	name = "Загун-ра"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66661
+	3747.1.1 = { birth = yes }
+	3812.1.1 = { death = yes }
+}
+66663 = {
+	name = "Урен"
+	dynasty = 220004
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66662
+	3770.1.1 = { birth = yes }
+	3829.1.1 = { death = yes }
+}
+
+#Jadavi
+66675 = {
+	name = "Ка'Дар"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3328.1.1 = { birth = yes }
+	3402.1.1 = { death = yes }
+}
+66676 = {
+	name = "С'сгани"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66675
+	3361.1.1 = { birth = yes }
+	3429.1.1 = { death = yes }
+}
+66677 = {
+	name = "М'дези"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66676
+	3397.1.1 = { birth = yes }
+	3465.1.1 = { death = yes }
+}
+66678 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66677
+	3433.1.1 = { birth = yes }
+	3515.1.1 = { death = yes }
+}
+66679 = {
+	name = "Ра'Тесг"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66678
+	3474.1.1 = { birth = yes }
+	3496.1.1 = { add_spouse = 68002 }
+	3542.1.1 = { death = yes }
+}
+66680 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66679
+	mother = 68002
+	3499.1.1 = { birth = yes }
+	3565.1.1 = { death = yes }
+}
+66681 = {
+	name = "М'яддга"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66680
+	3531.1.1 = { birth = yes }
+	3616.1.1 = { death = yes }
+}
+66682 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66681
+	3553.1.1 = { birth = yes }
+	3620.1.1 = { death = yes }
+}
+66683 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66682
+	3589.1.1 = { birth = yes }
+	3672.1.1 = { death = yes }
+}
+66684 = {
+	name = "Гизуррдо"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66683
+	3626.1.1 = { birth = yes }
+	3686.1.1 = { death = yes }
+}
+66685 = {
+	name = "Згарагн"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66684
+	3685.1.1 = { birth = yes }
+	3758.1.1 = { death = yes }
+}
+66686 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66685
+	3717.1.1 = { birth = yes }
+	3793.1.1 = { death = yes }
+}
+66687 = {
+	name = "М'Шан"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66686
+	3751.1.1 = { birth = yes }
+	3840.1.1 = { death = yes }
+}
+66688 = {
+	name = "Йилан-дар"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66687
+	3783.1.1 = { birth = yes }
+	3837.1.1 = { death = yes }
+}
+66689 = {
+	name = "Семуза"
+	dynasty = 220006 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66688
+	3805.1.1 = { birth = yes }
+	3874.1.1 = { death = yes }
+}
+
+#Aima
+66700 = {
+	name = "Дро'Тазарр"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3345.1.1 = { birth = yes }
+	3396.1.1 = { death = yes }
+}
+66701 = {
+	name = "Й'бари"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66700
+	3387.1.1 = { birth = yes }
+	3458.1.1 = { death = yes }
+}
+66702 = {
+	name = "Й'Кара"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66701
+	3429.1.1 = { birth = yes }
+	3506.1.1 = { death = yes }
+}
+66703 = {
+	name = "Ра'Загр"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66702
+	3464.1.1 = { birth = yes }
+	3537.1.1 = { death = yes }
+}
+66704 = {
+	name = "Гассири"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66703
+	3501.1.1 = { birth = yes }
+	3573.1.1 = { death = yes }
+}
+66705 = {
+	name = "Инисгез"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66704
+	3538.1.1 = { birth = yes }
+	3622.1.1 = { death = yes }
+}
+66706 = {
+	name = "Ка'тесг"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66705
+	3573.1.1 = { birth = yes }
+	3636.1.1 = { death = yes }
+}
+66707 = {
+	name = "Зарбидиран"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66706
+	3604.1.1 = { birth = yes }
+	3671.1.1 = { death = yes }
+}
+66708 = {
+	name = "К'Шарра"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66707
+	3628.1.1 = { birth = yes }
+	3680.1.1 = { death = yes }
+}
+66709 = {
+	name = "Кгари"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66708
+	3667.1.1 = { birth = yes }
+	3726.1.1 = { death = yes }
+}
+66710 = {
+	name = "Ра'Сава"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66709
+	3697.1.1 = { birth = yes }
+	3745.1.1 = { death = yes }
+}
+66711 = {
+	name = "Иргун"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66710
+	3731.1.1 = { birth = yes }
+	3785.1.1 = { death = yes }
+}
+66712 = {
+	name = "Ариясгурр"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66711
+	3762.1.1 = { birth = yes }
+	3828.1.1 = { death = yes }
+}
+66713 = {
+	name = "Бгисга"
+	dynasty = 220007 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66712
+	3789.1.1 = { birth = yes }
+	3852.1.1 = { death = yes }
+}
+
+#Baratani
+66725 = {
+	name = "К'Шарр"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3327.1.1 = { birth = yes }
+	3401.1.1 = { death = yes }
+}
+66726 = {
+	name = "Баадарго"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66725
+	3362.1.1 = { birth = yes }
+	3423.1.1 = { death = yes }
+}
+66727 = {
+	name = "Й'Дато"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66726
+	3387.1.1 = { birth = yes }
+	3451.1.1 = { death = yes }
+}
+66728 = {
+	name = "Йо'Три-Дар"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66727
+	3418.1.1 = { birth = yes }
+	3489.1.1 = { death = yes }
+}
+66729 = {
+	name = "Йосгур"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66728
+	3442.1.1 = { birth = yes }
+	3531.1.1 = { death = yes }
+}
+66730 = {
+	name = "Йосгур"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66729
+	3475.1.1 = { birth = yes }
+	3545.1.1 = { death = yes }
+}
+66731 = {
+	name = "Ма'заддга"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66730
+	3518.1.1 = { birth = yes }
+	3591.1.1 = { death = yes }
+}
+66732 = {
+	name = "Шелад"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66731
+	3546.1.1 = { birth = yes }
+	3610.1.1 = { death = yes }
+}
+66733 = {
+	name = "Нузук"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66732
+	3577.1.1 = { birth = yes }
+	3647.1.1 = { death = yes }
+}
+66734 = {
+	name = "Й'ффер"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66733
+	3603.1.1 = { birth = yes }
+	3659.1.1 = { death = yes }
+}
+66735 = {
+	name = "Ирагагр"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66734
+	3623.1.1 = { birth = yes }
+	3698.1.1 = { death = yes }
+}
+66736 = {
+	name = "Ри'саад"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66735
+	3653.1.1 = { birth = yes }
+	3709.1.1 = { death = yes }
+}
+66737 = {
+	name = "Зал-са"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66736
+	3679.1.1 = { birth = yes }
+	3744.1.1 = { death = yes }
+}
+66738 = {
+	name = "Ри'саад"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66737
+	3710.1.1 = { birth = yes }
+	3788.1.1 = { death = yes }
+}
+66739 = {
+	name = "Назимар"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66738
+	3746.1.1 = { birth = yes }
+	3801.1.1 = { death = yes }
+}
+66740 = {
+	name = "Басгсги-ра"
+	dynasty = 220008 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66739
+	3785.1.1 = { birth = yes }
+	3849.1.1 = { death = yes }
+}
+
+#Mane offshoot, Bahdrashi Mane to House Rodavi
+66750 = {
+	name = "Кизимба"
+	female = yes
+	dna = "ehtha0fgea0"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3321.1.1 = { birth = yes }
+	3343.1.1 = { add_spouse = 66001 }
+	3387.1.1 = { death = yes }
+}
+66751 = {
+	name = "Ма'Раска"
+	dynasty = 220115 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66001
+	mother = 66750
+	3344.1.1 = { birth = yes }
+	3355.1.1 = { death = yes }
+}
+66752 = {
+	name = "Й'Замга"
+	dynasty = 220116 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66001
+	mother = 66750
+	3347.1.1 = { birth = yes }
+	3350.1.1 = { death = yes }
+}
+66753 = {
+	name = "Багдрасги"
+	dna = "fjthr0fgeac0"
+	properties="jh0eia00000"
+	female = yes
+	dynasty = 220117
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = agent_3
+	add_trait = agile
+	add_trait = ambitious
+	add_trait = greedy
+	father = 66001
+	mother = 66750
+	3349.1.1 = { birth = yes }
+	3411.1.1 = { death = yes }
+}
+66754 = {
+	name = "Я'Фазир"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = mage_2
+	3346.1.1 = { birth = yes }
+	3371.1.1 = { add_matrilineal_spouse = 66753 }
+	3405.1.1 = { death = yes }
+}
+66755 = {
+	name = "Ра'Котре"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = agile
+	add_trait = zealous
+	add_trait = envious
+	father = 66754
+	mother = 66753
+	3380.1.1 = { birth = yes }
+	3436.1.1 = { death = yes }
+}
+66756 = {
+	name = "Кгаила"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3385.1.1 = { birth = yes }
+	3403.1.1 = { add_spouse = 66755 }
+	3447.1.1 = { death = yes }
+}
+66757 = {
+	name = "Й'бари"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66755
+	mother = 66756
+	3412.1.1 = { birth = yes }
+	3483.1.1 = { death = yes }
+}
+66758 = {
+	name = "Тсаядги"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3412.1.1 = { birth = yes }
+	3435.1.1 = { add_spouse = 66757 }
+	3479.1.1 = { death = yes }
+}
+66759 = {
+	name = "Ри'Думива"
+	dynasty = 220117
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66757
+	mother = 66758
+	3440.1.1 = { birth = yes }
+	3502.1.1 = { death = yes }
+}
+66760 = {
+	name = "Агзини"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3444.1.1 = { birth = yes }
+	3460.1.1 = { add_spouse = 66759 }
+	3508.1.1 = { death = yes }
+}
+66761 = {
+	name = "Кесг"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66759
+	mother = 66760
+	3469.1.1 = { birth = yes }
+	3502.1.1 = { add_spouse = 68000 }
+	3535.1.1 = { death = yes }
+}
+66762 = {
+	name = "Дро'згарим"
+	dynasty = 220117
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66757
+	mother = 66758
+	3443.1.1 = { birth = yes }
+	3464.1.1 = { add_matrilineal_spouse = 69754 }
+	3499.1.1 = { death = yes }
+}
+66763 = {
+	name = "Манадзур"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66761
+	mother = 68000
+	3512.1.1 = { birth = yes }
+	3570.1.1 = { death = yes }
+}
+66764 = {
+	name = "Карпу-са"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66763
+	3544.1.1 = { birth = yes }
+	3615.1.1 = { death = yes }
+}
+66765 = {
+	name = "Шамара-ма"
+	female = yes
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66764
+	3567.1.1 = { birth = yes }
+	3622.1.1 = { death = yes }
+}
+66766 = {
+	name = "Лвеф-Дим"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66765
+	3590.1.1 = { birth = yes }
+	3656.1.1 = { death = yes }
+}
+66767 = {
+	name = "Йгерагн"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66766
+	3629.1.1 = { birth = yes }
+	3701.1.1 = { death = yes }
+}
+66768 = {
+	name = "С'касга"
+	female = yes
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66767
+	3655.1.1 = { birth = yes }
+	3728.1.1 = { death = yes }
+}
+66769 = {
+	name = "Зиглран"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66768
+	3674.1.1 = { birth = yes }
+	3737.1.1 = { death = yes }
+}
+66770 = {
+	name = "Тагар-дар"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66769
+	3703.1.1 = { birth = yes }
+	3771.1.1 = { death = yes }
+}
+66771 = {
+	name = "Ма'тазарр"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66770
+	3741.1.1 = { birth = yes }
+	3792.1.1 = { death = yes }
+}
+66772 = {
+	name = "Геатре"
+	female = yes
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66771
+	3767.1.1 = { birth = yes }
+	3814.1.1 = { death = yes }
+}
+66773 = {
+	name = "Ратул-до"
+	dynasty = 220117 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66772
+	3794.1.1 = { birth = yes }
+	3849.1.1 = { death = yes }
+}
+
+#Mane offshoot, various children of BM 2 Mane
+
+66800 = {
+	name = "Аина"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3410.1.1 = { birth = yes }
+	3429.1.1 = { add_spouse = 66002 }
+	3477.1.1 = { death = yes }
+}
+66801 = {
+	name = "Кисгасги"
+	female = yes
+	dynasty = 220118 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66002
+	mother = 66800
+	3431.1.1 = { birth = yes }
+	3483.1.1 = { death = yes }
+}
+66802 = {
+	name = "М'раай-Дар"
+	dynasty = 220119 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66002
+	mother = 66800
+	3440.1.1 = { birth = yes }
+	3494.1.1 = { death = yes }
+}
+
+#Mane offshoot, various children of BM 3 Mane
+
+66805 = {
+	name = "Низаба"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = magistrate_2
+	add_trait = ruthless
+	add_trait = humble
+	add_trait = craven
+	3460.1.1 = { birth = yes }
+	3487.1.1 = { add_spouse = 66003 }
+	3529.1.1 = { death = yes }
+}
+66806 = {
+	name = "С'Ренйи"
+	dynasty = 220120 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66003
+	mother = 66805
+	3488.1.1 = { birth = yes }
+	3540.1.1 = { death = yes }
+}
+
+#Nahvandi - Appointed to Markgran
+67000 = {
+	name = "Каасга"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3406.1.1 = { birth = yes }
+	3468.1.1 = { death = yes }
+}
+67001 = {
+	name = "Агдарйи"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67000
+	3443.1.1 = { birth = yes }
+	3499.1.1 = { death = yes }
+}
+67002 = {
+	name = "Абгуки"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67001
+	3472.1.1 = { birth = yes }
+	3524.1.1 = { death = yes }
+}
+67003 = {
+	name = "Наггеа"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67001
+	3476.1.1 = { birth = yes }
+	3520.1.1 = { death = yes }
+}
+67004 = {
+	name = "Ма'Кгар"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67002
+	3490.1.1 = { birth = yes }
+	3561.1.1 = { death = yes }
+}
+67005 = {
+	name = "Мезга-дро"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67004
+	3528.1.1 = { birth = yes }
+	3584.1.1 = { death = yes }
+}
+67006 = {
+	name = "Иенадар"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67005
+	3546.1.1 = { birth = yes }
+	3597.1.1 = { death = yes }
+}
+67007 = {
+	name = "Касгапи"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67006
+	3577.1.1 = { birth = yes }
+	3641.1.1 = { death = yes }
+}
+67008 = {
+	name = "Я'Фазир"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67007
+	3604.1.1 = { birth = yes }
+	3659.1.1 = { death = yes }
+}
+67009 = {
+	name = "С'кинраи"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67008
+	3647.1.1 = { birth = yes }
+	3711.1.1 = { death = yes }
+}
+67010 = {
+	name = "Кгарйо"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67009
+	3672.1.1 = { birth = yes }
+	3738.1.1 = { death = yes }
+}
+67011 = {
+	name = "Самати-ко"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67010
+	3709.1.1 = { birth = yes }
+	3793.1.1 = { death = yes }
+}
+67012 = {
+	name = "Инизасгу-йо"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67011
+	3745.1.1 = { birth = yes }
+	3808.1.1 = { death = yes }
+}
+67013 = {
+	name = "Шонсора"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67012
+	3768.1.1 = { birth = yes }
+	3847.1.1 = { death = yes }
+}
+67014 = {
+	name = "Нарриль"
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67012
+	3773.1.1 = { birth = yes }
+	3829.1.1 = { death = yes }
+}
+67015 = {
+	name = "Абандарра-ла"
+	female = yes
+	dynasty = 230098 
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67012
+	3777.1.1 = { birth = yes }
+	3871.1.1 = { death = yes }
+}
+
+#Priests of Darvulk
+67050 = {
+	name = "С'Рава"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	health = 10
+	3393.1.1 = { birth = yes }
+	3518.1.1 = { death = yes }
+}
+67051 = {
+	name = "Иансун"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3483.1.1 = { birth = yes }
+	3559.1.1 = { death = yes }
+}
+67052 = {
+	name = "Равзо-дар"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3540.1.1 = { birth = yes }
+	3599.1.1 = { death = yes }
+}
+67053 = {
+	name = "С'фара"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3575.1.1 = { birth = yes }
+	3647.1.1 = { death = yes }
+}
+67054 = {
+	name = "Нарбгулад-до"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3622.1.1 = { birth = yes }
+	3693.1.1 = { death = yes }
+}
+67055 = {
+	name = "Задаи"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3666.1.1 = { birth = yes }
+	3726.1.1 = { death = yes }
+}
+67056 = {
+	name = "Изиран"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3695.1.1 = { birth = yes }
+	3786.1.1 = { death = yes }
+}
+67057 = {
+	name = "Есгаба"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3753.1.1 = { birth = yes }
+	3828.1.1 = { death = yes }
+}
+
+#Priests of Chasegrove
+67075 = {
+	name = "Й'Ярсга"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3376.1.1 = { birth = yes }
+	3438.1.1 = { death = yes }
+}
+67076 = {
+	name = "Екапи"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3405.1.1 = { birth = yes }
+	3476.1.1 = { death = yes }
+}
+67077 = {
+	name = "Вадаркгу"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3456.1.1 = { birth = yes }
+	3507.1.1 = { death = yes }
+}
+67078 = {
+	name = "Ра'кгеран"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3463.1.1 = { birth = yes }
+	3544.1.1 = { death = yes }
+}
+67079 = {
+	name = "Абанйи"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3520.1.1 = { birth = yes }
+	3578.1.1 = { death = yes }
+}
+67080 = {
+	name = "Шурави"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3556.1.1 = { birth = yes }
+	3631.1.1 = { death = yes }
+}
+67081 = {
+	name = "Муслаблиз"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3602.1.1 = { birth = yes }
+	3665.1.1 = { death = yes }
+}
+67082 = {
+	name = "Ма'Раска"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3638.1.1 = { birth = yes }
+	3702.1.1 = { death = yes }
+}
+67083 = {
+	name = "Тсамара"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3681.1.1 = { birth = yes }
+	3743.1.1 = { death = yes }
+}
+67084 = {
+	name = "Ра'Габази"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3707.1.1 = { birth = yes }
+	3768.1.1 = { death = yes }
+}
+67085 = {
+	name = "Кгаирадани"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3751.1.1 = { birth = yes }
+	3820.1.1 = { death = yes }
+}
+
+#Mahmumim - County of Memrove
+67100 = {
+	name = "М'насги"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3418.1.1 = { birth = yes }
+	3485.1.1 = { death = yes }
+}
+67101 = {
+	name = "Урйорад"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67100
+	3449.1.1 = { birth = yes }
+	3516.1.1 = { death = yes }
+}
+67102 = {
+	name = "Ри'Думива"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67101
+	3483.1.1 = { birth = yes }
+	3538.1.1 = { death = yes }
+}
+67103 = {
+	name = "Сагира-даро"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67102
+	3520.1.1 = { birth = yes }
+	3587.1.1 = { death = yes }
+}
+67104 = {
+	name = "Тубидан"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67103
+	3546.1.1 = { birth = yes }
+	3604.1.1 = { death = yes }
+}
+67105 = {
+	name = "Канзин"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67104
+	3577.1.1 = { birth = yes }
+	3632.1.1 = { death = yes }
+}
+67106 = {
+	name = "Сабиби"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67105
+	3600.1.1 = { birth = yes }
+	3674.1.1 = { death = yes }
+}
+67107 = {
+	name = "Азби-ра"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67106
+	3628.1.1 = { birth = yes }
+	3691.1.1 = { death = yes }
+}
+67108 = {
+	name = "Тсалайма"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67107
+	3655.1.1 = { birth = yes }
+	3703.1.1 = { death = yes }
+}
+67109 = {
+	name = "Кгасга"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67107
+	3661.1.1 = { birth = yes }
+	3715.1.1 = { death = yes }
+}
+67110 = {
+	name = "Таласма"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67108
+	3693.1.1 = { birth = yes }
+	3764.1.1 = { death = yes }
+}
+67111 = {
+	name = "Тузил-дро"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67110
+	3720.1.1 = { birth = yes }
+	3778.1.1 = { death = yes }
+}
+67112 = {
+	name = "Мина-диир"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67111
+	3753.1.1 = { birth = yes }
+	3808.1.1 = { death = yes }
+}
+67113 = {
+	name = "Хезан"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67112
+	3774.1.1 = { birth = yes }
+	3838.1.1 = { death = yes }
+}
+67114 = {
+	name = "Шалар"
+	female = yes
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67112
+	3782.1.1 = { birth = yes }
+	3868.1.1 = { death = yes }
+}
+67115 = {
+	name = "Кигум-дар"
+	dynasty = 230116
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67112
+	3785.1.1 = { birth = yes }
+	3856.1.1 = { death = yes }
+}
+
+#Count-Tier Mayors of Dunval
+67150 = {
+	name = "М'дирр"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3468.1.1 = { birth = yes }
+	3532.1.1 = { death = yes }
+}
+
+#Count-Tier Mayors of Senardorn
+67175 = {
+	name = "Бгисга"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3455.1.1 = { birth = yes }
+	3501.1.1 = { death = yes }
+}
+67176 = {
+	name = "Бгисга"
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3481.1.1 = { birth = yes }
+	3555.1.1 = { death = yes }
+}
+
+#Lesser Branch of Samanni
+67300 = {
+	name = "Мидеиаг"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 66256
+	3527.1.1 = { birth = yes }
+	3580.1.1 = { death = yes }
+}
+67301 = {
+	name = "Ма'зака"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67300
+	3552.1.1 = { birth = yes }
+	3613.1.1 = { death = yes }
+}
+67302 = {
+	name = "Васгаи"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67301
+	3583.1.1 = { birth = yes }
+	3644.1.1 = { death = yes }
+}
+67303 = {
+	name = "Кавзанаби-йо"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67302
+	3621.1.1 = { birth = yes }
+	3682.1.1 = { death = yes }
+}
+67304 = {
+	name = "Сансен-до"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67303
+	3648.1.1 = { birth = yes }
+	3692.1.1 = { death = yes }
+}
+67305 = {
+	name = "Узипа"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67304
+	3675.1.1 = { birth = yes }
+	3735.1.1 = { death = yes }
+}
+67306 = {
+	name = "Унисги"
+	female = yes
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67305
+	3701.1.1 = { birth = yes }
+	3767.1.1 = { death = yes }
+}
+67307 = {
+	name = "Галинйирр"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67306
+	3721.1.1 = { birth = yes }
+	3774.1.1 = { death = yes }
+}
+67308 = {
+	name = "Фелуз"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67307
+	3762.1.1 = { birth = yes }
+	3831.1.1 = { death = yes }
+}
+67309 = {
+	name = "Ра'Мгирр"
+	dynasty = 220096
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67308
+	3799.1.1 = { birth = yes }
+	3864.1.1 = { death = yes }
+}
+
+#Rooni, appointees to Leyawiin
+67400 = {
+	name = "Нанаглар"
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = magistrate_3
+	add_trait = architect
+	3507.1.1 = { birth = yes }
+	3584.1.1 = { death = yes }
+}
+67401 = {
+	name = "Шадиа"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67400
+	3536.1.1 = { birth = yes }
+	3602.1.1 = { death = yes }
+}
+67402 = {
+	name = "Ка-Дар"
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67401
+	3557.1.1 = { birth = yes }
+	3629.1.1 = { death = yes }
+}
+67403 = {
+	name = "Ка-Дар"
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67402
+	3593.1.1 = { birth = yes }
+	3650.1.1 = { death = yes }
+}
+67404 = {
+	name = "Зериба"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67403
+	3624.1.1 = { birth = yes }
+	3675.1.1 = { death = yes }
+}
+67405 = {
+	name = "Кираи-ла"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67404
+	3649.1.1 = { birth = yes }
+	3708.1.1 = { death = yes }
+}
+67406 = {
+	name = "Хирсузаг"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67405
+	3670.1.1 = { birth = yes }
+	3732.1.1 = { death = yes }
+}
+67407 = {
+	name = "Кгарез"
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67406
+	3701.1.1 = { birth = yes }
+	3758.1.1 = { death = yes }
+}
+67408 = {
+	name = "Сануа-ла"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67407
+	3722.1.1 = { birth = yes }
+	3788.1.1 = { death = yes }
+}
+67409 = {
+	name = "Й'ласга"
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67408
+	3741.1.1 = { birth = yes }
+	3791.1.1 = { death = yes }
+}
+67410 = {
+	name = "Абгуки"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	father = 67409
+	3782.1.1 = { birth = yes }
+	3843.1.1 = { death = yes }
+}
+67411 = {
+	name = "Рагиба"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67410
+	3803.1.1 = { birth = yes }
+	3868.1.1 = { death = yes }
+}
+67412 = {
+	name = "Тунази"
+	female = yes
+	dynasty = 220114
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 67410
+	3812.1.1 = { birth = yes }
+	3874.1.1 = { death = yes }
+}
+
+#Additional Pellitinian spouses and mothers of relevant rulers
+68000 = {
+	name = "Гулинда-ла"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3482.1.1 = { birth = yes }
+	3542.1.1 = { death = yes }
+}
+68001 = {
+	name = "Аримаия"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3455.1.1 = { birth = yes }
+	3536.1.1 = { death = yes }
+}
+68002 = {
+	name = "Атрабги"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3476.1.1 = { birth = yes }
+	3549.1.1 = { death = yes }
+}
+68003 = {
+	name = "Надаги"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3454.1.1 = { birth = yes }
+	3510.1.1 = { death = yes }
+}
+68004 = {
+	name = "Мина-диир"
+	female = yes
+	culture = pellitinian
+	religion = riddlethar
+	add_trait = khajiit
+	3465.1.1 = { birth = yes }
+	3544.1.1 = { death = yes }
+}
+
+############## #Anequinan #################
+
+#Soloni
+69000 = {
+	name = "Кеирго"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3203.1.1 = { birth = yes }
+	3229.1.1 = { add_spouse = 66050 } # Eshita Zatani
+	3240.1.1 = { create_bloodline = { type = bloodline_keirgo } } 
+	3252.1.1 = { death = yes }
+}
+69001 = {
+	name = "Дагнара"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69000 # Keirgo Soloni
+	mother = 66050 # Eshita Zatani
+	3230.1.1 = { birth = yes }
+	3301.1.1 = { death = yes }
+}
+69003 = {
+	name = "Васга"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69001 # Dahnara Soloni
+	3262.1.1 = { birth = yes }
+	3328.1.1 = { death = yes }
+}
+69004 = {
+	name = "Аиисга"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69003 # Vasha Soloni
+	female = yes
+	3300.1.1 = { birth = yes }
+	3333.1.1 = { add_matrilineal_spouse = 69700 } # Vasha Nahmanni
+	3365.1.1 = { death = yes }
+}
+69005 = {
+	name = "С'разирр"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69700 # Vasha Nahmanni
+	mother = 69004 # Ayisha Soloni
+	3336.1.1 = { birth = yes }
+	3421.1.1 = { death = yes }
+}
+69006 = {
+	name = "Урябги"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69005 # S'razirr Soloni
+	3386.1.1 = { birth = yes }
+	3438.1.1 = { death = yes }
+}
+69007 = {
+	name = "С'Бакга"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69005 # S'razirr Soloni
+	3386.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+69008 = {
+	name = "Агния"
+	female = yes
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69007
+	3432.1.1 = { birth = yes }
+	3497.1.1 = { death = yes }
+}
+69009 = {
+	name = "Й'Язга"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69008
+	3460.1.1 = { birth = yes }
+	3481.1.1 = { add_spouse = 69022 }
+	3515.1.1 = { death = yes }
+}
+69010 = {
+	name = "Урйорад"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69009
+	3483.1.1 = { birth = yes }
+	3544.1.1 = { death = yes }
+}
+69011 = {
+	name = "Изандскар"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69010
+	3518.1.1 = { birth = yes }
+	3579.1.1 = { death = yes }
+}
+69012 = {
+	name = "Шавия"
+	female = yes
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69011
+	3542.1.1 = { birth = yes }
+	3596.1.1 = { death = yes }
+}
+69013 = {
+	name = "Фазадду"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69012
+	3562.1.1 = { birth = yes }
+	3608.1.1 = { death = yes }
+}
+69014 = {
+	name = "Бузуль"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69013
+	3590.1.1 = { birth = yes }
+	3647.1.1 = { death = yes }
+}
+69015 = {
+	name = "Ри'заадзин"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69014
+	3622.1.1 = { birth = yes }
+	3686.1.1 = { death = yes }
+}
+69016 = {
+	name = "Талара"
+	female = yes
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69015
+	3641.1.1 = { birth = yes }
+	3700.1.1 = { death = yes }
+}
+69017 = {
+	name = "Заинаби"
+	female = yes
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69016
+	3663.1.1 = { birth = yes }
+	3725.1.1 = { death = yes }
+}
+69018 = {
+	name = "Й'Еея"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69017
+	3694.1.1 = { birth = yes }
+	3749.1.1 = { death = yes }
+}
+69019 = {
+	name = "Кгаиги"
+	female = yes
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69018
+	3720.1.1 = { birth = yes }
+	3784.1.1 = { death = yes }
+}
+69020 = {
+	name = "Камйо"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69019
+	3737.1.1 = { birth = yes }
+	3806.1.1 = { death = yes }
+}
+69021 = {
+	name = "Карганд"
+	dynasty = 230026
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69020
+	3772.1.1 = { birth = yes }
+	3844.1.1 = { death = yes }
+}
+69022 = { #Mother of Ujorad in Rimmen Crisis BM
+	name = "Мазу"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3462.1.1 = { birth = yes }
+	3539.1.1 = { death = yes }
+}
+
+#Shabus
+69100 = {
+	name = "Ри'саад"
+	dynasty = 230080
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	father = 69119
+	3351.1.1 = { birth = yes }
+	3390.1.1 = { add_spouse = 69300 }
+	3430.1.1 = { death = yes }
+}
+69101 = {
+	name = "Й'баана"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69100
+	mother = 69300
+	3395.1.1 = { birth = yes }
+	3449.1.1 = { death = yes }
+}
+69102 = {
+	name = "Ма'зака"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69101
+	martial = 9
+	3420.1.1 = { birth = yes }
+	3425.1.1 = { add_trait = diligent }
+	3429.1.1 = { add_trait = brave }
+	3434.1.1 = { add_trait = zealous }
+	3436.1.1 = { add_trait = mage_3 }
+	3439.1.1 = { add_trait = wroth }
+	3501.1.1 = { death = yes }
+}
+69103 = {
+	name = "Херим"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69102
+	add_trait = quick
+	3470.1.1 = { birth = yes }
+	3478.1.1 = { add_trait = shy }
+	3481.1.1 = { 
+		add_trait = gluttonous
+		add_trait = cynical
+	}
+	3485.1.1 = { add_trait = diligent }
+	3486.1.1 = { add_trait = mage_2 }
+	3494.1.1 = { add_spouse = 70128 }
+	3528.1.1 = { death = yes }
+}
+69104 = {
+	name = "Незасгун"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69103
+	mother = 70128
+	3506.1.1 = { birth = yes }
+	3575.1.1 = { death = yes }
+}
+69105 = {
+	name = "Кгариз"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69104
+	3533.1.1 = { birth = yes }
+	3585.1.1 = { death = yes }
+}
+69106 = {
+	name = "Ри'Басса" 
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69105
+	3562.1.1 = { birth = yes }
+	3629.1.1 = { death = yes }
+}
+69107 = {
+	name = "Заргаль"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69106
+	3601.1.1 = { birth = yes }
+	3664.1.1 = { death = yes }
+}
+69108 = {
+	name = "Идуталь"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69107
+	3620.1.1 = { birth = yes }
+	3688.1.1 = { death = yes }
+}
+69109 = {
+	name = "Лакурр-ра"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69108
+	3645.1.1 = { birth = yes }
+	3720.1.1 = { death = yes }
+}
+69110 = {
+	name = "Марами"
+	female = yes
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69108
+	3661.1.1 = { birth = yes }
+	3732.1.1 = { death = yes }
+}
+69111 = {
+	name = "Й'Замга"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69109
+	3674.1.1 = { birth = yes }
+	3739.1.1 = { death = yes }
+}
+69112 = {
+	name = "Й'зарер"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69111
+	3703.1.1 = { birth = yes }
+	3762.1.1 = { death = yes }
+}
+69113 = {
+	name = "Й'зарер"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69112
+	3740.1.1 = { birth = yes }
+	3799.1.1 = { death = yes }
+}
+69114 = {
+	name = "Муналур"
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69113
+	3767.1.1 = { birth = yes }
+	3824.1.1 = { death = yes }
+}
+69115 = {
+	name = "Лазами"
+	female = yes
+	dynasty = 230080
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69114
+	3787.1.1 = { birth = yes }
+	3833.1.1 = { death = yes }
+}
+69116 = {
+	name = "Дарлок"
+	dynasty = 230295
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	400.1.1 = { birth = yes }
+	445.1.1 = { 
+		give_nickname = "nick_the_beast"
+		secret_religion = daedra_mehrunes
+		create_bloodline = { type = bloodline_darloc } 
+	}
+	465.1.1 = { death = yes }
+}
+69117 = {
+	name = "Десцендантс оф Дарлок"
+	dynasty = 230295
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	father = 69116
+	occluded = yes
+	460.1.1 = { birth = yes }
+	3240.1.1 = { death = yes }
+}
+69118 = {
+	name = "Фимаз-ра"
+	dynasty = 230080
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	father = 69120
+	3270.1.1 = { birth = yes }
+	3325.1.1 = { death = yes }
+}
+69119 = {
+	name = "Габаис"
+	dynasty = 230080
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	father = 69118
+	3300.1.1 = { birth = yes }
+	3375.1.1 = { death = yes }
+}
+69120 = {
+	name = "Марами"
+	dynasty = 230080
+	culture = anequinan
+	religion = "alkosh"
+	add_trait = khajiit
+	father = 69117
+	3240.1.1 = { birth = yes }
+	3300.1.1 = { death = yes }
+}
+
+#Mahma
+69200 = {
+	name = "Шолани"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3357.1.1 = { birth = yes }
+	3421.1.1 = { death = yes }
+}
+69201 = {
+	name = "Йодгур"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69200 # Sholani Mahma
+	3392.1.1 = { birth = yes }
+	3449.1.1 = { death = yes }
+}
+69202 = {
+	name = "Шавари"
+	dynasty = 230062
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69200 # Sholani Mahma
+	female = yes
+	3398.1.1 = { birth = yes }
+	3458.1.1 = { death = yes }
+}
+69203 = {
+	name = "Ранарр-Йо"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69201 # Jodhur Mahma
+	3435.1.1 = { birth = yes }
+	3470.1.1 = { add_spouse = 69553 } # Anurassa Raispoor
+	3496.1.1 = { death = yes }
+}
+69204 = {
+	name = "Ги'Нант" # Nanaki!!
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	add_trait = twin
+	add_trait = mage_4
+	add_trait = genius
+	add_trait = weak
+	add_trait = diligent
+	add_trait = reckless
+	father = 69203 # Ranarr-Jo Mahma
+	mother = 69553 # Anurassa Raispoor
+	3480.1.1 = { birth = yes }
+	3516.1.1 = { add_spouse = 71001 }
+	3575.1.1 = { death = yes }
+}
+69205 = {
+	name = "Нагси"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	add_trait = twin
+	add_trait = warrior_4
+	add_trait = strong
+	add_trait = slow
+	add_trait = slovenly
+	add_trait = patient
+	father = 69203 # Ranarr-Jo Mahma
+	mother = 69553 # Anurassa Raispoor
+	3480.1.1 = { birth = yes }
+	3533.1.1 = { death = yes }
+}
+69206 = {
+	name = "Безад-дро"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69204
+	mother = 71001
+	3521.1.1 = { birth = yes }
+	3585.1.1 = { death = yes }
+}
+69207 = {
+	name = "Кгасга"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69206
+	3557.1.1 = { birth = yes }
+	3622.1.1 = { death = yes }
+}
+69208 = {
+	name = "Еник-я"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69207
+	3580.1.1 = { birth = yes }
+	3638.1.1 = { death = yes }
+}
+69209 = {
+	name = "Шамеа"
+	female = yes
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69208
+	3624.1.1 = { birth = yes }
+	3696.1.1 = { death = yes }
+}
+69210 = {
+	name = "Зазабгуки"
+	female = yes
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69209
+	3647.1.1 = { birth = yes }
+	3702.1.1 = { death = yes }
+}
+69211 = {
+	name = "Ра'дарри"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69210
+	3673.1.1 = { birth = yes }
+	3727.1.1 = { death = yes }
+}
+69212 = {
+	name = "Фелира"
+	female = yes
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69211
+	3699.1.1 = { birth = yes }
+	3772.1.1 = { death = yes }
+}
+69213 = {
+	name = "Й'Рееза"
+	female = yes
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69212
+	3728.1.1 = { birth = yes }
+	3794.1.1 = { death = yes }
+}
+69214 = {
+	name = "Карзик"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69213
+	3750.1.1 = { birth = yes }
+	3808.1.1 = { death = yes }
+}
+69215 = {
+	name = "Кунерр-йо"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69214
+	3776.1.1 = { birth = yes }
+	3835.1.1 = { death = yes }
+}
+69216 = {
+	name = "Раиназг"
+	dynasty = 230062
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69215
+	3807.1.1 = { birth = yes }
+	3876.1.1 = { death = yes }
+}
+
+#Jakar
+69300 = {
+	name = "Айгизи"
+	dynasty = 230105
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	female = yes
+	3350.1.1 = { birth = yes }
+	3412.1.1 = { death = yes }
+}
+
+#Khamim
+69400 = {
+	name = "Ма'Кгар"
+	dynasty = 230112
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3320.1.1 = { birth = yes }
+	3350.1.1 = { add_spouse = 69450 }
+	3410.1.1 = { death = yes }
+}
+69401 = {
+	name = "Тсани"
+	dynasty = 230112
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69400
+	mother = 69450
+	female = yes
+	3360.1.1 = { birth = yes }
+	3440.1.1 = { death = yes }
+}
+
+#Harabus
+69450 = {
+	name = "Тсрамла"
+	dynasty = 230072
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	3330.1.1 = { birth = yes }
+	3420.1.1 = { death = yes }
+}
+
+#Mahmaoni
+69500 = {
+	name = "Киер-Йо"
+	dynasty = 230006
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+
+#Raispoor
+69550 = {
+	name = "Йобасга"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3340.1.1 = { birth = yes }
+	3380.1.1 = { add_spouse = 69401 } # Tsani Khamim
+	3420.1.1 = { death = yes }
+}
+69551 = {
+	name = "Ра'йирр"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69550 # Jobasha Raispoor
+	mother = 69401 # Tsani Khamim
+	3380.1.1 = { birth = yes }
+	3460.1.1 = { death = yes }
+}
+69552 = {
+	name = "Ма'Дара"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69551 # Ra'jirr Raispoor
+	3440.1.1 = { birth = yes }
+	3460.1.1 = { add_spouse = 69902 } # Ajira Kispoor	
+	3505.1.1 = { death = yes }
+}
+69553 = {
+	name = "Анурасса"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69551 # Ra'jirr Raispoor
+	female = yes
+	3445.1.1 = { birth = yes }
+	3460.1.1 = { add_claim = k_riverhold }
+	3470.1.1 = { add_spouse = 69203 } # Ranarr-Jo Mahma
+	3520.1.1 = { death = yes }
+} 
+69554 = {
+	name = "Гемакар"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69552 # Ma'Dara Raispoor
+	mother = 69902 # Ajira Kispoor
+	3460.1.1 = { birth = yes }
+	3479.1.1 = { add_spouse = 69571 }
+	3496.1.1 = {
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+69555 = {
+	name = "Таласма"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69552 # Ma'Dara Raispoor
+	mother = 69902 # Ajira Kispoor
+	female = yes
+	3475.1.1 = { birth = yes }	
+	3560.1.1 = { death = yes }
+}
+69556 = {
+	name = "Ма'Кгар"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69555 # Talasma Raispoor
+	3500.1.1 = { birth = yes }	
+	3589.1.1 = { death = yes }
+}
+69557 = {
+	name = "Аруда"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69556
+	3531.1.1 = { birth = yes }	
+	3607.1.1 = { death = yes }
+}
+69558 = {
+	name = "Сагира-даро"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69557
+	3560.1.1 = { birth = yes }	
+	3612.1.1 = { death = yes }
+}
+69559 = {
+	name = "Шарсгег"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69558
+	3583.1.1 = { birth = yes }	
+	3641.1.1 = { death = yes }
+}
+69560 = {
+	name = "Кузулаза"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69559
+	3611.1.1 = { birth = yes }	
+	3669.1.1 = { death = yes }
+}
+69561 = {
+	name = "Тагар-дар"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69560
+	3635.1.1 = { birth = yes }	
+	3688.1.1 = { death = yes }
+}
+69562 = {
+	name = "Й'зарго"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69561
+	3678.1.1 = { birth = yes }
+	3730.1.1 = { death = yes }
+}
+69563 = {
+	name = "Калим-я"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69562
+	3704.1.1 = { birth = yes }
+	3765.1.1 = { death = yes }
+}
+69564 = {
+	name = "Уданта"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69563
+	3736.1.1 = { birth = yes }
+	3797.1.1 = { death = yes }
+}
+69565 = {
+	name = "Мизагаби"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69564
+	3771.1.1 = { birth = yes }
+	3839.1.1 = { death = yes }
+}
+69566 = {
+	name = "Аитрабги"
+	female = yes
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69565
+	3800.1.1 = { birth = yes }
+	3867.1.1 = { death = yes }
+}
+
+69567 = {
+	name = "Тенгиль"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69552 # Ma'Dara Raispoor
+	mother = 69902 # Ajira Kispoor
+	
+	3470.1.1 = { birth = yes }	
+	3496.1.1 = { 
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+
+69568 = {
+	name = "Кгамира"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69554
+	mother = 69571
+	female = yes
+
+	3480.1.1 = { birth = yes }	
+	3525.1.1 = { 
+		death = { 
+			death_reason = death_murder
+			killer = 136500 #Lyra Tharn
+		} 
+	}
+}
+69569 = {
+	name = "Тагири"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69554
+	mother = 69571
+	female = yes
+	
+	3492.1.1 = { birth = yes }	
+	3496.1.1 = { 
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+69570 = {
+	name = "Гутак"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69554
+	mother = 69571
+	
+	3493.1.1 = { birth = yes }	
+	3496.1.1 = { 
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+69571 = {
+	name = "Нумара"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	
+	3460.1.1 = { birth = yes }	
+	3496.1.1 = {
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+69572 = {
+	name = "Й'Ганир"
+	dynasty = 230004 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69567
+
+	3492.1.1 = { birth = yes }	
+	3496.1.1 = { 
+		death = { 
+			death_reason = death_murder
+			killer = 3629 #Euraxia Tharn
+		} 
+	}
+}
+
+#Raimanni
+69600 = {
+	name = "Заинаби"
+	dynasty = 230013
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+#Mahkar
+
+#Nahmanni
+69700 = {
+	name = "Васга"
+	dynasty = 230088
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3303.1.1 = { birth = yes }
+	3376.1.1 = { death = yes }
+}
+
+#Nahbus
+69750 = {
+	name = "С'Раверр"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3380.1.1 = { add_spouse = 69600 }
+	3420.1.1 = { death = yes }
+}
+69751 = {
+	name = "Херим"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69750
+	mother = 69600
+	3380.1.1 = { birth = yes }
+	3450.1.1 = { death = yes }
+}
+69752 = {
+	name = "Арави"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69751
+	female = yes
+	3410.1.1 = { birth = yes }
+	3478.1.1 = { death = yes }
+}
+69753 = {
+	name = "Агдри"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69751
+	female = yes
+	3420.1.1 = { birth = yes }
+	3473.1.1 = { death = yes }
+}
+69754 = {
+	name = "Тсалани"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69753
+	female = yes
+	add_trait = agile
+	3447.1.1 = { birth = yes }
+	3452.1.1 = { add_trait = wroth }
+	3455.1.1 = { add_trait = just }
+	3458.1.1 = { add_trait = kind }
+	3463.1.1 = { add_trait = warrior_2 }
+	3498.1.1 = { death = yes }
+}
+69755 = {
+	name = "Шамада"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69753
+	female = yes
+	3449.1.1 = { birth = yes }
+	3455.1.1 = { add_trait = just }
+	3465.1.1 = { 
+		add_trait = deceitful
+		add_trait = agent_2
+	}
+	3469.1.1 = { add_trait = homosexual }
+	3506.1.1 = { death = yes }
+}
+69756 = {
+	name = "С'фара"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69755
+	female = yes
+	add_trait = legit_bastard
+	3468.1.1 = { birth = yes }
+	3472.1.1 = { add_trait = brave }
+	3478.1.1 = { add_trait = deceitful }
+	3484.1.1 = { add_trait = agent_3 }
+	3566.1.1 = { death = yes }
+}
+69757 = {
+	name = "Гассири"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66762
+	mother = 69754
+	3470.1.1 = { birth = yes }
+	3474.1.1 = { add_trait = cruel }
+	3475.1.1 = { add_trait = craven }
+	3478.1.1 = { add_trait = deceitful }
+	3482.1.1 = { add_trait = lunatic }
+	3485.1.1 = { add_trait = wroth }
+	3486.1.1 = { add_trait = warrior_4 }
+	3500.1.1 = { death = yes }
+}
+69758 = {
+	name = "Й'ффер"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 66762
+	mother = 69754
+	add_trait = hunchback
+	3473.1.1 = { birth = yes }
+	3477.1.1 = { add_trait = craven }
+	3479.1.1 = { add_trait = shy }
+	3482.1.1 = { add_trait = kind }
+	3483.1.1 = { add_trait = poet }
+	3485.1.1 = { add_trait = charitable }
+	3489.1.1 = { add_trait = mage_1 }
+	3506.1.1 = { death = yes }
+}
+69759 = {
+	name = "Шолани"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69756
+	3493.1.1 = { birth = yes }
+	3569.1.1 = { death = yes }
+}
+69760 = {
+	name = "Шамаль"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69759
+	3532.1.1 = { birth = yes }
+	3583.1.1 = { death = yes }
+}
+69761 = {
+	name = "Агаинар-йо"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69760
+	3557.1.1 = { birth = yes }
+	3624.1.1 = { death = yes }
+}
+69762 = {
+	name = "Кузирназ-дар"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69761
+	3600.1.1 = { birth = yes }
+	3678.1.1 = { death = yes }
+}
+69763 = {
+	name = "Тагаида"
+	female = yes
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69762
+	3630.1.1 = { birth = yes }
+	3694.1.1 = { death = yes }
+}
+69764 = {
+	name = "Мирарбинат"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 69763
+	3656.1.1 = { birth = yes }
+	3723.1.1 = { death = yes }
+}
+69765 = {
+	name = "Кузирназ-дар"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69764
+	3690.1.1 = { birth = yes }
+	3756.1.1 = { death = yes }
+}
+69766 = {
+	name = "Гассири"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69765
+	3728.1.1 = { birth = yes }
+	3786.1.1 = { death = yes }
+}
+69767 = {
+	name = "Ри'Заадга"
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69766
+	3759.1.1 = { birth = yes }
+	3832.1.1 = { death = yes }
+}
+69768 = {
+	name = "Зулана"
+	female = yes
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69767
+	3796.1.1 = { birth = yes }
+	3861.1.1 = { death = yes }
+}
+69769 = {
+	name = "Зунала"
+	female = yes
+	dynasty = 230100
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69767
+	3796.1.1 = { birth = yes }
+	3855.1.1 = { death = yes }
+}
+
+#Alcrest Theocracy
+69800 = {
+	name = "С'раззира"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3346.1.1 = { birth = yes }
+	3419.1.1 = { death = yes }
+}
+69801 = {
+	name = "Дро'марасг"
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3402.1.1 = { birth = yes }
+	3470.1.1 = { death = yes }
+}
+69802 = {
+	name = "Агяра"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3441.1.1 = { birth = yes }
+	3497.1.1 = { death = yes }
+}
+69803 = {
+	name = "Заграсга"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3451.1.1 = { birth = yes }
+	3526.1.1 = { death = yes }
+}
+69804 = {
+	name = "Й'баана"
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3501.1.1 = { birth = yes }
+	3586.1.1 = { death = yes }
+}
+69805 = {
+	name = "Пирарри"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3551.1.1 = { birth = yes }
+	3654.1.1 = { death = yes }
+}
+69806 = {
+	name = "Абурапли"
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3632.1.1 = { birth = yes }
+	3695.1.1 = { death = yes }
+}
+69807 = {
+	name = "Разигад"
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3655.1.1 = { birth = yes }
+	3708.1.1 = { death = yes }
+}
+69808 = {
+	name = "Валасги"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3684.1.1 = { birth = yes }
+	3757.1.1 = { death = yes }
+}
+69809 = {
+	name = "Шуни-даро"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3732.1.1 = { birth = yes }
+	3800.1.1 = { death = yes }
+}
+69810 = {
+	name = "Вайгира"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3765.1.1 = { birth = yes }
+	3822.1.1 = { death = yes }
+}
+
+#Rahira
+69850 = {
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3350.1.1 = { birth = yes }
+	3360.1.1 = { give_nickname = "nick_the_liar" }
+	3380.1.1 = { add_spouse = 69950 }
+	3430.1.1 = { death = yes }
+}
+69851 = {
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69850
+	mother = 69950
+	3380.1.1 = { birth = yes }
+	3390.1.1 = { give_nickname = "nick_the_truthful" }
+	3450.1.1 = { death = yes }
+}
+69852 = {
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69851
+	3430.1.1 = { birth = yes }
+	3450.1.1 = { give_nickname = "nick_the_cheat" }
+	3496.1.1 = { add_trait = sympathy_daedra }
+	3510.1.1 = { death = yes }
+}
+69853 = {
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = twin
+	father = 69851
+	3430.1.1 = { birth = yes }
+	3450.1.1 = { give_nickname = "nick_the_calm" }
+	3499.1.1 = { 
+		death = { 
+			death_reason = death_murder_unknown 
+			killer = 301001
+		} 
+	}
+}
+69854 = {
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 69852
+	3489.1.1 = { birth = yes }
+	3509.1.1 = { 
+		give_nickname = "nick_the_addict"
+		add_trait = skooma_addiction
+	}
+	3521.1.1 = { death = yes }
+}
+69855 = { #All "true" M'aiqs descend from this one
+	name = "М'аик"
+	dynasty = 230059
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	add_trait = honest
+	add_trait = cynical
+	add_trait = gregarious
+	add_trait = kind
+	add_trait = craven
+	add_trait = shrewd
+	diplomacy = 20
+	father = 69853
+	3467.1.1 = { birth = yes }
+	3500.1.1 = { 
+		give_nickname = "nick_the_liar"
+		add_trait = maiq_the_liar
+		effect = {
+			set_character_flag = maiq_the_liar_flag
+		}
+	}
+	3538.1.1 = { death = yes }
+}
+
+#Kispoor
+69900 = {
+	name = "Ра'Тесг"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69906
+	
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+69901 = {
+	name = "Ра'Карим"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69900 # Ra'Tesh Kispoor
+	3400.1.1 = { birth = yes }
+	3480.1.1 = { death = yes }
+}
+69902 = {
+	name = "Айира"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69901 # Ra'Karim Kispoor
+	female = yes
+	3430.1.1 = { birth = yes }
+	3460.1.1 = { add_spouse = 69552 } # Ma'Dara Raispoor
+	3490.1.1 = { 
+		add_trait = has_knahaten_flu
+		death = { death_reason = death_trait } 
+	}
+}
+69903 = {
+	name = "Йора-ри"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+
+	3200.1.1 = { birth = yes }
+	3265.1.1 = { death = yes }
+}
+69904 = {
+	name = "Гарасса"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	father = 69903
+	
+	3230.1.1 = { birth = yes }
+	3301.1.1 = { death = yes }
+}
+69905 = {
+	name = "Ра'Мгирр"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69904
+	
+	3262.1.1 = { birth = yes }
+	3328.1.1 = { death = yes }
+}
+69906 = {
+	name = "Ри'Васса"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69905
+	
+	3312.1.1 = { birth = yes }
+	3370.1.1 = { death = yes }
+}
+69907 = {
+	name = "Мегдир"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69900 # Ra'Tesh Kispoor
+	
+	3405.1.1 = { birth = yes }
+	3470.1.1 = { death = yes }
+}
+69908 = {
+	name = "Шилаиа"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 69907
+	female = yes
+	
+	3460.1.1 = { birth = yes }
+	3495.1.1 = { death = yes }
+}
+69909 = {
+	name = "Савива"
+	dynasty = 230030 
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 69908
+	
+	3480.1.1 = { birth = yes }
+	3502.1.1 = { add_claim = k_rimmen }
+	3545.1.1 = { death = yes }
+}
+
+#Hammadak
+69950 = {
+	name = "Заграсга"
+	dynasty = 230052
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+
+#Mahmabiri
+70000 = {
+	name = "Йо'Рен-Дар"
+	dynasty = 230007
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	female = yes
+	3350.1.1 = { birth = yes }
+	3430.1.1 = { death = yes }
+}
+
+#Ne Quin Al mayors
+70050 = {
+	name = "Й'мгад"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3320.1.1 = { birth = yes }
+	3400.1.1 = { death = yes }
+}
+70051 = {
+	name = "Й'риска"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3380.1.1 = { birth = yes }
+	3460.1.1 = { death = yes }
+}
+70052 = {
+	name = "Й'скар"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3448.1.1 = { birth = yes }
+	3521.1.1 = { death = yes }
+}
+70053 = {
+	name = "Фамазар"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3489.1.1 = { birth = yes }
+	3547.1.1 = { death = yes }
+}
+70054 = {
+	name = "Раиназг"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3523.1.1 = { birth = yes }
+	3586.1.1 = { death = yes }
+}
+70055 = {
+	name = "С'Рава"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3551.1.1 = { birth = yes }
+	3623.1.1 = { death = yes }
+}
+70056 = {
+	name = "Ма'Кгар"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3603.1.1 = { birth = yes }
+	3685.1.1 = { death = yes }
+}
+70057 = {
+	name = "Кгарез"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3642.1.1 = { birth = yes }
+	3698.1.1 = { death = yes }
+}
+70058 = {
+	name = "Реган"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3670.1.1 = { birth = yes }
+	3736.1.1 = { death = yes }
+}
+70059 = {
+	name = "Тарлар"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3705.1.1 = { birth = yes }
+	3776.1.1 = { death = yes }
+}
+70060 = {
+	name = "Заблук"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3747.1.1 = { birth = yes }
+	3819.1.1 = { death = yes }
+}
+70061 = {
+	name = "С'ясг"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3790.1.1 = { birth = yes }
+	3862.1.1 = { death = yes }
+}
+
+#Soltand - Installed by House Mane as vassals
+70075 = {
+	name = "Шолани"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3417.1.1 = { birth = yes }
+	3465.1.1 = { death = yes }
+}
+70076 = {
+	name = "Йото"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70075
+	3442.1.1 = { birth = yes }
+	3493.1.1 = { death = yes }
+}
+70077 = {
+	name = "Йото"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70076
+	3471.1.1 = { birth = yes }
+	3529.1.1 = { death = yes }
+}
+70078 = {
+	name = "Ратул-до"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70077
+	3512.1.1 = { birth = yes }
+	3573.1.1 = { death = yes }
+}
+70079 = {
+	name = "Ратул-до"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70078
+	3547.1.1 = { birth = yes }
+	3612.1.1 = { death = yes }
+}
+70080 = {
+	name = "Гагеиба"
+	female = yes
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70079
+	3571.1.1 = { birth = yes }
+	3638.1.1 = { death = yes }
+}
+70081 = {
+	name = "Ерунираи"
+	female = yes
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70080
+	3596.1.1 = { birth = yes }
+	3657.1.1 = { death = yes }
+}
+70082 = {
+	name = "Исгалга"
+	female = yes
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70081
+	3624.1.1 = { birth = yes }
+	3689.1.1 = { death = yes }
+}
+70083 = {
+	name = "Пиллазг"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70082
+	3651.1.1 = { birth = yes }
+	3720.1.1 = { death = yes }
+}
+70084 = {
+	name = "С'ванез"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70083
+	3677.1.1 = { birth = yes }
+	3744.1.1 = { death = yes }
+}
+70085 = {
+	name = "Наргули"
+	female = yes
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70084
+	3720.1.1 = { birth = yes }
+	3779.1.1 = { death = yes }
+}
+70086 = {
+	name = "Узарнаим"
+	dynasty = 230125
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70085
+	3758.1.1 = { birth = yes }
+	3824.1.1 = { death = yes }
+}
+
+#Sabercats (Placeholder)
+#Raikar
+70100 = {
+	name = "Верит"
+	dynasty = 500026
+	dna="eagbjrbghaj"
+	culture = anequinan
+	religion = alkosh
+	add_trait = warrior_4
+	add_trait = khajiit
+	add_trait = sign_serpent
+	add_trait = p_rajhin
+	add_trait = genius
+	add_trait = homosexual
+	add_trait = lustful
+	add_trait = diligent
+	add_trait = gregarious
+	add_trait = proud
+	add_trait = veteran_leader_1
+	add_trait = inspiring_leader
+	add_trait = unyielding_leader
+	3350.1.1 = { birth = yes }
+	3369.1.1 = {
+		add_trait = immortal
+		effect = { set_character_flag = immortal_no_cheat }
+	}
+	4500.1.1 = { death = yes }
+}
+#70101 = {
+#	name = "Ра'Нова"
+#	dynasty = 230060
+#	culture = anequinan
+#	religion = alkosh
+#	add_trait = khajiit
+#	3410.1.1 = { birth = yes }
+#	3490.1.1 = { death = yes }
+#}
+
+#Temple-Holders of Heimthor
+70125 = {
+	name = "Ри'Думива"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3333.1.1 = { birth = yes }
+	3402.1.1 = { death = yes }
+}
+70126 = {
+	name = "М'дирр"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3364.1.1 = { birth = yes }
+	3438.1.1 = { death = yes }
+}
+70127 = {
+	name = "Уняра"
+	female = yes
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3401.1.1 = { birth = yes }
+	3489.1.1 = { death = yes }
+}
+70128 = {
+	name = "Аина"
+	female = yes
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3468.1.1 = { birth = yes }
+	3532.1.1 = { death = yes }
+}
+70129 = {
+	name = "Расгига"
+	female = yes
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3501.1.1 = { birth = yes }
+	3564.1.1 = { death = yes }
+}
+70130 = {
+	name = "М'насгаар"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3543.1.1 = { birth = yes }
+	3618.1.1 = { death = yes }
+}
+70131 = {
+	name = "К'сирр"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3579.1.1 = { birth = yes }
+	3635.1.1 = { death = yes }
+}
+70132 = {
+	name = "Тазиза"
+	female = yes
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3606.1.1 = { birth = yes }
+	3684.1.1 = { death = yes }
+}
+70133 = {
+	name = "Сабра"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3652.1.1 = { birth = yes }
+	3705.1.1 = { death = yes }
+}
+70134 = {
+	name = "Залурраг"
+	female = yes
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3680.1.1 = { birth = yes }
+	3748.1.1 = { death = yes }
+}
+70135 = {
+	name = "Балаг"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3721.1.1 = { birth = yes }
+	3785.1.1 = { death = yes }
+}
+70136 = {
+	name = "Аираль"
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3757.1.1 = { birth = yes }
+	3824.1.1 = { death = yes }
+}
+
+#Solvandi - Appointed to Ein Meirvale
+70150 = {
+	name = "Дро'Зель"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3351.1.1 = { birth = yes }
+	3406.1.1 = { death = yes }
+}
+70151 = {
+	name = "Нагси"
+	female = yes
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70150
+	3382.1.1 = { birth = yes }
+	3448.1.1 = { death = yes }
+}
+70152 = {
+	name = "Ра'дирсга"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70151
+	3413.1.1 = { birth = yes }
+	3475.1.1 = { death = yes }
+}
+70153 = {
+	name = "Йо'Рен-Дар"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70152
+	3454.1.1 = { birth = yes }
+	3509.1.1 = { death = yes }
+}
+70154 = {
+	name = "Адгаранйи"
+	female = yes
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70153
+	3487.1.1 = { birth = yes }
+	3537.1.1 = { death = yes }
+}
+70155 = {
+	name = "Й'баана"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70154
+	3517.1.1 = { birth = yes }
+	3570.1.1 = { death = yes }
+}
+70156 = {
+	name = "Йо'Рен-Дар"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70155
+	3541.1.1 = { birth = yes }
+	3606.1.1 = { death = yes }
+}
+70157 = {
+	name = "Мизапан"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70156
+	3582.1.1 = { birth = yes }
+	3657.1.1 = { death = yes }
+}
+70158 = {
+	name = "Раккгиза"
+	female = yes
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70157
+	3609.1.1 = { birth = yes }
+	3683.1.1 = { death = yes }
+}
+70159 = {
+	name = "Енак"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70158
+	3636.1.1 = { birth = yes }
+	3704.1.1 = { death = yes }
+}
+70160 = {
+	name = "Атаск"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70159
+	3673.1.1 = { birth = yes }
+	3741.1.1 = { death = yes }
+}
+70161 = {
+	name = "Раинан"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70160
+	3702.1.1 = { birth = yes }
+	3778.1.1 = { death = yes }
+}
+70162 = {
+	name = "Дро-Дара"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70161
+	3733.1.1 = { birth = yes }
+	3812.1.1 = { death = yes }
+}
+70163 = {
+	name = "Йо'Рен-Дар"
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70162
+	3764.1.1 = { birth = yes }
+	3817.1.1 = { death = yes }
+}
+70164 = {
+	name = "Иану-ма"
+	female = yes
+	dynasty = 230029
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70163
+	3781.1.1 = { birth = yes }
+	3842.1.1 = { death = yes }
+}
+
+#Tavakbiri - Appointed to Coren
+70200 = {
+	name = "Баисса"
+	female = yes
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3384.1.1 = { birth = yes }
+	3431.1.1 = { death = yes }
+}
+70201 = {
+	name = "Идгасси"
+	female = yes
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70200
+	3417.1.1 = { birth = yes }
+	3474.1.1 = { death = yes }
+}
+70202 = {
+	name = "Йото"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70201
+	3442.1.1 = { birth = yes }
+	3495.1.1 = { death = yes }
+}
+70203 = {
+	name = "Зоараим"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70202
+	3473.1.1 = { birth = yes }
+	3494.1.1 = { add_spouse = 70303 }
+	3536.1.1 = { death = yes }
+}
+70204 = {
+	name = "Й'баана"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70203
+	mother = 70303
+	3495.1.1 = { birth = yes }
+	3552.1.1 = { death = yes }
+}
+70205 = {
+	name = "Назир"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70204
+	3544.1.1 = { birth = yes }
+	3610.1.1 = { death = yes }
+}
+70206 = {
+	name = "М'раай-Дар"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70205
+	3573.1.1 = { birth = yes }
+	3631.1.1 = { death = yes }
+}
+70207 = {
+	name = "Сануа-ла"
+	female = yes
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70206
+	3607.1.1 = { birth = yes }
+	3674.1.1 = { death = yes }
+}
+70208 = {
+	name = "Сенадон"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70207
+	3630.1.1 = { birth = yes }
+	3685.1.1 = { death = yes }
+}
+70209 = {
+	name = "Катиналь"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70208
+	3662.1.1 = { birth = yes }
+	3702.1.1 = { death = yes }
+}
+70210 = {
+	name = "Ракгги"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70209
+	3684.1.1 = { birth = yes }
+	3751.1.1 = { death = yes }
+}
+70211 = {
+	name = "Синд"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70210
+	3710.1.1 = { birth = yes }
+	3781.1.1 = { death = yes }
+}
+70212 = {
+	name = "Абелаиа"
+	female = yes
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70211
+	3738.1.1 = { birth = yes }
+	3805.1.1 = { death = yes }
+}
+70213 = {
+	name = "Дузи"
+	female = yes
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70212
+	3763.1.1 = { birth = yes }
+	3827.1.1 = { death = yes }
+}
+70214 = {
+	name = "Адусгару"
+	dynasty = 230031
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70213
+	3789.1.1 = { birth = yes }
+	3846.1.1 = { death = yes }
+}
+
+#Zanai - Appointed to Toprest
+70250 = {
+	name = "Й'Ггаста"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3412.1.1 = { birth = yes }
+	3481.1.1 = { death = yes }
+}
+70251 = {
+	name = "Шунари"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70250
+	3454.1.1 = { birth = yes }
+	3518.1.1 = { death = yes }
+}
+70252 = {
+	name = "Васга"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70251
+	3476.1.1 = { birth = yes }
+	3500.1.1 = { add_spouse = 71000 }
+	3530.1.1 = { death = yes }
+}
+70253 = {
+	name = "Юлуда-даро"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70252
+	mother = 71000
+	3503.1.1 = { birth = yes }
+	3568.1.1 = { death = yes }
+}
+70254 = {
+	name = "Дузи"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70253
+	3523.1.1 = { birth = yes }
+	3580.1.1 = { death = yes }
+}
+70255 = {
+	name = "Забан-ма"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70254
+	3547.1.1 = { birth = yes }
+	3599.1.1 = { death = yes }
+}
+70256 = {
+	name = "Муниат"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70255
+	3582.1.1 = { birth = yes }
+	3659.1.1 = { death = yes }
+}
+70257 = {
+	name = "Мирудда"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70256
+	3607.1.1 = { birth = yes }
+	3665.1.1 = { death = yes }
+}
+70258 = {
+	name = "Ранарр-Йо"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70257
+	3633.1.1 = { birth = yes }
+	3684.1.1 = { death = yes }
+}
+70259 = {
+	name = "Реифифег"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70258
+	3663.1.1 = { birth = yes }
+	3724.1.1 = { death = yes }
+}
+70260 = {
+	name = "Ра'заим"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70259
+	3690.1.1 = { birth = yes }
+	3747.1.1 = { death = yes }
+}
+70261 = {
+	name = "Еленаби"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70260
+	3722.1.1 = { birth = yes }
+	3786.1.1 = { death = yes }
+}
+70262 = {
+	name = "Фа'алар"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70261
+	3745.1.1 = { birth = yes }
+	3815.1.1 = { death = yes }
+}
+70263 = {
+	name = "Ригири"
+	female = yes
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70262
+	3788.1.1 = { birth = yes }
+	3848.1.1 = { death = yes }
+}
+70264 = {
+	name = "Шикруз"
+	dynasty = 230037
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70263
+	3820.1.1 = { birth = yes }
+	3894.1.1 = { death = yes }
+}
+
+#Nahrabi - Appointed to Durres
+70300 = {
+	name = "Тенгиль"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3388.1.1 = { birth = yes }
+	3463.1.1 = { death = yes }
+}
+70301 = {
+	name = "Дро'Канар"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70300
+	3420.1.1 = { birth = yes }
+	3482.1.1 = { death = yes }
+}
+70302 = {
+	name = "Айгизи"
+	female = yes
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70301
+	3459.1.1 = { birth = yes }
+	3516.1.1 = { death = yes }
+}
+70303 = {
+	name = "Безера"
+	female = yes
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70302
+	3475.1.1 = { birth = yes }
+	3541.1.1 = { death = yes }
+}
+70304 = {
+	name = "Дро'фарагн"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70302
+	3478.1.1 = { birth = yes }
+	3533.1.1 = { death = yes }
+}
+70305 = {
+	name = "Й'ласга"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70304
+	3505.1.1 = { birth = yes }
+	3576.1.1 = { death = yes }
+}
+70306 = {
+	name = "Шолас-до"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70305
+	3539.1.1 = { birth = yes }
+	3605.1.1 = { death = yes }
+}
+70307 = {
+	name = "Иусги"
+	female = yes
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70306
+	3563.1.1 = { birth = yes }
+	3628.1.1 = { death = yes }
+}
+70308 = {
+	name = "Галасг"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70307
+	3588.1.1 = { birth = yes }
+	3637.1.1 = { death = yes }
+}
+70309 = {
+	name = "Кгунзум"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70308
+	3630.1.1 = { birth = yes }
+	3688.1.1 = { death = yes }
+}
+70310 = {
+	name = "Фелуни"
+	female = yes
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70309
+	3656.1.1 = { birth = yes }
+	3740.1.1 = { death = yes }
+}
+70311 = {
+	name = "Шараддарго"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70310
+	3681.1.1 = { birth = yes }
+	3749.1.1 = { death = yes }
+}
+70312 = {
+	name = "Кгунзум"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70311
+	3700.1.1 = { birth = yes }
+	3791.1.1 = { death = yes }
+}
+70313 = {
+	name = "Гималла"
+	female = yes
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70312
+	3721.1.1 = { birth = yes }
+	3779.1.1 = { death = yes }
+}
+70314 = {
+	name = "Табиль"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70313
+	3756.1.1 = { birth = yes }
+	3810.1.1 = { death = yes }
+}
+70315 = {
+	name = "Дро'Заг"
+	dynasty = 230093
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70314
+	3780.1.1 = { birth = yes }
+	3833.1.1 = { death = yes }
+}
+
+#Saeima - Appointees to Valleygard and Argolis
+70400 = {
+	name = "Саифа"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	3487.1.1 = { birth = yes }
+	3552.1.1 = { death = yes }
+}
+70401 = {
+	name = "Кул-я"
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70400
+	3513.1.1 = { birth = yes }
+	3580.1.1 = { death = yes }
+}
+70402 = {
+	name = "Дро'Барри"
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70401
+	3541.1.1 = { birth = yes }
+	3619.1.1 = { death = yes }
+}
+70403 = {
+	name = "Дазсги"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70402
+	3571.1.1 = { birth = yes }
+	3634.1.1 = { death = yes }
+}
+70404 = {
+	name = "Себази"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70403
+	3598.1.1 = { birth = yes }
+	3674.1.1 = { death = yes }
+}
+70405 = {
+	name = "Фийирра"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70404
+	3622.1.1 = { birth = yes }
+	3681.1.1 = { death = yes }
+}
+70406 = {
+	name = "Фада-даро"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70405
+	3644.1.1 = { birth = yes }
+	3698.1.1 = { death = yes }
+}
+70407 = {
+	name = "Фездаль"
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70406
+	3665.1.1 = { birth = yes }
+	3710.1.1 = { death = yes }
+}
+70408 = {
+	name = "Шурами-дра"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70407
+	3690.1.1 = { birth = yes }
+	3759.1.1 = { death = yes }
+}
+70409 = {
+	name = "Берриза"
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70408
+	3714.1.1 = { birth = yes }
+	3781.1.1 = { death = yes }
+}
+70410 = {
+	name = "Еюкки"
+	female = yes
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	father = 70409
+	3758.1.1 = { birth = yes }
+	3826.1.1 = { death = yes }
+}
+70411 = {
+	name = "Андал-ма"
+	dynasty = 230238
+	culture = anequinan
+	religion = alkosh
+	add_trait = khajiit
+	mother = 70410
+	3787.1.1 = { birth = yes }
+	3855.1.1 = { death = yes }
+}
+
+#Mahmueima, appointees under Leyawiin
+70500 = {
+	name = "Матад"
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3503.1.1 = { birth = yes }
+	3562.1.1 = { death = yes }
+}
+70501 = {
+	name = "Тсигила"
+	female = yes
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70500
+	3536.1.1 = { birth = yes }
+	3597.1.1 = { death = yes }
+}
+70502 = {
+	name = "Залар-до"
+	female = yes
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70501
+	3558.1.1 = { birth = yes }
+	3604.1.1 = { death = yes }
+}
+70503 = {
+	name = "Рен-дро"
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70502
+	3589.1.1 = { birth = yes }
+	3647.1.1 = { death = yes }
+}
+70504 = {
+	name = "Дузал-я"
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70503
+	3621.1.1 = { birth = yes }
+	3688.1.1 = { death = yes }
+}
+70505 = {
+	name = "Дагила"
+	female = yes
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70504
+	3662.1.1 = { birth = yes }
+	3723.1.1 = { death = yes }
+}
+70506 = {
+	name = "Асгни"
+	female = yes
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70505
+	3685.1.1 = { birth = yes }
+	3739.1.1 = { death = yes }
+}
+70507 = {
+	name = "Тсабги"
+	female = yes
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70506
+	3713.1.1 = { birth = yes }
+	3790.1.1 = { death = yes }
+}
+70508 = {
+	name = "Нулк"
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	mother = 70507
+	3744.1.1 = { birth = yes }
+	3818.1.1 = { death = yes }
+}
+70509 = {
+	name = "Шапал-йо"
+	dynasty = 230244
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	father = 70508
+	3782.1.1 = { birth = yes }
+	3843.1.1 = { death = yes }
+}
+
+#Additional Anequinian spouses and mothers of relevant rulers
+71000 = {
+	name = "Залапу"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3476.1.1 = { birth = yes }
+	3556.1.1 = { death = yes }
+}
+71001 = {
+	name = "Маздуни-даро"
+	female = yes
+	culture = anequinan
+	religion = riddlethar
+	add_trait = khajiit
+	3497.1.1 = { birth = yes }
+	3563.1.1 = { death = yes }
+}
