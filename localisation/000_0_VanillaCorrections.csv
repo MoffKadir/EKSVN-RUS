@@ -168,7 +168,7 @@ EVTDESC501;[From.GetTitledFirstName] и [From.GetPossPronoun] [GetFromVsNewRelati
 maimed_effect_tooltip;§Y[This.GetBestName]§! станет §YИскалеченным§!\n;;;;;;;;;x;;;;
 hedonist_desc;Этот персонаж решил жить в разврате и грехе. Вероятно, это отразится на его здоровье.;;;;;;;;;x;;;;
 hunter_desc;Этот персонаж - охотник, и чувствует себя по-настоящему живым, только когда преследует и убивает свою добычу.;;;;;;;;;x;;;;
-BISHOP_LOYALTY_DESC;Духовентство не обязано платить налоги - или предоставлять солдат - своему светскому сюзерену. Они платят своему религиозному главе, их светскому сюзерену или даже анти-религиозному лидеру, в зависимости от того, кто им больше нравится.;Les йvкques catholiques ne sont pas tenus de payer des impфts, ou de fournir des troupes, а leur seigneur sйculier. Ils versent de l'argent au Pape, а leur seigneur sйculier, voire а un antipape selon leurs prйfйrences.;Katholische Bischцfe sind nicht verpflichtet, ihrem weltlichen Lehnsherrn Steuern zu zahlen oder Aufgebote bereitzustellen. Sie leisten ihre Zahlungen an den Papst, ihren weltlichen Lehnsherrn oder sogar an einen Gegenpapst. Je nachdem, wen sie bevorzugen...;;Los obispos catуlicos no estбn obligados a pagar impuestos o proporcionar levas a su seсor seglar. Pagarбn al que mбs les guste: al papa, al seсor seglar o incluso al Antipapa.;;;;;;;;;x
+BISHOP_LOYALTY_DESC;Духовентство не обязано платить налоги - или предоставлять солдат - своему светскому сюзерену. Они платят своему религиозному главе, их светскому сюзерену или даже анти-религиозному лидеру, в зависимости от того, кто им больше нравится.;;;;;;;;;;;;;x
 OPINION_OF_POPE;Мнение Главы Религии;;;;;;;;;;;;;x
 EVTDESC_WOL_81_F;Не так уж и просто спать с каждым мужчиной, который занимает мои фантазии. Ревнивые жёны, бдительные матери, любопытные придворные - требуются особые навыки, чтобы выжить в этой змеиной яме!;;;;;;;;;;x;;;
 EVTDESC_WOL_81_M;Гоняться за юбками не так-то просто. Ревнивые мужья, бдительные родители, любопытные горничные... Чудо, что я ещё жив!;;;;;;;;;;x;;;
@@ -194,6 +194,12 @@ String_October;Начала морозов;;;;;;;;x
 String_November;Заката солнца;;;;;;;;x
 String_December;Вечерней звезды;;;;;;;;x
 action_assist_arrest_desc;Пришлите [GetMarshalName] достаточное количество войск, чтобы подавить восстания и облегчить аресты местных вассалов, а также искоренить и уничтожить продолжающуюся преступную деятельность и заражения.;;;;;;;;;;;;;x
-action_hunt_heretics;Охота На Мерзость;;;;;;;;;;;;;x;
+action_hunt_heretics;Охота на мерзость;;;;;;;;;;;;;x;
 action_hunt_heretics_desc;[GetLordSpiritualName] будет охотиться на вампиров и оборотней, скрывающихся в вашем дворе и Королевстве, вытаскивая этих монстров на свет, чтобы все их увидели..;;;;;;;;;;;;;x;
 RULE_ACHIEVEMENTS_WARNINGS; §RНе поддерживается командой Elder Kings!§!;;;;;;;;x
+EVTDESCLoR.851;[From.GetTitledFirstName] сообщает, что несколько новобранцев Клинков устроили погром в кварталах Имперского Города. Они подожгли гостиницу, убили трех стражников и избили пятерых местных торговцев и двух жрецов. Люди требуют наказать их, восстановив справедливость.;;;;;;;;;;;;;x
+EVTOPTALoR.851;Они послужат другим примером.;;;;;;;;;;;;;x
+EVTOPTBLoR.851;Да ладно вам. Парни просто веселились.;;;;;;;;;;;;;x
+punish_varangians;Ответственные за этот проступок новобранцы будут казнены.;;;;;;;;;;;;;x
+free_varangians;Освободить новобранцев и вернуть их командиру.;;;;;;;;;;;;;x
+EVTDESC_TOG_1060;Мятежники, исповедующие [Root.Religion.GetName], восстали в округе [Root.GetName], возглавляемые воинственным фанатиком. Если не подавить это восстание, оно может распространиться словно лесной пожар!;;;;;;;;;;;;;x

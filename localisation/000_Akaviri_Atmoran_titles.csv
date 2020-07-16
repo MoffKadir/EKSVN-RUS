@@ -71,7 +71,7 @@ count_female_tsaesci;Усури;;;;;;;;;;;;;x
 count_tsaesci;Усура;;;;;;;;;;;;;x
 duke_female_tsaesci;Докии;;;;;;;;;;;;;x
 duke_tsaesci;Докаа;;;;;;;;;;;;;x
-princess_tsaesci;Ксири;;;;;;;;;;;;;x
+title_prince_female_tsaesci;Ксири;;;;;;;;;;;;;x
 title_prince_tsaesci;Ксара;;;;;;;;;;;;;x
 queen_tsaesci;Ва-Ции;;;;;;;;;;;;;x
 king_tsaesci;Ва-Ция;;;;;;;;;;;;;x
@@ -179,11 +179,11 @@ empire_of_akaviri;Тейкоку;;;;;;;;;;;;;x
 kingdom_of_akaviri;Окококу;;;;;;;;;;;;;x
 baron_female_akaviri;Даншаку;;;;;;;;;;;;;x
 baron_akaviri;Даншаку;;;;;;;;;;;;;x
-count_female_akaviri;Хакушаку;;;;;;;;;;;;;x
-count_akaviri;Хакушаку;;;;;;;;;;;;;x
-duke_female_akaviri;Кошаку;;;;;;;;;;;;;x
-duke_akaviri;Кошаку;;;;;;;;;;;;;x
-princess_akaviri;Ойо;;;;;;;;;;;;;x
+count_female_akaviri;Ёпогук;;;;;;;;;;;;;x
+count_akaviri;Погук;;;;;;;;;;;;;x
+duke_female_akaviri;Ёгон;;;;;;;;;;;;;x
+duke_akaviri;Гон;;;;;;;;;;;;;x
+title_prince_female_akaviri;Ойо;;;;;;;;;;;;;x
 title_prince_akaviri;Ойи;;;;;;;;;;;;;x
 queen_akaviri;Йу;;;;;;;;;;;;;x
 king_akaviri;Куньшу;;;;;;;;;;;;;x
@@ -222,10 +222,15 @@ temple_kingdom_of_quey;Джокин;;;;;;;;;;;;;x
 temple_king_female_quey;Чрин;;;;;;;;;;;;;x
 temple_king_quey;Кин;;;;;;;;;;;;;x
 barony_of_quey;Джобуок;;;;;;;;;;;;;x
+barony_quey;Джобуок;;;;;;;;;;;;;x
 county_of_quey;Джонуконг Ту;;;;;;;;;;;;;x
+county_quey;Джонуконг;;;;;;;;;;;;;x
 duchy_of_quey;Джонуконг;;;;;;;;;;;;;x
+duchy_quey;Джонуконг;;;;;;;;;;;;;x
 empire_of_quey;Джокрокин;;;;;;;;;;;;;x
+empire_quey;Джокрокин;;;;;;;;;;;;;x
 kingdom_of_quey;Джокану;;;;;;;;;;;;;x
+kingdom_quey;Джокану;;;;;;;;;;;;;x
 baron_female_quey;Гуок;;;;;;;;;;;;;x
 baron_quey;Буок;;;;;;;;;;;;;x
 count_female_quey;Ликонг Ту;;;;;;;;;;;;;x
