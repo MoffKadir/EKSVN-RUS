@@ -1,0 +1,939 @@
+d_boethiaschosen;Избранные Боэтии;;;;;;;;;;;;;x
+d_boethiaschosen_adj;Боэтиийск;;;;;;;;;;;;;x
+d_championsofmalacath;Чемпионы Малаката;;;;;;;;;;;;;x
+d_championsofmalacath_adj;Малакатск;;;;;;;;;;;;;x
+d_handsofalmalexia;Руки Альмалексии;;;;;;;;;;;;;x
+d_handsofalmalexia_adj;Альмалексийск;;;;;;;;;;;;;x
+d_knightsmentor;Рыцари Наставника;;;;;;;;;;;;;x
+d_knightsmentor_adj;Рыцарей Наставникск;;;;;;;;;;;;;x
+d_knightsofiron;Рыцари Железа;;;;;;;;;;;;;x
+d_knightsofiron_adj;Рыцари Железн;;;;;;;;;;;;;x
+d_knightsoforder;Рыцари Порядка;;;;;;;;;;;;;x
+d_knightsoforder_adj;Порядкск;;;;;;;;;;;;;x
+d_knightsofthecircle;Рыцари Круга;;;;;;;;;;;;;x
+d_knightsofthecircle_adj;Кругск;;;;;;;;;;;;;x
+d_knightsofthenine;Рыцари Девяти;;;;;;;;;;;;;x
+d_knightsofthenine_adj;Рыцарей Девяти;;;;;;;;;;;;;x
+d_kynaranorder;Орден Кинарет;;;;;;;;;;;;;x
+d_kynaranorder_adj;Кинаретск;;;;;;;;;;;;;x
+d_maranknights;Рыцари Мары;;;;;;;;;;;;;x
+d_maranknights_adj;Марск;;;;;;;;;;;;;x
+d_mythicdawncultists;Культисты Мифического Рассвета;;;;;;;;;;;;;x
+d_mythicdawncultists_adj;Культистск;;;;;;;;;;;;;x
+d_nerevarinecultists;Культисты Нереварина;;;;;;;;;;;;;x
+d_nerevarinecultists_adj;Культистск;;;;;;;;;;;;;x
+d_orderofthehour;Орден Часа;;;;;;;;;;;;;x
+d_orderofthehour_adj;Часк;;;;;;;;;;;;;x
+d_orderofthelily;Орден Лилии;;;;;;;;;;;;;x
+d_orderofthelily_adj;Лилийск;;;;;;;;;;;;;x
+d_buoyantarmiger;Вечные Стражи;;;;;;;;;;;;;x
+d_buoyantarmiger_adj;Вечные Стражск;;;;;;;;;;;;;x
+c_adventurers_of_skyrim;Авантюристы Скайрима;;;;;;;;;;;;;x
+c_adventurers_of_skyrim_adj;Скайримскоавантюристск;;;;;;;;;;;;;x
+d_stormfist_brigade;Отряд Штормовых Кулаков;;;;;;;;;;;;;x
+d_stormfist_brigade_adj;Штормовых Кулаковск;;;;;;;;;;;;;x
+c_brotherhood_of_wolf;Братство Волка;;;;;;;;;;;;;x
+c_brotherhood_of_wolf_adj;Братство Волквск;;;;;;;;;;;;;x
+c_company_friends;Компания Друзей;;;;;;;;;;;;;x
+c_company_friends_adj;Компания Друзейск;;;;;;;;;;;;;x
+c_desertrangers;Рейнджеры Пустыни;;;;;;;;;;;;;x
+c_desertrangers_adj;Рейнджеров Пустыньск;;;;;;;;;;;;;x
+c_dungeon_defenders;Защитники Подземелий;;;;;;;;;;;;;x
+c_dungeon_defenders_adj;Защитники Подземелийск;;;;;;;;;;;;;x
+c_explorersunknownable;Исследователи Непознаваемого;;;;;;;;;;;;;x
+c_explorersunknownable_adj;Исследователи Непознаваемогск;;;;;;;;;;;;;x
+c_hostofbay;Воинство Бухты;;;;;;;;;;;;;x
+c_hostofbay_adj;Воинство Бухтск;;;;;;;;;;;;;x
+c_hostofblackstar;Воинство Чёрной Звезды;;;;;;;;;;;;;x
+c_hostofblackstar_adj;Воинство Чёрной Звездск;;;;;;;;;;;;;x
+c_hostofboot;Воинство Сапога;;;;;;;;;;;;;x
+c_hostofboot_adj;Воинство Сапогск;;;;;;;;;;;;;x
+c_hostofemeraldjungle;Воинство Изумрудных Джунглей;;;;;;;;;;;;;x
+c_hostofemeraldjungle_adj;Изумрудный Орденск;;;;;;;;;;;;;x
+c_hostofgreenheart;Воины Гринхарта;;;;;;;;;;;;;x
+c_hostofgreenheart_adj;Воины Гринхартск;;;;;;;;;;;;;x
+c_hostofhammer;Войско Молота;;;;;;;;;;;;;x
+c_hostofhammer_adj;Войско Молотск;;;;;;;;;;;;;x
+c_hostofhoarfrost;Войско Белого Инея;;;;;;;;;;;;;x
+c_hostofhoarfrost_adj;Войско Белого Инейск;;;;;;;;;;;;;x
+d_ebonheartfleet;Флот Эбонхарта;;;;;;;;;;;;;x
+c_hostofhoe;Воинство Мотыги;;;;;;;;;;;;;x
+c_hostofhoe_adj;Воинство Мотыгск;;;;;;;;;;;;;x
+c_hostofironoak;Войско Железного Дуба;;;;;;;;;;;;;x
+c_hostofironoak_adj;Войско Железного Дубск;;;;;;;;;;;;;x
+c_hostofmangroveswamp;Мангровое Воинство;;;;;;;;;;;;;x
+c_hostofmangroveswamp_adj;Мангрововоинск;;;;;;;;;;;;;x
+c_hostofmaw;Воители Утробы;;;;;;;;;;;;;x
+c_hostofmaw_adj;Воители Утробы;;;;;;;;;;;;;x
+c_hostofsatchel;Воинство Сумки;;;;;;;;;;;;;x
+c_hostofsatchel_adj;Воинство Сумкск;;;;;;;;;;;;;x
+c_hostofslaughterfish;Воинство Рыбы-убийцы;;;;;;;;;;;;;x
+c_hostofslaughterfish_adj;Воинство Рыбы-убийцск;;;;;;;;;;;;;x
+c_hostofsouthsea;Войско Южного Моря;;;;;;;;;;;;;x
+c_hostofsouthsea_adj;Войско Южного Морск;;;;;;;;;;;;;x
+c_hostofspriggan;Воинство Сприггана;;;;;;;;;;;;;x
+c_hostofspriggan_adj;Воинство Спригганск;;;;;;;;;;;;;x
+c_hostofsword;Воинство Зимнего Меча;;;;;;;;;;;;;x
+c_hostofsword_adj;Зимнего Мечск;;;;;;;;;;;;;x
+c_hostofthehorn;Воинство Рога;;;;;;;;;;;;;x
+c_hostofthehorn_adj;Воинство Рогск;;;;;;;;;;;;;x
+c_hostofthetruehorn;Воинство Истинного Рога;;;;;;;;;;;;;x
+c_hostofthetruehorn_adj;Рыцари Истинного Рогск;;;;;;;;;;;;;x
+c_hostoftimberwolf;Воинство Лесного Волка;;;;;;;;;;;;;x
+c_hostoftimberwolf_adj;Воинство Лесного Волкск;;;;;;;;;;;;;x
+c_hostofunicorn;Воинство Единорога;;;;;;;;;;;;;x
+c_hostofunicorn_adj;Воинство Единорогск;;;;;;;;;;;;;x
+c_hostofvale;Воинство Долины;;;;;;;;;;;;;x
+c_hostofvale_adj;Воинство Долинск;;;;;;;;;;;;;x
+c_hostofveil;Воинство Завесы;;;;;;;;;;;;;x
+c_hostofveil_adj;Воинство Завеск;;;;;;;;;;;;;x
+c_hostofvengefulwood;Воинство Мстительного Дерева;;;;;;;;;;;;;x
+c_hostofvengefulwood_adj;Воинство Мстительного Деревск;;;;;;;;;;;;;x
+c_hostofvine;Воинство Лозы;;;;;;;;;;;;;x
+c_hostofvine_adj;Воинство Лозы;;;;;;;;;;;;;x
+c_hostofwildeye;Воинство Дикого Глаза;;;;;;;;;;;;;x
+c_hostofwildeye_adj;Дикого Глаза Воинств;;;;;;;;;;;;;x
+c_hostofwildheart;Воинство Дикого Сердца;;;;;;;;;;;;;x
+c_hostofwildheart_adj;Дикого Сердца Воинств;;;;;;;;;;;;;x
+c_knightsdragon;Рыцари Дракона;;;;;;;;;;;;;x
+c_knightsdragon_adj;Рыцари Драконск;;;;;;;;;;;;;x
+c_knightsofaether;Рыцари Этериуса;;;;;;;;;;;;;x
+c_knightsofaether_adj;Рыцари Этериуск;;;;;;;;;;;;;x
+c_knightsofavowed;Рыцари Признания;;;;;;;;;;;;;x
+c_knightsofavowed_adj;Рыцари Признанийск;;;;;;;;;;;;;x
+c_knightsofband;Рыцари Ленты;;;;;;;;;;;;;x
+c_knightsofband_adj;Рыцари Лентск;;;;;;;;;;;;;x
+c_knightsofblackmarsh;Рыцари Чернотопья;;;;;;;;;;;;;x
+c_knightsofblackmarsh_adj;Рыцари Чернотопья;;;;;;;;;;;;;x
+c_knightsofbloom;Рыцари Цветов;;;;;;;;;;;;;x
+c_knightsofbloom_adj;Рыцари Цветовск;;;;;;;;;;;;;x
+c_knightsofchain;Рыцари Цепей;;;;;;;;;;;;;x
+c_knightsofchain_adj;Рыцари Цепей;;;;;;;;;;;;;x
+c_knightsofclannfear;Рыцари Кланфира;;;;;;;;;;;;;x
+c_knightsofclannfear_adj;Рыцари Кланфирск;;;;;;;;;;;;;x
+c_knightsofcockerel;Рыцари Петуха;;;;;;;;;;;;;x
+c_knightsofcockerel_adj;Рыцари Петухск;;;;;;;;;;;;;x
+c_knightsofcoil;Рыцари Спирали;;;;;;;;;;;;;x
+c_knightsofcoil_adj;Рыцари Спиральск;;;;;;;;;;;;;x
+c_knightsofcoral;Рыцари Коралла;;;;;;;;;;;;;x
+c_knightsofcoral_adj;Рыцари Коралловск;;;;;;;;;;;;;x
+c_knightsofcrag;Рыцари Скалы;;;;;;;;;;;;;x
+c_knightsofcrag_adj;Рыцари Скалист;;;;;;;;;;;;;x
+c_knightsofcrow;Рыцари Ворона;;;;;;;;;;;;;x
+c_knightsofcrow_adj;Рыцари Воронск;;;;;;;;;;;;;x
+c_knightsofcyrodiil;Рыцари Сиродиила;;;;;;;;;;;;;x
+c_knightsofcyrodiil_adj;Рыцари Сиродиильск;;;;;;;;;;;;;x
+c_knightsofdirge;Рыцари Панихиды;;;;;;;;;;;;;x
+c_knightsofdirge_adj;Рыцари Панихидск;;;;;;;;;;;;;x
+c_knightsofdove;Рыцари Голубя;;;;;;;;;;;;;x
+c_knightsofdove_adj;Рыцари Голубьск;;;;;;;;;;;;;x
+c_knightsofdusk;Рыцари Сумрака;;;;;;;;;;;;;x
+c_knightsofdusk_adj;Рыцари Сумракск;;;;;;;;;;;;;x
+c_knightsofeagle;Рыцари Орла;;;;;;;;;;;;;x
+c_knightsofeagle_adj;Рыцари Орловск;;;;;;;;;;;;;x
+c_knightsofeastwatch;Рыцари Восточного Дозора;;;;;;;;;;;;;x
+c_knightsofeastwatch_adj;Рыцари Восточного Дозорск;;;;;;;;;;;;;x
+c_knightsofebontree;Рыцари Эбенового Дерева;;;;;;;;;;;;;x
+c_knightsofebontree_adj;Рыцари Эбенового Деревск;;;;;;;;;;;;;x
+c_knightsofebony;Рыцари Эбонита;;;;;;;;;;;;;x
+c_knightsofebony_adj;Рыцари Эбонита;;;;;;;;;;;;;x
+c_knightsofelm;Рыцари Вяза;;;;;;;;;;;;;x
+c_knightsofelm_adj;Рыцари Вязск;;;;;;;;;;;;;x
+c_knightsofermine;Рыцари Горностая;;;;;;;;;;;;;x
+c_knightsofermine_adj;Рыцари Горностайск;;;;;;;;;;;;;x
+c_knightsofevergreen;Рыцари Вечной Зелени;;;;;;;;;;;;;x
+c_knightsofevergreen_adj;Рыцари Вечной Зеленск;;;;;;;;;;;;;x
+c_knightsofevermore;Рыцари Эвермора;;;;;;;;;;;;;x
+c_knightsofevermore_adj;Рыцари Эверморск;;;;;;;;;;;;;x
+c_knightsoffirewatch;Рыцари Файрвотча;;;;;;;;;;;;;x
+c_knightsoffirewatch_adj;Рыцари Файрвотчск;;;;;;;;;;;;;x
+c_knightsoffirst;Рыцари Начала;;;;;;;;;;;;;x
+c_knightsoffirst_adj;Рыцари Начальн;;;;;;;;;;;;;x
+c_knightsofflame;Рыцари Пламени;;;;;;;;;;;;;x
+c_knightsofflame_adj;Рыцари Пламенск;;;;;;;;;;;;;x
+c_knightsofforlorn;Рыцари Слабой Надежды;;;;;;;;;;;;;x
+c_knightsofforlorn_adj;Рыцари Слабой Надеждск;;;;;;;;;;;;;x
+c_knightsoffort;Рыцари Форта;;;;;;;;;;;;;x
+c_knightsoffort_adj;Рыцари Фортск;;;;;;;;;;;;;x
+c_knightsofgate;Рыцари Врат;;;;;;;;;;;;;x
+c_knightsofgate_adj;Рыцари Врат;;;;;;;;;;;;;x
+c_knightsofgoldenhill;Рыцари Золотого Холма;;;;;;;;;;;;;x
+c_knightsofgoldenhill_adj;Рыцари Золотого Холмск;;;;;;;;;;;;;x
+c_knightsofgoldenlion;Рыцари Золотого Льва;;;;;;;;;;;;;x
+c_knightsofgoldenlion_adj;Рыцари Золотого Львовск;;;;;;;;;;;;;x
+c_knightsofhall;Рыцари Усадьбы;;;;;;;;;;;;;x
+c_knightsofhall_adj;Рыцари Усадьбенск;;;;;;;;;;;;;x
+c_knightsofhare;Рыцари Зайца;;;;;;;;;;;;;x
+c_knightsofhare_adj;Рыцари Заячьиск;;;;;;;;;;;;;x
+c_knightsofhaste;Рыцари Суеты;;;;;;;;;;;;;x
+c_knightsofhaste_adj;Рыцари Суетн;;;;;;;;;;;;;x
+c_knightsofhawk;Рыцари Ястреба;;;;;;;;;;;;;x
+c_knightsofhawk_adj;Рыцари Ястребск;;;;;;;;;;;;;x
+c_knightsofhedge;Рыцари Преграды;;;;;;;;;;;;;x
+c_knightsofhedge_adj;Рыцари Преградск;;;;;;;;;;;;;x
+c_knightsofhelm;Рыцари Шлема;;;;;;;;;;;;;x
+c_knightsofhelm_adj;Рыцари Шлемск;;;;;;;;;;;;;x
+c_knightsofjewel;Рыцари Самоцвета;;;;;;;;;;;;;x
+c_knightsofjewel_adj;Рыцари Самоцветск;;;;;;;;;;;;;x
+c_knightsofjudgement;Рыцари Правосудия;;;;;;;;;;;;;x
+c_knightsofjudgement_adj;Рыцари Правосудийск;;;;;;;;;;;;;x
+c_knightsoflion;Рыцари Льва;;;;;;;;;;;;;x
+c_knightsoflion_adj;Рыцари Львовск;;;;;;;;;;;;;x
+c_knightsofmist;Рыцари Тумана;;;;;;;;;;;;;x
+c_knightsofmist_adj;Рыцари Туманск;;;;;;;;;;;;;x
+c_knightsofmoon;Рыцари Луны;;;;;;;;;;;;;x
+c_knightsofmoon_adj;Рыцари Лунск;;;;;;;;;;;;;x
+c_knightsofmoth;Рыцари Мотылька;;;;;;;;;;;;;x
+c_knightsofmoth_adj;Рыцари Мотылькск;;;;;;;;;;;;;x
+c_knightsofmurkwood;Рыцари Мрачнолесья;;;;;;;;;;;;;x
+c_knightsofmurkwood_adj;Рыцари Мрачнолеск;;;;;;;;;;;;;x
+c_knightsofnorth;Рыцари Севера;;;;;;;;;;;;;x
+c_knightsofnorthpass;Рыцари Северного Прохода;;;;;;;;;;;;;x
+c_knightsofnorthpass_adj;Рыцари Северного Проходск;;;;;;;;;;;;;x
+c_knightsofnorth_adj;Рыцари Северн;;;;;;;;;;;;;x
+c_knightsofoak;Рыцари Дуба;;;;;;;;;;;;;x
+c_knightsofoak_adj;Рыцари Дубск;;;;;;;;;;;;;x
+c_knightsofowl;Рыцари Совы;;;;;;;;;;;;;x
+c_knightsofowl_adj;Рыцари Совск;;;;;;;;;;;;;x
+c_knightsofpebble;Рыцари Булыжника;;;;;;;;;;;;;x
+c_knightsofpebble_adj;Рыцари Булыжникск;;;;;;;;;;;;;x
+c_knightsofquill;Рыцари Пера;;;;;;;;;;;;;x
+c_knightsofquill_adj;Рыцари Перск;;;;;;;;;;;;;x
+c_knightsofquinrawl;Рыцари Квин’Роул;;;;;;;;;;;;;x
+c_knightsofquinrawl_adj;Рыцари Квин’Роулск;;;;;;;;;;;;;x
+c_knightsofrainbow;Рыцари Радуги;;;;;;;;;;;;;x
+c_knightsofrainbow_adj;Рыцари Радугск;;;;;;;;;;;;;x
+c_knightsofsabre;Рыцари Сабли;;;;;;;;;;;;;x
+c_knightsofsabre_adj;Рыцари Саблиск;;;;;;;;;;;;;x
+c_knightsofshuriken;Рыцари Сюрикена;;;;;;;;;;;;;x
+c_knightsofshuriken_adj;Рыцари Сюрикенск;;;;;;;;;;;;;x
+c_knightsofsilver;Рыцари Серебра;;;;;;;;;;;;;x
+c_knightsofsilver_adj;Рыцари Серебрск;;;;;;;;;;;;;x
+c_knightsofsolace;Рыцари Милосердия;;;;;;;;;;;;;x
+c_knightsofsolace_adj;Рыцари Милосердск;;;;;;;;;;;;;x
+c_knightsofsolitude;Рыцари Солитьюда;;;;;;;;;;;;;x
+c_knightsofsolitude_adj;Рыцари Солитьюдск;;;;;;;;;;;;;x
+c_knightsofsouthernhills;Рыцари Южных Холмов;;;;;;;;;;;;;x
+c_knightsofsouthernhills_adj;Рыцари Южных Холмовск;;;;;;;;;;;;;x
+c_knightsofspring;Рыцари Весны;;;;;;;;;;;;;x
+c_knightsofspring_adj;Рыцари Весенн;;;;;;;;;;;;;x
+c_knightsofstaff;Рыцари Посоха;;;;;;;;;;;;;x
+c_knightsofstaff_adj;Рыцари Посохск;;;;;;;;;;;;;x
+c_knightsofstar;Рыцари Звезды;;;;;;;;;;;;;x
+c_knightsofstar_adj;Рыцари Звездск;;;;;;;;;;;;;x
+c_knightsofstorm;Рыцари Бури;;;;;;;;;;;;;x
+c_knightsofstorm_adj;Рыцари Бурийск;;;;;;;;;;;;;x
+c_knightsoftemple;Рыцари Храма;;;;;;;;;;;;;x
+c_knightsoftemple_adj;Рыцари Храмск;;;;;;;;;;;;;x
+c_knightsoftern;Рыцари Мороза;;;;;;;;;;;;;x
+c_knightsoftern_adj;Рыцари Морозн;;;;;;;;;;;;;x
+c_knightsofthepale;Рыцари Белого Берега;;;;;;;;;;;;;x
+c_knightsofthepale_adj;Рыцари Белого Берегск;;;;;;;;;;;;;x
+c_knightsoftherose;Рыцари Розы;;;;;;;;;;;;;x
+c_knightsoftherose_adj;Рыцари Розск;;;;;;;;;;;;;x
+c_knightsofthorn;Рыцари Торна;;;;;;;;;;;;;x
+c_knightsofthorn_adj;Рыцари Торнск;;;;;;;;;;;;;x
+c_knightsofvirtue;Рыцари Добродетели;;;;;;;;;;;;;x
+c_knightsofvirtue_adj;Рыцари Добродетельн;;;;;;;;;;;;;x
+c_knightsofwall;Рыцари Стены;;;;;;;;;;;;;x
+c_knightsofwall_adj;Рыцари Стенск;;;;;;;;;;;;;x
+c_knightsofwatch;Рыцари Дозора;;;;;;;;;;;;;x
+c_knightsofwatch_adj;Рыцари Дозорск;;;;;;;;;;;;;x
+c_knightsofwestshore;Рыцари Западного Берега;;;;;;;;;;;;;x
+c_knightsofwestshore_adj;Рыцари Западноберегск;;;;;;;;;;;;;x
+c_knightsofwheel;Рыцари Колеса;;;;;;;;;;;;;x
+c_knightsofwheel_adj;Рыцари Колесн;;;;;;;;;;;;;x
+c_knightsofwhispering;Рыцари Шепчущего Призрака;;;;;;;;;;;;;x
+c_knightsofwhispering_adj;Рыцари Шепчущего Призракск;;;;;;;;;;;;;x
+c_knightsofwhite;Белые Рыцари;;;;;;;;;;;;;x
+c_knightsofwhitestallion;Рыцари Белого Жеребца;;;;;;;;;;;;;x
+c_knightsofwhitestallion_adj;Рыцари Белого Жеребцвск;;;;;;;;;;;;;x
+c_knightsofwhite_adj;Белорыцарск;;;;;;;;;;;;;x
+c_knightsofwillowtree;Рыцари Ивы;;;;;;;;;;;;;x
+c_knightsofwillowtree_adj;Рыцари Ивовск;;;;;;;;;;;;;x
+c_knightsofwinter;Рыцари Зимы;;;;;;;;;;;;;x
+c_knightsofwinter_adj;Рыцари Зимн;;;;;;;;;;;;;x
+c_knightsofyellow;Жёлтые Рыцари;;;;;;;;;;;;;x
+c_knightsofyellow_adj;Жёлтые Рыцари;;;;;;;;;;;;;x
+c_knights_errant;Странствующие Рыцари;;;;;;;;;;;;;x
+c_knights_errant_adj;Странствующие Рыцарск;;;;;;;;;;;;;x
+c_legio_argonia;Легион Аргонии;;;;;;;;;;;;;x
+c_legio_argonia_adj;Легион Аргонианск;;;;;;;;;;;;;x
+c_legio_colovia;Легион Коловии;;;;;;;;;;;;;x
+c_legio_colovia_adj;Легион Коловианск;;;;;;;;;;;;;x
+c_legio_cyrodiil;Легион Сиродиила;;;;;;;;;;;;;x
+c_legio_cyrodiil_adj;Легион Сиродиильск;;;;;;;;;;;;;x
+c_legio_elsweyr;Легион Эльсвейра;;;;;;;;;;;;;x
+c_legio_elsweyr_adj;Легион Эльсвейрск;;;;;;;;;;;;;x
+c_legio_hammerfell;Легион Хаммерфелла;;;;;;;;;;;;;x
+c_legio_hammerfell_adj;Легион Хаммерфелльск;;;;;;;;;;;;;x
+c_legio_highrock;Легион Хай Рока;;;;;;;;;;;;;x
+c_legio_highrock_adj;Легион Хай Рокск;;;;;;;;;;;;;x
+c_legio_knights;Имперские Рыцари;;;;;;;;;;;;;x
+c_legio_knights_adj;Имперскорыцарск;;;;;;;;;;;;;x
+c_legio_morrowind;Легион Морровинда;;;;;;;;;;;;;x
+c_legio_morrowind_adj;Легион Морровиндск;;;;;;;;;;;;;x
+c_legio_nibenay;Легион Нибенея;;;;;;;;;;;;;x
+c_legio_nibenay_adj;Легион Нибенейск;;;;;;;;;;;;;x
+c_legio_skyrim;Легион Скайрима;;;;;;;;;;;;;x
+c_legio_skyrim_adj;Легион Скайримск;;;;;;;;;;;;;x
+c_orderofancestors;Орден Предшественников;;;;;;;;;;;;;x
+c_orderofancestors_adj;Орден Предшественникск;;;;;;;;;;;;;x
+c_orderofanvil;Орден Анвила;;;;;;;;;;;;;x
+c_orderofanvil_adj;Орден Анвилск;;;;;;;;;;;;;x
+c_orderofarrowshot;Орден Пронзенных Стрелой;;;;;;;;;;;;;x
+c_orderofarrowshot_adj;Орден Пронзенных Стреловск;;;;;;;;;;;;;x
+c_orderofash;Орден Пепла;;;;;;;;;;;;;x
+c_orderofash_adj;Орден Пепельн;;;;;;;;;;;;;x
+c_orderofaxe;Орден Топора;;;;;;;;;;;;;x
+c_orderofaxe_adj;Орден Топорск;;;;;;;;;;;;;x
+c_orderofbanner;Орден Знамени;;;;;;;;;;;;;x
+c_orderofbanner_adj;Орден Знамени;;;;;;;;;;;;;x
+c_orderofbear;Орден Медведя;;;;;;;;;;;;;x
+c_orderofbear_adj;Орден Медведьск;;;;;;;;;;;;;x
+c_orderofbell;Орден Колокола;;;;;;;;;;;;;x
+c_orderofbell_adj;Орден Колоколск;;;;;;;;;;;;;x
+c_orderofblackfire;Орден Чёрного Пламени;;;;;;;;;;;;;x
+c_orderofblackfire_adj;Чёрного Пламеньск;;;;;;;;;;;;;x
+c_orderofblackrose;Орден Чёрной Розы;;;;;;;;;;;;;x
+c_orderofblackrose_adj;Орден Чёрной Розск;;;;;;;;;;;;;x
+c_orderofboar;Орден Кабана;;;;;;;;;;;;;x
+c_orderofboar_adj;Орден Кабанск;;;;;;;;;;;;;x
+c_orderofbones;Орден Костей;;;;;;;;;;;;;x
+c_orderofbones_adj;Орден Костейск;;;;;;;;;;;;;x
+c_orderofbow;Орден Лука;;;;;;;;;;;;;x
+c_orderofbow_adj;Орден Лукск;;;;;;;;;;;;;x
+c_orderofbrokensword;Орден Сломанного Меча;;;;;;;;;;;;;x
+c_orderofbrokensword_adj;Орден Сломанного Мечск;;;;;;;;;;;;;x
+c_orderofcamel;Орден Верблюда;;;;;;;;;;;;;x
+c_orderofcamel_adj;Орден Верблюдск;;;;;;;;;;;;;x
+c_orderofcandle;Орден Свечи;;;;;;;;;;;;;x
+c_orderofcandle_adj;Орден Свечск;;;;;;;;;;;;;x
+c_orderofchase;Орден Погони;;;;;;;;;;;;;x
+c_orderofchase_adj;Орден Погоньск;;;;;;;;;;;;;x
+c_orderofchaurus;Орден Коруса;;;;;;;;;;;;;x
+c_orderofchaurus_adj;Орден Коруск;;;;;;;;;;;;;x
+c_orderofcliff;Орден Утёса;;;;;;;;;;;;;x
+c_orderofcliff_adj;Орден Утёса;;;;;;;;;;;;;x
+c_orderofclock;Орден Заводного Города;;;;;;;;;;;;;x
+c_orderofclock_adj;Орден Заводного Городск;;;;;;;;;;;;;x
+c_orderofcoin;Орден Монеты;;;;;;;;;;;;;x
+c_orderofcoin_adj;Орден Монетск;;;;;;;;;;;;;x
+c_orderofcollar;Орден Ошейника;;;;;;;;;;;;;x
+c_orderofcollar_adj;Орден Ошейникск;;;;;;;;;;;;;x
+c_orderofcrystal;Орден Кристалла;;;;;;;;;;;;;x
+c_orderofcrystal_adj;Орден Кристаллск;;;;;;;;;;;;;x
+c_orderofdesertsands;Орден Зыбучих Песков;;;;;;;;;;;;;x
+c_orderofdesertsands_adj;Орден Зыбучих Песковск;;;;;;;;;;;;;x
+c_orderofdesertshrub;Орден Пустынного Кустарника;;;;;;;;;;;;;x
+c_orderofdesertshrub_adj;Орден Пустынного Кустарникск;;;;;;;;;;;;;x
+c_orderofdha;Орден Дха;;;;;;;;;;;;;x
+c_orderofdha_adj;Дхаск;;;;;;;;;;;;;x
+c_orderofdragonfly;Орден Стрекозы;;;;;;;;;;;;;x
+c_orderofdragonfly_adj;Орден Стрекозск;;;;;;;;;;;;;x
+c_orderofeverwood;Орден Вечного Леса;;;;;;;;;;;;;x
+c_orderofeverwood_adj;Орден Вечного Леск;;;;;;;;;;;;;x
+c_orderoffleece;Орден Овечьей Шерсти;;;;;;;;;;;;;x
+c_orderoffleece_adj;Орден Овечьей Шерстьск;;;;;;;;;;;;;x
+c_orderofforgotten;Орден Забытых;;;;;;;;;;;;;x
+c_orderofforgotten_adj;Орден Забытск;;;;;;;;;;;;;x
+c_orderofgarter;Орден Подвязки;;;;;;;;;;;;;x
+c_orderofgarter_adj;Орден Подвязкск;;;;;;;;;;;;;x
+c_orderofglade;Орден Поляны;;;;;;;;;;;;;x
+c_orderofglade_adj;Орден Полянск;;;;;;;;;;;;;x
+c_orderofgoat;Орден Козы;;;;;;;;;;;;;x
+c_orderofgoat_adj;Орден Козск;;;;;;;;;;;;;x
+c_orderofgoldencat;Орден Золотого Кота;;;;;;;;;;;;;x
+c_orderofgoldencat_adj;Орден Золотого Котск;;;;;;;;;;;;;x
+c_orderofgriffon;Орден Грифона;;;;;;;;;;;;;x
+c_orderofgriffon_adj;Орден Грифонск;;;;;;;;;;;;;x
+c_orderofguar;Орден Гуара;;;;;;;;;;;;;x
+c_orderofguar_adj;Орден Гуарск;;;;;;;;;;;;;x
+c_orderofhearth;Орден Очага;;;;;;;;;;;;;x
+c_orderofhearth_adj;Орден Очагск;;;;;;;;;;;;;x
+c_orderofimmortals;Орден Бессмертных;;;;;;;;;;;;;x
+c_orderofimmortals_adj;Орден Бессмертныхск;;;;;;;;;;;;;x
+c_orderofkagouti;Орден Кагути;;;;;;;;;;;;;x
+c_orderofkagouti_adj;Орден Кагутск;;;;;;;;;;;;;x
+c_orderofkragen;Орден Кракена;;;;;;;;;;;;;x
+c_orderofkragen_adj;Орден Кракенск;;;;;;;;;;;;;x
+c_orderofkris;Орден Кинжала;;;;;;;;;;;;;x
+c_orderofkris_adj;Орден Кинжалск;;;;;;;;;;;;;x
+c_orderoflonelyharp;Орден Одинокой Арфы;;;;;;;;;;;;;x
+c_orderoflonelyharp_adj;Орден Одинокой Арфск;;;;;;;;;;;;;x
+c_orderofmarch;Орден Марки;;;;;;;;;;;;;x
+c_orderofmarch_adj;Орден Маркск;;;;;;;;;;;;;x
+c_orderofmartyr;Орден Мученика;;;;;;;;;;;;;x
+c_orderofmartyr_adj;Орден Мученическ;;;;;;;;;;;;;x
+c_orderofmoontree;Орден Лунного Дерева;;;;;;;;;;;;;x
+c_orderofmoontree_adj;Орден Лунного Дерева;;;;;;;;;;;;;x
+c_orderofmountain;Орден Гор;;;;;;;;;;;;;x
+c_orderofmountain_adj;Орден Горн;;;;;;;;;;;;;x
+c_orderofmudcrab;Орден Грязекраба;;;;;;;;;;;;;x
+c_orderofmudcrab_adj;Орден Грязекрабск;;;;;;;;;;;;;x
+c_orderofnoose;Орден Петли;;;;;;;;;;;;;x
+c_orderofnoose_adj;Орден Петлск;;;;;;;;;;;;;x
+c_orderofoldkeep;Орден Старой Крепости;;;;;;;;;;;;;x
+c_orderofoldkeep_adj;Орден Старой Крепостн;;;;;;;;;;;;;x
+c_orderofpass;Орден Прохода;;;;;;;;;;;;;x
+c_orderofpass_adj;Орден Проходск;;;;;;;;;;;;;x
+c_orderofpearl;Орден Жемчужины;;;;;;;;;;;;;x
+c_orderofpearl_adj;Орден Жемчужинск;;;;;;;;;;;;;x
+c_orderofpheasant;Орден Фазана;;;;;;;;;;;;;x
+c_orderofpheasant_adj;Орден Фазана;;;;;;;;;;;;;x
+c_orderofrabbit;Орден Кролика;;;;;;;;;;;;;x
+c_orderofrabbit_adj;Орден Кроликск;;;;;;;;;;;;;x
+c_orderofrat;Орден Крысы;;;;;;;;;;;;;x
+c_orderofrat_adj;Орден Крыск;;;;;;;;;;;;;x
+c_orderofraven;Орден Ворона;;;;;;;;;;;;;x
+c_orderofraven_adj;Орден Воронск;;;;;;;;;;;;;x
+c_orderofreach;Орден Предела;;;;;;;;;;;;;x
+c_orderofreach_adj;Орден Предельск;;;;;;;;;;;;;x
+c_orderofrim;Орден Риммена;;;;;;;;;;;;;x
+c_orderofrim_adj;Орден Римменск;;;;;;;;;;;;;x
+c_orderofroot;Орден Корня;;;;;;;;;;;;;x
+c_orderofroot_adj;Орден Корня;;;;;;;;;;;;;x
+c_orderofscarab;Орден Скарабея;;;;;;;;;;;;;x
+c_orderofscarab_adj;Орден Скарабейск;;;;;;;;;;;;;x
+c_orderofscythe;Орден Косы;;;;;;;;;;;;;x
+c_orderofscythe_adj;Орден Косыск;;;;;;;;;;;;;x
+c_orderofseer;Орден Провидца;;;;;;;;;;;;;x
+c_orderofseer_adj;Орден Провидческ;;;;;;;;;;;;;x
+c_orderofshamshir;Орден Шамшира;;;;;;;;;;;;;x
+c_orderofshamshir_adj;Шамширск;;;;;;;;;;;;;x
+c_orderofshield;Орден Щита;;;;;;;;;;;;;x
+c_orderofshield_adj;Орден Щитск;;;;;;;;;;;;;x
+c_orderofshroud;Орден Савана;;;;;;;;;;;;;x
+c_orderofshroud_adj;Орден Саванск;;;;;;;;;;;;;x
+c_orderofsickle;Орден Серпа;;;;;;;;;;;;;x
+c_orderofsickle_adj;Орден Серпск;;;;;;;;;;;;;x
+c_orderofsil;Орден Сил;;;;;;;;;;;;;x
+c_orderofsil_adj;Орден Силск;;;;;;;;;;;;;x
+c_orderofsky;Орден Неба;;;;;;;;;;;;;x
+c_orderofsky_adj;Орден Небесн;;;;;;;;;;;;;x
+c_orderofspear;Орден Копья;;;;;;;;;;;;;x
+c_orderofspear_adj;Орден Копейск;;;;;;;;;;;;;x
+c_orderofsphinx;Орден Сфинкса;;;;;;;;;;;;;x
+c_orderofsphinx_adj;Орден Сфинкск;;;;;;;;;;;;;x
+c_orderofstallion;Орден Чёрного Жеребца;;;;;;;;;;;;;x
+c_orderofstallion_adj;Орден Чёрного Жеребецк;;;;;;;;;;;;;x
+c_orderofstonetree;Орден Каменного Дерева;;;;;;;;;;;;;x
+c_orderofstonetree_adj;Орден Каменного Деревск;;;;;;;;;;;;;x
+c_orderofsun;Орден Солнца;;;;;;;;;;;;;x
+c_orderofsundering;Орден Рассекающих;;;;;;;;;;;;;x
+c_orderofsundering_adj;Орден Рассекающихск;;;;;;;;;;;;;x
+c_orderofsun_adj;Орден Солнечн;;;;;;;;;;;;;x
+c_orderoftalwar;Орден Тальвара;;;;;;;;;;;;;x
+c_orderoftalwar_adj;Тальварск;;;;;;;;;;;;;x
+c_orderoftheblack;Чёрный Орден;;;;;;;;;;;;;x
+c_orderoftheblack_adj;Чёрный Орденск;;;;;;;;;;;;;x
+c_orderoftheseaserpent;Орден Морских Змеев;;;;;;;;;;;;;x
+c_orderoftheseaserpent_adj;Орден Морских Змеевск;;;;;;;;;;;;;x
+c_orderofthespring;Орден Весны;;;;;;;;;;;;;x
+c_orderofthespring_adj;Орден Весенн;;;;;;;;;;;;;x
+c_orderofthistle;Орден Чертополоха;;;;;;;;;;;;;x
+c_orderofthistle_adj;Орден Чертополохск;;;;;;;;;;;;;x
+c_orderoftower;Орден Башни;;;;;;;;;;;;;x
+c_orderoftower_adj;Орден Башенн;;;;;;;;;;;;;x
+c_orderoftrident;Орден Трезубца;;;;;;;;;;;;;x
+c_orderoftrident_adj;Орден Трезубецк;;;;;;;;;;;;;x
+c_orderofturban;Орден Тюрбана;;;;;;;;;;;;;x
+c_orderofturban_adj;Орден Тюрбанск;;;;;;;;;;;;;x
+c_orderofvulture;Орден Стервятника;;;;;;;;;;;;;x
+c_orderofvulture_adj;Орден Стервятникск;;;;;;;;;;;;;x
+c_orderofwanderingtree;Орден Блуждающего Дерева;;;;;;;;;;;;;x
+c_orderofwanderingtree_adj;Орден Блуждающего Деревск;;;;;;;;;;;;;x
+c_orderofwatchers;Орден Смотрящих;;;;;;;;;;;;;x
+c_orderofwatchers_adj;Смотрящихск;;;;;;;;;;;;;x
+c_ordersabrecat;Орден Саблезубых Котов;;;;;;;;;;;;;x
+c_ordersabrecat_adj;Орден Саблезубых Котовск;;;;;;;;;;;;;x
+c_ramblers_society;Общество Бродяг;;;;;;;;;;;;;x
+c_ramblers_society_adj;Бродягск;;;;;;;;;;;;;x
+c_ring_fellowship;Братство Кольца;;;;;;;;;;;;;x
+c_ring_fellowship_adj;Братствск;;;;;;;;;;;;;x
+c_tamrielexplorers;Тамриэльские Исследователи;;;;;;;;;;;;;x
+c_tamrielexplorers_adj;Тамриэльские Исследователи;;;;;;;;;;;;;x
+c_tombraiders;Расхитители Гробниц;;;;;;;;;;;;;x
+c_tombraiders_adj;Расхитители Гробницк;;;;;;;;;;;;;x
+d_rimmenregulators;Регуляторы;;;;;;;;;;;;;x
+d_rimmenregulators_desc;Регуляторск;;;;;;;;;;;;;x
+d_abbarbasbarbarians;Варвары Аббарбаса;;;;;;;;;;;;;x
+d_abbarbasbarbarians_adj;Варварск;;;;;;;;;;;;;x
+d_abbarbasfleet;Торговый Флот Аббарбаса;;;;;;;;;;;;;x
+d_abbarbasfleet_adj;Торговый Флот Аббарбаск;;;;;;;;;;;;;x
+d_ajalilbandits;Бандиты Аджалил;;;;;;;;;;;;;x
+d_ajalilbandits_adj;Бандиты Аджалилск;;;;;;;;;;;;;x
+d_alabasternightrunners;Ночные Лезвия Алабастра;;;;;;;;;;;;;x
+d_alabasternightrunners_adj;Ночные Лезвия Алабастрск;;;;;;;;;;;;;x
+d_alinorfleet;Торговый Флот Алинора;;;;;;;;;;;;;x
+d_alinorfleet_adj;Торговый Флот Алинорск;;;;;;;;;;;;;x
+d_alinorprotectors;Защитники Алинора;;;;;;;;;;;;;x
+d_alinorprotectors_adj;Защитники Алинорск;;;;;;;;;;;;;x
+d_alinorsundivers;Алинорские Солнечные Пловцы;;;;;;;;;;;;;x
+d_alinorsundivers_adj;Солнечные Пловецк;;;;;;;;;;;;;x
+d_aniputbandits;Бандиты Анипута;;;;;;;;;;;;;x
+d_aniputbandits_adj;Бандиты Анипут;;;;;;;;;;;;;x
+d_anvilfleet;Торговый Флот Анвила;;;;;;;;;;;;;x
+d_anvilfleet_adj;Торговый Флот Анвила;;;;;;;;;;;;;x
+d_anvilforgers;Фальшивомонетчики Анвила;;;;;;;;;;;;;x
+d_anvilforgers_adj;Фальшивомонетчики Анвилск;;;;;;;;;;;;;x
+d_apostlesoflight;Апостолы Света;;;;;;;;;;;;;x
+d_apostlesoflight_adj;Апостольск;;;;;;;;;;;;;x
+d_archonplague;Чума Архона;;;;;;;;;;;;;x
+d_archonplague_adj;Чума Архонск;;;;;;;;;;;;;x
+d_arenthiahuntsmen;Охотники Арентии;;;;;;;;;;;;;x
+d_arenthiahuntsmen_adj;Охотникск;;;;;;;;;;;;;x
+d_argonianblackscales;Аргониане Чёрной Чешуи;;;;;;;;;;;;;x
+d_argonianblackscales_adj;Чёрнойчешуиск;;;;;;;;;;;;;x
+d_ascadianfleet;Торговый Флот Аскадианских Островов;;;;;;;;;;;;;x
+d_ascadianfleet_adj;Аскадианский Торговый Флотск;;;;;;;;;;;;;x
+d_ashlanderband;Отряд Эшлендеров;;;;;;;;;;;;;x
+d_ashlanderband_adj;Эшлендерск;;;;;;;;;;;;;x
+d_ashlanderoutcasts;Изгнанники;;;;;;;;;;;;;x
+d_ashlanderoutcasts_adj;Изгнанникск;;;;;;;;;;;;;x
+d_aurusbombardiers;Бомбардиры Ауруса;;;;;;;;;;;;;x
+d_aurusbombardiers_adj;Бомбардиры Ауруск;;;;;;;;;;;;;x
+d_azrastollmen;Мытари Азры;;;;;;;;;;;;;x
+d_azrastollmen_adj;Мытари Азрыn;;;;;;;;;;;;;x
+d_battlehornmenatarms;Всадники Боевого Рога;;;;;;;;;;;;;x
+d_battlehornmenatarms_adj;Боевого Рогск;;;;;;;;;;;;;x
+d_bittercoastfleet;Флот Горького Берега;;;;;;;;;;;;;x
+d_blackboots;Отряд Чёрного Сапога;;;;;;;;;;;;;x
+d_blackboots_adj;Чёрного Сапогск;;;;;;;;;;;;;x
+d_blackbowbandits;Бандиты Чёрного Лука;;;;;;;;;;;;;x
+d_blackbowbandits_adj;Бандиты Чёрного Лукск;;;;;;;;;;;;;x
+d_blackhandpirates;Пираты Чёрной Руки;;;;;;;;;;;;;x
+d_blackhandpirates_adj;Пираты Чёрной Рукиск;;;;;;;;;;;;;x
+d_blacklightdarkknights;Тёмные Рыцари Блэклайта;;;;;;;;;;;;;x
+d_blacklightdarkknights_adj;Тёмнорыцарск;;;;;;;;;;;;;x
+d_blacklightfleet;Торговый Флот Блэклайта;;;;;;;;;;;;;x
+d_blacklightfleet_adj;Торговый Флот Блэклайтск;;;;;;;;;;;;;x
+d_blackpanthers;Черные Пантеры;;;;;;;;;;;;;x
+d_blackpanthers_adj;Черные Пантеры;;;;;;;;;;;;;x
+d_blackrosewarriors;Воители Блэкроуз;;;;;;;;;;;;;x
+d_blackrosewarriors_adj;Воители Блэкроузск;;;;;;;;;;;;;x
+d_blackwaterbandits;Бандиты Черноводья;;;;;;;;;;;;;x
+d_blackwaterbandits_adj;Бандиты Черноводск;;;;;;;;;;;;;x
+d_blackwoodcompany;Компания Чёрного Леса;;;;;;;;;;;;;x
+d_blackwoodcompany_adj;Чёрнолеск;;;;;;;;;;;;;x
+d_bleakwallbandits;Бандиты Мрачной Стены;;;;;;;;;;;;;x
+d_bleakwallbandits_adj;Бандиты Мрачной Стенск;;;;;;;;;;;;;x
+d_bloodhorkers;Кровавые Хоркеры;;;;;;;;;;;;;x
+d_bloodhorkers_adj;Хоркерск;;;;;;;;;;;;;x
+d_bosicabandits;Бандиты Босики;;;;;;;;;;;;;x
+d_bosicabandits_adj;Бандиты Босика;;;;;;;;;;;;;x
+d_bosmorafleet;Босморский Торговый Флот;;;;;;;;;;;;;x
+d_bosmorafleet_adj;Босморский Торговый Флотск;;;;;;;;;;;;;x
+d_bravilbrigands;Разбойники Бравила;;;;;;;;;;;;;x
+d_bravilbrigands_adj;Разбойники Бравильск;;;;;;;;;;;;;x
+d_bretonpilgrims;Бретонские Пилигримы;;;;;;;;;;;;;x
+d_bretonpilgrims_adj;Пилигримск;;;;;;;;;;;;;x
+d_brumaberserkers;Брумские Берсеркеры;;;;;;;;;;;;;x
+d_brumaberserkers_adj;Брумские Берсеркерск;;;;;;;;;;;;;x
+d_bushwhackers;Скрывающиеся в глуши;;;;;;;;;;;;;x
+d_bushwhackers_adj;Скрывающиеся в глушск;;;;;;;;;;;;;x
+d_camlorndragons;Драконы Камлорна;;;;;;;;;;;;;x
+d_camlorndragons_adj;Драконы Камлорнск;;;;;;;;;;;;;x
+d_cappadomarauders;Мародеры Коппадо;;;;;;;;;;;;;x
+d_cappadomarauders_adj;Мародеры Коппадск;;;;;;;;;;;;;x
+d_cathnoqueycorsairs;Катноквейские Корсары;;;;;;;;;;;;;x
+d_cathnoqueycorsairs_adj;Катноквейские Корсарск;;;;;;;;;;;;;x
+d_chasecreekchasers;Охотники Чейскрика;;;;;;;;;;;;;x
+d_chasecreekchasers_adj;Охотники Чейскрикск;;;;;;;;;;;;;x
+d_cheydinhalcharioteers;Возницы Чейдинхола;;;;;;;;;;;;;x
+d_cheydinhalcharioteers_adj;Возницы Чейдинхолск;;;;;;;;;;;;;x
+d_chorrolhighlanders;Горцы Коррола;;;;;;;;;;;;;x
+d_chorrolhighlanders_adj;Горцы Корролск;;;;;;;;;;;;;x
+d_cloudrestgladiators;Гладиаторы Клаудреста;;;;;;;;;;;;;x
+d_cloudrestgladiators_adj;Гладиаторы Клаудрестск;;;;;;;;;;;;;x
+d_coldrockbandits;Бандиты Холодных Скал;;;;;;;;;;;;;x
+d_coldrockbandits_adj;Бандиты Холодных Скалск;;;;;;;;;;;;;x
+d_company_of_the_hat;Компания Шляпы;;;;;;;;;;;;;x
+d_company_of_the_hat_adj;Шляпск;;;;;;;;;;;;;x
+d_corinthbrood;Стая Коринта;;;;;;;;;;;;;x
+d_corinthbrood_adj;Стая Коринтск;;;;;;;;;;;;;x
+d_cormairbandits;Бандиты Кормайра;;;;;;;;;;;;;x
+d_cormairbandits_adj;Бандиты Кормайра;;;;;;;;;;;;;x
+d_cornrobbers;Кукурузные Грабители;;;;;;;;;;;;;x
+d_cornrobbers_adj;Кукурузные Грабительск;;;;;;;;;;;;;x
+d_crimsonguard;Багровая Гвардия;;;;;;;;;;;;;x
+d_crimsonguard_adj;Багровая Гвардейск;;;;;;;;;;;;;x
+d_daggerfallguardians;Стража Даггерфолла;;;;;;;;;;;;;x
+d_daggerfallguardians_adj;Стража Даггерфоллск;;;;;;;;;;;;;x
+d_darktide;Тёмные Волны Лилмота;;;;;;;;;;;;;x
+d_darktide_adj;Тёмные Волны Лилмотск;;;;;;;;;;;;;x
+d_dawnstar_avengers;Мстители Данстара;;;;;;;;;;;;;x
+d_dawnstar_avengers_adj;Мстители Данстарск;;;;;;;;;;;;;x
+d_desertfreemen;Вольный Народ Пустыни;;;;;;;;;;;;;x
+d_desertfreemen_adj;Вольный Народ Пустыньск;;;;;;;;;;;;;x
+d_dissfleet;Торговый Флот Дисса;;;;;;;;;;;;;x
+d_dissfleet_adj;Торговый Флот Дисск;;;;;;;;;;;;;x
+d_dissvinewhips;Колючие Хлысты Дисса;;;;;;;;;;;;;x
+d_dissvinewhips_adj;Колючие Хлысты Дисск;;;;;;;;;;;;;x
+d_ditchdiggers;Землекопы;;;;;;;;;;;;;x
+d_ditchdiggers_adj;Землекопск;;;;;;;;;;;;;x
+d_dragonpondpilferers;Воры Драконьего Пруда;;;;;;;;;;;;;x
+d_dragonpondpilferers_adj;Воры Драконьего Прудск;;;;;;;;;;;;;x
+d_dragonstarsacredrage;Священная Ярость Драгонстара;;;;;;;;;;;;;x
+d_dragonstarsacredrage_adj;Священная Ярость Драгонстарск;;;;;;;;;;;;;x
+d_duneblades;Мечники Дюны;;;;;;;;;;;;;x
+d_duneblades_adj;Мечники Дюны;;;;;;;;;;;;;x
+d_dunmerswords;Данмерские Наемники;;;;;;;;;;;;;x
+d_dunmerswords_adj;Данмерские Наемникск;;;;;;;;;;;;;x
+d_dunstadburglars;Грабители Дунстада;;;;;;;;;;;;;x
+d_dunstadburglars_adj;Грабители Дунстадск;;;;;;;;;;;;;x
+d_duskexecutioners;Каратели Даска;;;;;;;;;;;;;x
+d_duskexecutioners_adj;Каратели Даска;;;;;;;;;;;;;x
+d_duskfleet;Торговый Флот Даска;;;;;;;;;;;;;x
+d_duskfleet_adj;Торговый Флот Даскск;;;;;;;;;;;;;x
+d_duskwoodprowlers;Бродяги Сумеречного Леса;;;;;;;;;;;;;x
+d_duskwoodprowlers_adj;Бродяги Сумеречного Леск;;;;;;;;;;;;;x
+d_eastempirecompany_fleet;Торговый Флот Восточной Имперской Компании;;;;;;;;;;;;;x
+d_eastempirecompany_fleet_adj;Торговый Флотск;;;;;;;;;;;;;x
+d_ebonheartreavers;Разбойники Эбонхарта;;;;;;;;;;;;;x
+d_ebonheartreavers_adj;Разбойникск;;;;;;;;;;;;;x
+d_eldenbushfleet;Торговый Флот Элденбуша;;;;;;;;;;;;;x
+d_eldenbushfleet_adj;Торговый Флот Элденбушск;;;;;;;;;;;;;x
+d_eldenrootcavaliers;Кавалеры Элденрута;;;;;;;;;;;;;x
+d_elinhirblackcasters;Чёрные Заклинатели Элинхира;;;;;;;;;;;;;x
+d_elinhirblackcasters_adj;Чёрные Заклинатели Элинхирск;;;;;;;;;;;;;x
+d_evermorewarknights;Рыцари Эвермора;;;;;;;;;;;;;x
+d_evermorewarknights_adj;Рыцари Эвермора;;;;;;;;;;;;;x
+d_falinestiwyverns;Виверны Фалинести;;;;;;;;;;;;;x
+d_falinestiwyverns_adj;Виверны Фалинестийск;;;;;;;;;;;;;x
+d_falkreath_shadows;Тени Фолкрита;;;;;;;;;;;;;x
+d_falkreath_shadows_adj;Тени Фолкритск;;;;;;;;;;;;;x
+d_farrunhellcats;Ведьмы Фарруна;;;;;;;;;;;;;x
+d_farrunhellcats_adj;Ведьмы Фаррунск;;;;;;;;;;;;;x
+d_fightersguild;Гильдия Бойцов;;;;;;;;;;;;;x
+d_fightersguild_adj;Гильдия Бойцовск;;;;;;;;;;;;;x
+d_firewatchbloodmages;Маги Крови Файрвотча;;;;;;;;;;;;;x
+d_firewatchbloodmages_adj;Маги Кровиск;;;;;;;;;;;;;x
+d_firstholdfleet;Торговый Флот Фёстхолда;;;;;;;;;;;;;x
+d_firstholdfleet_adj;Торговый Флот Фёстхолдск;;;;;;;;;;;;;x
+d_firstholdreapers;Жнецы Фёстхолда;;;;;;;;;;;;;x
+d_firstholdreapers_adj;Жнецы Фёстхолдск;;;;;;;;;;;;;x
+d_frostcraggers;Воители Морозной Скалы;;;;;;;;;;;;;x
+d_frostcraggers_adj;Воители Морозной Скалск;;;;;;;;;;;;;x
+d_ghostfleet;Торговый Флот Моря Призраков;;;;;;;;;;;;;x
+d_ghostfleet_adj;Моря Призраковск;;;;;;;;;;;;;x
+d_gilanedirewolves;Страшные Волки Гилана;;;;;;;;;;;;;x
+d_gilanedirewolves_adj;Страшные Волки Гиланск;;;;;;;;;;;;;x
+d_gilverdaledestructors;Деструкторы Гильвердейла;;;;;;;;;;;;;x
+d_gilverdaledestructors_adj;Деструкторы Гильвердейлск;;;;;;;;;;;;;x
+d_gladiatorsofthearena;Гладиаторы Арены;;;;;;;;;;;;;x
+d_gladiatorsofthearena_adj;Гладиаторск;;;;;;;;;;;;;x
+d_glenguardransackers;Грабители Гленгарда;;;;;;;;;;;;;x
+d_glenguardransackers_adj;Грабители Гленгардск;;;;;;;;;;;;;x
+d_goldcoastfleet;Торговый Флот Золотого Берега;;;;;;;;;;;;;x
+d_goldcoastfleet_adj;Золотого Берега;;;;;;;;;;;;;x
+d_greatcompany;Великая Компания;;;;;;;;;;;;;x
+d_greatcompany_adj;Великая Компаньск;;;;;;;;;;;;;x
+d_greenheartdefenders;Защитники Гринхарта;;;;;;;;;;;;;x
+d_greenheartdefenders_adj;Защитники Гринхартск;;;;;;;;;;;;;x
+d_greenheartfleet;Торговый Флот Гринхарта;;;;;;;;;;;;;x
+d_greenheartfleet_adj;Торговый Флот Гринхартск;;;;;;;;;;;;;x
+d_hammerfellredguards;Редгарды Хаммерфелла;;;;;;;;;;;;;x
+d_hammerfellredguards_adj;Редгардск;;;;;;;;;;;;;x
+d_hanarbandits;Бандиты Ханара;;;;;;;;;;;;;x
+d_hanarbandits_adj;Бандиты Ханарск;;;;;;;;;;;;;x
+d_haociandesertbandits;Бандиты Пустыни;;;;;;;;;;;;;x
+d_haociandesertbandits_adj;Бандиты Пустынн;;;;;;;;;;;;;x
+d_havencrows;Вороны Хевена;;;;;;;;;;;;;x
+d_havencrows_adj;Вороны Хевенск;;;;;;;;;;;;;x
+d_havenfleet;Торговый Флот Хевена;;;;;;;;;;;;;x
+d_heartland_marauders;Мародеры Хартленда;;;;;;;;;;;;;x
+d_heartland_marauders_adj;Мародерск;;;;;;;;;;;;;x
+d_hegathebloodhorns;Кровавые Рога Хегата;;;;;;;;;;;;;x
+d_hegathebloodhorns_adj;Кровавые Рога Хегатск;;;;;;;;;;;;;x
+d_heimdarraiders;Хеймдарские Налётчики;;;;;;;;;;;;;x
+d_heimdarraiders_adj;Хеймдарские Налётчикск;;;;;;;;;;;;;x
+d_hekemimawarrirors;Хекемимские Воины;;;;;;;;;;;;;x
+d_hekemimawarrirors_adj;Воинск;;;;;;;;;;;;;x
+d_houndsofharlun;Гончие Харлуна;;;;;;;;;;;;;x
+d_houndsofharlun_adj;Гончие Харлунск;;;;;;;;;;;;;x
+d_hraggstadwildlings;Одичалые;;;;;;;;;;;;;x
+d_hraggstadwildlings_adj;Одичалск;;;;;;;;;;;;;x
+d_strosfleet;Торговый Флот Стросса;;;;;;;;;;;;;x
+d_strosfleet_adj;Торговый Флот Стросск;;;;;;;;;;;;;x
+d_gilanefleet;Торговый Флот Гилана;;;;;;;;;;;;;x
+d_gilanefleet_adj;Торговый Флот Гиланск;;;;;;;;;;;;;x
+d_tanethfleet;Торговый Флот Танета;;;;;;;;;;;;;x
+d_tanethfleet_adj;Торговый Флот Танетск;;;;;;;;;;;;;x
+d_rihadfleet;Торговый Флот Рихада;;;;;;;;;;;;;x
+d_rihadfleet_adj;Торговый Флот Рихадск;;;;;;;;;;;;;x
+d_sentinelfleet;Торговый Флот Сентинеля;;;;;;;;;;;;;x
+d_sentinelfleet_adj;Торговый Флот Сентинельск;;;;;;;;;;;;;x
+d_daggerfallfleet;Торговый Флот Даггерфолла;;;;;;;;;;;;;x
+d_daggerfallfleet_adj;Торговый Флот Даггерфолла;;;;;;;;;;;;;x
+d_camlornfleet;Торговый Флот Камлорна;;;;;;;;;;;;;x
+d_camlornfleet_adj;Торговый Флот Камлорнск;;;;;;;;;;;;;x
+d_northpointfleet;Торговый Флот Нортпойнта;;;;;;;;;;;;;x
+d_northpointfleet_adj;Торговый Флот Нортпойнтск;;;;;;;;;;;;;x
+d_farrunfleet;Торговый Флот Фарруна;;;;;;;;;;;;;x
+d_farrunfleet_adj;Торговый Флот Фаррунск;;;;;;;;;;;;;x
+d_portdunfleet;Торговый Флот Бухты Портдун;;;;;;;;;;;;;x
+d_portdunfleet_adj;Торговый Флот Бухты Портдунск;;;;;;;;;;;;;x
+d_winterholdfleet;Торговый Флот Винтерхолда;;;;;;;;;;;;;x
+d_winterholdfleet_adj;Торговый Флот Винтерхолдск;;;;;;;;;;;;;x
+d_windhelmfleet;Торговый Флот Виндхельма;;;;;;;;;;;;;x
+d_windhelmfleet_adj;Торговый Флот Виндхельмск;;;;;;;;;;;;;x
+d_tangmofleet;Торговый Флот Танг Мо;;;;;;;;;;;;;x
+d_tangmofleet_adj;Торговый Флот Танг Моск;;;;;;;;;;;;;x
+d_islanderfleet;Островной Торговый Флот;;;;;;;;;;;;;x
+d_islanderfleet_adj;Островной Торговый Флотск;;;;;;;;;;;;;x
+d_solitudefleet;Торговый Флот Солитьюда;;;;;;;;;;;;;x
+d_solitudefleet_adj;Торговый Флот Солитьюдск;;;;;;;;;;;;;x
+d_illicfleet;Торговый Флот Залива Илиак;;;;;;;;;;;;;x
+d_illicfleet_adj;Торговый Флот Залива Илиакск;;;;;;;;;;;;;x
+d_imperialisleheartlanders;Хартлендеры;;;;;;;;;;;;;x
+d_imperialisleheartlanders_adj;Хартлендерск;;;;;;;;;;;;;x
+d_ironpointransackers;Разбойники Айронпойнта;;;;;;;;;;;;;x
+d_ironpointransackers_adj;Разбойники Айронпойнтск;;;;;;;;;;;;;x
+d_ishikenmountainmen;Ишикенские Горцы;;;;;;;;;;;;;x
+d_ishikenmountainmen_adj;Ишикенские Горецк;;;;;;;;;;;;;x
+d_jehannaiceblades;Ледяные Мечи Джеханны;;;;;;;;;;;;;x
+d_jehannaiceblades_adj;Ледяные Мечи Джеханнск;;;;;;;;;;;;;x
+d_kabaqabandits;Бандиты Кабаки;;;;;;;;;;;;;x
+d_kabaqabandits_adj;Бандиты Кабакск;;;;;;;;;;;;;x
+d_khajiitsharpclaws;Каджиты с Острыми Когтями;;;;;;;;;;;;;x
+d_khajiitsharpclaws_adj;Каджитск;;;;;;;;;;;;;x
+d_kifukcutthroats;Кифукские Головорезы;;;;;;;;;;;;;x
+d_kifukcutthroats_adj;Кифукские Головорезск;;;;;;;;;;;;;x
+d_kitunakitesailors;Морские Хищники Китуны;;;;;;;;;;;;;x
+d_kitunakitesailors_adj;Морские Хищники Китунск;;;;;;;;;;;;;x
+d_knightsofthemoon;Рыцари Луны;;;;;;;;;;;;;x
+d_knightsofthemoon_adj;Лунн;;;;;;;;;;;;;x
+d_kragenmoorwarhammers;Крагенмурские Боевые Молоты;;;;;;;;;;;;;x
+d_kragenmoorwarhammers_adj;Боевые Молотск;;;;;;;;;;;;;x
+d_kumuukransackers;Кумуукские Грабители;;;;;;;;;;;;;x
+d_kumuukransackers_adj;Кумуукские Грабительск;;;;;;;;;;;;;x
+d_kvatcheverscamps;Вечные Скампы Кватча;;;;;;;;;;;;;x
+d_kvatcheverscamps_adj;Вечные Скампы Кватчск;;;;;;;;;;;;;x
+d_leyawiinfleet;Торговый Флот Лейавина;;;;;;;;;;;;;x
+d_leyawiinscars;Шрамы Лейавина;;;;;;;;;;;;;x
+d_leyawiinscars_adj;Шрамы Лейавинск;;;;;;;;;;;;;x
+d_lillandrilfleet;Торговый Флот Лилландрила;;;;;;;;;;;;;x
+d_lilmothfleet;Торговый Флот Лилмота;;;;;;;;;;;;;x
+d_lilmothfleet_adj;Торговый Флот Лилмотск;;;;;;;;;;;;;x
+d_lolthanisfleet;Торговый Флот Лолтаника;;;;;;;;;;;;;x
+d_lolthanisfleet_adj;Торговый Флот Лолтаникск;;;;;;;;;;;;;x
+d_magesguild;Гильдия Магов;;;;;;;;;;;;;x
+d_magesguild_adj;Гильдия Магск;;;;;;;;;;;;;x
+d_markarth_demons;Демоны Маркарта;;;;;;;;;;;;;x
+d_markarth_demons_adj;Демоны Маркартск;;;;;;;;;;;;;x
+d_mehmetbandits;Бандиты Мехмета;;;;;;;;;;;;;x
+d_mehmetbandits_adj;Бандиты Мехметск;;;;;;;;;;;;;x
+d_meneviabandits;Бандиты Меневии;;;;;;;;;;;;;x
+d_meneviabandits_adj;Бандиты Меневийск;;;;;;;;;;;;;x
+d_mercenaryguild;Гильдия Наемников;;;;;;;;;;;;;x
+d_mercenaryguilde_adj;Наемниковск;;;;;;;;;;;;;x
+d_mournholdbladedancers;Танцующие Мечи Морнхолда;;;;;;;;;;;;;x
+d_mournholdbladedancers_adj;Танцующие Мечск;;;;;;;;;;;;;x
+d_murkwoodmarauders;Мародёры Мрачнолесья;;;;;;;;;;;;;x
+d_murkwoodmarauders_adj;Мародёры Мрачнолесья;;;;;;;;;;;;;x
+d_muthadabandits;Бандиты Мутады;;;;;;;;;;;;;x
+d_muthadabandits_adj;Бандиты Мутадск;;;;;;;;;;;;;x
+d_narsisstormlords;Свирепые Лорды Нарсиса;;;;;;;;;;;;;x
+d_narsisstormlords_adj;Свирепые Лорды Нарсиск;;;;;;;;;;;;;x
+d_natives;Туземцы;;;;;;;;;;;;;x
+d_natives_adj;Туземцы;;;;;;;;;;;;;x
+d_necromarenists;Аренисты Некрома;;;;;;;;;;;;;x
+d_necromarenists_adj;Аренисты Некромск;;;;;;;;;;;;;x
+d_nibenayfleet;Торговый Флот Нибенея;;;;;;;;;;;;;x
+d_nibenayfleet_adj;Нибенейск;;;;;;;;;;;;;x
+d_nibenbayfreebooters;Флибустьеры Нибенейской Бухты;;;;;;;;;;;;;x
+d_nibenbayfreebooters_adj;Флибустьеры Нибенейской Бухтск;;;;;;;;;;;;;x
+d_nibenfleet;Торговый Флот Нибена;;;;;;;;;;;;;x
+d_nibenfleet_adj;Торговый Флот Нибенейск;;;;;;;;;;;;;x
+d_nordicaxemen;Нордские Воины Топора;;;;;;;;;;;;;x
+d_nordicaxemen_adj;Нордск;;;;;;;;;;;;;x
+d_northpointslayers;Рубаки Нортпойнта;;;;;;;;;;;;;x
+d_northpointslayers_adj;Рубаки Нортпойнтск;;;;;;;;;;;;;x
+d_orcrestsilentones;Молчуны Оркреста;;;;;;;;;;;;;x
+d_orcrestsilentones_adj;Молчуны Оркрестск;;;;;;;;;;;;;x
+d_orderdiagna;Орден Диагны;;;;;;;;;;;;;x
+d_orderdiagna_adj;Диагнск;;;;;;;;;;;;;x
+d_ordurinmarauders;Мародёры Ордурина;;;;;;;;;;;;;x
+d_ordurinmarauders_adj;Мародёры Ордуринск;;;;;;;;;;;;;x
+d_oruukmarauders;Мародёры Оруука;;;;;;;;;;;;;x
+d_oruukmarauders_adj;Мародёры Оруукск;;;;;;;;;;;;;x
+d_orvaultpilferers;Воры Орвальта;;;;;;;;;;;;;x
+d_orvaultpilferers_adj;Воры Орвальтск;;;;;;;;;;;;;x
+d_padaniransackers;Грабители Падани;;;;;;;;;;;;;x
+d_padaniransackers_adj;Грабители Паданьск;;;;;;;;;;;;;x
+d_padomaicfleet;Падомайский Торговый Флот;;;;;;;;;;;;;x
+d_padomaicfleet_adj;Падомайск;;;;;;;;;;;;;x
+d_passkeepers;Хранители Прохода;;;;;;;;;;;;;x
+d_passkeepers_adj;Хранители Проходск;;;;;;;;;;;;;x
+d_penmarchighwaymen;Разбойники Пенмарка;;;;;;;;;;;;;x
+d_penmarchighwaymen_adj;Разбойники Пенмаркск;;;;;;;;;;;;;x
+d_phantomsghostsea;Фантомы Моря Призраков;;;;;;;;;;;;;x
+d_phantomsghostsea_adj;Фантомск;;;;;;;;;;;;;x
+d_pitdaemons;Глубинные Демоны Хелстрома;;;;;;;;;;;;;x
+d_pitdaemons_adj;Глубинные Демоны Хелстромск;;;;;;;;;;;;;x
+d_pontufleet;Торговый Флот Понту;;;;;;;;;;;;;x
+d_pontufleet_adj;Торговый Флот Понтуск;;;;;;;;;;;;;x
+d_pyandoneaserpents;Пиандонейские Змеи;;;;;;;;;;;;;x
+d_pyandoneaserpents_adj;Змейск;;;;;;;;;;;;;x
+d_pyrrahnfleet;Торговый Флот Пиррана;;;;;;;;;;;;;x
+d_pyrrahnfleet_adj;Торговый Флот Пирранск;;;;;;;;;;;;;x
+d_pyrrahnpagans;Язычники Пиррана;;;;;;;;;;;;;x
+d_pyrrahnpagans_adj;Языческ;;;;;;;;;;;;;x
+d_ravenspringhillraiders;Налётчики с Холмов;;;;;;;;;;;;;x
+d_ravenspringhillraiders_adj;Налётчики с Холмовск;;;;;;;;;;;;;x
+d_redsabres;Красные Сабли;;;;;;;;;;;;;x
+d_redsabres_adj;Красные Сабельск;;;;;;;;;;;;;x
+d_redspears;Красные Копья;;;;;;;;;;;;;x
+d_redspears_adj;Красные Копейск;;;;;;;;;;;;;x
+d_redwater_cutthroats;Скитальцы Красных Вод;;;;;;;;;;;;;x
+d_redwater_cutthroats_adj;Скитальцы Красных Вод;;;;;;;;;;;;;x
+d_restlessleague;Неутомимая Лига;;;;;;;;;;;;;x
+d_restlessleague_adj;Неутомимск;;;;;;;;;;;;;x
+d_riften_furies;Ярость Рифтена;;;;;;;;;;;;;x
+d_riften_furies_adj;Ярость Рифтенск;;;;;;;;;;;;;x
+d_rihadbane;Проклятье Рихада;;;;;;;;;;;;;x
+d_rihadbane_adj;Проклятье Рихадск;;;;;;;;;;;;;x
+d_rimbandits;Бандиты Римватча;;;;;;;;;;;;;x
+d_rimbandits_adj;Бандиты Римватча;;;;;;;;;;;;;x
+d_rimmencrushers;Крушители Риммена;;;;;;;;;;;;;x
+d_rimmencrushers_adj;Крушители Риммена;;;;;;;;;;;;;x
+d_riverholdaxers;Секироносцы Риверхолда;;;;;;;;;;;;;x
+d_riverholdaxers_adj;Секироносцы Риверхолда;;;;;;;;;;;;;x
+d_riverraiders;Речные Налётчики;;;;;;;;;;;;;x
+d_riverraiders_adj;Речные Налётчикск;;;;;;;;;;;;;x
+d_rkundrobbers;Разбойники Ркунда;;;;;;;;;;;;;x
+d_rkundrobbers_adj;Разбойники Ркунда;;;;;;;;;;;;;x
+d_rockspringrobbers;Грабители Скального Источника;;;;;;;;;;;;;x
+d_rockspringrobbers_adj;Грабители Скального Источникск;;;;;;;;;;;;;x
+d_rumarefleet;Торговый Флот Румаре;;;;;;;;;;;;;x
+d_rumarefleet_adj;Торговый Флот Румарск;;;;;;;;;;;;;x
+d_sagosianbandits;Сагосианские Бандиты;;;;;;;;;;;;;x
+d_sagosianbandits_adj;Сагосианские Бандитск;;;;;;;;;;;;;x
+d_saifcutthroats;Головорезы Саифа;;;;;;;;;;;;;x
+d_saifcutthroats_adj;Головорезы Саифск;;;;;;;;;;;;;x
+d_sandcats;Песчаные Коты;;;;;;;;;;;;;x
+d_sandcats_adj;Песчаные Котск;;;;;;;;;;;;;x
+d_senchalfleet;Торговый Флот Сенчала;;;;;;;;;;;;;x
+d_senchalfleet_adj;Торговый Флот Сенчалск;;;;;;;;;;;;;x
+d_senchalnewgods;Новые Боги Сенчала;;;;;;;;;;;;;x
+d_senchalnewgods_adj;Новые Боги Сенчалск;;;;;;;;;;;;;x
+d_senchalprivateers;Каперы Сенчала;;;;;;;;;;;;;x
+d_senchalprivateers_adj;Каперы Сенчалск;;;;;;;;;;;;;x
+d_sentineldeathbringers;Сентинельские Смертоносные;;;;;;;;;;;;;x
+d_sentineldeathbringers_adj;Сентинельские Смертоносн;;;;;;;;;;;;;x
+d_shadowblades;Гидеонские Клинки Ночи;;;;;;;;;;;;;x
+d_shadowblades_adj;Гидеонские Клинки Ночн;;;;;;;;;;;;;x
+d_sharnhelmwarmages;Боевые Маги Шорнхельма;;;;;;;;;;;;;x
+d_sharnhelmwarmages_adj;Боевые Маги Шорнхельмск;;;;;;;;;;;;;x
+d_shatterwoodbandits;Бандиты Разрушенного Леса;;;;;;;;;;;;;x
+d_shatterwoodbandits_adj;Бандиты Разрушенного Леск;;;;;;;;;;;;;x
+d_shimmerenetitans;Титаны Шиммерина;;;;;;;;;;;;;x
+d_shimmerenetitans_adj;Титаны Шиммеринск;;;;;;;;;;;;;x
+d_silvenarrangers;Рейнджеры Сильвенара;;;;;;;;;;;;;x
+d_silvenarrangers_adj;Рейнджеры Сильвенарск;;;;;;;;;;;;;x
+d_silverhand;Серебряная Рука;;;;;;;;;;;;;x
+d_silverhand_adj;Серебряная Рукск;;;;;;;;;;;;;x
+d_skavenguards;Стража Скавена;;;;;;;;;;;;;x
+d_skavenguards_adj;Стража Скавенск;;;;;;;;;;;;;x
+d_skingradleatherwings;Летучие Мыши Скинграда;;;;;;;;;;;;;x
+d_skingradleatherwings_adj;Летучие Мыши Скинграда;;;;;;;;;;;;;x
+d_skyhammermountainmen;Горные Воители;;;;;;;;;;;;;x
+d_skyhammermountainmen_adj;Горные Воители;;;;;;;;;;;;;x
+d_skywatchassassins;Убийцы Скайвотча;;;;;;;;;;;;;x
+d_skywatchassassins_adj;Убийцы Скайвотчск;;;;;;;;;;;;;x
+d_snowdevils;Снежные Дьяволы;;;;;;;;;;;;;x
+d_snowdevils_adj;Снежные Дьявольск;;;;;;;;;;;;;x
+d_solitude_ravagers;Солитьюдские Опустошители;;;;;;;;;;;;;x
+d_solitude_ravagers_adj;Солитьюдские Опустошители;;;;;;;;;;;;;x
+d_solstheimfleet;Торговый Флот Солстхейма;;;;;;;;;;;;;x
+d_solstheimfleet_adj;Торговый Флот Солстхеймск;;;;;;;;;;;;;x
+d_solstheimhammersmiths;Молотобойцы Солстхейма;;;;;;;;;;;;;x
+d_solstheimhammersmiths_adj;Молотобойцск;;;;;;;;;;;;;x
+d_solstheimpillagers;Грабители Солстхейма;;;;;;;;;;;;;x
+d_solstheimpillagers_adj;Грабительн;;;;;;;;;;;;;x
+d_soulrestfleet;Торговый Флот Соулреста;;;;;;;;;;;;;x
+d_soulrestfleet_adj;Торговый Флот Соулрестск;;;;;;;;;;;;;x
+d_soulrestknightblades;Рыцари-Мечечники Соулреста;;;;;;;;;;;;;x
+d_soulrestknightblades_adj;Рыцари-Мечечники Соулрестск;;;;;;;;;;;;;x
+d_southpointchimeras;Химеры Саутпойнта;;;;;;;;;;;;;x
+d_southpointchimeras_adj;Химеры Саутпойнтск;;;;;;;;;;;;;x
+d_southpointfleet;Торговый Флот Саутпойнта;;;;;;;;;;;;;x
+d_southpointfleet_adj;Торговый Флот Саутпойнта;;;;;;;;;;;;;x
+d_southpointraiders;Рейдеры Саутпойнта;;;;;;;;;;;;;x
+d_southpointraiders_adj;Рейдеры Саутпойнтск;;;;;;;;;;;;;x
+d_stormholdblackshields;Чёрные Щиты Штормхолда;;;;;;;;;;;;;x
+d_stormholdblackshields_adj;Чёрные Щиты Штормхолдск;;;;;;;;;;;;;x
+d_summersetfleet;Торговый Флот Саммерсетск;;;;;;;;;;;;;x
+d_summersetfleet_adj;Саммерсетск;;;;;;;;;;;;;x
+d_sunholdgriffins;Грифоны Санхолда;;;;;;;;;;;;;x
+d_sunholdgriffins_adj;Грифоны Санхолдск;;;;;;;;;;;;;x
+d_sutchflameblades;Огненные Клинки Сатча;;;;;;;;;;;;;x
+d_sutchflameblades_adj;Огненные Клинки Сатчск;;;;;;;;;;;;;x
+d_sutchmarauders;Мародёры Сатча;;;;;;;;;;;;;x
+d_sutchmarauders_adj;Мародёрск;;;;;;;;;;;;;x
+d_swordsingers;Поющие Мечи;;;;;;;;;;;;;x
+d_swordsingers_adj;Поющие Мечск;;;;;;;;;;;;;x
+d_syffim;Сиффим;;;;;;;;;;;;;x
+d_syffim_adj;Сиффимск;;;;;;;;;;;;;x
+d_tanethwareagles;Танетские Боевые Орлы;;;;;;;;;;;;;x
+d_tanethwareagles_adj;Танетские Боевые Орловск;;;;;;;;;;;;;x
+d_tearfleet;Торговый Флот Тира;;;;;;;;;;;;;x
+d_tearfleet_adj;Торговый Флот Тирск;;;;;;;;;;;;;x
+d_tearimmortals;Бессмертные Тира;;;;;;;;;;;;;x
+d_tearimmortals_adj;Бессмертн;;;;;;;;;;;;;x
+d_thebeautiful;Красавцы;;;;;;;;;;;;;x
+d_thebeautiful_adj;Красавецк;;;;;;;;;;;;;x
+d_thecompanions;Соратники;;;;;;;;;;;;;x
+d_thecompanions_adj;Соратникск;;;;;;;;;;;;;x
+d_thecontemptibles;Презренные;;;;;;;;;;;;;x
+d_thecontemptibles_adj;Презренн;;;;;;;;;;;;;x
+d_thornfleet;Торговый Флот Торна;;;;;;;;;;;;;x
+d_thornfleet_adj;Торговый Флот Торнск;;;;;;;;;;;;;x
+d_timberthieves;Лесные Воры;;;;;;;;;;;;;x
+d_timberthieves_adj;Лесные Ворск;;;;;;;;;;;;;x
+d_topalbuccaneers;Топальские Пираты;;;;;;;;;;;;;x
+d_topalbuccaneers_adj;Топальские Пираты;;;;;;;;;;;;;x
+d_topalfleet;Торговый Флот Топальского Моря;;;;;;;;;;;;;x
+d_topalfleet_adj;Топальск;;;;;;;;;;;;;x
+d_torvalfiredrakes;Огнедышащие Драконы Торвала;;;;;;;;;;;;;x
+d_torvalfiredrakes_adj;Огнедышащие Драконы Торвалск;;;;;;;;;;;;;x
+d_torvalfleet;Торговый Флот Торвала;;;;;;;;;;;;;x
+d_torvalfleet_adj;Торговый Флот Торвалск;;;;;;;;;;;;;x
+d_totambupilferers;Воры Тотамбу;;;;;;;;;;;;;x
+d_totambupilferers_adj;Воры Тотамбуск;;;;;;;;;;;;;x
+d_valenwoodvinewhips;Колючие Хлысты;;;;;;;;;;;;;x
+d_valenwoodvinewhips_adj;Колючие Хлыстск;;;;;;;;;;;;;x
+d_vanguard;Айлейдский Авангард;;;;;;;;;;;;;x
+d_vanguard_adj;Авангардск;;;;;;;;;;;;;x
+d_varrohillmer;Горные Воители Варро;;;;;;;;;;;;;x
+d_varrohillmer_adj;Горные Воители Варрск;;;;;;;;;;;;;x
+d_vvardenfellashlanders;Эшлендеры Вварденфелла;;;;;;;;;;;;;x
+d_vvardenfellashlanders_adj;Эшлендерск;;;;;;;;;;;;;x
+d_waterthieves;Воры Воды;;;;;;;;;;;;;x
+d_waterthieves_adj;Воры Водн;;;;;;;;;;;;;x
+d_wayresthighlanders;Горцы Вэйреста;;;;;;;;;;;;;x
+d_wayresthighlanders_adj;Горцы Вэйрестск;;;;;;;;;;;;;x
+d_wharfrats;Причальные Крысы;;;;;;;;;;;;;x
+d_wharfrats_adj;Причальные Крыск;;;;;;;;;;;;;x
+d_whiterun_devestators;Вайтранские Опустошители;;;;;;;;;;;;;x
+d_whiterun_devestators_adj;Вайтранские Опустошительск;;;;;;;;;;;;;x
+d_windhelm_paladins;Паладины Виндхельма;;;;;;;;;;;;;x
+d_windhelm_paladins_adj;Паладины Виндхельмск;;;;;;;;;;;;;x
+d_blades;Драконья Стража;;;;;;;;;;;;;x
+d_blades_adj;Драконья Стражск;;;;;;;;;;;;;x
+d_winterhold_annihilators;Винтерхолдские Уничтожители;;;;;;;;;;;;;x
+d_winterhold_annihilators_adj;Винтерхолдские Уничтожительск;;;;;;;;;;;;;x
+d_woodhearthnomads;Странники Вудхарта;;;;;;;;;;;;;x
+d_woodheathnomads_adj;Странники Вудхартск;;;;;;;;;;;;;x
+d_woodrootraiders;Рейдеры Вудрута;;;;;;;;;;;;;x
+d_woodrootraiders_adj;Рейдеры Вудрутск;;;;;;;;;;;;;x
+d_wrothgarianbeastbandits;Бандиты Зверолюдей;;;;;;;;;;;;;x
+d_wrothgarianbeastbandits_adj;Бандиты Зверолюдейск;;;;;;;;;;;;;x
+d_yokudanfleet;Йокуданский Торговый Флот;;;;;;;;;;;;;x
+d_yokudanfleet_adj;Йокуданский Торговый Флотск;;;;;;;;;;;;;x
+e_pirates_adj;Пиратск;;;;;;;;;;;;;x
+GLADIATOR;Чемпион;;;;;;;;;;;;;x
+GLADIATOR_FOA;Чемпионск;;;;;;;;;;;;;x
+title_c_knightsdragon;Великие Рыцари Дракона;;;;;;;;;;;;;x
+title_c_knightsdragon_desc;Сделайте этого человека грандмастером Рыцарей Дракона.;;;;;;;;;;;;;x

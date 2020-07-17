@@ -1,0 +1,50 @@
+flea_marry_prisoner;Брак по принуждению;;;;;;;;;;;;;x
+flea_marry_prisoner_desc;[Root.GetTitledFirstName] предлагает свободу в обмен на [Root.GetHerHis] согласие на брак.;;;;;;;;;;;;;x
+flea_marriage_not_legal;[Root.GetHerHisCap] брак не был одобрен вашим религиозным главой\n;;;;;;;;;;;;;x
+flea_ask_marriage; ;;;;;;;;;;;;;x
+flea_ixa_1_desc;[From.GetTitledFirstName], ваш хозяин решил предложить вам свободу, если вы согланы выйти замуж за [From.GetHerHim]. \nНевыполнение этого требования может привести к смерту или более ужасным вещам.\nВаш ответ?;;;;;;;;;;;;;x
+flea_ixa_1_refuse;Я лучше умру, чем выйду замуж за этого мерзавца!;;;;;;;;;;;;;x
+flea_ixa_1_accept;А у меня есть выбор?;;;;;;;;;;;;;x
+flea_ixa_informed;будет проинформирован о вашем решении.;;;;;;;;;;;;;x
+flea_ixa_11_desc;[From.GetTitledFirstName] мудро принимает ваше предложение и вступает с вами в брак.;;;;;;;;;;;;;x
+flea_ixa_11_accept;Подготовка к церемонии начинается!;;;;;;;;;;;;;x
+flea_ixa_11_refuse;Теперь я думаю, что это было бы неразумно.;;;;;;;;;;;;;x
+flea_ixa_10_desc;[From.GetTitledFirstName] жестко отвечает, что [From.GetSheHe] скорее умрет, чем свяжет с вами узы брака.;;;;;;;;;;;;;x
+flea_ixa_10_death;Мы будем второй [From.GetHerHim].;;;;;;;;;;;;;x
+flea_ixa_10_torture;Я не позволю [From.GetHerHim] уйти так легко.;;;;;;;;;;;;;x
+flea_ixa_10_leave;Тогда оставьте [From.GetHerHim] гнить!;;;;;;;;;;;;;x
+flea_ixa_10_torture_tooltip;[From.GetTitledFirstName] подвергнется пыткам.;;;;;;;;;;;;;x
+flea_ixa_101;Жесткий путь был успешен, мой повелитель, [From.GetTitledFirstName] принимает ваше милостивое предложение.;;;;;;;;;;;;;x
+flea_ixa_102;Даже пытки не смогли согнуть [From.GetFirstName], что мы будем делать?;;;;;;;;;;;;;x
+flea_ixa_106;[From.GetBestName] снова отказывается, хотя [From.GetSheHe] теперь выглядит намного изуродованнее. Дальнейшие пытки могут привести к смерти или недееспособности.;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_marriage;Меня принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_marriage_rival;Меня принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_marriage_in_love;Меня принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_divorce;Моего Супруга Принудили к БракуМоего супруга принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_divorce_rival;Моего супруга принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_divorce_in_love;Моего супруга принудили к браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_marriage_family;Моего Супруга Принудили к Браку;;;;;;;;;;;;;x
+opinion_flea_ixa_forced_marriage_close_kin;Принуждение близких родственников к Браку;;;;;;;;;;;;;x
+opinion_flea_ixa_tortured_lover;Пытал своего любовника;;;;;;;;;;;;;x
+opinion_flea_ixa_tortured_close_kin;Пытал близких родственников;;;;;;;;;;;;;x
+opinion_flea_ixa_tortured_me;Пытал меня;;;;;;;;;;;;;x
+flea_marriage_torture_convinced;[From.GetTitledFirstName] будет убежден вступить с вами в брак.;;;;;;;;;;;;;x
+flea_foster_prisoner;Возьмите в качестве заложника;;;;;;;;;;;;;x
+flea_foster_prisoner_desc;Освободите дитя и позвольте [Root.GetHerHim] жить при вашем дворе.;;;;;;;;;;;;;x
+opinion_flea_ixa_hostage_close_kin;Взял моих родственников в качестве заложников;;;;;;;;;;;;;x
+opinion_flea_ixa_hostage;Взял меня в качестве заложника;;;;;;;;;;;;;x
+flea_foster_prisoner_child;Возьмите ребенка в качестве заложника;;;;;;;;;;;;;x
+flea_foster_prisoner_child_desc;Освободите [Root.GetTitledFirstName] и заберите [Root.GetHerHis] ребенка как заложника.;;;;;;;;;;;;;x
+flea_change_prison;Освободить заключенного;;;;;;;;;;;;;x
+flea_change_prison_desc;Выбрать место содержания под стражей для этого заключенного.;;;;;;;;;;;;;x
+flea_ixa_3_desc;Где бы вы хотели видеть [From.GetTitledFirstName]?;;;;;;;;;;;;;x
+flea_ixa_3_Dungeon;Бросьте [From.GetHerHim] его в темницу!;;;;;;;;;;;;;x
+flea_ixa_3_house;Поместите [From.GetHerHim] под домашний арест.;;;;;;;;;;;;;x
+flea_ixa_3_oubliette;Что насчет поздемной темницы?;;;;;;;;;;;;;x
+flea_ixa_3_nevermind;Где [From.GetSheHe] сейчас;;;;;;;;;;;;;x
+flea_ixa_30_desc;Ваш хозяин решил переместить вас в подземелья.;;;;;;;;;;;;;x
+flea_ixa_30_opt;Могло быть и хуже;;;;;;;;;;;;;x
+flea_ixa_31_desc;Ваш хозяин решил посадить вас под домашний арест.;;;;;;;;;;;;;x
+flea_ixa_31_opt;Жизнь становится лучше;;;;;;;;;;;;;x
+flea_ixa_32_desc;Ваш хозяин решил оставить вас в темнице.;;;;;;;;;;;;;x
+flea_ixa_32_opt;Чем я заслужил это?;;;;;;;;;;;;;x

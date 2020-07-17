@@ -1,0 +1,9 @@
+#CODE;RUSSIAN;x
+SELECT_CHARACTER_TO_RANSOM;Выберите пленника для выкупа;x
+AIREASON_NEEDS_OUR_COUNCILLOR;Это наш §Y[GetJobTitle]§!;x
+AIREASON_SKILLED_COURTIER;§Y[GetBestName]§! имеет навыки;x
+AIREASON_IS_UNIMPORTANT;§Y[GetBestName]§! не имеет значимости;x
+INTERACTION_REQUIRES_INV_REASON;§Y[ThirdPartyCharacter.GetTitledFirstName]§! долж[ThirdPartyCharacter.GetNaEn] иметь более обширное государство, либо у Вас должна быть претензия на [ThirdPartyCharacter.GetHersHis] основной титул.;x
+TRANSFER_TREASURY_EFFECT;§Y$FROM$§! заплатит §Y$VALUE$§!¤, которые получит §Y$TO$§!\n;x
+EVTDESC3407;Мои долгие попытки уклониться от разговора не возымели результата. [From.GetTitledFirstName] вынудил[From.GetEndA] меня высказаться о новых витражах. Я призна[Root.GetLasLsya], что терпеть не могу такие цвета, а изображенный на витраже мотив - просто идиотский.;x
+EVTDESC5042;Мы начали рано, когда солнце едва виднелось над горизонтом. Добыча была богатой: собаки поймали кроликов, а мне достался огромный кабан. Я его ранил[Root.GetEndA], но он был настолько силен, что успел убить мою лошадь.;x

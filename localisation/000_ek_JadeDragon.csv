@@ -1,0 +1,938 @@
+TRIBUTARY_TRIBUNAL_NAME;Член Храма;;;;;;;;;;;;;x;;
+TRIBUTARY_TRIBUNAL_PLURAL;Член Храма;;;;;;;;;;;;;x;;
+SUZERAIN_TRIBUNAL_NAME;Храм Трибунала;;;;;;;;;;;;;x;;
+TRIBUTARY_TRIBUNAL_TRIBUTE;Храмовые Налоги;;;;;;;;;;;;;x;;
+TRIBUTARY_DAEDRIC_NAME;Даэдрическая марка;;;;;;;;;;;;;x;;
+TRIBUTARY_DAEDRIC_PLURAL;Даэдрические марки;;;;;;;;;;;;;x;;
+SUZERAIN_DAEDRIC_NAME;Даэдрический принц;;;;;;;;;;;;;x;;
+TRIBUTARY_DAEDRIC_TRIBUTE;Трэллы;;;;;;;;;;;;;x;;
+SKYRIM_NAME;Вольное ярлство;;;;;;;;;;;;;x;;
+SKYRIM_PLURAL;Вольные ярлства;;;;;;;;;;;;;x;;
+SUZERAIN_SKYRIM_NAME;Королевство нордов;;;;;;;;;;;;;x;;
+TRIBUTARY_SKYRIM_TRIBUTE;Королевская дань;;;;;;;;;;;;;x;;
+TRIBUTARY_SLOAD_BENEFACTOR;Слоадский бенефециар;;;;;;;x;;;;;;;;
+TRIBUTARY_SLOAD_BENEFACTOR_PLURAL;Слоадские бенефициары;;;;;;;x;;;;;;;;
+SUZERAIN_SLOAD_BENEFACTOR_NAME;Гегемон;;;;;;;x;;;;;;;;
+TRIBUTARY_SLOAD_BENEFACTOR_TRIBUTE;Дань;;;;;;;x;;;;;;;;
+TRIBUTARY_SLOAD_PROTECTORATE;Слоадский протекторат;;;;;;;x;;;;;;;;
+TRIBUTARY_SLOAD_PROTECTORATE_PLURAL;Слоадский протекторат;;;;;;;x;;;;;;;;
+SUZERAIN_SLOAD_PROTECTORATE_NAME;Протектор;;;;;;;x;;;;;;;;
+TRIBUTARY_SLOAD_PROTECTORATE_TRIBUTE;Дань;;;;;;;x;;;;;;;;
+DAEDRIC_USURPATION;Даэдрическая Узурпация;;;;;;;;;x;;;;;;
+GetOblivion_Azura;Лунная тень;;;;;;;;;;;;;x;;
+GetOblivion_Boethiah;Доля Воздаяния;;;;;;;;;;;;;x;;
+GetOblivion_Clavicus;План Клавикуса Вайла;;;;;;;;;;;;;x;;
+GetOblivion_Hermaeus;Апокриф;;;;;;;;;;;;;x;;
+GetOblivion_Hircine;Охотничьи угодья;;;;;;;;;;;;;x;;
+GetOblivion_Malacath;Зольник;;;;;;;;;;;;;x;;
+GetOblivion_Mehrunes;Мертвые Земли;;;;;;;;;;;;;x;;
+GetOblivion_Mephala;Спиральный Моток;;;;;;;;;;;;;x;;
+GetOblivion_Meridia;Цветные Комнаты;;;;;;;;;;;;;x;;
+GetOblivion_Molag;Хладная Гавань;;;;;;;;;;;;;x;;
+GetOblivion_Namira;Рассеивающая Пустота;;;;;;;;;;;;;x;;
+GetOblivion_Nocturnal;Вечнотень;;;;;;;;;;;;;x;;
+GetOblivion_Peryite;Ямы Периайта;;;;;;;;;;;;;x;;
+GetOblivion_Sanguine;Очаги Наслаждения;;;;;;;;;;;;;x;;
+GetOblivion_Sheogorath;Дрожащие острова;;;;;;;;;;;;;x;;
+GetOblivion_Vaermina;Трясина;;;;;;;;;;;;;x;;
+almalexia_almalexia;Альмалексия;;Альмалексия;;;;;;;x;;;;x;;
+almalexia_almalexia_full;Альмалексия;;;;;;;x;;;;;;;;
+sothasil_sothasil;Сота Сил;;Сота Сил;;;;;;;x;;;;;;
+sothasil_sothasil_full;Сота Сил;;;;;;;x;;;;;;;;
+vivec_vivec;Вивек;;Вивек;;;;;;;x;;;;;;
+vivec_vivec_full;Вивек;;;;;;;x;;;;;;;;
+thras_thras;Трас;Thras;;;;;;;x;;;;;;;
+thras_thras_full;Королевства Траса;;;;;;;x;;;;;;;;
+azura_azura;Азура;;;;;;;;;;;;;;x;
+azura_azura_full;Азура;;;;;;;;;;;;;x;;
+boethiah_boethiah;Боэтия;;Боэтия;;;;;;;;;;;;;x
+boethiah_boethiah_full;Боэтия;;Боэтия;;;;;;;;;;;;;x
+clavicus_clavicus;Клавикус Вайл;;Клавикус Вайл;;;;;;;;;;;;;x
+clavicus_clavicus_full;Клавикус Вайл;;Клавикус Вайл;;;;;;;;;;;;;x
+hermaeus_hermaeus;Хермеус Мора;;Хермеус Мора;;;;;;;;;;;;;x
+hermaeus_hermaeus_full;Хермеус Мора;;Хермеус Мора;;;;;;;;;;;;;x
+hircine_hircine;Хирсин;;Хирсин ;;;;;;;;;;;;;x
+hircine_hircine_full;Хирсин;;Хирсин;;;;;;;;;;;;;x
+malacath_malacath;Малакат;;Малакат;;;;;;;;;;;;;x
+malacath_malacath_full;Малакат;;Малакат;;;;;;;;;;;;;x
+mehrunes_mehrunes;Мерунес Дагон;;Мерунес Дагон;;;;;;;;;;;;;x
+mehrunes_mehrunes_full;Мерунес Дагон;;Мерунес Дагон;;;;;;;;;;;;;x
+mephala_mephala;Мефала;;Мефала;;;;;;;;;;;;;x
+mephala_mephala_full;Мефала;;Мефала;;;;;;;;;;;;;x
+meridia_meridia;Меридия;;Меридия;;;;;;;;;;;;;x
+meridia_meridia_full;Меридия;;Меридия;;;;;;;;;;;;;x
+molag_molag;Молаг Бал;;Молаг Бал;;;;;;;;;;;;;x
+molag_molag_full;Молаг Бал;;Молаг Бал;;;;;;;;;;;;;x
+namira_namira;Намира;;Намира;;;;;;;;;;;;;x
+namira_namira_full;Намира;;Намира;;;;;;;;;;;;;x
+nocturnal_nocturnal;Ноктюрнал;;Ноктюрнал;;;;;;;;;;;;;x
+nocturnal_nocturnal_full;Ноктюрнал;;Ноктюрнал;;;;;;;;;;;;;x
+peryite_peryite;Периайт;;Периайт;;;;;;;;;;;;;x
+peryite_peryite_full;Периайт;;Периайт;;;;;;;;;;;;;x
+sanguine_sanguine;Сангвин;;Сангвин;;;;;;;;;;;;;x
+sanguine_sanguine_full;Сангвин;;Сангвин;;;;;;;;;;;;;x
+sheogorath_sheogorath;Шеогорат;;Шеогорат;;;;;;;;;;;;;x
+sheogorath_sheogorath_full;Шеогорат;;Шеогорат;;;;;;;;;;;;;x
+vaermina_vaermina;Вермина;;Вермина;;;;;;;;;;;;;x
+vaermina_vaermina_full;Вермина;;Вермина;;;;;;;;;;;;;x
+title_oblivion_azura;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_azura_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_boethiah;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_boethiah_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_clavicus;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_clavicus_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_hermaeus;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_hermaeus_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_hircine;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_hircine_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_malacath;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_malacath_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_mehrunes;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_mehrunes_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_mephala;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_mephala_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_meridia;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_meridia_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_molag;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_molag_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_namira;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_namira_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_nocturnal;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_nocturnal_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_peryite;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_peryite_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_sanguine;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_sanguine_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_sheogorath;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_sheogorath_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_oblivion_vaermina;Принц;;Принц;;;;;;;;;;;;;x
+title_oblivion_vaermina_female;Принцесса;;Принцесса;;;;;;;;;;;;;x
+title_tribunal_almalexia;Трибун;;;;;;;x;;;;;;;;
+title_tribunal_almalexia_female;Трибун;;;;;;;x;;;;;;;;
+title_tribunal_sothasil;Трибун;;;;;;;x;;;;;;;;
+title_tribunal_sothasil_female;Трибун;;;;;;;x;;;;;;;;
+title_tribunal_vivec;Трибун;;;;;;;x;;;;;;;;
+title_tribunal_vivec_female;Трибун;;;;;;;x;;;;;;;;
+title_offmap_thras;Высокое Величество;;;;;;;x;;;;;;;;
+title_offmap_thras_female;Высокое Величество;;;;;;;x;;;;;;;;
+confucian_bureaucracy;План даэдра;;;;;;;;;;;;;x;;
+confucian_bureaucracy_desc;План даэдра - это сам даэдрический принц, это не государство со смертным правителем, а план Обливиона, расположенный далеко за пределами Мундуса. Правящий принц обычно полностью контролирует все, что происходит внутри, за исключением вмешательств извне.;;;;;;;;;;;;;x;;
+TXT_ARDOR;Благосклонность;;Благосклонность;;;;;;;;;;;;;x
+TXT_INFLUENCE;Влияние;;;;;;;x;;;;;;;;
+monthly_ardor;Ежемесячная благосклонность;;Ежемесячная благосклонность;;;;;;;;;;;;;x
+monthly_influence;Ежемесячное влияние;;;;;;;x;;;;;;;;
+oblivion_isolationist;Равнодушие;;Равнодушие;;;;;;;;;;;;;x
+oblivion_isolationist_desc;По какой то причине этот даэдрический Принц стал совершенно равнодушен к делам смертных и полностью ушел в Обливион. Связаться с ним практически невозможно.;;;;;;;;;;;;;;;x
+oblivion_interactive;Открытость;;;;;;;;;;;;;;;x
+oblivion_interactive_desc;Этот даэдрический Принц в настоящее время интересуется происходящим в Нирне и готов заключать сделки со смертными. С большой вероятностью принц откликнется на дары и призывы.;;;;;;;;;;;;;;;x
+oblivion_interventionist;Вторжение;;;;;;;;;;;;;;;x
+oblivion_interventionist_desc;Этот даэдрический Принц в настоящее время чрезвычайно заинтересован в делах смертных и стремится расширить свое влияние любыми способами. Это может происходить через видения или же взятие под полный контроль разума.;;;;;;;;;;;;;;;x
+oblivion_normal;Господство;;;;;;;;;;;;;;;x
+oblivion_normal_desc;Этот даэдрический принц упивается своей мощью и влиянием, его царство стабильно и ему поклоняют бесчисленные смертные. В его владениях сохраняется статус-кво, армия готова к войне, однако для бойни нет причины.;;;;;;;;;;;;;;x;
+oblivion_apogee;Торжествующий;;;;;;;;;;;;;;;x
+oblivion_apogee_desc;Этот план Обливиона процветает. Правящий Принц жаждет контролировать весь Нирн. Могущество Принца сосредоточено в войсках и дарах, которые он способен предоставить смертным, чья преданность будет непоколебимой.;;;;;;;;;;;;;;;x
+oblivion_convalescing;Восстановление;;;;;;;;;;;;;;;x
+oblivion_convalescing_desc;Этот даэдрический Принц восстанавливает свои владения и стремится вернуть утраченное могущество. Его План был дестабилизирован вмешательством в Нирн или внутренним катаклизмом. Сила Принца уменьшена.;;;;;;;;;;;;;;;x
+oblivion_cataclysm;Катастрофа;;;;;;;;;;;;;;;x
+oblivion_cataclysm_desc;План этого Принца находится в катастрофическом состоянии. Разрешение этого кризиса - лишь вопрос времени, однако внимание Принца полностью сосредоточено на этом.;;;;;;;;;;;;;;;x
+oblivion_isolationist_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Может не получать никаких благ;;;;;;;;;x;;;;;;
+oblivion_interactive_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Может получить большинство благ\n§Y*§! Может вызвать Даэдрическое Вторжение\n§Y*§! Может не призывать Малые Даэдрические Орды;;;;;;;;;x;;;;;;
+oblivion_interventionist_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Все блага доступны, если их статус не конфликтует;;;;;;;;;x;;;;;;
+oblivion_cataclysm_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Может получить только уникальные блага и кинмаршеров;;;;;;;;;x;;;;;;
+oblivion_convalescing_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Может получить большинство благ\n§Y*§! Не может вызывать Даэдрические Вторжения или малые орды даэдра;;;;;;;;;x;;;;;;
+oblivion_normal_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Может получить большинство благ\n§Y*§! Может вызвать Даэдрическое Вторжение\n§Y*§! Может не призывать Малые Даэдрические Орды;;;;;;;;;x;;;;;;
+oblivion_apogee_effect_desc;§Y*§! Может сделать подношения, чтобы увеличить рвение\n§Y*§! Все блага доступны, если их политика не конфликтует;;;;;;;;;x;;;;;;
+thras_open;Открытость;;;;;;;x;;;;;;;;
+thras_open_desc;Трассианские королевтсва в мире и заинтересованы в поддержании связи с землевладельцами. Тем, кто вызывает их интерес, проще убедить их принять участие во внешней политике.;;;;;;;;;x;;;;;;
+thras_isolationist;Изоляционизм;;;;;;;x;;;;;;;;
+thras_isolationist_desc;Сложно поддерживать линии связи с королевтсвами Траса. Посольство практически закрыто, и хотя линии связи не были полностью разорваны, взаимодействие с королевтсвами Траса является более сложной задачей.;;;;;;;;;x;;;;;;
+thras_expansionist;Экспансионизм;;;;;;;x;;;;;;;;
+thras_expansionist_desc;Слоады приняли агрессивную военную политику, готовы к территориальной экспансии и покорению (или истреблению) обитателей поверхности. Субъектам проще втянуть их в войны, в то время, как соседи, отказывающиеся подчиняться, могут стать целью их вторжений.;;;;;;;;;x;;;;;;
+thras_stable;Стабильность;;;;;;;x;;;;;;;;
+thras_stable_desc;В данный момент, слоады переживают статус-кво. Трассианские королевства раздроблены, но достаточно скоординированы, чтобы представлять угрозу любому, кто вызовет их гнев. Незначительные экономические, или военные изменения могут привести к существенному сдвигу в их статусеезначитедльН.;;;;;;;;;x;;;;;;
+thras_booming;Процветание;;;;;;;x;;;;;;;;
+thras_booming_desc;Один правитель получил рычаги давления на других Трассианских королей и королев, временно объединив их под одним знаменем, неизвестно, как долго это продлится. Пока сохранияется эта ситуация, Коралловые Королевства представляют значительную угрозу для любых  соседей, которые отказываются подчиняться. ;;;;;;;;;x;;;;;;
+thras_internal_war;Междоусобица;;;;;;;x;;;;;;;;
+thras_internal_war_desc;Различные Трассианские королевства погрязли в всеобщей войне. Сообщения от Траса ненадежны, но из их отчетов следует, что жестокость конфликта серьезно ослабила даже самую могущественную Слоадскую монархию.;;;;;;;;;x;;;;;;
+thras_invaded;Вторжение;;;;;;;x;;;;;;;;
+thras_invaded_desc;Кто-то, или что-то вторглось в королевства Траса, атакуя непосредственно их родные земли. Слоады были вынуждены перевести рабочие и магические ресурсы в Трас, и они будут рады любым союзникам, которые помогут им изменить ситуацию в лучшую сторону.;;;;;;;x;;;;;;;;
+thras_recovering;Восстановление;;;;;;;x;;;;;;;;
+thras_recovering_desc;Сильно ослабленный в результате военного конфликта, Трас находится в процессе восстановления. Маловероятно, что Трас будет учавствовать в каких-либо военных экспедициях в ближайшее время, а также он не обладает финансовой и экономической мощью. Пройдет несколько лет, прежде чем статус-кво будет восстановлен.;;;;;;;x;;;;;;;;
+tribunal_warlike;Воинственный;;;;;;;x;;;;;;;;
+tribunal_warlike_desc;Этот член Трибунала проводит политику агрессивного милитаризма, призывая Храм и всех последователей Альмсиви взять в руки оружие и начать войну.;;;;;;;;;x;;;;;;
+tribunal_convivial;Общительный;;;;;;;x;;;;;;;;
+tribunal_convivial_Desc;Верующие Храма ликуют из-за деятельности этого члена Трибунала, который бродит по миру в поисках приключений, проповедуя добродетели Храма, и, по возможности, помогая простому народу. Характер этого члена Трибунала таков, что он проявляет дружелюбие даже к язычникам-иноземцам, приветствуя этих путешественников в своём Храме.;;;;;;;;;x;;;;;;
+tribunal_cordial;Приветливый;;;;;;;x;;;;;;;;
+tribunal_cordial_desc;Не увлекаясь ни войнами, ни путешествиями по миру, этот член Трибунала в основном прибывает в своём Храме, но встречает посещающих его паломников, и без всяких сомнений вмешивается в мирские дела, если это необходимо.;;;;;;;x;;;;;;;;
+tribunal_withdrawn;Замкнутый;;;;;;;x;;;;;;;;
+tribunal_withdrawn_desc;Изолированный в своем внутреннем святилище, и желающий говорить только со своими ближайшими доверенными лицами и слугами, этот член Трибунала проявляет  весьма малый интерес к происходящему во внешнем мире, и менее эффективно влияет на него.;;;;;;;x;;;;;;;;
+tribunal_hidden;Скрытый;;;;;;;x;;;;;;;;
+tribunal_hidden_desc;В данный момент, этот член Трибунала полностью недоступен. Никто не смог установить с ним какие-либо контакты.;;;;;;;x;;;;;;;;
+tribunal_10;Могущество - 10;;;;;;;x;;;;;;;;
+tribunal_10_desc;Этот член Трибунала, несомненно находится на пике своего могущества.;;;;;;;x;;;;;;;;
+tribunal_9;Могущество - 9;;;;;;;x;;;;;;;;
+tribunal_9_desc;Этот член Трибунала обладает ужасающей силой.;;;;;;;x;;;;;;;;
+tribunal_8;Могущество - 8;;;;;;;x;;;;;;;;
+tribunal_8_desc;Этот член Трибунала - очень сильный.;;;;;;;x;;;;;;;;
+tribunal_7;Могущество - 7;;;;;;;x;;;;;;;;
+tribunal_7_desc;Этот член Трибунала - сильный.;;;;;;;x;;;;;;;;
+tribunal_6;Могущество - 6;;;;;;;x;;;;;;;;
+tribunal_6_desc;Этот член Трибунала обладает значительным могуществом.;;;;;;;x;;;;;;;;
+tribunal_5;Могущество - 5;;;;;;;x;;;;;;;;
+tribunal_5_desc;Могущество этого члена Трибунала находится под сомнением.;;;;;;;x;;;;;;;;
+tribunal_4;Могущество - 4;;;;;;;x;;;;;;;;
+tribunal_4_desc;Могущество этого члена Трибунала - неустойчиво.;;;;;;;x;;;;;;;;
+tribunal_3;Могущество - 3;;;;;;;x;;;;;;;;
+tribunal_3_desc;Могущество этого члена Трибунала - уменьшается.;;;;;;;x;;;;;;;;
+tribunal_2;Могущество - 2;;;;;;;x;;;;;;;;
+tribunal_2_desc;Могущество этого члена Трибунала - слабое.;;;;;;;x;;;;;;;;
+tribunal_1;Могущество - 1;;;;;;;x;;;;;;;;
+tribunal_1_desc;Могущество этого члена Трибунала как у обычного смертного.;;;;;;;x;;;;;;;;
+tribunal_0;Умерший;;;;;;;x;;;;;;;;
+tribunal_0_desc;Этот член Трибунала мёртв.;;;;;;;x;;;;;;;;
+emperor_likes_THIS_tt;Этот персонаж любит...;;;;;;;x;;;;;;;;
+emperor_dislikes_THIS_tt;Этот персонаж не любит...;;;;;;;x;;;;;;;;
+emperor_has_ambiguous_feelings_of_THIS_tt;(§G[Root.GetFirstName] нравится [This.GetLike]§! но §R[Root.GetFirstName] [This.GetDislike]§!);;;;;;;;;;;;;x;;
+OFFMAP_TRIBUTARIES_TOOLTIP_DESCEMPEROR_LIKES_LABEL;Этому персонажу нравятся;;;;;;;;;;;;;x;;
+EMPEROR_LIKES_LABEL;Этому персонажу нравятся;;;;;;;;;x;;;;;;
+EMPEROR_DISLIKES_LABEL;Этот персонаж не любит;;;;;;;;;;;;;x;;
+OFFMAP_TRIBUTARIES_TOOLTIP_DESC;Этот персонаж не имеет данников. Однако, у него есть преданные последователи.;;;;;;;;;x;;;;;;
+OFFMAP_VIEW_BUTTON_INSTANT;$OFFMAP|Y$\nВзаимодействовать с $OFFMAP|Y$.;;;;;;;;;;;;;x;;
+OFFMAP_GIFTS_DESC;Если [From.GetFirstName] интересуется делами смертных, возможно добиться расположения [From.GetHerHim] и увеличить §YArdor§!.;;;;;;;;;;;;;x;;
+OFFMAP_BOONS_DESC;Если [From.GetFirstName] интересуется делами смертных, вы можете попросить у него могущественные дары, которые Принц может предоставить вам за определенную §YArdor§!.;;;;;;;;;;;;;x;;
+OFFMAP_GRACE_TOOLTIP;Это ваш текущий уровень [Root.GetCurrency] с [Root.GetName].;;;;;;;;;;;;;x;;
+OFFMAP_GRACE_TOOLTIP_GAIN;Ежемесячный прирост:;;;;;;;;;;;;;x;;
+OFFMAP_GRACE_TOOLTIP_DESC;[Root.GetCurrency] может быть получена путем предоставления дани [Root.GetFullName], и может быть использована для получения могущественных даров.;;;;;;;;;;;;;x;;
+OFFMAP_LIKES_TOOLTIP;Этому персонажу нравятся...;;;;;;;;;;;;;x;;
+OFFMAP_LIKES_AND_DISLIKES_DESC;Этоти персонажи имеют разные интересы и вкусы, но всех их объединяет одно - желание взаимодействовать со смертными, обладающими исключительным потенциалом. Эти люди всегда привлекают их внимание...;;;;;;;;;;;;;x;;
+OFFMAP_DISLIKES_TOOLTIP;Этот персонаж не любит...;;;;;;;;;;;;;x;;
+offmap_openly_worship;Открытое поклонение [From.GetFirstName];;;;;;;;;;;;;x;;
+offmap_secretly_worship;Тайное поклонение [From.GetFirstName];;;;;;;;;;;;;x;;
+offmap_pantheon_worship;Поклонение [From.GetFirstName] в пределах пантеона;;;;;;;;;;;;;x;;
+offmap_likes_patron_almalexia;Последователь [From.GetFirstName];;;;;;;;;x;;;;;;
+offmap_likes_patron_sothasil;Последователь [From.GetFirstName];;;;;;;;;x;;;;;;
+offmap_likes_patron_vivec;Последователь [From.GetFirstName];;;;;;;;;x;;;;;;
+offmap_offering;Предложение оценено;;;;;;;;;;;;;x;;
+offmap_mural;Художественное произведение оценено;;;;;;;;;x;;;;;;
+offmap_likes_khajiit;Вы - каджит;;;;;;;;;;;;;x;;
+offmap_likes_argonians;Вы - аргонианец;;;;;;;;;;;;;x;;
+offmap_likes_bretons;Вы - бретонец;;;;;;;;;;x;;;;;
+offmap_likes_colovians;Вы - коловианец;;;;;;;;;;;;;x;;
+offmap_likes_imperials;Вы - имперец;;;;;;;;;;;;;x;;
+offmap_likes_nibeneans;Вы - нибенеец;;;;;;;;;;;;;x;;
+offmap_likes_nords;Вы - норд;;;;;;;;;;;;;x;;
+offmap_likes_reachmen;Вы - ричмен;;;;;;;;;;;;;x;;
+offmap_likes_redguards;Вы - редгард;;;;;;;;;;;;;x;;
+offmap_likes_altmer;Вы - альтмер;;;;;;;;;;;;;x;;
+offmap_likes_bosmer;Вы - босмер;;;;;;;;;;;;;x;;
+offmap_likes_dunmer;Вы - данмер;;;;;;;;;;;;;x;;
+offmap_likes_orsimer;Вы - орсимер;;;;;;;;;;;;;x;;
+offmap_likes_ayleids;Вы - айлейд;;;;;;;;;;;;;x;;
+offmap_likes_chimer;Вы - кимер;;;;;;;;;;;;;x;;
+offmap_likes_dwemer;Вы - двемер;;;;;;;;;;;;;x;;
+offmap_likes_falmer;Вы - фалмер;;;;;;;;;;;;;x;;
+offmap_likes_maormer;Вы - маормер;;;;;;;;;;;;;x;;
+offmap_likes_akaviri;Вы - акавирец;;;;;;;;;;;;;x;;
+offmap_likes_kamal;Вы - камаль;;;;;;;;;;;;;x;;
+offmap_likes_potun;Вы - По Тун;;;;;;;;;;;;;x;;
+offmap_likes_tangmo;Вы - Танг Мо;;;;;;;;;;;;;x;;
+offmap_likes_tsaesci;Вы - цаэски;;;;;;;;;;;;;x;;
+offmap_likes_quey;Вы - квей;;;;;;;;;;;;;x;;
+offmap_likes_dremora;Вы - дремора;;;;;;;;;;;;;x;;
+offmap_likes_sload;Вы - слоад;;;;;;;;;;;;;x;;
+offmap_likes_undead;Вы - нежить;;;;;;;;;;;;;x;;
+offmap_likes_lustful;Вы похотливы;;;;;;;;;;;;;x;;
+offmap_likes_chaste;Вы целомудренны;;;;;;;;;;;;;x;;
+offmap_likes_gluttonous;Вы прожорливы;;;;;;;;;;;;;x;;
+offmap_likes_temperate;Вы умеренны;;;;;;;;;;;;;x;;
+offmap_likes_greedy;Вы жадны;;;;;;;;;;;;;x;;
+offmap_likes_charitable;Вы щедры;;;;;;;;;;;;;x;;
+offmap_likes_slothful;Вы ленивы;;;;;;;;;;;;;x;;
+offmap_likes_diligent;Вы прилежны;;;;;;;;;;;;;x;;
+offmap_likes_envious;Вы завистливы;;;;;;;;;;;;;x;;
+offmap_likes_kind;Вы добры;;;;;;;;;;;;;x;;
+offmap_likes_wroth;Вы гневный;;;;;;;;;;;;;x;;
+offmap_likes_patient;Вы терпеливы;;;;;;;;;;;;;x;;
+offmap_likes_proud;Вы горделивы;;;;;;;;;;;;;x;;
+offmap_likes_humble;Вы смиренны;;;;;;;;;;;;;x;;
+offmap_likes_deceitful;Вы лживы;;;;;;;;;;;;;x;;
+offmap_likes_honest;Вы честны;;;;;;;;;;;;;x;;
+offmap_likes_craven;Вы малодушны;;;;;;;;;;;;;x;;
+offmap_likes_brave;Вы храбры;;;;;;;;;;;;;x;;
+offmap_likes_shy;Вы застенчивы;;;;;;;;;;;;;x;;
+offmap_likes_gregarious;Вы общительны;;;;;;;;;;;;;x;;
+offmap_likes_ambitious;Вы амбициозны;;;;;;;;;;;;;x;;
+offmap_likes_content;Вы удовлетворены;;;;;;;;;;;;;x;;
+offmap_likes_arbitrary;Вы самодур;;;;;;;;;;;;;x;;
+offmap_likes_just;Вы справедливы;;;;;;;;;;;;;x;;
+offmap_likes_cynical;Вы циничны;;;;;;;;;;;;;x;;
+offmap_likes_zealous;Вы набожны;;;;;;;;;;;;;x;;
+offmap_likes_paranoid;Вы параноик;;;;;;;;;;;;;x;;
+offmap_likes_trusting;[FromFromFromFrom.GetFirstName] доверчив(а);;;;;;;;;;;;;x;;
+offmap_likes_cruel;Вы жестоки;;;;;;;;;;;;;x;;
+offmap_likes_ruthless;Вы беспощадны;;;;;;;;;;;;;x;;
+offmap_likes_reckless;Вы опрометчивы;;;;;;;;;;;;;x;;
+offmap_likes_absent_minded;Вы рассеянны;;;;;;;;;;;;;x;;
+offmap_likes_vain;Вы тщеславны;;;;;;;;;;;;;x;;
+offmap_likes_slovenly;Вы неряшливы;;;;;;;;;;;;;x;;
+offmap_likes_erudite;Вы эрудит;;;;;;;;;;;;;x;;
+offmap_likes_stubborn;Вы тупы;;;;;;;;;;;;;x;;
+offmap_likes_celibate;Вы приняли целибат;;;;;;;;;;;;;x;;
+offmap_likes_groomed;Вы неопрятны;;;;;;;;;x
+offmap_likes_uncouth;Вы неотосяны;;;;;;;;;x
+offmap_likes_diseased;Вы больны;;;;;;;;;x
+offmap_likes_vow_1;Обет позорного убожества;;;;;;;;;x
+offmap_likes_vow_2;Обет жалкого убожества;;;;;;;;;x
+offmap_likes_vow_3;Обет удручающеего убожества;;;;;;;;;x
+offmap_likes_poets;Вы - поэт;;;;;;;;;;;;;x;;
+offmap_likes_falconers;Вы - сокольничий;;;;;;;;;;;;;x;;
+offmap_likes_gardeners;Вы - садовник;;;;;;;;;;;;;x;;
+offmap_likes_administrators;Вы - администратор;;;;;;;;;;;;;x;;
+offmap_likes_architects;Вы - архитектор;;;;;;;;;;;;;x;;
+offmap_likes_blacksmiths;Вы - кузнец;;;;;;;;;;;;;x;;
+offmap_likes_engineers;Вы - инженер;;;;;;;;;;;;;x;;
+offmap_likes_impalers;Вы - колосажатель;;;;;;;;;;;;;x;;
+offmap_likes_seducers;Вы - соблазнитель;;;;;;;;;;;;;x;;
+offmap_likes_seductresses;Вы - соблазнительница;;;;;;;;;;;;;x;;
+offmap_likes_schemers;Вы - интриган;;;;;;;;;;;;;x;;
+offmap_likes_smugglers;Вы - контрабандист;;;;;;;;;;;;;x;;
+offmap_likes_saboteurs;Вы - саботажник;;;;;;;;;;;;;x;;
+offmap_likes_pirates;Вы - пират;;;;;;;;;;;;;x;;
+offmap_likes_duelists;Вы - дуэлянт;;;;;;;;;;;;;x;;
+offmap_likes_hunters;Вы - охотник;;;;;;;;;;;;;x;;
+offmap_likes_strategists;Вы - стратег;;;;;;;;;;;;;x;;
+offmap_likes_adventurers;Вы - путешественник;;;;;;;;;;;;;x;;
+offmap_likes_gladiators;Вы - гладиатор;;;;;;;;;;;;;x;;
+offmap_likes_equestrians;Вы - наездник;;;;;;;;;;;;;x;;
+offmap_likes_hedonists;Вы - гедонист;;;;;;;;;;;;;x;;
+offmap_likes_socializers;Вы - мастер переговоров;;;;;;;;;;;;;x;;
+offmap_likes_gamers;Вы - игрок;;;;;;;;;;;;;x;;
+offmap_likes_painters;Вы - художник;;;;;;;;;;;;;x;;
+offmap_likes_musicians;Вы - музыкант;;;;;;;;;;;;;x;;
+offmap_likes_gamblers;Вы - азартный игрок;;;;;;;;;;;;;x;;
+offmap_likes_mystics;Вы - мистик;;;;;;;;;;;;;x;;
+offmap_likes_scholars;Вы - ученый;;;;;;;;;;;;;x;;
+offmap_likes_theologians;Вы - теолог;;;;;;;;;;;;;x;;
+offmap_likes_alchemists;Вы - алхимик;;;;;;;;;;;;;x;;
+offmap_likes_magicians;Вы - маг;;;;;;;;;;;;;x;;
+offmap_likes_necromancers;Вы - некромант;;;;;;;;;;;;;x;;
+offmap_likes_batshit_crazy;Вы совершенно безумны;;;;;;;;;;;;;x;;
+offmap_likes_drunkards;Вы - пьяница;;;;;;;;;x;;;;;;
+offmap_likes_skooma_addiction;Вы - скумовый наркоман;;;;;;;;;x;;;;;;
+offmap_likes_dragonborns;Вы - драконорожденный;;;;;;;;;;;;;x;;
+offmap_likes_dragonblood;Вы - драконокровный;;;;;;;;;x
+offmap_likes_lycans;Вы - ликантроп;;;;;;;;;;;;;x;;
+offmap_likes_vampires;Вы - вампир;;;;;;;;;;;;;x;;
+offmap_likes_warlords;Вы - завоеватель;;;;;;;;;;;;;x;;
+offmap_likes_slavers;Вы - рабовладелец;;;;;;;;;;;;;x;;
+offmap_likes_exslaves;Вы - бывший раб;;;;;;;;;;;;;x;;
+offmap_likes_house_dres;Вы из Дома Дрес;;;;;;;;;x;;;;;;
+offmap_likes_house_hlaalu;Вы из Дома Хлаалу;;;;;;;;;x;;;;;;
+offmap_likes_house_indoril;Вы из Дома Индорил;;;;;;;;;x;;;;;;
+offmap_likes_house_redoran;Вы из Дома Редоран;;;;;;;;;x;;;;;;
+offmap_likes_house_telvanni;Вы из Дома Телванни;;;;;;;;;x;;;;;;
+offmap_likes_house_sadras;Вы из Дома Садрас;;;;;;;;;x;;;;;;
+offmap_likes_house_sul;Вы из Дома Сул;;;;;;;;;x;;;;;;
+offmap_likes_house_veloth;Вы из Дома Велот;;;;;;;;;x;;;;;;
+offmap_likes_house_dagoth;Вы из Дома Дагот;;;;;;;;;x;;;;;;
+offmap_likes_houseless_dunmer;Вы без Дома;;;;;;;;;x;;;;;;
+offmap_likes_house_custom_1;Вы из Собственного Дома;;;;;;;;;x;;;;;;
+offmap_likes_house_custom_2;Вы из Собственного Дома;;;;;;;;;x;;;;;;
+offmap_likes_house_custom_3;Вы из Собственного Дома;;;;;;;;;x;;;;;;
+offmap_likes_vassal;Вы — лояльный вассал;;;;;;;;;x;;;;;;
+offmap_likes_benefactor;Вы — уважаемый Бенефициар;;;;;;;;;x;;;;;;
+offmap_likes_protectorate;Вы — скромный протекторат;;;;;;;;;x;;;;;;
+offmap_likes_religious_unity;Вы — поклонник [From.Religion.GetName];;;;;;;;;x;;;;;;
+offmap_likes_strong_chiefs;Вы - сильный вождь;;;;;;;;;x
+offmap_likes_weak_chiefs;Вы - слабый правитель;;;;;;;;;x
+likes_dragonborns;Драконорожденные герои;;;;;;;;;;;;;x;;
+likes_dwemer;Двемер;;;;;;;;;;;;;x;;
+likes_almsivi;Последователи Альмсиви;;;;;;;;;;;;;x;;
+likes_nerevarine;Культист Нереварина;;;;;;;;;x;;;;;;
+likes_arbitrary;Самодурные тираны;;;;;;;;;;;;;x;;
+likes_content;Удовлетворенные лентяи;;;;;;;;;;;;;x;;
+likes_craven;Кровавый трус;;;;;;;;;;;;;x;;
+likes_honest;Честный и правдивый;;;;;;;;;;;;;x;;
+likes_kind;Добрый и сострадательный;;;;;;;;;;;;;x;;
+likes_just;Справедливый и принципиальный;;;;;;;;;;;;;x;;
+likes_temperate;Умеренная ханжа;;;;;;;;;;;;;x;;
+likes_undead;Отродье нежити;;;;;;;;;;;;;x;;
+likes_vain;Притязательный пижон;;;;;;;;;;;;;x;;
+likes_necromancers;Некромант;;;;;;;;;x;;;;;;
+likes_altmer;Альтмер;;;;;;;;;x;;;;;;
+likes_maormer;Маомер;;;;;;;;;x;;;;;;
+likes_sload;Слоад;;;;;;;;;x;;;;;;
+likes_sacrifice;Предложение оценено;;;;;;;;;;;;;x;;
+likes_mural;Художественное произведение оценено;;;;;;;;;x;;;;;;
+resolute_against_daedra_desc;Этот персонаж ненавидит даэдра;;;;;;;;;;;;;x;;
+oblivion_azura_sacrifice;Отправить дары Азуре;;;;;;;;;;;;;x;;
+oblivion_boethiah_sacrifice;Отправить дары Боэтии;;;;;;;;;;;;;x;;
+oblivion_clavicus_sacrifice;Отправить дары Клавикусу Вайлу;;;;;;;;;;;;;x;;
+oblivion_hermaeus_sacrifice;Отправить дары Хермеусу Море;;;;;;;;;;;;;x;;
+oblivion_hircine_sacrifice;Отправить дары Хирсину;;;;;;;;;;;;;x;;
+oblivion_malacath_sacrifice;Отправить дары Малакату;;;;;;;;;;;;;x;;
+oblivion_mehrunes_sacrifice;Отправить дары Мерунесу Дагону;;;;;;;;;;;;;x;;
+oblivion_mephala_sacrifice;Отправить дары Мефале;;;;;;;;;;;;;x;;
+oblivion_meridia_sacrifice;Отправить дары Меридии;;;;;;;;;;;;;x;;
+oblivion_molag_sacrifice;Отправить дары Молаг Балу;;;;;;;;;;;;;x;;
+oblivion_namira_sacrifice;Отправить дары Намире;;;;;;;;;;;;;x;;
+oblivion_nocturnal_sacrifice;Отправить дары Ноктюрнал;;;;;;;;;;;;;x;;
+oblivion_peryite_sacrifice;Отправить дары Периайту;;;;;;;;;;;;;x;;
+oblivion_sanguine_sacrifice;Отправить дары Сангвину;;;;;;;;;;;;;x;;
+oblivion_sheogorath_sacrifice;Отправить дары Шеогорату;;;;;;;;;;;;;x;;
+oblivion_vaermina_sacrifice;Отправить дары Вермине;;;;;;;;;;;;;x;;
+tribunal_ordinators;Инквизиция Ординаторов;;;;;;;;;x;;;;;;
+tribunal_ordinators_desc;Ординаторы были отправлены Храмом Трибунала, чтобы избавить провинцию от еретиков и язычников. Усилия по религиозному обращению у персонажей веры Альмсиви будут более эффективными, а религиозное инакомыслие станет появляться реже.;;;;;;;;;x;;;;;;
+almsivi_become_tributary;Стать подданным Храма;;;;;;;;;;;;;x;;
+almsivi_become_tributary_desc;Правители, поклоняющиеся Альмсиви, за исключением правителя Храма, всегда могут попросить Храм Трибунала взять их под свою защиту.;;;;;;;;;;;;;x;;
+chinese_grace_send_gift;Предложить дары;;;;;;;;;;;;;x;;
+chinese_grace_send_gift_desc;Даэдрические принцы не нуждаются в золоте, но, зная о жадности своих подданных, могут принять их дары.;;;;;x;;;;;;;;;;
+china_gift_cd;§YНедавно сделанное предложение§!;;;;;x;;;;;;;;;;
+china_gift_cd_desc;Недавно вы предложили дары [Root.Offmap.Ruler.GetFirstName], вы сможете предложить снова: §Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;;;;x;;;;;;;;;;
+china_gift_cd_desc;Недавно вы предложили дары [Root.Offmap.Ruler.GetFirstName], вы сможете предложить снова: §Y[Root.chinese_grace_send_gift_timer.GetExpiryDate]§!;;;;;x;;;;;;;;;;
+chinese_grace_send_gift_allow_tt;Не предлагал золото §Y[Root.Offmap.Ruler.GetFirstName]§! в последние 5 лет;;;;;;;;;;;;;x;;
+chinese_grace_offer_artifact;Пожертвовать артефакт;;;;;;;;;;;;;x;;
+chinese_grace_offer_artifact_desc;Даэдрические Принцы не интересуются творениями смертных, но знают, что смертные очень ценят сокровища. Пожертвование артефакта - один из способов продемонстрировать вашу преданность.;;;;;;;;;;;;;x;;
+send_artifact_potential_tt;Артефакт высого качества (не является уникальным, аэдрическим или даэдрическим);;;;;;;;;;;;;x;;
+chinese_grace_offer_eunuch;Пожертвовать узником;;;;;;;;;;;;;x;;
+chinese_grace_offer_eunuch_desc;Предложить пленника [Root.Offmap.Ruler.GetFirstName] посредством ритуального убийства. Они будут довольны вашей готовностью забрать жизнь другого человека. Некоторые даэдрические Принцы не принимают человеческие жертвоприношения.;;;;;;;;;;;;;x;;
+chinese_grace_offer_eunuch_third_party;§YТребование пленников§!:;;;;;;;;;;;;;x;;
+offmap_thras_become_sload_benefactor;Стать данником — Слоадским Бенефициаром;;;;;;;;;x;;;;;;
+offmap_thras_become_sload_benefactor_desc;Договориться с Трасским посольством, чтобы стать Слоадским Бенефициаром;;;;;;;;;x;;;;;;
+offmap_thras_become_sload_benefactor_effect_tt;Взамен §R50% дохода§! и §R[GetSloadBenefactorPrestigeCost]§!, Вы получите §G1.5 Влияния в неделю§!.\nЭти эффекты сохраняются до смены §Yправящей династии§! Высокого Величества, или пока §Yвы не объявите независимость§! (Через войну, или решение на экране Интриги).\n;;;;;;;;;x;;;;;;
+offmap_thras_become_sload_protectorate;Стать данником — Слоадским Протекторатом;;;;;;;;;x;;;;;;
+offmap_thras_become_sload_protectorate_desc;Договориться с Трасским посольством, чтобы стать Слоадским Протекторатом;;;;;;;;;x;;;;;;
+offmap_thras_become_sload_protectorate_effect_tt;Взамен §R75% дохода§!, §R50% прироста войск§! и §R[GetSloadProtectoratePrestigeCost]§!, Вы получите §G4 влияния в неделю§!.\nЭти эффекты сохраняются до смены §Yправящей династии§! Высокого Величества, или пока §Yвы не объявите независимость§! (Через войну, или решение на экране Интриги).\n;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_count_0a;-1;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_duke_0a;-2;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_king_0a;-4;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_emperor_0a;-8;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_count_0b;-0.50;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_duke_0b;-1;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_king_0b;-2;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_emperor_0b;-4;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_count_1a;-1.25;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_duke_1a;-2.5;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_king_1a;-5;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_emperor_1a;-10;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_count_1b;-0.75;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_duke_1b;-1.25;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_king_1b;-2.5;;;;;;;;;x;;;;;;
+String_offmap_cost_prestige_emperor_1b;-5;;;;;;;;;x;;;;;;
+offmap_thras_sload_envoy;Слоадский посланник;;;;;;;;;x;;;;;;
+offmap_thras_sload_envoy_desc;Попросить Трассианское посольство отправить высококвалифицированного посланника к вашему двору. Этот персонаж будет иметь дипломатическое образование.;;;;;;;;;x;;;;;;
+offmap_thras_sload_admiral;Слоадский адмирал;;;;;;;;;x;;;;;;
+offmap_thras_sload_admiral_desc;Попросить Трассианское Посольство отправить адмирала-ветерана к вашему двору. Этот персонаж будет иметь военное образование.;;;;;;;;;x;;;;;;
+offmap_thras_sload_artificer;Слоадский ремесленник;;;;;;;;;x;;;;;;
+offmap_thras_sload_artificer_desc;Попросить Трассианское посольство отправить талантливого ремесленника к вашему двору. Этот персонаж будет иметь экономическое образование.;;;;;;;;;x;;;;;;
+offmap_thras_sload_spy;Слоадский шпион;;;;;;;;;x;;;;;;
+offmap_thras_sload_spy_desc;Попросить Трассианское посольство отправить коварного шпиона к вашему двору. Этот персонаж будет иметь образование агента.;;;;;;;;;x;;;;;;
+offmap_thras_sload_wizard;Слоадский чародей;;;;;;;;;x;;;;;;
+offmap_thras_sload_wizard_desc;Попросить Трассианское посольство отправить профессионального чародея к вашему двору. Этот персонаж будет иметь магическое образование.;;;;;;;;;x;;;;;;
+raise_thras_embassy_guard;Призвать стражу посольства;;;;;;;;;x;;;;;;
+raise_thras_embassy_guard_desc;Данники Траса могут поднимать свою местную гвардию посольства во время войн. Большие области, или области с более престижным основным титулом, получают большее подразделение стражи посольства.;;;;;;;;;x;;;;;;
+already_raised_TT;Уже НЕ призывал стражу посольства;;;;;;;;;x;;;;;;
+raise_thras_embassy_guard_TT;НЕ призывал стражу посольства в последний год;;;;;;;;;x;;;;;;
+offmap_thras_interventionary_unit;Интервенционное подразделение;;;;;;;;;x;;;;;;
+offmap_thras_interventionary_unit_desc;Попросите Коралловые Королевства отправить в вашу столицу интервенционное подразделение, состоящее из сухопутной армии и флота.;;;;;;;;;x;;;;;;
+offmap_thras_expeditionary_force;Экспедиционные силы;;;;;;;;;x;;;;;;
+offmap_thras_expeditionary_force_desc;Попросите Коралловые Королевства отправить в вашу столицу экспедиционные силы, состоящие из огромной сухопутной армии и флота.;;;;;;;;;x;;;;;;
+already_raised_major_TT;Уже НЕ призывал интервенционное подразделение, или экспедиционные силы;;;;;;;;;x;;;;;;
+raise_thras_major_army_TT;НЕ призывал интервенционное подразделение, или экспедиционные силы в последний год.;;;;;;;;;x;;;;;;
+tribunal_send_donation;Пожертвовать Храму;;;;;;;;;x;;;;;;
+tribunal_send_donation_desc;Пожертвовать некую сумму золота Архиканонику Храма Трибунала. Каждый из членов Трибунала одобрит ваш жест благотворительности.;;;;;;;;;x;;;;;;
+tribunal_commission_mural;Заказать фреску;;;;;;;;;x;;;;;;
+tribunal_commission_mural_desc;Наймите художников, чтобы те создали красивую фреску в память о некоторых из [Root.Offmap.Ruler.GetFirstName] великих дел. [Root.Offmap.Ruler.GetFirstName] будет очень доволен, если фреску завершат во время жизни [From.GetBestName].;;;;;;;;;x;;;;;;
+tribunal_show_trial;Показательный процесс;;;;;;;;;x;;;;;;
+tribunal_show_trial_desc;Еретики, подрывающие авторитет Храма, должны быть наказаны! Выбранному заключенному грозит казнь, но актом милосердия, вдохновленным [Root.Offmap.Ruler.GetFirstName], он может быть избавлен от больших мучений.;;;;;;;;;x;;;;;;
+tribunal_literacy_drive;Повышение грамотности;;;;;;;;;x;;;;;;
+tribunal_literacy_drive_desc;Храм гордится тем, что воспитывает бедных и необразованных. Жертвуя Храму книгу и посвящая этот акт [Root.Offmap.Ruler.GetFirstName], можно добиться некоторого одобрения [Root.Offmap.Ruler.GetHerHim].;;;;;;;;;x;;;;;;
+tribunal_cleanse_province;Очистить Провинции;;;;;;;;;x;;;;;;
+tribunal_cleanse_province_desc;[Root.Offmap.Ruler.GetFirstName] заботится о простых людей, и когда его/её призовут, лично поможет им в борьбе с преступниками, монстрами и другими вредоносными элементами.;;;;;;;;;x;;;;;;
+tribunal_temple_crusaders;Крестоносцы Храма;;;;;;;;;x;;;;;;
+tribunal_temple_crusaders_desc;Призвать [Root.Offmap.Ruler.GetFirstName] отправить армию ординаторов, малых даэдра и религиозных фанатиков, сражающихся во имя Альмсиви. Чем больше сила [Root.Offmap.Ruler.GetFirstName], тем крупнее будет эта армия. Эта армия не сможет совершать набеги и будет распущена в мирное время.;;;;;;;;;x;;;;;;
+tribunal_ordinator_inquisition;Инквизиция Ординаторов;;;;;;;;;x;;;;;;
+tribunal_ordinator_inquisition_desc;"Попросите [Root.Offmap.Ruler.GetFirstName] поговорить с Архиканоником Храма Трибунала и отправить ординаторов для подавления религиозных беспорядков и искоренения ереси. Каждая провинция, контролируемая Альмсиви в вашем государстве или владении, получит модификатор провинции "Инквизиция Ординаторов" на 10 лет, немного уменьшая риск восстания, снижая вероятность возникновения ереси и увеличивая скорость религиозного обращения.";;;;;;;;;x;;;;;;
+tribunal_almalexia_grace;Благодать Альмалексии;;;;;;;;;x;;;;;;
+tribunal_almalexia_grace_desc;Призовите Альмалексию успокоить ваш разум, убрав такие черты как: стресс, депрессия и сумасшествие.;;;;;;;;;x;;;;;;
+tribunal_sothasil_mirror;Зеркало Сота Сила;;;;;;;;;x;;;;;;
+tribunal_sothasil_mirror_desc;Получите от Сота Сила мощное заклинание, которое смягчает эффекты пагубной магии, предоставляя бонусы к здоровью и военному навыку.;;;;;;;;;x;;;;;;
+tribunal_vivec_touch;Прикосновение Вивека;;;;;;;;;x;;;;;;
+tribunal_vivec_touch_desc;Вивек использует своё лечебное прикосновение, чтобы исцелить даже самые опасные недуги, устранив любые заболевания, которые у вас есть.;;;;;;;;;x;;;;;;
+oblivion_sacrifice_undead;Пожертвовать пленником-нежитью;;;;;;;;;;;;;x;;
+oblivion_sacrifice_undead_desc;Принести нежить в жертву Меридии. Меридия презирает нежить и одобряет их уничтожение.;;;;;;;;;;;;;x;;
+oblivion_armor_ebony_mail;Претендовать на Эбонитовую кольчугу;;;;;;;;;;;;;x;;
+oblivion_armor_ebony_mail_desc;Получить Эбонитовую кольчугу, мастерски сделанную и магическую броню.;;;;;;;;;;;;;x;;
+oblivion_weapon_goldbrand;Претендовать на Золотой меч;;;;;;;;;;;;;x;;
+oblivion_weapon_goldbrand_desc;Получить Золотой меч, пылающую, золотую катану..;;;;;;;;;;;;;x;;
+oblivion_weapon_umbra;Претендовать на меч Умбра;;;;;;;;;;;;;x;;
+oblivion_weapon_umbra_desc;Получить Умбру, меч, обладающий разумом и похищающий души.;;;;;;;;;;;;;x;;
+oblivion_armor_saviors_hide;Претендовать на Шкуру Спасителя;;;;;;;;;;;;;x;;
+oblivion_armor_saviors_hide_desc;Получить Шкуру Спасителя, кирасу с невероятным сопротивлением.;;;;;;;;;;;;;x;;
+oblivion_book_oghma_infinium;Претендовать на Огма Инфиниум;;;;;;;;;;;;;x;;
+oblivion_book_oghma_infinium_desc;Получить Огма Инфиниум, том, содержащий могущественные знания, которые могут увеличить возможности его обладателя.;;;;;;;;;;;;;x;;
+oblivion_masque_of_clavicus_vile;Претендовать на Маску Клавикуса Вайла;;;;;;;;;;;;;x;;
+oblivion_masque_of_clavicus_vile_desc;Получить Маску Клавикуса Вайла, шлем, который способствует улучшению речи владельца.;;;;;;;;;;;;;x;;
+oblivion_ring_of_hircine;Претендовать на Кольцо Хирсина;;;;;;;;;;;;;x;;
+oblivion_ring_of_hircine_desc;Получить Кольцо Хирсина, которое позволяет ликантропам контролировать свои трансформации.;;;;;;;;;;;;;x;;
+oblivion_weapon_mace_scourge;Претендовать на Бич Даэдра;;;;;;;;;;;;;x;;
+oblivion_weapon_mace_scourge_desc;Получить Бич Даэдра, булаву, способную изгонять даэдра в Обливион.;;;;;;;;;;;;;x;;
+oblivion_weapon_volendrung;Претендовать на Волендранг;;;;;;;;;;;;;x;;
+oblivion_weapon_volendrung_desc;Получить Волендранг, тяжелый, но прекрасно сбалансированный молот.;;;;;;;;;;;;;x;;
+oblivion_weapon_mehrunes_razor;Претендовать на Бритву Мерунеса;;;;;;;;;;;;;x;;
+oblivion_weapon_mehrunes_razor_desc;Получить Бритву Мерунеса, кинжал способный убить врага одним касанием.;;;;;;;;;;;;;x;;
+oblivion_ring_khajiiti;Претендовать на Кольцо Каджита;;;;;;;;;;;;;x;;
+oblivion_ring_khajiiti_desc;Получить Кольцо Каджита, зачарованное кольцо, наделяющее владельца быстротой и невидимостью.;;;;;;;;;;;;;x;;
+oblivion_ring_namira;Претендовать на Кольцо Намиры;;;;;;;;;;;;;x;;
+oblivion_ring_namira_desc;Получить Кольцо Намиры, которое улучшает ловкость и физическую устойчивость владельца.;;;;;;;;;;;;;x;;
+oblivion_weapon_ebony_blade;Претендовать на Эбонитовый клинок;;;;;;;;;;;;;x;;
+oblivion_weapon_ebony_blade_desc;Получить Эбонитовый клинок, который подпитывает предательства и кровь его жертв.;;;;;;;;;;;;;x;;
+oblivion_weapon_dawnbreaker;Претендовать на Сияние Рассвета;;;;;;;;;;;;;x;;
+oblivion_weapon_dawnbreaker_desc;Получить Сияние Рассвет, сияющий меч, карающий нежить очищающим пламенем.;;;;;;;;;;;;;x;;
+oblivion_weapon_mace_molag;Претендовать на Булаву Молага Бала;;;;;;;;;;;;;x;;
+oblivion_weapon_mace_molag_desc;Получить Булаву Молага Бала, похищающую души своих жертв.;;;;;;;;;;;;;x;;
+oblivion_weapon_sanguinerose;Претендовать на Розу Сангвина;;;;;;;;;;;;;x;;
+oblivion_weapon_sanguinerose_desc;Получить Розу Сангвина, посох, способный призывать воинов-даэдра.;;;;;;;;;;;;;x;;
+oblivion_weapon_skull_of_corruption;Претендовать на Череп Порчи;;;;;;;;;;;;;x;;
+oblivion_weapon_skull_of_corruption_desc;Получить Череп Порчи, посох, обладающей превращать сны врагов в кошмары.;;;;;;;;;;;;;x;;
+oblivion_amulet_mad_charity;Претендовать на Милосердное безумие;;;;;;;;;;;;;x;;
+oblivion_amulet_mad_charity_desc;Получить Милосердное безумие, амулет, наделяющий владельца сопротивляемостью к магии.;;;;;;;;;;;;;x;;
+oblivion_weapon_fork_h;Претендовать на Вилку Щекотки;;;;;;;;;;;;;x;;
+oblivion_weapon_fork_h_desc;Получить Вилку Щекотки, зачарованный столовый прибор.;;;;;;;;;;;;;x;;
+oblivion_weapon_wabbajack;Претендовать на Ваббаджек;;;;;;;;;;;;;x;;
+oblivion_weapon_wabbajack_desc;Получить Ваббаджек, посох, эффекты которого нельзя предсказать.;;;;;;;;;;;;;x;;
+oblivion_shield_spellbreaker;Претендовать на Разрушитель Заклинаний;;;;;;;;;;;;;x;;
+oblivion_shield_spellbreaker_desc;Получить Разрушитель Заклинаний, щит, способный рассеивать магию.;;;;;;;;;;;;;x;;
+oblivion_azuras_star;Претендовать на Звезду Азуры;;;;;;;;;;;;;x;;
+oblivion_azuras_star_desc;Получить Звезду Азуры, драгоценный камень души, который можно использовать бесконечно, не опасаясь, что он иссякнет.;;;;;;;;;;;;;x;;
+oblivion_skeleton_key;Претендовать на Скелетный Ключ;;;;;;;;;;;;;x;;
+oblivion_skeleton_key_desc;Получить Скелетный Ключ, устройство, способное открыть любой замок, при этом не сломавшись.;;;;;;;;;;;;;x;;
+oblivion_grace_offer_slaves;Принести в жертву рабов;;;;;;;;;;;;;x;;
+oblivion_grace_offer_slaves_desc;Предложить в качестве жертвы  всех рабов, которые есть в  [Root.GetName]. Это действие порадует некоторых Принцев, однако массовое убийство подданных не будет хорошо воспринято населением. Они даже могут поднять восстание!;;;;;;;;;;;;;x;;
+oblivion_dremora_kynmarcher;Призвать дремору-кинмаршера;;;;;;;;;;;;;x;;
+oblivion_dremora_kynmarcher_desc;Получить могучего дремору-кинмаршера, который обучен сражаться, и может быть использован в качестве командира или чемпиона. Являясь представителями даэдра, они будут верны вам, пока будут существовать в Нирне..;;;;;;;;;;;;;x;;
+oblivion_daedric_horde_lesser;Малая даэдрическая орда;;;;;;;;;;;;;x;;
+oblivion_daedric_horde_lesser_desc;Если барьеры между мирами ослабнут, и силы  [Root.Offmap.Ruler.GetFirstName] начнут истощаться, [Root.Offmap.Ruler.GetSheHe] может предоставить вам маленькую даэдрическую армию, чтобы помочь вам в битвах.;;;;;;;;;;;;;x;;
+oblivion_daedric_protection;Даэдрическая защита;;;;;;;;;;;;;x;;
+oblivion_daedric_protection_desc;Молиться [Root.Offmap.Ruler.GetFirstName], чтобы он наделил вас силой [Root.Offmap.Ruler.GetHerHis]. Ваша защита и личные боевые навыки немного улучшаться на 3 года.;;;;;;;;;;;;;x;;
+oblivion_daedric_training;Даэдрическое обучение;;;;;;;;;;;;;x;;
+oblivion_daedric_training_desc;Силы [Root.Offmap.Ruler.GetFirstName] намного превосходят ваши. Но это не помеха для [Root.Offmap.Ruler.GetHerHim], он может наделить вас силами, которые позволят вам превзойти других смертных.;;;;;;;;;;;;;x;;
+oblivion_treasure;Богатства Обливиона;;;;;;;;;;;;;x;;
+oblivion_treasure_desc;Получить редкий артефакт из сокровищницы [Root.Offmap.Ruler.GetFirstName]. Таким образом можно получить золото и драгоценные камни или даже оружие и броню.;;;;;;;;;;;;;x;;
+oblivion_daedric_invasion;Вторжение даэдра;;;;;;;;;;;;;x;;
+oblivion_daedric_invasion_desc;Призвать [Root.Offmap.Ruler.GetFirstName] начать вторжение в мир смертных. Этот ритуал займет некоторое время, но в случае успеха бесчисленные даэдрические орды выйдут из врат Обливиона и встанут под ваши знамена. Это можно сделать только один раз за жизнь персонажа.;;;;;;;;;;;;;x;;
+oblivion_lich_decay_cure;Вылечить Разложение Лича;;;;;;;;;x;;;;;;
+oblivion_lich_decay_cure_desc;Хотя личи обычно разлагаются, [Root.Offmap.Ruler.GetFirstName] может обратить вспять этот процесс и восстановить ваш прежний облик. У некоторых из Принцев могут быть нетрадиционные способы по предотвращению разложения...;;;;;;;;;x;;;;;;
+oblivion_azura_peace_of_mind;Спокойствие духа;;;;;;;;;;;;;x;;
+oblivion_azura_peace_of_mind_desc;Попросить Азуру успокоить ваш беспокойный разум. Это позволит вам избавиться от депрессии, стресса или паранойи.;;;;;;;;;;;;;x;;
+oblivion_boethiah_martial_expertise;Боевые наставления;;;;;;;;;;;;;x;;
+oblivion_boethiah_martial_expertise_desc;Попросить Боэтию отточить ваши боевые навыки. Это даст вам случайную черта лидера первого уровня.;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_immortality;Пожелать бессмертие;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_immortality_desc;Объявить о своем желании бессмертия. Клавикус, несомненно, отреагирует на эту смелую просьбу, хотя результат может быть не таким, какой вы ожидаете...;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_romance;Пожелать любви;;;;;;;;;x
+oblivion_clavicus_bargain_romance_desc;Попросите Клавикуса Вайла помочь вам найти настоящую любовь, будь то с вашим супругом или с кем-то еще. Результаты могут оказаться совсем не такими, как вы ожидаете...;;;;;;;;;x
+oblivion_clavicus_bargain_romance_courtier;Пожелать любви (Вассал);;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_romance_courtier_desc;Попросить Клавикуса Вайла, чтобы он заставил вашего вассала полюбить вас. Результат может быть не таким, какой вы ожидаете..;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_romance_spouse;Пожелать любви (Супруг(-а));;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_romance_spouse_desc;Попросить Клавикуса Вайла, чтобы он заставил вашу супругу полюбить вас. Результат может быть не таким, какой вы ожидаете...;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_fame;Пожелать уважение и восхищение;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_fame_desc;Попросить Клавикуса Вайла сделать вас уважаемым человеком среди всех, которым все восхищаются. Результат может быть не таким, какой вы ожидаете..;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_power;Пожелать могущество;;;;;;;;;;;;;x;;
+oblivion_clavicus_bargain_power_desc;Пожелать могущество, что позволит вам улучшит один из ваших атрибутов. Результат может быть не таким, какой вы ожидаете...;;;;;;;;;;;;;x;;
+oblivion_hermaeus_black_book;Прочесть Черную книгу;;;;;;;;;;;;;x;;
+oblivion_hermaeus_black_book_desc;Попасть в Апокриф, использую Черную книгу, чтобы раскрыть все его секреты и свой внутренний потенциал.;;;;;;;;;;;;;x;;
+oblivion_hircine_lycanthropy;Попросить ликантропию;;;;;;;;;;;;;x;;
+oblivion_hircine_lycanthropy_desc;Как создатель оборотней и повелить зверолюдей, Хирсин может даровать вам силу звериной крови, если вы окажетесь достойным. Сверхъестественные существа, оборотни - могучие воины с иммунитетом к болезням и нечеловеческой выносливостью.;;;;;;;;;;;;;x;;
+oblivion_hircine_unicorn;Претендовать на Единорога;;;;;;;;;x;;;;;;
+oblivion_hircine_unicorn_desc;Попросите Хирсина подарить вам единорога, даэдрического ездового питомца со сверхъестественными способностями, намного превосходящими способности большинства обычных питомцев.;;;;;;;;;x;;;;;;
+oblivion_malacath_goblins;Армия гоблинов;;;;;;;;;;;;;x;;
+oblivion_malacath_goblins_desc;Воззвать к Малакату, чтобы собрать всех гоблинов, которые живут в вашем царстве, под ваши знамена. Вы получит армию из 1000 гоблинов (невооруженную, малоснаряженную, не наследуюмую), а также 500 воинов за каждое поселение гоблинов на ваших землях. Кроме того, все эти поселения будут немедленно уничтожены.;;;;;;;;;;;;;x;;
+oblivion_mehrunes_fuel_ambitions;Насытить амбиции;;;;;;;;;;;;;x;;
+oblivion_mehrunes_fuel_ambitions_desc;"Попросить Мерунеса Дагона насытить ваши амбиции. Пока у вас есть черта Амбициозный", это также проявится в небольшом бонусе к атрибутам. Если у вас нет этой черты, завистливость даст немного меньший бонус. Два бонуса не складываются.";;;;;;;;;;;;;x;;
+oblivion_mephala_power_of_seduction;Сила обольщения;;;;;;;;;;;;;x;;
+oblivion_mephala_power_of_seduction_desc;Попросить Мефалу предоставить дар, который улучшит ваши навыки интриги, боевые навыки и привлекательность.;;;;;;;;;;;;;x;;
+oblivion_meridia_grand_bane_of_undead;Великое проклятие нежити;;;;;;;;;;;;;x;;
+oblivion_meridia_grand_bane_of_undead_desc;Воззвать к Меридии, чтобы разоблачить и искоренить угрозу нежити взрывом очищающей энергии. Вы и все ваши придворные попадете под взрывную волну, которая ослабит всю нежить. Кроме того, секретные вампиры будут публично разоблачены.;;;;;;;;;;;;;x;;
+oblivion_molag_pureblood_vampirism;Запросить чистокровный вампиризм;;;;;;;;;;;;;x;;
+oblivion_molag_pureblood_vampirism_desc;Молаг Бал является прародителем чистокровных вампиров, от которых в свою очередь произошли вампиры низкого происхождения. Он может предоставить вам чистокровие, если вы окажетесь достойны. Чистокровные вампиры, кроме бессмертия, более сильны в бою и обладают иммунитетом к заболеваниям, которым подвержены низшие вампиры, также они получают небольшой, но постоянные бонус к навыкам и не нуждаются в крови.;;;;;;;;;;;;;x;;
+oblivion_namira_decay_feeds_life;Смерть зарождает новую жизнь;;;;;;;;;;;;;x;;
+oblivion_namira_decay_feeds_life_desc;Мусорщики и трупоеды - существа, которые питают почву, зарождая тем самым новую жизнь. Этот процесс может ускорится под руководством Намиры, позволив тем самым почти мгновенно восстановить малонаселенные провинции.;;;;;;;;;;;;;x;;
+oblivion_nocturnal_lady_luck;Госпожа Фортуна;;;;;;;;;;;;;x;;
+oblivion_nocturnal_lady_luck_desc;Попросить Ноктюрнал сделать вас удачливым, тем самым удалив черту Неудачливый, если она у вас есть, и получить черту Удачливый, если у вас ее нет.;;;;;;;;;;;;;x;;
+oblivion_peryite_plague;Чума Периайта;;;;;;;;;;;;;x;;
+oblivion_peryite_plague_desc;Молиться Периайту, чтобы он наслал очень заразную, но безвредную эпидемую на ваши земли, которая позволит предотвратить распространение более смертоносных заболеваний.;;;;;;;;;;;;;x;;
+oblivion_sanguine_special_brew;Особый напиток Сангвина;;;;;;;;;;;;;x;;
+oblivion_sanguine_special_brew_desc;Просить у Сангвина образец особого напитка, приготовленного в Очагах Наслаждений. Напитки, изготовленные даэдрическим Принцем, намного сильнее, чем напитки смертных... и могут иметь мощные магические эффекты.;;;;;;;;;;;;;x;;
+oblivion_sheogorath_mad_gifts;Дары Безумия;;;;;;;;;;;;;x;;
+oblivion_sheogorath_mad_gifts_desc;Безумие может привести человека к странным, неожиданным сторонам. Попросите Шеогората коснуться ваших земель своим неустойчивым умом и получите один из многих возможных провинциальных модификаторов во всём вашем домене. Эффекты от этих модификаторов сильно различаются...;;;;;;;;;;;;;x;;
+oblivion_vaermina_nightmare_rival;Проклятие Кошмара (Враг);;;;;;;;;;;;;x;;
+oblivion_vaermina_nightmare_rival_desc;Попросить Вермину, чтобы она поразила вражеского персонажа ужасными кошмарами. Это может оказать драматическое влияние на благополучие цели.;;;;;;;;;;;;;x;;
+oblivion_vaermina_nightmare_ruler;Проклятие Кошмара (Враг);;;;;;;;;;;;;x;;
+oblivion_vaermina_nightmare_ruler_desc;Попросить Вермину, чтобы она поразила соседнего правителя ужасными кошмарами. Это может оказать драматическое влияние на благополучие цели.;;;;;;;;;;;;;x;;
+EKArdor10;Я кладу подношение на алтарь, и через мгновение оно исчезает из виду. Чувство одобрения [From.Offmap.Ruler.GetFirstName] пульсирует в моем сознании.;;;;;;;;;;;;;x;;
+EKArdor10Accept;Отлично.;;;;;;;;;;;;;x;;
+EKArdor15;Я кладу подношение на алтарь, и через мгновение оно исчезает из виду. Чувство одобрения [From.Offmap.Ruler.GetFirstName] пульсирует в моем сознании.;;;;;;;;;;;;;x;;
+EKArdor15Accept;Замечательно.;;;;;;;;;;;;;x;;
+EKArdor20;"Поздно вечером меня забирает из тюрьмы и заковывает в кандалы группа вооруженных стражников, и сопровождает к святилищу. Когда они положили меня на алтарь ко мне приближается [FromFrom.GetBestName], дабы встать подле меня, сжимая в руке церемониальный кинжал. Отлично. Жертвоприношение готово," говорит [FromFrom.GetSheHe]. Произнося вновь и вновь слова ритуального песнопения, [FromFrom.GetFirstName]высоко поднимает своё оружие и вонзает прямо в мою обнажённую грудь!";;;;;;;;;;;;;x;;
+EKArdor20Accept;НЕТ!!! Только не так! ;;;;;;;;;;;;;x;;
+EKArdor25;Жертвоприношение для [From.GetBestName] успешно завершено. Я чувствую как одобрение [FromFrom.Offmap.Ruler.GetFirstName] бурлит в моём теле.;;;;;;;;;;;;;x;;
+EKArdor25Accept;Блестяще. ;;;;;;;;;;;;;x;;
+EKArdor50;"[From.Offmap.Ruler.GetFirstName] говорит мне. Чтож, [Root.GetFirstName], твоё желание - лишь капля в колодце бесконечного мощуества. Ты хорошо служишь мне и взамен я могу преподнести тебе достойный дар. Какой силы ты возжелаешь сейчас?";;;;;;;;;;;;;x;;
+EKArdor50OptA;Улучшить навык дипломатии.;;;;;;;;;;;;;x;;
+EKArdor50OptB;Укрепить военное мастерство.;;;;;;;;;;;;;x;;
+EKArdor50OptC;Проникнутся духом управленчества. ;;;;;;;;;;;;;x;;
+EKArdor50OptD;Стяжать опыт интригана.;;;;;;;;;;;;;x;;
+EKArdor50OptE;Продвинутся в познании мира.;;;;;;;;;;;;;x;;
+EKArdor50Wrap;(Иное);;;;;;;;;;;;;x;;
+EKArdor60;Возле святилища [From.Offmap.Ruler.GetFirstName], прямо из воздуха, проявляется небольшой сундук. Я открываю его и забираю то сокровище, что было мне даровано.;;;;;;;;;;;;;x;;
+EKArdor60Accept;Прекрасно!;;;;;;;;;;;;;x;;
+EKArdor100;"Портал открывается предо мной и гордый дремора прорывается в мир смертных. Он падает с высоты и приземляется на ноги. Узрев меня, дремора преклоняет колени и говорит: [From.Offmap.Ruler.GetFirstName] услышал твои мольбы и вот, я предстал перед тобой. Я буду твоим верным слугой, [Root.GetFirstName]. Приказывай, я слушаю и повинуюсь.";;;;;;;;;;;;;x;;
+EKArdor100Accept;Верный слуга, м-да? ;;;;;;;;;;;;;x;;
+EKArdor110;"Вихрь энергии охватывает меня и стихает через мгновенье. [From.Offmap.Ruler.GetFirstName] говорит мне: Ты показал себя верным слугой, и я дарую тебе могущество, дабы ты укреплял мою власть в Нирне... ступай прочь, смертный.";;;;;;;;;;;;;x;;
+EKArdor110Accept;Мощь переполняет!;;;;;;;;;;;;;x;;
+EKArdor120;"Врата Обливиона открыты! Сквозь дымку измерений ко мне на службу прибывает отряд даэдрических тварей. Они щурятся, с недоверием глядя на небеса Мундуса. Один говорит: Во имя [From.Offmap.Ruler.GetFullName] мы будем служить тебе, [Root.GetBestName]." Врата захлопываются за спинами воинов, но они остаются в Плане Смертных.";;;;;;;;;;;;;x;;
+EKArdor120Accept;Я служил(а) Даэдра, а ныне даэдра будут служить мне!;;;;;;;;;;;;;x;;
+EKArdor130;Я начинаю чувствовать необычное ощущение, и смотрю на свои руки. Сухожилия и кожа восстанавливаются на моих глазах, похоже, я испытываю эти приятные чувства впервые с тех пор, когда моё превращение в лича было завершено.;;;;;;;;;x;;;;;;
+EKArdor130Accept;Моё разложение прошло!;;;;;;;;;x;;;;;;
+EKArdor131A;"Цена жалкой нежизни слишком велика для меня, чтобы её платить. Я призываю Клавикуса Вайла, Принца Желаний, и он отвечает на просьбу, возвращая мою плоть в первозданное состояние. "Правильно," говорит Клавикус. "Теперь всё на месте! Разложение остановлено и обращено вспять. Будешь как новенький.";;;;;;;;;x;;;;;;
+EKArdor131B;"Цена жалкой нежизни слишком велика для меня, чтобы её платить. Я призываю Клавикуса Вайла, Принца Желаний, и он отвечает на просьбу, отделив плоть от моего тела и оставляя только кости! "Теперь так," замечает со смехом Клавикус. "Твоё разложение прекратилось! А ещё ты похудел(а).";;;;;;;;;x;;;;;;
+EKArdor131OptA;Моё разложение прошло!;;;;;;;;;x;;;;;;
+EKArdor131OptB;Теперь я скелет!;;;;;;;;;x;;;;;;
+EKArdor133;"Узрев разложение своего тела, и страдания, которые это приносит, я призываю Намиру. Но вместо того, чтобы вылечить мое разложение, она предлагает мне выбор. "Это правда, что я могу вылечить это," говорит Намира, "Но есть и другой путь. Я могу сделать так, чтобы это разложение никогда не закончилось - ты не сгниешь полностью, но всегда будешь разлагаться. Выбери это, и ты получишь моё покровительство.";;;;;;;;;x;;;;;;
+EKArdor133OptA;Просто излечите от разложения, я не хочу оставаться таким!;;;;;;;;;x;;;;;;
+EKArdor133OptATooltip;Вы исцеляетесь от разложения, и возвращаетесь к нормальной жизни...Теперь.;;;;;;;;;x;;;;;;
+EKArdor133OptB;Я принимаю ваше предложение!;;;;;;;;;x;;;;;;
+EKArdor133OptBTooltip;Ваше разложение остановилось, оно никогда не ухудшается, но и никогда не излечивается.;;;;;;;;;x;;;;;;
+EKArdor135;"Чтобы остановить моё гниение, я попросил(а) о помощи Периайта, Принца Эпидемий. "Посмотри на свое тело," говорит Перит, когда моё тело обновилось на глазах. "И когда эта болезнь пройдет, на План Смертных обрушится всё больше проклятий." Когда я возвращаюсь домой, мои стражники сообщили, что полчища монстров и зверей внезапно поселились в пределах наших владений.";;;;;;;;;x;;;;;;
+EKArdor135OptA;Небольшая цена за лекарство от разложения.;;;;;;;;;x;;;;;;
+EKArdor200;"[From.Offmap.Ruler.GetFirstName] обращается ко мне: Неужели ты, [Root.GetFirstName], желаешь, чтобы я освободил свою мощь и захватил Нирн? Это возможно. И я непременно сделаю это. Но запомни, смертный  - даэдра, что я отправляю, служат во имя Меня, не тебя. Но ты станешь моим посланцем. Ты будешь править этим миром, но только под  моей тенью!" Голос [From.Offmap.Ruler.GetFirstName] стих, но вместо него разразилась даэдрическая буря. Повсюду, куда ни кинь взор, открываются циклопические Врата Обливиона - одно за другим. Даэдрическое войско выходит из этих Врат...";;;;;;;;;;;;;x;;
+EKArdor200Accept;Кровь во имя Даэдра! Пусть Мундус сгорит!;;;;;;;;;;;;;x;;
+EKArdor210Title;Даэдрическое вторжение;;;;;;;;;;;;;x;;
+EKArdor210;Из земель [From.GetFirstName] поступают бесчисленные донесения наших соглядатаев. Их содержание кажется пугающей сказкой - врата Обливиона появляются из ниоткуда и полчища хищных Даэдра вырываюстя наружу, распространяясь по окрестной местности. Даэдра шествуют под знаменем [From.GetFirstName], но судя по всему он всего лишь земной слуга  [FromFrom.Offmap.Ruler.GetFirstName], раб, направляющий армии Владыки Даэдра. Если ничего не предпринимать, весь мир может стать владением вечного даэдрического повелителя!;;;;;;;;;;;;;x;;
+EKArdor210OptA;Я паду на колени перед [FromFrom.Offmap.Ruler.GetFirstName]!;;;;;;;;;;;;;x;;
+EKArdor210OptB;Я последую за [FromFrom.Offmap.Ruler.GetFirstName], но лишь в тайне…;;;;;;;;;;;;;x;;
+EKArdor210OptC;Я продолжу действовать, но не последую за знамёнами [FromFrom.Offmap.Ruler.GetFirstName].;;;;;;;;;;;;;x;;
+EKArdor210OptD;Приближается буря!;;;;;;;;;;;;;x;;
+EKInvasionResolution60;Даэдра окружили меня, но их численность не дает им никакого преимущества - я убиваю их всех. После битвы я чувствую, что ещё многое предстоит сделать.;;;;;;;;;x;;;;;;
+EKInvasionResolution60Accept;[FromFrom.GetBestName] должен быть побежден!;;;;;;;;;x;;;;;;
+EKTribunal15;К [GetFromRootCompliment] [Root.GetFirstName],\n\nЯ с большой радостью принимаю ваше благотворительное пожертвование Храму. Уверяю вас, что этот добрый поступок не останется незамеченным - и не будет забыт.\n\nПодпись, [From.GetBestName];;;;;;;;;x;;;;;;
+EKTribunal15Accept;Замечательно.;;;;;;;;;x;;;;;;
+EKTribunal25;Я только что заказал(а) фреску [From.Offmap.Ruler.GetFirstName] которая, как я надеюсь, сможет охватить величественную элегантность [From.Offmap.Ruler.GetHerHis]. Пройдет некоторое время, прежде чем художники прибудут к моему двору , чтобы начать свое задание.;;;;;;;;;x;;;;;;
+EKTribunal25Accept;Надеюсь, художники поторопятся!;;;;;;;;;x;;;;;;
+EKTribunal27;Художники, наконец, прибыли и начали делать наброски фрески. Однако, прежде чем они возьмут на себя обязательство нарисовать её, художники спросили, какие материалы я хотел(а) бы использовать при создании фрески.;;;;;;;;;x;;;;;;
+EKTribunal27OptA;Мои средства ограниченны. Используйте дешевые, базовые краски.;;;;;;;;;x;;;;;;
+EKTribunal27OptB;Давайте используем что-нибудь красивое.;;;;;;;;;x;;;;;;
+EKTribunal27OptC;Я хочу краску из золота и измельченных драгоценных камней !;;;;;;;;;x;;;;;;
+EKTribunal29;Фреска почти закончена. Есть несколько деталей, которые нужно проработать, в частности, лицо [FromFromFrom.Offmap.Ruler.GetFirstName]. Уважаемый мастер-художник уловил суть нашего проекта и вызвался завершить фреску...За определенную плату.;;;;;;;;;x;;;;;;
+EKTribunal29OptA;Нет, я не думаю, что вы это сделаете.;;;;;;;;;x;;;;;;
+EKTribunal29OptB;Конечно! Ваша помощь будет весьма кстати.;;;;;;;;;x;;;;;;
+EKTribunal29OptC;Я сам(а) являюсь мастером-художником. Я разберусь с этим!;;;;;;;;;x;;;;;;
+EKTribunal30A1;Наконец-то фреска завершена! Церемония открытия, кажется, идет хорошо, хотя гости отмечают, что изображение Леди Альмалексии довольно обыденное. Тем не менее, представитель, присланный Айем, заверяет, что мой жест благочестия не будет забыт.;;;;;;;;;x;;;;;;
+EKTribunal30A2;Наконец-то фреска завершена! На церемонии открытия, фреска Леди Алмалексии была показана под аплодисменты - гости согласны с тем, что получившийся продукт - прекрасное изображение Матери Морровинда. Довольный представитель, присланный Айем, сообщает мне, что это произведение искусства принесло мне определенное признание.;;;;;;;;;x;;;;;;
+EKTribunal30A3;"Наконец-то фреска завершена! Во время церемонии открытия, зрители отреагировали на фреску Леди Альмалексии бурными аплодисментами. "Внушает благоговение" - это одно из многих хвалебных слов, коими описывают это произведение искусства. Представитель, отправленный Айем, очень впечатлен и объяснил, что мое "образцовое изображение" Матери Морровинд было бы достойно показа в её собственном храме!";;;;;;;;;x;;;;;;
+EKTribunal30B1;Наконец-то фреска завершена! Церемония открытия, кажется, идет хорошо, хотя гости отмечают, что изображение Сота Сила довольно обыденное. Тем не менее, представитель, присланный Сехтом, заверяет, что мой жест благочестия не будет забыт.;;;;;;;;;x;;;;;;
+EKTribunal30B2;Наконец-то фреска завершена! На церемонии открытия, фреска Сота Сила была показана под аплодисменты - гости согласны с тем, что получившийся продукт - прекрасное изображение Мага-Лорда. Довольный представитель, присланный Сехтом, сообщает мне, что это произведение искусства принесло мне определенное признание.;;;;;;;;;x;;;;;;
+EKTribunal30B3;"Наконец-то фреска завершена! Во время церемонии открытия, зрители отреагировали на фреску Сота Сила бурными аплодисментами."Внушает благоговение" - это одно из многих хвалебных слов, коими описывают это произведение искусства. Представитель, отправленный Сехтом, очень впечатлен и объяснил, что мое "образцовое изображение" Мага-Лорда было бы достойно показа в самом Заводной Городе!";;;;;;;;;x;;;;;;
+EKTribunal30C1;Наконец-то фреска завершена! Церемония открытия, кажется, идет хорошо, хотя гости отмечают, что изображение Лорда Вивека довольно обыденное. Тем не менее, представитель, присланный Вехком, заверяет, что мой жест благочестия не будет забыт.;;;;;;;;;x;;;;;;
+EKTribunal30C2;Наконец-то фреска завершена! На церемонии открытия, фреска Лорда Вивека была показана под аплодисменты - гости согласны с тем, что получившийся продукт - прекрасное изображение Воина-Поэта. Довольный представитель, присланный Вехком, сообщает мне, что это произведение искусства принесло мне определенное признание.;;;;;;;;;x;;;;;;
+EKTribunal30C3;"Наконец-то фреска завершена! Во время церемонии открытия, зрители отреагировали на фреску Лорда Вивека бурными аплодисментами. "Внушает благоговение" - это одно из многих хвалебных слов, коими описывают это произведение искусства. Представитель, отправленный Вехком, очень впечатлен и объяснил, что мое "образцовое изображение" Воина-Поэта было бы достойно показа в его собственном дворце!";;;;;;;;;x;;;;;;
+EKTribunal30Accept;Я стою рядом с Храмом!;;;;;;;;;x;;;;;;
+EKTribunal50;"На рассвете стражники заходят в мою камеру, связывают меня и приводят на плтатформу снаружи, перед собравшейся толпой, которая освистывает моё появление. [From.GetBestName] заявляет, что меня будут судить за ересь, направленную против Храма Трибунала. Судебное разбирательство было недолгим, разные свидетели вызваны, чтобы дать показания по моим предполагаемым преступлениям. В конце концов, [From.GetFirstName] мрачно смотрит на меня и достает оружие. "Вы, [Root.GetFirstName] признаны виновными по всем пунктам обвинения и приговариваетесь к смертной казни! Но я вспоминаю акты милосердия, свершаемые [From.Offmap.Ruler.GetFirstName] и вдохновляюсь ими. Вы не умрете сегодня, [Root.GetFirstName]! Помните, что вас пощадил пример [From.Offmap.Ruler.GetFirstName] !" Меня немедленно освобождают, и уводят прочь от уже ликующей толпы.";;;;;;;;;x;;;;;;
+EKTribunal50Accept;По крайней мере, я всё ещё жив(а)...;;;;;;;;;x;;;;;;
+EKTribunal52;Утром я председательствовал в суде над [From.GetBestName] которого обвиняют в еретических действиях против Храма Трибунала. Появляется ряд свидетелей, каждый из которых дает показания против [From.GetFirstName] в очень краткой форме. В конце концов, [From.GetFirstName] был осужден, и вынесенный ему приговор - смерть. Но я объявляю толпе, что милосердный характер [FromFrom.Offmap.Ruler.GetFirstName] вдохновил меня, и подражая великодушному поведению нашего члена Трибунала, я освобождаю [From.GetFirstName] под громкие аплодисменты.;;;;;;;;;x;;;;;;
+EKTribunal52Accept;Помните пример [FromFrom.Offmap.Ruler.GetFirstName] !;;;;;;;;;x;;;;;;
+EKTribunal302;Три благословения, [Root.GetFirstName].\n\nЯ выслушал вашу просьбу и лично помогу нашим людям. Я сделаю это быстро, с предельной решимостью, вы и ваш народ больше не будете беспокоиться.\n\nПодпись, [From.GetBestName];;;;;;;;;x;;;;;;
+EKTribunal302Accept;Чудесные новости!;;;;;;;;;x;;;;;;
+EKTribunal305Title;[tribune_peacemaker.GetFirstName] Приключение;;;;;;;;;x;;;;;;
+EKTribunal305;Бедствия, угрожающие моему народу, были ликвидированы, казалось бы, за одну ночь. Подтверждено, что [tribune_peacemaker.GetFirstName] путешествовал(а) по земле, убивая все, что угрожало моим людям.;;;;;;;;;x;;;;;;
+EKTribunal305Accept;Как удачно!;;;;;;;;;x;;;;;;
+EKTribunal310Title;Oрдинаторы прибыли!;;;;;;;;;x;;;;;;
+EKTribunal310;Мои усилия по оказанию помощи Ординаторам увенчались успехом. Эскадрилья, принадлежащая Ордену Войны прибыла в [Root.Capital.GetName] с намерением выследить диверсантов внутри королевтсва. Они также помогут всем вассалам, присягнувшим в верности Храму;;;;;;;;;x;;;;;;
+EKTribunal310Accept;Ересь будет устранена!;;;;;;;;;x;;;;;;
+EKTribunal310Clearance;Ординаторы рассеяны по всему королевству...;;;;;;;;;x;;;;;;
+EKTribunal311Title;Oрдинаторы прибыли!;;;;;;;;;x;;;;;;
+EKTribunal311;Ординаторы изначально запросили [From.GetBestName], прибывшего сегодня ко двору. Они ищут врагов Храма с целью содействия религиозному обращению и подавления религиозных волнений.;;;;;;;;;x;;;;;;
+EKTribunal311Accept;Интересно...;;;;;;;;;x;;;;;;
+EKTribunal311Clearance;Ординаторы рассеяны по всему королевству...;;;;;;;;;x;;;;;;
+EKTribunal325Title;Крестоносцы Храма;;;;;;;;;x;;;;;;
+EKTribunal325;Поскольку верующие Храма находятся под угрозой, [tribune_crusader.GetFirstName] собрал(а) армию, с целью изгнать неверных оккупантов. Благородные воины, закаленные в боях наемники, призванные даэдра, и наспех вооруженные паломники ответили на призыв, собравшись в [Root.Capital.GetName] и стиснув зубы, отправились в бой.;;;;;;;;;x;;;;;;
+EKTribunal325Accept;АЛЬТАДУН ДАНМЕРИ!;;;;;;;;;x;;;;;;
+EKTribunal340Title;Благодать Альмалексии;;;;;;;;;x;;;;;;
+EKTribunal340;"[almalexia_here.GetFirstName] внезапно появляется при моем дворе, с улыбкой приветствуя меня. "Я услышала твои мольбы и тронута ими", - говорит она. "Не бойся, дитя. Душевная болезнь может быть исцелена". Она прикасается ко мне и меня окружает магическая аура, которая вскоре рассеивается. Внезапно я чувствую невероятную ясность ума. Выслушав мои благодарения, Альмалексия прощается и уходит.";;;;;;;;;x;;;;;;
+EKTribunal340Accept;Мне больше не угрожает душевная болезнь!;;;;;;;;;x;;;;;;
+EKTribunal345Title;Зеркало Сота Сила;;;;;;;;;x;;;;;;
+EKTribunal345;"[sothasil_here.GetFirstName] появляется передо мной, как будто из ниоткуда. "Ты просил могущества",- замечает Чародей. "Это зеркало - то, что ищешь". Он накладывает на меня заклинание и кивает. "Это зеркало убережет тебя от любых нападений". Я благодарю его, и Сота Сил исчезает в мгновение ока.";;;;;;;;;x;;;;;;
+EKTribunal345Accept;Я чувствую великую силу, сокрытую внутри меня!;;;;;;;;;x;;;;;;
+EKTribunal350Title;Прикосновение Вивека;;;;;;;;;x;;;;;;
+EKTribunal350;"[vivec_here.GetFirstName] прибыл к моему двору. "Я вижу, что ты болен, [Root.GetFirstName]. Тебе не обязательно страдать или умирать. Уважай своих врагов, а тем более друзей, и можешь считать себя и моим другом". Вивек протягивает обе руки и касается на мгновение моего плеча. Сквозь меня струится магия, и я чувствую, что болезнь уходит! Он опускает руки и улыбается. Мы прощаемся друг с другом, после чего Поэт уходит.";;;;;;;;;x;;;;;;
+EKTribunal350Accept;Я чувствую себя невероятно!;;;;;;;;;x;;;;;;
+EKTribunal350Tooltip;Все заболевания [Root.GetBestName] будут исцелены.;;;;;;;;;x;;;;;;
+Tribunal305Clearance;Все провинциальные катастрофы в ваших владениях будут удалены.;;;;;;;;;x;;;;;;
+EKThras101;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \n\nМудрое, Почтенное, Неукротимое Высокое Величество [From.Offmap.Ruler.GetTitledName] услышал вашу просьбу, и самым удивительным образом решил избавить Вас и Ваше королевство от полного уничтожения. Служите нашему Высокому Величеству [From.Offmap.Ruler.GetTitledName] с величайшем уважением и почтением, и [From.Offmap.Ruler.GetSheHe] может посчитать нужным помочь Вам, если вам понадобится помощь. \nС уважением, \n[From.GetTitledName];;;;;;;;;x;;;;;;
+EKThras101OptA;Пусть наше соглашение будет взаимовыгодным...;;;;;;;;;x;;;;;;
+EKThras111;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \n\nМудрое, Почтенное, Неукротимое Высокое Величество [From.Offmap.Ruler.GetTitledName]  услышал вашу просьбу, и самым удивительным образом решил избавить Вас и Ваше королевство от полного уничтожения. Служите нашему Высокому Величеству [From.Offmap.Ruler.GetTitledName] с величайшим уважением и почтением, и [From.Offmap.Ruler.GetSheHe] может посчитать нужным помочь Вам, если вам понадобится помощь. \nС уважением, \n[From.GetTitledName];;;;;;;;;x;;;;;;
+EKThras111OptA;Пусть наше соглашение будет взаимовыгодным...;;;;;;;;;x;;;;;;
+EKThras301;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nБезупречно блестящее Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Посланник по имени [ek_sload_new_courtier.GetFirstName] отправлен в [From.Capital.GetName] и начнет служить Вам немедленно. \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras305;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nБезупречно блестящее Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Адмирал по имени [ek_sload_new_courtier.GetFirstName] был отправлен в [From.Capital.GetName] и начнет служить Вам немедленно \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras309;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nБезупречно блестящее Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Ремесленник по имени [ek_sload_new_courtier.GetFirstName] был послан в [From.Capital.GetName] и начнет служить вам немедленно. \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras313;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nБезупречно блестящее Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Шпион по имени [ek_sload_new_courtier.GetFirstName] был послан в [From.Capital.GetName] и начнет служить Вам немедленно. \n\nС уважением, \n[FromFrom.GetTitledName]; ;;;;;;;;x;;;;;;
+EKThras317;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nБезупречно блестящее Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Чародей по имени [ek_sload_new_courtier.GetFirstName] был послан в [From.Capital.GetName] и начнет служить Вам немедленно. \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras301OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras305OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras309OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras313OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras317OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras351;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nМудрое и терпеливое Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Интервенционное подразделение было послано в [From.Capital.GetName] и будет крушить ваших врагов. \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras351OptA;Отлично.;;;;;;;;;x;;;;;;
+EKThras356;К [GetFromRootInsult] [Root.GetTitledFirstNameWithNick], \nМудрое и терпеливое Высокое Величество [FromFrom.Offmap.Ruler.GetTitledName] было уведомлено о Вашей просьбе и любезно принимает Ваше предложение. Экспедиционные силы были посланы в [From.Capital.GetName] и будут крушить Ваших врагов. \n\nС уважением, \n[FromFrom.GetTitledName];;;;;;;;;x;;;;;;
+EKThras356OptA;Отлично.;;;;;;;;;x;;;;;;
+EKOffmapInvasion10;Произошло нечто ужасное. Это началось на моих глазах: даэдра один за другим стали исчезать, словно их никогда и не было. Войско таяло, пока от него не осталось даже праха.;;;;;;;;;;;;;x;;
+EKOffmapInvasion10DAlt;По всему миру поступают сообщения об исчезновении даэдрических орд. Мы уже несколько дней не подвергались серьезной атаке со стороны сил вторгшегося принца, и все их врата Обливиона, похоже, исчезли. Похоже, вторжение закончилось. Мундус снова в безопасности.;;;;;;;;;x
+EKOffmapInvasion10Accept;Это не должно было произойти!;;;;;;;;;;;;;x;;
+EKOffmapInvasion10Alt;Мир, на какое-то время...;;;;;;;;;x
+EKOFFMAPINVASION10ALT_CT;Даэдрические Орды §Yисчезнут§!, и вторгшийся принц будет сильно ослаблен на протяжении десятилетий...;;;;;;;;;x
+EKOffmapInvasion40A;Спокойная ночная темнота, мой сон, прерывается тревожным видением - врата Обливиона исторгают полчища даэдра и мир медленно погружается во тьму. Не в силах осмыслить это, я громко кричу, закрывая горящими руками лицо… я просыпаюсь в поту.;;;;;;;;;;;;;x;;
+EKOffmapInvasion40B;"Спокойная ночная темнота, мой сон, прерывается тревожным видением - врата Обливиона исторгают полчища даэдра и мир медленно погружается во тьму. Я не в силах осмыслить это, но в мой разум проникает незнакомый Голос. Он зовёт меня, призывает отправится на бой со злом. Это продолжается до тех пор, пока охранник, страж моей темницы, не будит меня. Он говорит: Твой выкуп оплачен. Можешь идти.";;;;;;;;;;;;;x;;
+EKOffmapInvasion40Accept;Мне нужен глоток свежего воздуха!... ;;;;;;;;;;;;;x;;
+EKOffmapInvasion55;Стоит мне выйти наружу, я натыкаюсь на группу крестьян, с безумным воплем бегущую мне навстречу. За их спинами я вижу скорченные морды Даэдра! Обнажив оружие, я устремляюсь наперерез демонам, в попытке остановить их.;;;;;;;;;;;;;x;;
+EKOffmapInvasion55Accept;Сегодня хороший день для смерти!;;;;;;;;;;;;;x;;
+EKOffmapInvasion57;Мои соглядаи доложили - самозванный герой [From.GetBestName] мёрт! Он погиб от рук моих воинов.;;;;;;;;;;;;;x;;
+EKOffmapInvasion57Accept;Должен остаться только один.;;;;;;;;;;;;;x;;
+EKOffmapInvasion58;Даэдра окружают меня, нанося мне тяжёлые раны. Но моя рука тверда и я убиваю каждую тварь, что попадается мне на глаза. После победы в моей голове вновь возникает Голос…;;;;;;;;;;;;;x;;
+EKOffmapInvasion58Accept;Кто ты?!... Покажись!;;;;;;;;;;;;;x;;
+EKOffmapInvasion59;Подлые Даэдра окружают меня, но численность не даёт им преимуществ. Я перерезал их всех как свиней. После битвы в моей голове вновь возникает Голос…;;;;;;;;;;;;;x;;
+EKOffmapInvasion59Accept;Кто ты?!... Покажись!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc1;Впечатляет. Весьма впечатляет. Возможно ты тот, кого я искала столь долго... и, возможно, я могу предложить тебе что-то, что ищешь ты. Азура, эта показушная и самоотверженная дура, верит, что её Избранный способен завоевать Нирн. Она игнорирует меня и мою власть, за что, естественно, должна поплатится. Я, Ноктюрнал, дарую тебе свою благосклонность, а взамен ты УНИЧТОЖИШЬ её презренного Избранного. Теперь, следуя моим советам, ты отправишься в путешествие - в Лунную Тень - где собственными руками раздавишь её чрезмерно раздувшееся тщеславие.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc2;Ого! Где ТЫ был всю мою предыдущую жизнь? Пожалуй это спорный вопрос, бремя моего бессмертного постоянство. Пораскинь мозгами… нет! Ты что, собрался сделать это буквально? Это приведёт к мучительной СМЕРТИ, если ты вскроешь это… Нет. Перейдём к введению, сразу - я Шеогорат, Принц Безумия, кронциркулей, сыра и многого другого. Азура ВСЕГДА пыталась выставить себя более важной, чем она есть на самом деле. Теперь она считает ВАЖНЫМ помочь многим из вас умереть. Смерть это то, что вы, смертные, привыкли делать, верно? Я думаю, стоит вмешаться в этот удивительный процесс! Иди, следуя за моей волей, убей её Избранного, а затем предложи Азуре чаю с печеньем... которым она ПОДАВИТСЯ, это неизменно. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc3;"Ты храбро сражался, куда храбрее тех, кого вы, смертные, высокомерно зовёте воинами". Эти трусливые псы, одетые в железки и бегущие прочь от вида кухонных ножей.  Возможно, ты достоин стать моим смертным слугой, Избранным. Боэтия отправляет воинство из своего Плана на завоевание Мундуса... твоего дома. Настал мой час. Я, Малакат, ударю по ней... или нему со всей возможной поспешностью. Это будет моим возмездием. Слушай моих советов, и тогда ты поразишь его Избранного и уничтожишь её воинство. Лишь совершив это, тебе откроется дорога в Долю Воздаяния, где Боэтию покарает твоё могучее оружие... ведомое моей силой. ";;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc4;Они оказались слабей. Дрожащие и слабые в сравнении с твоей разящей рукой. Да, ты будешь служить мне! Я, Молаг Бал, Принц Порабощения, использую твоё тело и душу. Эта... этот подколодный змей, Боэтия, посмело посягнуть на владычество во всём мире смертных, используя свою слабую, ничтожную армию. Она ошиблась. Ты, смертный, пронизанный вкусом моей силы, сотрёшь её Избранного в порошок. Затем ты отправишься в её владения и заставишь СКЛОНИТЬ предо мною колени. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc5;Привет тебе, друг-охотник! В твоей груди бьётся  сердце медведя... Это удача, что я решил связаться с тобой, смертный, дабы заключить союз. Ибо я - Хирсин, владыка Охоты. Мой извечный враг Клавикус Вайл выпустил свои хищные воинства в Мундус, но я надеюсь превратить хищника в жертву. Будь моей гончей, перегрызи горло его Избранному, и затем охота начнётся в его собственном Плане. Что ты ответишь, охотник?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc6;"Ты храбро сражался, куда храбрее тех, кого вы, смертные, высокомерно зовёте воинами". Эти трусливые псы, одетые в железки и бегущие прочь от вида кухонных ножей.  Возможно, ты достоить стать моим смертным слугой, Избранным... Чщедушный торгаш, Клавикус Вайл, посмел выпустить своих ряженых ростовщиков на просторы Нирна. Его потуги ничтожны. Я, Малакат, готов нанести ему смертельный удар. Это будет правосудием, смертный. Встань под мои знамёна, вместе мы сразим его Избранного и вторгнемся в жалкое царство Клавикуса. Ты со мной?";;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc7;"Прости, но я вынужден развеять радость твоего торжества… смертный. Но в замен я предлагаю достойную награду. Разве может быть иначе, когда ты говоришь с Сангвином, Принцом Дебоша? Ты идеально подходишь для задачи, что я перед собою ставлю. Ты слышал о Хермеусе Море, этом скучном кальмаре? Недавно ему наскучили его же собственные наискучнейшие книжки, и он решил отправится в Нирн, чтобы как следует повеселится. Неожиданное поражение сделало бы его жизнь менее монотонной, если ты понимаешь, о чём я. Если ты согласен поучаствовать в моей пирушке"...";;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc8;Мы встретились вновь. Не пугайся, смертное создание, ибо мы встречаемся каждый раз, когда ты закрываешь глаза и погружаешься в сон. Я - Вермина. Я пришла просить тебя о помощи. Одержимый знаниями Хермеус Мора оторвался от своих утомительных исследований, и решил завоевать мир. Это... неприятный поворот событий. Если бы ты, наделённый моим благословением, смог бы уничтожить его войско, его Избранного и проникнуть в Апокриф... сделай это. Убей его!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc9;Добрый день, смертное создание! Для тебя появилась работка. Давай пропустим любезности и перейдём к делу - я, Клавикус Вайл, нуждаюсь в твоих услугах. Хирсин вылез из своей норы и набросился на Тамриэль словно голодный волк. Я хочу нанять тебя, дабы ты... приподал урок старому животноводу. Уничтожь его Избранного, разгроми его армии и отправляйся в Охотничьи Угодья. Стукни пса - нет, не моего! - по мокрому носу.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc10;Здравствуй, смертный. Я Намира, и ты можешь мне помочь. В природе всё закономерно - могучий охотник падёт от руки своей жертвы, великолепное тело превращается в прах, изъеденное червями. Гниль побеждает медветя. Так ты должен победить Хирсина, стаю его цепных псов и Избранного, что ведёт их на Охоту. Обломи рога этому оленю, смертый, и получишь награду!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc11;Твоя жестокость  исключительна. Возможно, ты станешь одним из миох Избранных? Я Боэтия. Обидчивый и упрямый Малакат считает, что он может пережить утраченную славу завоеванием смертного царства. Какая глупость! Я раздавлю его своей пятой. Я укреплю твой дух и тело, и ты убьёшь Избранника Малаката. Как только это будет сделано, отправляйся в Зольник. дабы последний удар, который напомнит Малакату о смирении и ещё раз подтвердит моё превосходство.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc12;Добрый день, смертное создание! Для тебя появилась работка. Давай пропустим любезности и перейдём к делу - я, Клавикус Вайл, нуждаюсь в твоих услугах. Малакат - любитель напудренных пеплом клятв - выбрался на свет Магнуса и желает захватить план смертных. Он не любит сделок... считает, что всё можно решить силой. Какая досадная ошибка! Уничтожь его Избранного, разгроми его армии и отправляйся в Зольник, дабы вернуть Малаката к его излюбленным дымоходам. Пусть прочистит их, а заодно и свои мозги.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc13;"Прости, но я вынужден развеять радость твоего торжества… смертный. Но в замен я предлагаю достойную награду. Разве может быть иначе, когда ты говоришь с Сангвином, Принцом Дебоша? Ты идеально подходишь для задачи, что я перед собою ставлю. Ты знаешь о Мехрунезе Дагоне? Этот четырёхрукий болван, признаюсь, умеет веселится, но в своей исключительной жажде крови он может уничтожить весь мир! Мне не по карману подобный праздник. Надо уменьшить его аппетиты, понимаешь, к чему я клоню?. Если ты согласен поучаствовать в моей пирушке"...";;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc14;Ого! Где ТЫ был всю мою предыдущую жизнь? Пожалуй это спорный вопрос, бремя моего бессмертного постоянство. Пораскинь мозгами… нет! Ты что, собрался сделать это буквально? Это приведёт к мучительной СМЕРТИ, если ты вскроешь это… Нет. Перейдём к введению, сразу - я Шеогорат, Принц Безумия, кронциркулей, сыра и многого другого. Мерунес Дагон снова обезумел и жаждет уничтожить всё живое! Как забавно! Однако, множество моих смертных слуг пострадают и не смогут сходить с ума во славу... Меня. Мехрунез Дагон просто убьёт их. Смерть это то, что вы, смертные, привыкли делать, верно? Я думаю, стоит вмешаться в этот удивительный процесс! Иди, следуя за моей волей, убей его Избранного, а затем предложи Дагону  чаю с печеньем... которым он ПОДАВИТСЯ, это неизменно.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc15;Впечатляет. Весьма впечатляет. Возможно ты тот, кого я искала столь долго... и, возможно, я могу предложить тебе что-то, что ищешь ты. Мефала наполнила своей ложью царство Мундуса и намеревается опутать всех смертных сетями обмана. Это то, чему я, Госпожа Удачи, жажду противостоять. Я, Ноктюрнал, дарую тебе свою благосклонность, а взамен ты УНИЧТОЖИШЬ её презренного Избранного. Теперь, следуя моим советам, ты отправишься в путешествие - в Спиральный Моток - где собственными руками разрубишь узел её непристойных заговоров!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc16;Когда Младшие Даэдра угрожают Аурбиус, их помещают под моё владычество - в Ямы. Я Периайт, владыка тюрем Обливиона, блюститель порядка. Мефала вмешивается в естественный круговорот событий, вносит дисбаланс в Мундус. Это недопустимо. Её фанатичные последователи должны быть истреблены, а их предводитель Избранный - обезглавлен. Затем ты отправишься в Спиральный Моток, чтобы  лишить Мефалу её излюбленных шерстяных клубков. Справишься?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc17;Они оказались слабей. Дрожащие и слабые в сравнении с твоей разящей рукой. Да, ты будешь служить мне! Я, Молаг Бал, Принц Порабощения, использую твоё тело и душу. Меридия, наша принцесса-звёздочка, решила взятся за мир Смертных и обустроить там райский сад справедливого правления. Она ошиблась. Ты, смертный, пронизанный вкусом моей силы, сотрёшь её Избранного в порошок. Затем ты отправишься в её владения и заставишь СКЛОНИТЬ предо мною колени. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc18;Здравствуй, смертный. Я Намира, и ты можешь мне помочь. Свет Меридии пугает моих поданных - червей, грызунов и падальщиков. Она жаждет истребить всю нежить, каждого некроманта и даже посягнула на священный обычай каннибализма. Эта прелесть должна быть остановлена. Убеё её Избранного, изгони её армии прочь а затем навести особу в Цветных Комнатах. Преподай её урок тьмы.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc19;Твоя жестокость  исключительна. Возможно, ты станешь одним из миох Избранных? Я Боэтия. Любитель жёсткого подчинения, Молаг Бал, достал свои ржавые цепи и снова жаждет заполучить власть над Тамриэлем. Если это случится, ты станешь рабом очень неприветливого и жестокого хозяина. Куда более жестокого, чем ты сам. Ты - настоящий воин, встать на пути бесчисленных полчих и срази их полководца, а затем - штурмуй Хладную Гавань, обитель рогатого мерзавца. Тебе ведь это по силам?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc20;Я приветствую тебя, смертный. Моё имя Меридия. Силы Молага Бала прорвались сквозь завесу, разделяющую наши миры и разоряют Мундус. Ваш мир погружается в анархию и свет жизни тает под гнётом тирании. Я не могу стоять в стороне. Прими моё благословение и выступи против тирана, порабощающего Нирн! Защити свой родной край! Разгроми армии владыка Порабощения и ворвись в Хладную Гавань. Сокруши Молага Бала и его омерзительных приспешников.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc21;Привет тебе, друг-охотник! В твоей груди бьётся  сердце медведя... Это удача, что я решил связаться с тобой, смертный, дабы заключить союз. Ибо я - Хирсин, владыка Охоты. Намира, повелительница червей, выпустила своё гнусное войско в Мундус, в жажде превратить твой мир в гниющий кусок бесполезной почвы. Тем самым, она, мелкий падальщик, бросила вызов высшему хищнику, то есть мне, Хирсину. Если ты отважишься встать под мои знамёна, пойдёшь в бой под звуки моего охотничьего рога и сокрушишь воинства Намиры, я дарую тебе невероятную награду. Что ты ответишь, охотник?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc22;Я приветствую тебя, смертный. Моё имя Меридия. Воинства Намиры отправились в мир смертных, они выходят из Врат Обливиона, чая разрушить все прекрасные творения природы, обратить реки в болота, леса - в гниющие, зелёные струпья. Она разрушает Мундус. Защити свой родной край! Разгроми армии Гниющей Госпожи и ворвись в Рассеивающую Пустоту. Сокруши Намиру и её омерзительных приспешников.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc23;Салют, смертный. Я вижу в тебе большой потенциал. Я, Азура, Принцесса Сумерек и Рассвета, хочу развеять тень, нависшую над Нирном. Ноктурнал отправила армию, чтобы завладеть  миром, но она переоценивает свои силы. Я хочу послать тебя - преисполненного моим благословением - одолеть её Избранного. Положи конец действиям ошибшейся пешки и тогда я смогу отправить тебя в Вечнотень. Если ты вызовешься противостоять Ноктюрнал и победишь её, мир снова будет спасён.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc24;Cалют тебе, маленький смертный! Ты знаешь меня под именем Мефала. Твоя жажда... насилия может оказаться полезной для моего дела. Ноктюрнал, самая осторожная и незаметная среди нас всех, вдруг объявила войну Нирну и отправила неисчислимые орды прислужников на захват смертного плана. Ирония?  Её маленькая глупость приводит меня в ярость. Окутанный сетями моей славы, ты отправишь Ноктюрнал туда, откуда она вылезла. Сперва, убей её Избранного и уничтожь её войско. Затем отправляйся в Вечнотень, где ты сможешь лично сразится с Ноктюрнал. Ты пойдёшь на такой шаг, смертный?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc25;Cалют тебе, маленький смертный! Ты знаешь меня под именем Мефала. Твоя жажда... насилия может оказаться полезной для моего дела. Периайт носит маску удовлетворённости, делая вид, что  озабочен сохранением традиционной иерархии и статуса-кво... но вдруг, он впадает в лицемерие, о котором  будет сожалеть. Окутанный сетями моей славы, ты отправишь Периайта туда, откуда он вылез. Сперва, убей его Избранного и уничтожь его войско. Затем отправляйся в Ямы чтобы лично сразится с нашим яростным драконом. Он не ожидает такого исхода.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc26;Мы встретились вновь. Не пугайся, смертное создание, ибо мы встречаемся каждый раз, когда ты закрываешь глаза и погружаешься в сон. Я - Вермина. Я пришла просить тебя о помощи. Периайт мыслит себя тем, кто правит истиной и равновесием, и стремится установить этот порядок в смертном мире. Его этика - это выдумки и игра воображения, я же создам бодрствующий кошмар, который разрушит его осязаемую реальность. Я направлю тебя на этом пути крови и насилия. Прорвавшись сквозь затяжной сон Периайта, уничтожив его стражу, ты попадёшь в Ямы, его обител, где дашь дракону решающий бой.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc27;Ты стоишь передо мной, как пешка на игральной доске стоит перед своим господином. Я - Хермеус Мора, ведаю всё бывшее и грядущее. Силы Сангвина вторглись в царство Мундуса, они несут опустошённое будущее, полное гедонизма и разврата, но лишённое сокровенных знаний. Это помешает моим планам. Срази главаря его воинств, разгони пьянствующие орды даэдра, а затем вторглись в вотчину Сангвина, чтобы показать этому мальчишке, что знание - сила.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc28;Ты. Смертный. Слушай меня. Этот бесхребетный развратник - Сангвин - вздумал играть с огнём и собрал войско для захвата смертного Плана. Он думает, что может сделать твою землю обителью вечного разгула. Он думает, что понимает что-то в силе. Для меня, Мехрунеза Дагона, это непростительное оскорбление. Я отвечаю на такие выпадки только кровью. Война и разрушение - единственный достойный конец. Единственный праздник, достойный быть отпразнованным - беспорядочный разгул битвы, славы, крови и разрушения, - война! - который я предлагаю тебе, своему жалкому слуге,  развязать! Выполни эту задачу и обрушь свою мощь на царство Сангвина. Задуши эту мерзкую свинью, крича моё имя.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc29;Салют, смертный. Я вижу в тебе большой потенциал. Я, Азура, Принцесса Сумерек и Рассвета, хочу развеять безумие, нависшее над Нирном. Шеогорат жаждет погрузить мир смертных в пучину безумия, и если его вторжение закончится успехом, этого не миновать. Я хочу послать тебя - наполненного моей даэдрической силой - чтобы противостоять его полоумным ордам и их свихнувшемуся повелителю-Избранному. Победив, ты отправишься на Дрожащие Острова, чтобы заглянуть безумию в лицу. Осилишь такую задачу?;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc30;Ты. Смертный. Слушай меня. Шеогорат - это болтливый шут, не заслуживающий уважения, и теперь он возомнил, что  сможет победить  смертных и погрузить Мундус в  безумие. Это оскорбление, которое я, Мехрунез Дагон, не могу простить! Ему не хватает амбиций, а военное искусство требует острого ума - редкий дар у безумца! Теперь он столкнётся с моим могуществом, и я предлагаю тебе, своему жалкому слуге, нести знамя Дагона! Уничтожь войско слабоумных дебилов, вместе с их слюнявым предводителем, а затем отправляйся в Дрожащие Острова. Пусть план Шеогората затрясётся от страха!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc31;Ты стоишь передо мной, как пешка на игральной доске стоит перед своим господином. Я - Хермеус Мора, ведаю всё бывшее и грядущее. Вермина изволила напасть на  смертный мир,  ее кошмары станут реальностью. Мир бесконечного сна и кошмаров - это мир, в котором всякая наука погибнет. Это помешает моим планам. Разбей её войско, уничтожить её Избранного, а затемь отправляйся в Трясину, чтобы остановить этот расползающийся по миру кошмар.;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Desc32;Когда Младшие Даэдра угрожают Аурбиус, их помещают под моё владычество - в Ямы. Я Периайт, владыка тюрем Обливиона, блюститель порядка.  Самому Обливиону угрожает дисбаланс, который необходимо недопустить. Вермина выходит за пределы мечтаний и теперь пытается захватить Нирн, дабы сделать её вотчиной своих кошмаров. С моей помощью ты поймёшь, как это исправить. Уничтожь её слабовольного Избранного - думаю, тебе это будет по силам - а затем я помогу тебе отправится в Трясину, где обитает Прядильщица Пышных Одежд. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Accept;Я принимаю это предложение. [FromFromFrom.GetBestName] падёт от моей руки!;;;;;;;;;;;;;x;;
+EKOffmapInvasion60Decline;Я убью [FromFromFrom.GetBestName], но мне не нужна твоя помощь, Даэдра!;;;;;;;;;;;;;x;;
+EKOffmapInvasion70;Без предупреждения, [FromFrom.GetFirstName] приближается ко мне [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nБой разгорается всё сильней, я думаю, что у меня есть шанс... нет! Я ошеломлён шквальными ударами [FromFrom.GetFirstName]  и через мгновенье падаю на земь. Глаза застилает тьма...;;;;;;;;;;;;;x;;
+EKOffmapInvasion70Accept;Нет! Этот мир мой...;;;;;;;;;;;;;x;;
+EKOffmapInvasion71;Без предупреждения, [FromFrom.GetFirstName] приближается ко мне [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nИдёт нешуточная борьба и мне удается тяжело ранить [FromFrom.GetFirstName]. Когда я готов нанести смертельный удар, меня пронзает острая боль. Раны! Я падаю на землю, не в силах бороться дальше...;;;;;;;;;;;;;x;;
+EKOffmapInvasion71Accept;Нет! Этот мир мой…;;;;;;;;;;;;;x;;
+EKOffmapInvasion72;Вооруженный единственной целью, я выслеживаю [From.GetFirstName] и пробиваю себе путь сквозь окружающих лагерей Младших Даэдра, чтобы противостоять [From.GetHerHim].  [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nМоя решимость непоколебима, но мое тело не столь великолепено - я постепенно понимаю, что враг превосходит. Тяжёло раненый и быстро теряющий кровь, я наношу последний удар, которое оставляет на теле [From.GetFirstName] тяжёлую рану. Я делаю свой последний вздох.";;;;;;;;;;;;;x;;
+EKOffmapInvasion72Accept;Пусть другой герой закончит то, что я начал ...;;;;;;;;;;;;;x;;
+EKOffmapInvasion73;Вооруженный единственной целью, я выслеживаю [From.GetFirstName] и пробиваю себе путь сквозь окружающих лагерей Младших Даэдра, чтобы противостоять [From.GetHerHim].  [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nМоя решимость непоколебима, но мое тело не столь великолепено - я постепенно понимаю, что враг превосходит. Тяжёло раненый и быстро теряющий кровь, я наношу последний удар!... и он отбит! Я падаю на земь.";;;;;;;;;;;;;x;;
+EKOffmapInvasion73Accept;Моих сил… не хватило… Даэдра!... ;;;;;;;;;;;;;x;;
+EKOffmapInvasion75.hero;Вооруженный единственной целью, я выслеживаю [From.GetFirstName] и пробиваю себе путь сквозь окружающих лагерей Младших Даэдра, чтобы противостоять [From.GetHerHim].  [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nМоя решимость непоколебима, и чрезмерно самоуверенный [From.GetFirstName] совершает роковую ошибку, которую я использую, яростно разрубая [From.GetHerHim] напополам. С этой победой великая орда Даэдра [From.GetFirstName] исчезнет из Мундуса навсегда.";;;;;;;;;;;;;x;;
+EKOffmapInvasion75.other;Отчеты поступают со всех уголков нашего королевства. Маги и мистики сходятся в одном, однако детали расходятся. [Root.GetTitledName], вооружившись всей своей мощью - и по некоторым слухам, мощными даэдрическими артефактами - он противостоял Вестнику вторжения, [From.GetTitledName]! Сражение было хаотичным и, по-видимому, нарушило планы Вестника, вызвав несколько яростных вспышек энергии вокруг врат обливиона Даэдрического Принца в Нирне.\nНо в конце концов герой одержал верх, и [Root.GetFirstName] заявил о победе!!;;;;;;;;;x
+EKOffmapInvasion75Accept;Изыди, Даэдра! Этот мир не принадлежит тебе!;;;;;;;;;;;;;x;;
+EKOffmapInvasion76;Вооруженный единственной целью, я выслеживаю [From.GetFirstName] и пробиваю себе путь сквозь окружающих лагерей Младших Даэдра, чтобы противостоять [From.GetHerHim].  [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nМоя решимость непоколебима, но я полуаю множество ран. В тот миг, когда моё тело почти угасло, чрезмерно самоуверенный [From.GetFirstName] совершает роковую ошибку, которую я использую, яростно разрубая [From.GetHerHim] напополам. С этой победой великая орда Даэдра [From.GetFirstName] исчезнет из Мундуса навсегда.";;;;;;;;;;;;;x;;
+EKOffmapInvasion76Accept;Изыди, Даэдра! Этот мир не принадлежит тебе!;;;;;;;;;;;;;x;;
+EKOffmapInvasion77;Без предупреждения, [FromFrom.GetFirstName] приближается ко мне [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nИдёт нешуточная борьба и мне удается тяжело ранить [FromFrom.GetFirstName]. Когда я готовлюсь нанести смертельный удар, тело пронзает острая боль. Он меня ранил! В ярости я наношу десятки ударов по [From.GetHerHim]. Я кромсаю бездыханное тело и лишь услышав голоса подчинённых Даэдра понимаю - бой окончен.";;;;;;;;;;;;;x;;
+EKOffmapInvasion77Accept;Глупец! Этот мир МОЙ!;;;;;;;;;;;;;x;;
+EKOffmapInvasion78;Без предупреждения, [FromFrom.GetFirstName] приближается ко мне [Root.GetFirstName], это вторжение окончено! С твоей смертью войско будет разгромлено и отправится обратно в Обливион! Мы вдвоём обнажаем наше оружие и сражаемся за судьбу этого мира!\nИдёт нешуточная борьба и мне удается тяжело ранить [FromFrom.GetFirstName]. Когда я готовлюсь нанести смертельный удар, умирающий [From.GetFirstName] неожиданно контратакует, надеясь ранить меня под конец! Я ловко парирую эту атаку и отрубаю голову [From.GetHerHim]. Бой окончен.";;;;;;;;;;;;;x;;
+EKOffmapInvasion78Accept;Глупец! Этот мир МОЙ!;;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc1;"Молодец, смертный" - говорит мне Ноктюрнал - "Теперь, когда чемпион  убит, войско распадётся. Настало время ударить по Азуре. Она ослабла от неожиданной потери. Отправляйся в Лунную Тень!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc2;"Прекрасно! Просто великолепно!" - восклицает  Шеогорат -  "Много поколений смертных я не видел подобного кровопролития! Теперь, перейдём к следующему вопросу: у Азуры затряслись поджилки от всех неприятностей, которые ты причинил ей. Время паковать свой багаж и заплатить ей за этот визит в Мундус! Не забудь передать ей ПРИВЕТ!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc3;"Отличная работа, смертный" - говорит Малакат - "Я буду краток. Боэтия ослабла, но эта уязвимость мимолётна. Воспользуйся её слабостью, чтобы нанести удар! Встреться с ним лицом к лицу! Это твой единственный шанс.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc4;"Слабый противник, не чета тебе" - произнёс Молаг Бал - "Твой враг Боэтия теперь открыта для удара. Вторгнись в Долю Воздаяния и нанеси ему сокрушающий удар! Я, Молаг Бал, буду наблюдать за этой битвой";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc5;"Большая добыча, смертный!" - воскликнул Хирсин - "Ты воистину достойный охотник. Теперь, когда ты выследил и убил этого чемпиона, вторгнись в План Клавикуса Вайла. Жалкий любитель договоров падёт от твоей руки, хищник";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc6;"Отличная работа, смертный" - говорит Малакат - "Я буду краток. Клавикус Вайл ослаб, но эта уязвимость мимолётна. Воспользуйся его слабостью, чтобы нанести удар! Встреться с ним лицом к лицу! Это твой единственный шанс.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc7;"Браво, браво! Какое представление!" - Сангвин аплодирует вам - "Теперь скучнейший из Даэдра почувствовал боль, и не сможет восстановить свои силы. Некоторое время он будет крайне уязвим. Для любых возлияний. Отправляйся в Апокриф и намотай его щупальца на клинок.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc8;"Удовлетворительно, маленький смертный" - шепчет Вермина - "Но это не привело тебя к ожидаемой славе. Хермеусу Море нанесён ощутимый урон, и сейчас он как никогда уязвим. Твои грёзы сбудутся лишь тогда, когда Апокриф задрожит от кошмарной битвы.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc9;"Теперь, когда это случилось…" - сухо произносит Клавикус Вайл - "Ты отправишься прямо в Апокриф. Это скучное и безобидное место, но разозлившись, Хермеус Мора может представлять для тебя угрозу, даже уничтожить. Помни договор, который мы заключили и не бойся глазастого книгочея! Иди же!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc10;"Хорошо сработано, смертный" - вы слышите завывания Намиры - "Отправляйся по кровавому следу, прямо в Охотничьи Угодья. Хирсин попытается зализать свои раны. Нужно напасть, пока эта собака слаба. Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc11;"Твои враги долго не живут, смертный" - довольно говорит Боэтия - "Малакат крайне слаб, теперь, когда его войско разгромлено а Избранный уничтожен. Скорее, отправляйся в Зольник, где тебя ждёт финальное сражение! Не подведи меня.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc12;"Теперь, когда это случилось…" - сухо произносит Клавикус Вайл - "Ты отправишься прямо в Зольник. Это пустое и унылое место. Малакат ранен, но даже ослабшим он может представлять для тебя угрозу, даже уничтожить. Помни договор, который мы заключили и не бойся любителя обещаний! Иди же!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc13;"Браво, браво! Какое представление!" - Сангвин аплодирует вам - "Теперь - финальный акт представления. Мехрунез Дагон посрамлён, он слаб как военоначальник и теперь не представляет угрозы. Напади на него, прямо в его царстве. Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc14;"Прекрасно! Просто великолепно!" - восклицает голос Шеогората -  "Много поколений смертных я не видел подобного кровопролития! Теперь, перейдём к следующему вопросу: у Мехрунеза Дагона затряслись поджилки от всех неприятностей, которые ты причинил ему. Время паковать свой багаж и заплатить ему за этот визит в Мундус! Не забудь передать ПРИВЕТ!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc15;"Молодец, смертный" - говорит мне Ноктюрнал - "Теперь, когда чемпион  убит, войско распадётся. Настало время ударить по Мефале. Она ослабла от неожиданной потери. Отправляйся в Спиральный Моток!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc16;"Мы всё ближе к восстановлению баланса" - громогласно рычит Периайт, - "Отправляйся в Спиральный Моток, где проживает Мефала. Она ослабла и потеряла многих верных воинов. Твой удар - совершенное копьё порядка - уничтожит её злодейские замыслы.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc17;"Слабый противник, не чета тебе" - произнёс Молаг Бал - "Твой враг Меридия теперь открыта для удара. Вторгнись в Цветные Комнаты и нанеси ейсокрушающий удар! Я, Молаг Бал, буду наблюдать за этой битвой";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc18;"Хорошо сработано, смертный" - вы слышите завывания Намиры - "Отправляйся следом за огоньками, в Цветные Комнаты. Меридия попытается восстановить свои силы, но сейчас её свет слишком слаб. Нападай. Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc19;"Твои враги долго не живут, смертный" - довольно говорит Боэтия - "Молаг Бал крайне слаб, теперь, когда его войско разгромлено а Избранный уничтожен. Скорее, отправляйся в Хладную Гавань, где тебя ждёт финальное сражение! Не подведи меня.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc20;"Твой враг побеждён" - отмечает Меридия - "Как и это вторжение. Силы нашего врага тают. Тебе пора отправится в Хладную Гавань где Молаг Бал, израненный, ждёт встречи. Срази своего врага, спаси Мундус!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc21;"Большая добыча, смертный!" - воскликнул Хирсин - "Ты воистину достойный охотник. Теперь, когда ты выследил и убил этого чемпиона, вторгнись во владения Намиры. Пауки и черви, нищие и грязь попытаются остановить тебя. Но ты, тигр, не бойся богини грызунов. Атакуй!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc22;"Твой враг побеждён" - отмечает Меридия - "Как и это вторжение. Силы нашего врага тают. Тебе пора отправится в Рассеивающую Пустоту, где Намира, израненная, ждёт встречи. Срази своего врага, спаси Мундус!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc23;"Жизнь тирана окончена" - объявляет Азура - "Теперь я отведу тебя в Вечнотень, где ослабленная Ноктюрнал должна понести поражение. Преуспей в этом, смертный, ибо многие рассчитывают на тебя!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc24;"Быстрое убийство. Как чудесно" - шепчет Мефала - "Теперь, мой маленький паучок, ты отправишься в Вечнотень. Там царит Ноктюрнал. Сейчас норка ослабла и в её норе разброд. Самое время схватить её за хвост и уничтожить. Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc25;"Быстрое убийство. Как чудесно" - шепчет Мефала - "Теперь, мой маленький паучок, ты отправишься в Ямы. Там царит Периайт. Сейчас дракон ослаб и в его вонючем углу разброд. Самое время схватить его за хвост и уничтожить. Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc26;"Удовлетворительно, маленький смертный" - шепчет Вермина - "Но это не привело тебя к ожидаемой славе. Периайту нанесён ощутимый урон, и сейчас он как никогда уязвим. Твои грёзы сбудутся лишь тогда, когда Ямы задрожат от кошмарной битвы.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc27;"Удивительно, как повернулась битва" - шепчет Хермеус Мора - "Сангвин долго будет запивать горе. Поражение сделало его злее, но он ослаб, так сильно, что ты легко сможешь вторгнуться в его царства. Уничтожь обитель гедонизма, и эра разврата завершится. Я, Хермеус Мора, приказываю тебе";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc28;"Ещё один слабак мёртв" - Мехрунез Дагон смеётся, - "Сангвин потерпел сокрушительное поражение. От твоей руки, смертный, пали его пьяные орды. Иди! Атакуй его План! Разори земли винолюба и принеси мне головы его воинов! Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc29;"Жизнь тирана окончена" - объявляет Азура - "Теперь я отведу тебя на Дрожащие острова, где ослабленный Шеогорат должен понести поражение. Преуспей в этом, смертный, ибо многие рассчитывают на тебя!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc30;"Ещё один слабак мёртв" - Мехрунез Дагон смеётся, - "Шеогорат потерпел сокрушительное поражение. От твоей руки, смертный, пали его безумные орды. Иди! Атакуй его План! Разори Дрожащие Острова и принеси мне головы безумццев и художников! Вперёд!";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc31;"Удивительно, как повернулась битва" - шепчет Хермеус Мора - "Вермина и не снилось подобное. Поражение сделает её злее, но она ослабла, так сильно, что ты легко сможешь вторгнуться в Трясину. Развей её сновидения и террор кошмара завершится. Я, Хермеус Мора, приказываю тебе";;;;;;;;;;;;;x;;
+EKOffmapInvasion100Desc32;"Мы всё ближе к восстановлению баланса" - громогласно рычит Периайт, - "Отправляйся в Трясину, где проживает Вермина. Она ослабла и потеряла многих верных воинов. Твой удар - совершенное копьё порядка - уничтожит её злодейские замыслы.";;;;;;;;;;;;;x;;
+EKOffmapInvasion100B;С поражением [FromFrom.GetFirstName] [FromFrom.GetHerHis] орда была уничтожена и отправлена обратно в Обливион. Но чтобы по-настоящему остановить это вторжение - и любые будущие вторжения - Драконьи огни в Храме Единого должны быть возжены, при помощи Амулета Королей! Только тогда Кризис Обливиона завершится.;;;;;;;;;;;;;x;;
+EKOffmapInvasion100OptA;Ты делаешь шаг во Врата Обливиона…;;;;;;;;;;;;;x;;
+EKOffmapInvasion100OptB1;Мне должно возжечь Драконьи Огни!;;;;;;;;;;;;;x;;
+EKOffmapInvasion100OptB2;Мне должно найти Амулет Королей!;;;;;;;;;;;;;x;;
+EKOffmapInvasion102;Хотя вестник этого Даэдрического вторжения мертв, мир по-прежнему находится в серьезной опасности. Единственное истинное средство победить это - и пресечь любые будущие вторжения -  вожечь Драконьи огни в Храме Единого, используя Амулет Королей! Только тогда вторжение из Обливиона должно завершится. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion102OptA;Мне должно возжечь Драконьи Огни!;;;;;;;;;;;;;x;;
+EKOffmapInvasion102OptB;Мне должно найти Амулет Королей!;;;;;;;;;;;;;x;;
+EKOffmapInvasion105Title;Битва в Обливионе;;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc1;"Я обнаруживаю себя в дворце, полном роз, за окнами которого простирается прекрасный пейзаж. Передо мной стоит женщина в лёгкой тунике, окружённая искрящимся вихерм энергии. Она говорит: Сначала ты убиваешь моего Избранного, потом - уничтожаешь моё великое войско, посланное принести новую эпоху красоты и мудрости, порядка, недоступного понимаю смертных. Ты не только отвергаешь эти дары" она смотрит с печалью "Но и проникаешь в мой мир, дабы уничтожить меня? Довольно! Я прерву твою жизнь, зарвавшийся смертный, и остановлю тебя - здесь и сейчас! Во имя Луны!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc2;"Я обнаруживаю себя в скалистой, вулканической пустыне. Небо дышит грозой, а прямо передо мной, среди сверкающих молний, возвышается титанический воин, сжимающий в руках двухлезвийный топор. Он молвит мне Ты действительно верил, что я слаб, что тебе удастся одолеть меня? Глупец! Я - Боэтия, Князь Обмана, и ты попал в мою ловушку. Ты сражаешься в своем царстве, и в этом месте ты сделаешь свой последний вздох!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc3;"Я обнаруживаю себя посреди изумрудных холмов, на луге, полном сочной травы. Солнце мягко греет мою кожу. Передо мной странный рогатый человечек, а с ним - пёс, скалящий зубы. Человечек говорит мне:  Доброго здоровьица, дорогой гость! Я рад наконец-то встретить тебя лично! Ты считаешь себя великим воином? Ты пришёл в мой дом, разбил мои армии, и теперь жаждешь остановить моё разлагающее влияние, спасти мир... всё это гниль. Прими мои изменения, смертный. Я прошу прощенья... я не позволю твоим чаяньям сбыться". ";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc4;"Я обнаруживаю себя на каменной дорожке, окруженной завораживающим морем болезненно-зеленого ила, который тянется до горизонта во всех направлениях. Небо также зеленое. Надо мной - великая, извивающаяся масса черной плоти, глаз и щупалец. Все глаза смотрят на меня. Итак, ты тот, кто погубил мою смертную пешку, и теперь  соизволил бросить вызом мне - Хермесу Море - лично? Ты совершил ужасную ошибку... ты будешь сожалеть о ней целую вечность!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc5;"Я обнаруживаю себя в хвойном лесу. Глубокая ночь. Темное небо и толстая листва ограничивают зрение, но в тени я замечаю высокое человекоподобное существо с головой оленя, вооружённое копьём копьем. Воин делает шаг вперед и говорит: Привет тебе, охотник! Ты - тот смертный, что выследил и убил моего Избранного, разогнал стаи моих воинов и, пройдя по их следу, нашёл Охотничьи Угодья принца Хирсина? Меня. Теперь твоя охота окончена, ибо я - величайший из ловчих - пролью твою кровь так же легко, как охотник убивает оленя. Ты - великий воин, но ты умрёшь здесь.";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc6;"Я обнаруживаю себя в бушующем круговороте пепла и дыма. К счастью, сила, которая прислала меня сюда, дала мне возможность дышать, несмотря на прах. Я вижу гигантского воина - оркоподобного титана из пыли. Он воплотился, чтобы говорить со мной. Великий воин смертных! Ты прибыл в моё царство пепла, изничтожив моих слуг и победив моего Избранного, Чемпиона. Я, Малакат, сражусь с тобой один на один. Мы опробуем силы друг друга в открытой схватке. Готовься!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc7;"Я обнаруживаю себя в пустынной земле лавовых потоков. Воздух холодный и забит серой, в то время как земля внизу слишком горячая - на ней почти невозможно стоять. Передо мной стоит массивный, четырехрукий титан - Мехрунез Дагон, который смотрит на меня сверху вниз, глаза его пылают. Он кричит, размахивая четырьмя клинками: Ты посмел вторгнутся в мои владения, ничтожный смертный? Я - Князь Разрушения, остановлю твой святой поход и уничтожу твои амбиции! Пади ниц!" Он наносит первый удар...";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc8;"Я просыпаюсь в мрачном, туманном коридоре. Меня окружают многочисленные тоннели. Это место похоже на пещеру. Но всё же я вижу наверху небо, сердито-серое - как и всё остальное. Посреди пещеры стоит женская фигура, многорукая с ожерельем из ослепительно белых черепов. Она шепчет мне: О, ты прибыл, могучий смертный герой! Ты сокрушил армии моих соратников и изгнал моего Избранного в пустоту... но так ли крепка твоя рука? Тот бог, что помогает тебе... он предаст. Не бойся, смертный, ибо твоя короткая жизнь в скоре прервётся. Твоя победа пуста, тебя окужают крамольники и лжецы. Ты хочешь ударить меня? Ну чтож.. попробуй!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc9;"Я просыпаюсь на скалистом острове парящем посреди светлого и безраничного неба. В центре острова  существо чистой энергии - Меридиа! - в форме женщины. Нахмурившись, она говорит: Я, сияющая звезда Мундуса, жаждала принести облегчение миру смертных: изгнать нежить, восстановить жизнь, укрепить ваш род. Но ты бросил вызов мне и благу, что я несу. Кто ты? Некромант? Идиот? Или - то и другое сразу? Впрочем, твоя сущность не так важна. Готовься умереть от моей звёздной силы, тщедушный глупец!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc10;"Я просыпаюсь в холодном, скалистом, безжизненном месте. Холод обжигает моё тело. Сквозь вихрь синего пламени выходит огромный, рогатый монстр - ни кто иной, как Молаг Бал, несущий огромную булаву. Он с презрением глядит на меня. Жалкое подобие воина! Как ты посмел уничтожить моих рабов и их повелителя - Избранного? Ты бросил вызов Владыке Подчинения, Молагу Балу, и ответишь за это... перед моей булавой. Получи же!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc11;"Я просыпаюсь в раздробленном, темном Плане с фиолетовым звездным небом. Одна из теней оборачивается в саван пыли и грязи - это Намира. Она говорит со мной. Итак, ты нашёл дорогу сюда. Ты хочешь... очистить мир от гнили и грязи. Это не твоё дело, смертное существо. Ваш мир стал очагом гордости, высокомерия и ненависти к себе. Намира, разрушит этот лживый фасад. Ты не преуспешь в битве против меня, смертный!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc12;"Я просыпаюсь в темном месте, пространство вокруг искривлено. В тусклом свете почти невозможно что либо различить. Ясно видна лишь фигура женщины. Она облачена в робу, а лицо закрывает капюшон. Ноктюрнал собственной персоной. Твоё появление не стало для меня неожиданностью, смертный. Удача улыбнулась тебе и привела сюда, чтобы я, Ноктурнал, лично отправила тебя в Бездну и остановила твоё вмешательство. После того, как я позабочусь об этом, никакие нарушители не смогут бросить вызов мне или мешать моим планам.";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc13;"Я просыпаюсь в угрюмой, красной пустыне. Лава течет здесь и там, дым поднимается в грозовое небо. Из глубоко разлома выскальзывает тощее, драконоподобное существо - Периайт! - и поднимает голову, чтобы взглянуть на меня.  Как необычно. Ямы - это не место для смертных, здесь вы не принадлежите самимсебе. Особенно ты. Твоё вмешательство в мой тщательно спланированный план невыносимо, также как и твоё присутствие. Я уничтожу тебя, и тогда, возможно, смогу и дальше добиваться свои задач.";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc14;"Я просыпаюсь в темном летнем лесу. Воздух пропитам запахом парфюма, благовоний, алкоголя и крови. Из-за дерево выходит будто бы Дремора, но более грандиозный и высокий, покрытый доспехами с ног до головы. Без сомненья, Сангвин передо мной. Незваный гость. Блюститель порядочности, которого взволновало моё веселье! Я, Сангвин, просто хочу, чтобы мир смертных стал немного более живым. Каламбур. Можешь ли ты на самом деле высказываться против этого? О, хорошо. Будь осторожен, это может тебе навредить...";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc15;"Я просыпаюсь в тронном зале. Стены сделаны из странных, но красивых каменных блоков. У престола стоит некто престола - хорошо одетый, бородатый человек с довольно своеобразными глазами - сам Шигорат. Он усмехается и морщит лоб.  Здравствуй! Привет! Добро пожаловать! До свидания! Я вижу у тебя в руках билет на Дрожащие Острова - в один конец, а я, Шеогорат, стану твоим провожатым в этом мире райских даэдро-принцевых удовольствий! У меня припасено много подарков для моего любимого враждебного посетителя! Например: быстрая, ужасная, красивая и неминуемая СМЕРТЬ!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Desc16;"Я просыпаюсь в кошмарном каньоне под темным фиолетовым небом. Ужасные глаза прорастают из ниоткуда, тянутся ко мне - и исчезают внезапно. Среди них появляется фигура женщины, едва различимая - Вермина собственной персоной. Она опирается на посох, и говорит: Ты проявил удивительное упорство, смертный. Ты не поддался на чарующий зов сна, который я так надеялась принести твоему миру. Ты убил моего Избранники, несущего кошмары ненавистникам моего царства. Теперь ты на моей земле! Попробуй не уснуть!";;;;;;;;;;;;;x;;
+EKOffmapInvasion105Accept;Настало время мести!;;;;;;;;;;;;;x;;
+EKOffmapInvasion110;Битва с [offmap_duel_foe.GetFirstName] длится много часов. Я теряю счёт времени. Я избегаю всех атак [offmap_duel_foe.GetHerHis], отбиваю их назад и провожу ответную атаку - снова и снова. В конце концов, я вижу слабое место и наношу удар, который не только достигает цели, но и разрывает [offmap_duel_foe.GetFirstName] на метафизические осколки! Огромный всплеск энергии вырывается из раны, и меня подбрасывает воздух. Я мчусь сквозь небо Обливиона со скоростью метеора!;;;;;;;;;;;;;x;;
+EKOffmapInvasion110Accept;Всё погружается во мрак…;;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc1;"Я просыпаюсь в темном месте, пространство вокруг искривлено. В тусклом свете почти невозможно что либо различить. Ясно видна лишь фигура женщины. Она облачена в робу, а лицо закрывает капюшон. Ноктюрнал собственной персоной. "Молодец, смертный", - говорит она. "Азура побеждена и  потеряла часть силы, так что она не скоро сможет угрожать смертному миру. Я отправлю тебя туда, где ты должен быть. С тобой моё благословение. Используй дарованную силу хорошо, потрать её на то, чтобы узнать секреты своего мира". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc2;"Я просыпаюсь в тронном зале. Стены сделаны из странных, но красивых каменных блоков. У престола стоит некто престола - хорошо одетый, бородатый человек с довольно своеобразными глазами - сам Шигорат. Он усмехается и морщит лоб. "ЧУДЕСНО! Теперь, когда сила Азуры уменьшилась, ее влияние на ваш скудный смертный мирок растаяло, как дым! И с ее временным отсутствием в плане смертных я могу поработать над различными.. стоп. Я думаю, я самом деле думаю, что пришло время, когда тебе надо уйти. И держи мой подарок. Используй его во благо! Или нет. Или выкинь эту мерзкую дрянь. Пфа! " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc3;"Я просыпаюсь, плавая в бушующем круговороте пепла и дыма. К счастью, сила, которая прислала меня сюда, дала мне возможность дышать, несмотря на прах. Я вижу гигантского воина - Малаката - титана из пыли. Он воплотился, чтобы говорить со мной. "Боэтия трусливо бежит! Оставайся бдительным, она может снова бросит свои силы на завоевание Мундуса. Ты зарекомендовал себя достойным воином и по праву носишь титул Избранного, прославляя мое имя. Возьми себе дар, который ты заслужиль по праву и помни: Малакат всегда хранит свои клятвы" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc4;"Я просыпаюсь в холодном, скалистом, безжизненном месте. Холод обжигает моё тело. Сквозь вихрь синего пламени выходит огромный, рогатый монстр - ни кто иной, как Молаг Бал, несущий огромную булаву. Он с презрением глядит на меня. "Как жалко. Обманщик народов, свергнут слабой, смертной рукой. Боэтия не сможет жить с этим позором. Хорошая работа. Ты меня забавлял, глупец, а потом достоин владеть моей силой. Иди, дабы сеять ненависть и отчаяние в мире смертных. Несмотря на ваши неудачи, вы все равно превосходите своих соплеменников. Да будет так" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc5;"Я просыпаюсь в хвойном лесу. Глубокая ночь. Темное небо и толстая листва ограничивают зрение, но в тени я замечаю высокое человекоподобное существо с головой оленя - Хирсин! - вооружённое копьём копьем. Хирсин делает шаг вперед и говорит. "Добрая встреча, могучий охотник. Я поздравляю тебя с великой добычей. Твоя хитрость, рвение и сила за пределами смертного понимания - ты был достоит свергнуть Клавикуса Вайла. Он залижет свои раны и, без сомнения, вернется к плану смертных вновь. Но это будет потом. Сейчас же я посылаю тебя обратно в твой мир, оставляя напоследок свой дар. Это будет достойным дополнением к твоему арсеналу " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc6;"Я просыпаюсь, плавая в бушующем круговороте пепла и дыма. К счастью, сила, которая прислала меня сюда, дала мне возможность дышать, несмотря на прах. Я вижу гигантского воина - Малаката - титана из пыли. Он воплотился, чтобы говорить со мной. . "Молодец! Этот бесчестный торгаш недооценил тебя. Клавикус Вайл поплатился, но он оправится от своих ран. Глупость надолго отпугнёт его от смертного Мундуса. Ты зарекомендовал себя достойным воином и по праву носишь титул Избранного, прославляя мое имя. Возьми себе дар, который ты заслужиль по праву и помни: Малакат всегда хранит свои клятвы" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc7;"Я просыпаюсь в темном летнем лесу. Воздух пропитам запахом парфюма, благовоний, алкоголя и крови. Из-за дерево выходит будто бы Дремора, но более грандиозный и высокий, покрытый доспехами с ног до головы. Без сомненья, Сангвин передо мной. "Ха-ха! Мило. Очень мило. Хермеус Мора недооценил тебя - я не удивлен - и он проиграл, и не удивился этому. Он слишком ...ленив. Ему было ужасно скучно в последнее время, но ты облегчил его жизнь таким образом, каким ни один смертный не смог бы. Возьми в подарок мою силу, в знак  уважения и еще чего-то. Я буду следить за тобой " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc8;"Я просыпаюсь в кошмарном каньоне под темным фиолетовым небом. Ужасные глаза прорастают из ниоткуда, тянутся ко мне - и исчезают внезапно. Среди них появляется фигура женщины, едва различимая - Вермина собственной персоной. Она опирается на посох, и говорит "Эффектная работа, смертное создание", - говорит она. "Тщеславноые хлопоты Хермеуса Моры могут стать ужасно раздражающим после нескольких тысяч лет. Может быть, он, наконец, заткнется навсегда.. Теперь я могу вернуться к любимым увлечениям и не связываться с этой горестно-сладкой смертной чепухой. Я кланяюсь тебе. Ты забавный, маленький смертный. Я уверена, ты найдешь для ЭТОГО назначение ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc9;"Я просыпаюсь на зеленом лугу, окружённом изумрудными холмами и овеянным теплом полуденного солнца. Рядом я вижу странного маленького человека с рогами с собакой. Он улыбается мне. Это Клавикус Вайл и Барбас, как обычно, подле него. "Ах, как мило!" - восклицает Клавикус. "Дикий охотник Хирсин проиграл в свои любимые кошки-мышки, и вторжение зашло в тупик. Все рухнуло в одночасье. Правильно, герой? Ты был одним из моих лучших просителей, поэтому я думаю, что ты заслуживаешь моего дара. Держи мое благословение, я пошлю тебя домой вместе с ней. Ты не скоро увидишь сделку, подобную этой! " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc10;"Я просыпаюсь в раздробленном, темном Плане с фиолетовым звездным небом. Одна из теней оборачивается в саван пыли и грязи - это Намира. Она говорит со мной. "Превосходная работа, смертный. Высший хищник Хирсин пал от руки нижайщего шакала, поедателя падати. Смертного. Хоть ты и слишком популярен ... держи мой подарок. Запомни, прежде чем я верну тебя: униженный и забытые - это те, кто совершает самые смелые поступки". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc11;"Я просыпаюсь в скалистой, вулканической пустыне. В небе вспыхивает сильный шторм, а среди молний возвышается воин с двуручным боевым топором - Боэтия. Он (или она?)смотрит на меня сверху вниз. "Великолепно. Кровожданейшее войско и решительная группа мятежников могут свергнуть даже самую великую империю. Так ты сверг Малакат. Он не стол велик, как сам полагал. Он не забудет этот инцидент. Ваше боевое превосходство поражает, смертный. Ты не будешь обделён дарами. Большинство смертных ничтожны, однако ты воистину... достоин" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc12;"Я просыпаюсь на зеленом лугу, окружённом изумрудными холмами и овеянным теплом полуденного солнца. Рядом я вижу странного маленького человека с рогами с собакой. Он улыбается мне. Это Клавикус Вайл и Барбас, как обычно, подле него. "Ах, как мило!" - восклицает Клавикус. "Малакат - этот хриплый полкан с его присягами и проклятиями, с честью. Бах! Все это и его вторжение довели до предела. Всё сгинуло в одночасье. Правильно, герой? Ты был одним из моих лучших просителей, поэтому я думаю, что ты заслуживаешь моего дара. Держи мое благословение, я пошлю тебя домой вместе с ней. Ты не скоро увидишь сделку, подобную этой! " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc13;"Я просыпаюсь в темном летнем лесу. Воздух пропитам запахом парфюма, благовоний, алкоголя и крови. Из-за дерево выходит будто бы Дремора, но более грандиозный и высокий, покрытый доспехами с ног до головы. Без сомненья, Сангвин передо мной. "Ха-ха! Мило. Очень мило. Мехрунез Дагон недооценил тебя и - что не удивительно - проиграл. Also not surprised about that one. Он слишком... неспокоен. Теперь мне придётся терпеть его обиженные визги ближайшую тысячую лет... Возьми-ка в подарок мою силу, в знак  уважения и еще чего-то. Я буду следить за тобой " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc14;"Я просыпаюсь в тронном зале. Стены сделаны из странных, но красивых каменных блоков. У престола стоит некто престола - хорошо одетый, бородатый человек с довольно своеобразными глазами - сам Шигорат. Он усмехается и морщит лоб. "ЧУДЕСНО! Теперь, когда сила Мехрунеза Дагона уменьшилась, его влияние на ваш скудный смертный мирок растаяло, как дым! И с его временным отсутствием в плане смертных я могу поработать над различными.. стоп. Я думаю, я самом деле думаю, что пришло время, когда тебе надо уйти. И держи мой подарок. Используй его во благо! Или нет. Или выкинь эту мерзкую дрянь. Пфа! " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc15;"Я просыпаюсь в темном месте, пространство вокруг искривлено. В тусклом свете почти невозможно что либо различить. Ясно видна лишь фигура женщины. Она облачена в робу, а лицо закрывает капюшон. Ноктюрнал собственной персоной. "Молодец, смертный", - говорит она. "Мефала побеждена и  потеряла часть силы, так что она не скоро сможет угрожать смертному миру. Я отправлю тебя туда, где ты должен быть. С тобой моё благословение. Используй дарованную силу хорошо, потрать её на то, чтобы узнать секреты своего мира". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc16;"Я просыпаюсь в угрюмой, красной пустыне. Лава течет здесь и там, дым поднимается в грозовое небо. Из глубоко разлома выскальзывает тощее, драконоподобное существо - Периайт! - и поднимает голову, чтобы взглянуть на меня. "Отличная работа, смертный", - говорит он. "Поражение Мефалы означает конец ее хаотических и коварных махинаций ... нак какое-то время. Ты сражаешься за мрачную дейсвительность, за сущность Порядка - за это я благодарен. Возьми мой дар себе - полезной подарок полезному слуге. В темницах меня ждут Младшие Даэдра, так что наш диалог окончен ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc17;"Я просыпаюсь в холодном, скалистом, безжизненном месте. Холод обжигает моё тело. Сквозь вихрь синего пламени выходит огромный, рогатый монстр - ни кто иной, как Молаг Бал, несущий огромную булаву. Он с презрением глядит на меня. "Как жалко. Владычица Бесконечных Энергий поругана и оскорблена ничтожным смертным телом. Свет Меридии на время угаснет.  Хорошая работа. Ты меня забавлял, глупец, а потом достоин владеть моей силой. Иди, дабы сеять ненависть и отчаяние в мире смертных. Несмотря на ваши неудачи, вы все равно превосходите своих соплеменников. Да будет так" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc18;"Я просыпаюсь в раздробленном, темном Плане с фиолетовым звездным небом. Одна из теней оборачивается в саван пыли и грязи - это Намира. Она говорит со мной. "Превосходная работа, смертный. Вылизанная, припудренная, сверкающая Меридия пала от руки служителя разложения и низости. Смертного. Хоть ты и слишком популярен ... держи мой подарок. Запомни, прежде чем я верну тебя: униженный и забытые - это те, кто совершает самые смелые поступки". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc19;"Я просыпаюсь в скалистой, вулканической пустыне. В небе вспыхивает сильный шторм, а среди молний возвышается воин с двуручным боевым топором - Боэтия. Он (или она?)смотрит на меня сверху вниз. "Великолепно. Кровожданейшее войско и решительная группа мятежников могут свергнуть даже самую великую империю. Так ты сверг Молага Бала. Его жажда порабощать оказалась ниже твоего воинского умения. Он повержен и ослаб... на время. Ваше боевое превосходство поражает, смертный. Ты не будешь обделён дарами. Большинство смертных ничтожны, однако ты воистину... достоин" В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc20;"Я просыпаюсь на скалистом острове парящем посреди светлого и безраничного неба. В центре острова  существо чистой энергии - Меридия! - в форме женщины. Нахмурившись, она говорит кратко. "Молаг Бал побежден, его армии разрушены, а его гордость унижена. Его развращающее влияние не выйдет за пределы Хладной Гавани в течение какого-то времени. Он снова ударит, это без сомнения, но наша победа велика и надолго обезопасила мир.  Держи мой дар, смертный. С его помощью ты очистишь мир от зла и нечисти. Тьма растает, смертный, перед твоею рукою. Я прощаюсь с тобой " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc21;"Я просыпаюсь в хвойном лесу. Глубокая ночь. Темное небо и толстая листва ограничивают зрение, но в тени я замечаю высокое человекоподобное существо с головой оленя - Хирсин! - вооружённое копьём копьем. Хирсин делает шаг вперед и говорит. "Добрая встреча, могучий охотник. Я поздравляю тебя с великой добычей. Твоя хитрость, рвение и сила за пределами смертного понимания - ты был достоит свергнуть Намиру. Она вновь вернётся в клубок червей и трупов, чтобы там оплакать своё позорное поражение. Она захочет отомстить. Но это случится не скоро. Сейчас же я посылаю тебя обратно в твой мир, оставляя напоследок свой дар. Это будет достойным дополнением к твоему арсеналу " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc22;"Я просыпаюсь на скалистом острове парящем посреди светлого и безраничного неба. В центре острова  существо чистой энергии - Меридиа! - в форме женщины. Нахмурившись, она говорит кратко. "Намира побеждена, её армии разрушены, а её показушная скромность развеяна. Она будет ползать по Рассеивающей Пустоте, приняв самый тщедушный облик и долго ныть о своём поражении, не в силах отомстить. Она снова ударит, это без сомнения, но наша победа велика и надолго обезопасила мир.  Держи мой дар, смертный. С его помощью ты очистишь мир от зла и нечисти. Тьма растает, смертный, перед твоею рукою. Я прощаюсь с тобой " В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc23;"Я просыпаюсь во дворце, полном роз, окружённом живописной местностью. Передо мной встала женщина, излучающая энергию. Это Азура! Она говорит со мной. "И, как я и предвидела, коварная Ноктюрнал была побеждена и отступила обратно во тьму. В ближайшее время она не будет угрожать смертному миру. Под моим руководством тебе досталась победа, смертный. И поэтому я даю тебе мое благословение, ты можешь принести просветление и править по моим заветам в вашем смертном мире. Я отправлю тебя домой. Прощай же, смертный ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc24;"Я просыпаюсь в мрачном, туманном коридоре. Меня окружают многочисленные тоннели. Это место похоже на пещеру. Но всё же я вижу наверху небо, сердито-серое - как и всё остальное. Посреди пещеры стоит женская фигура, многорукая с ожерельем из ослепительно белых черепов. Это Мефала, которая смотрит на меня, улыбаясь. "Какой восхитительный диссонанс вы сеете не только в смертном мире, но и в Обливионе! Ноктюрнал терпела, она хранила в себе такую уверенность, такую уверенность! - и только чтобы все это было разрушено простым смертным! Я больше всего довольна твоими делами. Храни подарок, данный тебе и иди прочь. Помни, даже самая тонкая нить, выщипанная тобой, может привести к гибели богатого, огромного гобелена ". В следующий момент я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc25;"Я просыпаюсь в мрачном, туманном коридоре. Меня окружают многочисленные тоннели. Это место похоже на пещеру. Но всё же я вижу наверху небо, сердито-серое - как и всё остальное. Посреди пещеры стоит женская фигура, многорукая с ожерельем из ослепительно белых черепов. Это Мефала, которая смотрит на меня, улыбаясь. "Какой восхитительный диссонанс вы сеете не только в смертном мире, но и в Обливионе! Периайт выгнал всех своих надзирателей и рабов, напряг свои чешуйчатые крылышки до предела - и только чтобы все это было разрушено простым смертным! Я больше всего довольна твоими делами. Храни подарок, данный тебе и иди прочь. Помни, даже самая тонкая нить, выщипанная тобой, может привести к гибели богатого, огромного гобелена ". В следующий момент я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc26;"Я просыпаюсь в кошмарном каньоне под темным фиолетовым небом. Ужасные глаза прорастают из ниоткуда, тянутся ко мне - и исчезают внезапно. Среди них появляется фигура женщины, едва различимая - Вермина собственной персоной. Она опирается на посох, и говорит "Эффектная работа, смертное создание", - говорит она. "Периайт вернётся в нижние слои Обливиона - кто-то, наконец, займётся чисткой уборных и подметанием пола... Может быть, он, наконец, останется в своей темнице навсегда. Теперь я могу вернуться к любимым увлечениям и не связываться с этой горестно-сладкой смертной чепухой. Я кланяюсь тебе. Ты забавный, маленький смертный. Я уверена, ты найдешь для ЭТОГО назначение ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc27;"Я просыпаюсь на каменной дорожке, окруженной завораживающим морем болезненно-зеленого ила, который тянется до горизонта во всех направлениях. Небо также зеленое. Надо мной - великая, извивающаяся масса черной плоти, глаз и щупалец, форма Хермеуса Моры. Все глаза смотрят на меня. "Ты оказался успешен, смертный, и досгит предначертанного. Гуляки Сангвина отправились обратно в Обливион, вместе со своим пьянчугой-господином. Они не будут мешать научным занятиям моих смертных пешек. Отлично. Как чемпион Хермеуса Моры, ты имеешь право сохранить артефакт, предоставленный тебе, по началу, временно. Знай, что ты не даром удостоился моего внимания. Ты случайно не скаал?... А, не так важно! Мы встретимся снова, хочешь ты этого или нет этого или нет ". В следующий же миг я возвращаюсь домой. ";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc28;"Я просыпаюсь в пустынной земле лавовых потоков. Воздух холодный и забит серой, в то время как земля внизу слишком горячая - на ней почти невозможно стоять. Передо мной стоит массивный, четырехрукий титан - Мехрунез Дагон, который смотрит на меня сверху вниз, глаза его пылают. "Самое впечатляющее смертное существо за последние десятилетия. Твои амбиции сделали тебя легендой - чемпионом, Избранным, достаточно великим, чтобы противостоять Сангвину. Не только победить его, но и послать в глубины Обливиона. Смиренный смертный превратился в могучено воителя и полководца. Даже я, Мехрунез Дагон, признаю это. Я позволяю тебе сохранить свой подарок. Пусть твои желания, амбиции и цели приведут тебя к вечной славе. Уничтожиь всех, кто встанет на твоём пути! В следующий момент я возвращаюсь домой ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc29;"Я просыпаюсь во дворце, полном роз, окружённом живописной местностью. Передо мной встала женщина, излучающая энергию. Это Азура! Она говорит со мной. "И, как я и предвидела, безумный Шеогорат побеждён и вернулся, с позором, в свою вотчину - Дрожащие Острова. В ближайшее время он не будет угрожать смертному миру. Под моим руководством тебе досталась победа, смертный. И поэтому я даю тебе мое благословение, ты можешь принести просветление и править по моим заветам в вашем смертном мире. Я отправлю тебя домой. Прощай же, смертный ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc30;"Я просыпаюсь в пустынной земле лавовых потоков. Воздух холодный и забит серой, в то время как земля внизу слишком горячая - на ней почти невозможно стоять. Передо мной стоит массивный, четырехрукий титан - Мехрунез Дагон, который смотрит на меня сверху вниз, глаза его пылают. "Самое впечатляющее смертное существо за последние десятилетия. Твои амбиции сделали тебя легендой - чемпионом, Избранным, достаточно великим, чтобы противостоять Шеогорату. Не только победить его, но и послать в глубины Обливиона. Смиренный смертный превратился в могучено воителя и полководца. Даже я, Мехрунез Дагон, признаю это. Я позволяю тебе сохранить свой подарок. Пусть твои желания, амбиции и цели приведут тебя к вечной славе. Уничтожиь всех, кто встанет на твоём пути! В следующий момент я возвращаюсь домой ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc31;"Я просыпаюсь на каменной дорожке, окруженной завораживающим морем болезненно-зеленого ила, который тянется до горизонта во всех направлениях. Небо также зеленое. Надо мной - великая, извивающаяся масса черной плоти, глаз и щупалец, форма Хермеуса Моры. Все глаза смотрят на меня. "Ты оказался успешен, смертный, и досгит предначертанного. Теперь опустошающие видения Вермины схлынули, и они - как и её войска - не будут мешать научным занятиям моих смертных пешек. Отлично. Как чемпион Хермеуса Моры, ты имеешь право сохранить артефакт, предоставленный тебе, по началу, временно. Знай, что ты не даром удостоился моего внимания. Ты случайно не скаал?... А, не так важно! Мы встретимся снова, хочешь ты этого или нет этого или нет ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115Desc32;"Я просыпаюсь в угрюмой, красной пустыне. Лава течет здесь и там, дым поднимается в грозовое небо. Из глубоко разлома выскальзывает тощее, драконоподобное существо - Периайт! - и поднимает голову, чтобы взглянуть на меня. "Отличная работа, смертный", - говорит он. "Вермина потерпела поражение, её кошмарные армии исторгнуты в Обливион! Наконец-то сладкие сны развеяны, и монотонный труд охватит всех смертных Мундуса... нак какое-то время. Ты сражаешься за мрачную дейсвительность, за сущность Порядка - за это я благодарен. Возьми мой дар себе - полезной подарок полезному слуге. В темницах меня ждут Младшие Даэдра, так что наш диалог окончен ". В следующий же миг я возвращаюсь домой.";;;;;;;;;;;;;x;;
+EKOffmapInvasion115OptA;Надеюсь, это сработает.;;;;;;;;;;;;;x;;
+EKOffmapInvasion115OptB;Я стану Избранным [offmap_invasion_patron.GetFirstName].;;;;;;;;;;;;;x;;
+EKOffmapInvasion115OptC;Я стану Избранным [offmap_invasion_patron.GetFirstName]…в тайне.;;;;;;;;;;;;;x;;
+EKOffmapInvasion120;Нирн возвращается к привычный жизни. Даэдрические орды, словно чума распространившиеся по землям Мундуса, исчезли в одно мгновенье. Чтобы восстановить разрушенное ими, потребуются годы - и даже века! - кропотливой работы. Остаётся надежда, что твердыни и воины будут готовы к тому дню, когда очередной Принц Даэдра решит вторгнутся в земли непокорных смертных. ;;;;;;;;;;;;;x;;
+EKOffmapInvasion120Accept;Мир спасён. До поры до времени.;;;;;;;;;;;;;x;;
+EKOffmapInvasion230;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion230Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion231;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion231Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion232;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion232Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion233;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion233Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion234;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion234Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion235;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion235Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion236;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion236Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion237;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion237Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion238;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion238Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion239;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion239Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion240;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion240Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion241;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion241Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion242;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion242Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion243;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion243Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion244;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion244Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion245;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion245Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion250;Врата Обливиона распахнулись в [Root.GetName]! Испуганные местные бежали, спасая свои шкуры от хищной орды Младших Даэдра, расползшейся по всей окрестной местности.;;;;;;;;;;;;;x;;
+EKOffmapInvasion250Accept;К оружию, воины!;;;;;;;;;;;;;x;;
+EKOffmapInvasion300;Врата Обливиона открылись в [Root.GetName]! Предводитель отряда, Дремора-валкиназ, заявляет, что моя недавняя смена веры противоречит воле [New.Religion.GetHighGodName], что послал(а) армию в План Смертных, дабы лишить меня контроля над землями и титулами.;;;;;;;;;x;;;;;;
+EKOffmapInvasion300Accept;К оружию, воины!;;;;;;;;;x;;;;;;
+EKOffmapStatus50Title;Укрепление мощи [FromFrom.Ruler.GetFirstName];;;;;;;;;;;;;x;;
+EKOffmapStatus50A;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] восстанавливает силы [FromFrom.Ruler.GetHerHis] и оставляет кризис, который угрожал царству [FromFrom.Ruler.GetHerHis]  позади [FromFrom.Ruler .GetHerHim]. Статус-кво вскоре будет восстановлен - это только вопрос времени.;;;;;;;;;;;;;x;;
+EKOffmapStatus50B;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] полностью восстановил силу [FromFrom.Ruler.GetHerHis] и ныне План [FromFrom.Ruler.GetHerHis] стабилен. Возможно, что [FromFrom.Ruler.GetFirstName] будет и дальше набирать силу, становясь всё более могучим. Только время покажет итог этих событий.;;;;;;;;;;;;;x;;
+EKOffmapStatus50C;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] наслаждается почти беспредельной силой, с помощью которой легко вмешывается в дела Нирна, если таково желание [FromFrom.Ruler.GetSheHe]. Культисты и поклонники вопят от восторга и рыщут по миру, в поисках Врат, способных привести в [FromFrom.Ruler.GetFirstName].;;;;;;;;;;;;;x;;
+EKOffmapStatus50Accept;Интригует!;;;;;;;;;;;;;x;;
+EKOffmapStatus52Title;Упадок сил [FromFrom.Ruler.GetFirstName];;;;;;;;;;;;;x;;
+EKOffmapStatus52A;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] несколько ослаблен, хотя причины этого не до конца ясны колдунам. Неясно также, будет ли эта тенденция продолжаться. Мощь [FromFrom.Ruler.GetFirstName] может вернутся в любой момент, хотя есть вероятность, что власть [FromFrom.Ruler.GetHerHis] растратится ещё больше.;;;;;;;;;;;;;x;;
+EKOffmapStatus52B;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] ослаблен и нестабилен, а План [FromFrom.Ruler.GetHerHis] находится в невыгодном положении. Скорее всего, [FromFrom.Ruler.GetFirstName] вновь вернёт себе былую силу, но когда это произойдёт и что может ускорить (или замедлить) это событие - неясно.;;;;;;;;;;;;;x;;
+EKOffmapStatus52C;Маги и ученые в известном мире согласны - царство [FromFrom.Ruler.GetFirstName] впало в упадок, Младшие Даэдра из Плана [FromFrom.Ruler.GetHerHis]  пытаются разобраться в хаотичной и опасной ситуации. Смертные путешественники, которые посетили [FromFrom.Ruler.GetFirstName], предупреждают других любителей Обливиона о том, чтобы те остаться в пределах Мундуса, ибо внутренние беспорядки [FromFrom.Ruler.GetHerHis] крайне опасны.;;;;;;;;;;;;;x;;
+EKOffmapStatus52Accept;Проблематично.;;;;;;;;;;;;;x;;
+EKOffmapStatus54Title;[FromFrom.Ruler.GetFirstName] исследует внешний мир;;;;;;;;;;;;;x;;
+EKOffmapStatus54A;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] в последнее время проявляет живой интерес к делам смертных. Дары, отправленные в царство [FromFrom.Ruler.GetHerHis], были в сто крат возмещены невероятными благами, включая даэдрических воинов и военную технику. Все, кто желает общаться с [FromFrom.Ruler.GetFirstName] пользуются этой возможностью, стараясь не переступить порог наглости.;;;;;;;;;;;;;x;;
+EKOffmapStatus54B;"Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] проявил необычайный интерес к Нирну и его обитателем. Барьеры между Мундусом и Обливионом ослабли настолько, что [FromFrom.Ruter.GetFirstName] легко общается со смертными с смертными, и даже способен призывать большое количество даэдрических воинов  из царства [FromFrom.Ruler.GetHerHis] в план смертных - без особого видимого усилия.;;;;;;;;;x
+EKOffmapStatus54Accept;Интригует!;;;;;;;;;;;;;x;;
+EKOffmapStatus56Title;[FromFrom.Ruler.GetFirstName] находится в спячке;;;;;;;;;;;;;x;;
+EKOffmapStatus56A;"Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] в последнее время потерял  интерес к смертному миру. Сделки между [FromFrom.Ruler.GetFirstName] и смертными "просителями" cлучаются всё реже, и дело далеко не в недостатке веры в даэдропоклонниках. Некоторые считают, что [FromFrom.Ruler.GetFirstName] планирует полностью отойти в Плаг [FromFrom.Ruler.GetHerHis].";;;;;;;;;;;;;x;;
+EKOffmapStatus56B;Маги и ученые в известном мире согласны - [FromFrom.Ruler.GetFirstName] совершенно незаинтересован в  делах смертных. Возможно, это связано с какой-то внутренней борьбой в царстве [FromFrom.Ruler.GetHerHis] или с темпераментным отвращением к смертным. Никто, кроме самых известных просителей, не достиг успехов в попытках  связаться с Планом [FromFrom.Ruler.GetFirstName]. Все призывы к[FromFrom.Ruler.GetHerHis], связанные с традиционными сферами [FromFrom.Ruler.GetHerHis], либо были отклонены, либо  проигнорированы.;;;;;;;;;;;;;x;;
+EKOffmapStatus56Accept;Проблематично.;;;;;;;;;;;;;x;;
+EKOffmapStatus200Title;[FromFrom.Ruler.GetFirstName] готовится к войне!;;;;;;;;;x;;;;;;
+EKOffmapStatus200;[FromFrom.Ruler.GetFirstName] официально заявил о намерении подготовить верующих Альмсиви к войне. Это может быть попыткой вернуть потерянные земли, освободить последователей Храма, которыми правят язычники, или уничтожить еретические элементы в пределах земель, где поклоняются Альмсиви. Ординаторы, жизнерадостные оруженосцы и другие святые воины готовы служить всем правителям, исповедующим Альмсиви, которые нуждаются в их услугах.;;;;;;;;;x;;;;;;
+EKOffmapStatus200Accept;АЛЬТАДУН ДАНМЕРИ!;;;;;;;;;x;;;;;;
+EKOffmapStatus201Title;[FromFrom.Ruler.GetFirstName] взирает наружу;;;;;;;;;x;;;;;;
+EKOffmapStatus201;[FromFrom.Ruler.GetFirstName] сделал(а) официальное заявление, с приглашением для паломников и туристов, но, возможно, более важным будет, планировка путешествий по землям, верным Альмсиви, а возможно, и дальше - защищать невинных, помогать нуждающимся, уничтожать зло и возвещать о добродетелях Храма.;;;;;;;;;x;;;;;;
+EKOffmapStatus201Accept;[FromFrom.Ruler.GetFirstName] благодать...;;;;;;;;;x;;;;;;
+EKOffmapStatus202Title;[FromFrom.Ruler.GetFirstName] в состоянии покоя;;;;;;;;;x;;;;;;
+EKOffmapStatus202;[FromFrom.Ruler.GetFirstName] отменил(а) ранее выпущенные указы и расслабился, хотя это не совсем практичный подход к решении дел Храма. [FromFrom.Ruler.GetFirstName] рад(а) приветствовать паломников Храма, которые останавливаются для посещения, и не прочь покинуть пределы своих апартаментов, чтобы защищать свои земли, или руководить деятельностью Архиканоника в повседневной жизни Храма.;;;;;;;;;x;;;;;;
+EKOffmapStatus202Accept;Я вижу.;;;;;;;;;x;;;;;;
+EKOffmapStatus203Title;[FromFrom.Ruler.GetFirstName] Замкнутый(-ая)?;;;;;;;;;x;;;;;;
+EKOffmapStatus203;"[FromFrom.Ruler.GetFirstName] удалился в своё святилище, и посещаем(а) только личными слугами, стражниками, и самыми высокопоставленными членами Храмовой иерархии. Дипломатам и паломникам отказывают, причем чаще всего это объясняется тем, что у [FromFrom.Ruler.GetFirstName] "есть важные дела." Что именно эти вопросы ещё предстоит разрешить.";;;;;;;;;x;;;;;;
+EKOffmapStatus203Accept;Зловещее предзнаменование.;;;;;;;;;x;;;;;;
+EKOffmapStatus225Title;Смерть Альмалексии;;;;;;;;;x;;;;;;
+EKOffmapStatus225;Альмалексия, одна из трех, известных как Альмсиви, что носила такие прозвища как Мать Морровинда и Леди Милосердия, погибла. Её смерть потрясла Храм Трибунала до самого основания. Возникают множество вопросов: как? Почему? И, пожалуй, самое главное, что это означает для будущего Храма и существования Веры Альмсиви?;;;;;;;;;x;;;;;;
+EKOffmapStatus225Almsivi;Не могу в это поверить!;;;;;;;;;x;;;;;;
+EKOffmapStatus225Heretic;Ложные боги должны пасть!;;;;;;;;;x;;;;;;
+EKOffmapStatus225Other;"Много чести для так называемых "живых богов...;;;;;;;;;x;;;;;;
+EKOffmapStatus226Title;Смерть Сота Сила;;;;;;;;;x;;;;;;
+EKOffmapStatus226;Сота Сил, один из трех, известных как Альмсиви и прославленный своим выдающимся пониманием тайн и мистики, погиб. Его смерть потрясла Храм Трибунала до самого основания. Возникают множество вопросов: как? Почему? И, пожалуй, самое главное, что это означает для будущего Храма и существования Веры Альмсиви?;;;;;;;;;x;;;;;;
+EKOffmapStatus227Title;Смерть Вивека;;;;;;;;;x;;;;;;
+EKOffmapStatus227;Вивек, один из трех, известных как Альмсиви и почитаемый в качестве поэта и непоколебимого защитника Вварденфелла, погиб. Его смерть потрясла Храм Трибунала до самого основания. Возникают множество вопросов: как? Почему? И, пожалуй, самое главное, что это означает для будущего Храма и существования Веры Альмсиви?;;;;;;;;;x;;;;;;
+NEWS_FROM_THRAS;Новости из Траса;Des nouvelles de la Thras;Neuigkeiten aus Thras;;Noticias de Thras;;;;;;;;;x;;
+EVTDESC_JD_50001_NEW_DYN;Новое Королевство поднялось на передний план в Трасе, как Королевство [FromFrom.GetOnlyDynastyName], вытеснив Королевство [From.GetOnlyDynastyName]. Тем не менее, новое Высокое Величество, [From.GetDynName], стремится придерживаться той же политики [From.Offmap.GetPolicy], как и его предшественник, [From.GetPossPronoun]. [From.GetDynName] любит [From.Offmap.GetLike] и презирает [From.Offmap.GetDislike].;;;;;;;;;x;;;;;;
+EVTDESC_JD_50001_NEW_DYN_NEW_POLICY;Новое Королевство поднялось на передний план в Трасе, как Королевство [FromFrom.GetOnlyDynastyName] вытеснив Королевство [From.GetOnlyDynastyName]. Новое Высокое Величество, [From.GetDynName], выступает за политику [From.Offmap.GetPolicy] , и оставляет политику [From.Offmap.GetPrevPolicy] своего предшественника, [From.GetPossPronoun]. [From.GetDynName] любит [From.Offmap.GetLike] и презирает[From.Offmap.GetDislike].;;;;;;;;;x;;;;;;
+EVTDESC_JD_50001;Высокое Величеество [FromFrom.GetDynName], умерло. Его заменил [From.GetDynName]. Как и его предшественник, [From.GetPossPronoun], новое Высокое Величество известно своей верой в политику [From.Offmap.GetPolicy]. По-видимому, [From.GetSubjectPronoun] проявляет особый интерес к [From.Offmap.GetLike], но ему не нравится [From.Offmap.GetDislike].;;;;;;;;;x;;;;;;
+EVTDESC_JD_50001_NEW_POLICY;Высокое Величество [FromFrom.GetDynName], известное [FromFrom.GetPossPronoun] политикой [From.Offmap.GetPrevPolicy], умерло, и [From.GetDynName] теперь сидит на Драконьем Троне. Известно, что [From.GetSubjectPronoun] особенно ценит [From.Offmap.GetLike], но не любит [From.Offmap.GetDislike]. В отличие от предшественника, [From.GetPossPronoun], новый [From.GetEmperorEmpress] известен своей склонностью к политике [From.Offmap.GetPolicy] Китая.;L'[FromFrom.GetEmperorEmpress] [FromFrom.GetDynName], connu[FromFrom.Get_E] pour sa politique [From.Offmap.GetPrevPolicy], a trйpassй et [From.GetDynName] est maintenant assis[From.Get_E] sur le trфne du Dragon. Il est dit qu'[From.GetIlElle] apprйcie particuliиrement [From.Offmap.GetLike] mais mйprise [From.Offmap.GetDislike]. Contrairement а son prйdйcesseur, [From.GetLeLa] nouve[From.GetLLle] [From.GetEmperorEmpress] est connu[From.Get_E] pour favoriser une Chine [From.Offmap.GetPolicy].;[FromFrom.GetEmperorEmpress] [FromFrom.GetDynName], bekannt fьr [From.GetHerHis]e [From.Offmap.GetPrevPolicy]-Politik, ist gestorben und [From.GetDynName] sitzt jetzt auf dem Drachenthron. Es wird gesagt, dass [FromFrom.GetSheHe] besonders [From.Offmap.GetLike] mag, aber [From.Offmap.GetDislike] verachtet. Im Gegensatz zu [From.GetHerHis]em Vorgдnger ist [From.Getderdie] neue [From.GetEmperorEmpress] bekannt, die Idee eines Chinas zu bevorzugen, das [From.Offmap.GetPolicy] ist.;;[FromFrom.GetEmperorEmpress] [FromFrom.GetDynName], cйlebre por su polнtica [From.Offmap.GetPrevPolicy], muriу y ahora [From.GetDynName] se sienta en el trono del Dragуn. Se dice que aprecia especialmente [From.Offmap.GetLike] pero desdeсa [From.Offmap.GetDislike]. Al contrario que su predecesor/a, se sabe que el/la nuevo/a [From.GetEmperorEmpress] favorece la idea de una china [From.Offmap.GetPolicy].;;;;;;;;;x;;
+EVTOPT_JD_50001_OPEN;Всё как обычно!;On va faire des affaires comme d'habitude alors !;Wie gewohnt!;;ЎSigamos con los negocios como siempre!;;;;;;;;;x;;
+EVTOPT_JD_50001_ISO;Время для [From.GetEmperorEmpress] к [GetChinaIsolationPastime]?;L'occasion pour l'[From.GetEmperorEmpress] [GetChinaIsolationPastime]?;Zeit, dass [From.Getderdie] [From.GetEmperorEmpress], [GetChinaIsolationPastime]?;;їLlegу la hora de [GetChinaIsolationPastime], [From.GetEmperorEmpress]?;;;;;;;;;x;;
+EVTOPT_JD_50001_EXP;Экспансионизм [From.GetEmperorEmpress]? Это может стать проблемой...;Un[From.Get_E] [From.GetEmperorEmpress] expansionniste ? Cela pourrait mal finir...;[From.GetEinEine] expansionistische[From.GetrMale] [From.GetEmperorEmpress]? Das kцnnte hдsslich werden...;;їUn/a [From.GetEmperorEmpress] expansionista? Esto se puede poner muy feo…;;;;;;;;;x;;
+EVTDESC_JD_50021_OPEN;Китай отступился от пути [FromFrom.GetPrevPolicy] и сейчас открыл дела и торговлю для всех.;La Chine a abandonnй sa politique [FromFrom.GetPrevPolicy] et est maintenant ouverte au commerce.;China hat seine Politik [FromFrom.GetPrevPolicy] aufgegeben und ist nun offen fьr Handel und normale Geschдfte.;;China ha abandonado la vнa [FromFrom.GetPrevPolicy] y ahora estб abierta al comercio y los negocios como siempre.;;;;;;;;;x;;
+EVTDESC_JD_50021_ISO;Китай перешел от [FromFrom.GetPrevPolicy] к изоляционизму. Небесный [FromFrom.Ruler.GetSonDaughterCap], [FromFrom.Ruler.GetDynName], вернул [FromFrom.Ruler.GetPossPronoun] вернулся назад к варварскому миру, окружающему совершенство Китая на [GetChinaIsolationPastime].;La Chine est passйe d'une politique [FromFrom.GetPrevPolicy] а isolationniste. [FromFrom.Ruler.GetLeLaCap] [FromFrom.Ruler.GetSonDaughterCap] du Ciel, [FromFrom.Ruler.GetDynName], se coupe du monde barbare qui entoure la perfection de la Chine afin [GetChinaIsolationPastime].;China ist von [FromFrom.GetPrevPolicy] zu Isolationist gewechselt. [FromFrom.Ruler.GetDerDie] [FromFrom.Ruler.GetSonDaughterCap] des Himmels, [FromFrom.Ruler.GetDynName], wendet sich von der barbarischen Welt, die die Perfektion Chinas umgibt ab, damit [FromFrom.Ruler.GetSheHe] [GetChinaIsolationPastime].;;China ha pasado de [FromFrom.GetPrevPolicy] a aislacionista. El/La [FromFrom.Ruler.GetSonDaughterCap] del Cielo, [FromFrom.Ruler.GetDynName] le da la espalda al mundo bбrbaro que rodea la perfecciуn de China para [GetChinaIsolationPastime].;;;;;;;;;x;;
+EVTDESC_JD_50021_EXP;Великий [FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName] внезапно проявил живой интерес к остальному миру, особенно к Западу. Эта новая экспансионистская политика может предвещать беду соседним правителям, находящимся вне милости Китая. \n\nДракон не спит.;[FromFrom.Ruler.GetLeLaCap] grand[FromFrom.Ruler.Get_E] [FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName] de Chine a soudainement un vif intйrкt pour le reste du monde, en particulier l'Ouest. Cette nouvelle politique expansionniste pourrait кtre de mauvais augure pour les seigneurs voisins qui ne sont pas dans les bonnes grвces de la Chine.\n\nLe Dragon s'est rйveillй.;[FromFrom.Ruler.GetDerDie] groЯe [FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName] von China hat plцtzlich ein groЯes Interesse an dem Rest der Welt und vor allem dem Westen genommen. Diese neue Politik der Expansion kцnnte fьr benachbarte Herrscher, die nicht in Chinas Gnade stehen, schlecht ausgehen.\n\nDer Drache ist erwacht.;;El/La gran [FromFrom.Ruler.GetEmperorEmpress] [FromFrom.Ruler.GetDynName] de China ha tomado de repente sumo interйs en el resto del mundo, especialmente Occidente. Esta nueva polнtica Expansionista podrнa no presagiar nada bueno para los gobernantes vecinos que no cuentan con la gracia de China.\n\nEl dragуn ha despertado.;;;;;;;;;x;;
+EVTOPT_JD_50021_ISO;Время [FromFrom.Ruler.GetEmperorEmpress] для созерцания центра [FromFrom.Ruler.GetPossPronoun]...;Le moment pour l'[FromFrom.Ruler.GetEmperorEmpress] de contempler son ombre...;Zeit, dass [FromFrom.Ruler.Getderdie] [FromFrom.Ruler.GetEmperorEmpress] ьber [FromFrom.Ruler.GetHerHis]e Rolle nachdenkt...;;Hora de que el/la [FromFrom.Ruler.GetEmperorEmpress] se admire el ombligo…;;;;;;;;;x;;

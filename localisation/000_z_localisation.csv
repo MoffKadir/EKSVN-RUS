@@ -1,0 +1,108 @@
+zlocalisation;Этот файл является для меня, Корбы, местом для локализации, и его, вероятно, следует переписать до релиза, а не помещать его в основных файлы локализации. Не стесняйтесь добавлять свои собственные.;;;;;;;;;;;;;x
+otherfiles;Другие файлы, в которых может понадобиться ваша помощь, torture_localisation, flea_ixa_localisations.;;;;;;;;;;;;;x
+informplotter;Сообщить главному заговорщику.;;;;;;;;;;;;;x
+kambition180d;Ты отправляешься в удивительное приключения, но Корба прямо сейчас без вдохновения, и поэтому не может думать об эвентах, чтобы описать их. Он так же ожидает эвенты про теотль. Хорошие новости! У вас есть Амулет Королей! Чай и печенья всем!;;;;;;;;;;;;;x
+kplot2d;[From.GetBestName] (лидер заговора) сообщает заговорщику, что попытка похищения совершится в тот момент, когда цель путешествует.;;;;;;;;;;;;;x
+kplot2o1;Да будет так.;;;;;;;;;;;;;x
+kplot2o2;Я не думаю, что это такая уж хорошая задумка.;;;;;;;;;;;;;x
+kplot3d;Текст уведомит жертву о том, что она была похищена [From.GetTitledFirstName].;;;;;;;;;;;;;x
+kplot3o;О, нет!;;;;;;;;;;;;;x
+EVTOPTALoR.886;Расскажи нам об этом загадочном континете Йокуда.;;;;;;;;;;;;;x
+kplot2tt1;Похищение удалось.;;;;;;;;;;;;;x
+EVTDESCLoR.840;Массовые драки фанатов Желтой и Синий команды гладиаторов разрослись в бунт! Городская стража пытается унять бунтовщиков. Мы можем отправить Клинков на подмогу, прежде чем бунт захлестнёт остальные районы Имперского города, но это решение может привести к серьёзным последствиям...;Les supporters des Bleus et des Verts s'affrontent dans l'Hippodrome et des йmeutes ont йclatй ! La Garde de la citй se bat pour contenir la situation, mais la Garde varиgue est aussi au garde-а-vous. Ses hommes vont hacher menu tous les vandales avant qu;Unterstьtzer der blauen und grьnen Streitwagen-Mannschaft sind im Hippodrom aufeinandergestoЯen und Ausschreitungen sind losgebrochen! Die Stadtwache kдmpft darum, die Situation unter Kontrolle zu halten, doch die Warдgerwachen halten sich bereit. Sie wьr;;ЎLos seguidores de los equipos Azul y Verde tuvieron un enfrentamiento en el Hipуdromo y los disturbios han estallado! La Guardia de la Ciudad estб luchando para controlar la situaciуn, pero la la Guardia varega tambiйn estб en estado de alerta. Ellos harнan picadillo a cualquier alterado para evitar que los disturbios se expandieran hacia otros distritos, pero eso provocarнa inumerables daсos colaterales...;;;;;;;;;x
+EVTDESCLoR.841;Сотни бунтовщиков были зарублены катанами Клинков. Многие пытались бежать - все были зарублены Клинками без малейшего прояления милосердия. Улицы завалены узуродованными трупами хулиганов... и нескольких десятков зевак. Клинки - суровое оружие, которое нужно использовать с величайшей осторожностью.;Des centaines d'йmeutiers, des supporters de courses de chars, sont massacrйs sous la hache des Nordiques qui chargent dans leurs rangs. Plusieurs tentent de s'enfuir, mais les Varиgues les prennent en chasse et n'ont aucune pitiй pour ceux qu'ils attrape;Hunderte von aufrьhrerischen Streitwagen-Unterstьtzern werden niedergemetzelt, als die axtschwingenden Wikinger in die Rдnge stьrmen. Viele versuchen zu fliehen, doch die Warдger verfolgen sie und zeigen denjenigen, die sie erwischen, keine Gnade. Die Str;;Cientos de fanбticos exaltados son descuartizados con las hachas de los hombres nуrdicos. Muchos de ellos tratan de huir, pero los varegos no dudan en darles caza y no muestran ningъn atisbo de piedad. Las calles estбn llenas de cadбveres mutilados de gamberros  aficionados... y unas cuantas docenas de personas inocentes. Los varegos son una arma bruta que debe ser manejada con mucho cuidado.;;;;;;;;;x
+EVTDESCLoR.842;К городской страже прибывает подкрепление из других районов Имперского Города. Вместе с этим подкреплением бунт, наконец, подавлен. В районах, из которых стража была отправлена на подавление бунта, начались пожар и мародёрство но потери среди населения относительно невелики. ;La Garde de la citй appelle en renforts des membres d'autres secteurs et ils arrivent enfin а disperser les йmeutiers. Plusieurs quartiers brыlent et ceux que la garde a йtй forcйe d'abandonner ont йtй pillйs, mais les pertes humaines sont relativement fa;Die Stadtwache holt Verstдrkung aus den anderen Distrikten hinzu und schafft es schlussendlich, die ausschreitende Menge zu zerschlagen.Viele Nachbarschaften wurden niedergebrannt und Plьnderung ist weitverbreitet in den Distrikten, die von der Wache gezw;;La Guardia de la Ciudad consigue refuerzos de otras barriadas y finalmente logra dispersar las multitudes vandбlicas. Fuego y saqueos son comunes a lo largo de aquellos distritos donde la Guardia se vio obligada a abandonar, pero la pйrdida de vidas humanas es relativamente pequeсa.;;;;;;;;;x
+EVTDESCLoR.846;[From.GetFirstName], Ваша бесстыжая дочь и член ордена Клинков, кажется, влюбились друг в друга. Она просит благословить их союз.;[From.GetFirstName], votre fille effrontйe, semble кtre tombйe follement amoureuse de l'un de vos gardes du corps varиgues, et ce sentiment est rйciproque. Elle vous a demandй la permission d'йpouser cet homme. Il semble qu'il appartient а une famille de ;[From.GetFirstName], Eure unverschдmte Tochter, scheint sich bis ьber beide Ohren in einen Eurer Warдger-Leibwдchter verliebt zu haben und die Gefьhle beruhen auf Gegenseitigkeit. Sie hat Euch um Erlaubnis gebeten, diesen Mann heiraten zu dьrfen. Anschein;;[From.GetFirstName], tu insolente hija, parece haberse enamorado locamente de uno de tus guardaespaldas varegas, y el sentimiento es mutuo. Ella te ha pedido permiso para casarse con йl. Segъn parece, йl pertenece a alguna nobleza menor del helado Norte, pero difнcilmente puede decirse que es “de buen linaje”.;;;;;;;;;x
+EVTOPTCLoR.846;Казнить его!;;;;;;;;;;;;;x
+kplot2tt2;Похищение провалилось.;;;;;;;;;;;;;x
+kplot2tt3;Похищение не удалось, и наше участие было раскрыто.;;;;;;;;;;;;;x
+kplot4d;Жертва получает информацию о неудачной попытке похищения, заговорщик неизвестен.;;;;;;;;;;;;;x
+kplot5d;Жертва получает информацию о неудавшейся попытке похищения, и заговорщик известен.;;;;;;;;;;;;;x
+kplot6d;Вы тщательно спланировали покушение, и оно удаётся!;;;;;;;;;;;;;x
+kplot7d;Попытка похищения не удалась, хотя мое участие остается нераскрытым.;;;;;;;;;;;;;x
+kplot8d;Попытка похищения не удалась. К сожалению, один из разбойников, нанятых для выполнения задания, выявил мою причастность!;;;;;;;;;;;;;x
+kplot8o;Это плохо;;;;;;;;;;;;;x
+kplot1d;Один из заговорщиков сообщает о возможности похитить цель во время путешествия.;;;;;;;;;;;;;x
+opinion_attempted_kidnap;Попытка похищения;;;;;;;;;;;;;x
+opinion_kidnapped_family;Похищение семьи;;;;;;;;;;;;;x
+opinion_kidnapped_me;Похищение меня;;;;;;;;;;;;;x
+kplot10d;Один из заговорщиков сообщает о возможности похитить цель в то время, когда она дремлет в своих покоях.;;;;;;;;;;;;;x
+kplot11d;[From.GetBestName] (лидер заговора) сообщает заговорщику, что будет предпринята попытка похитить цель в то время, когда она дремлет в своих покоях.;;;;;;;;;;;;;x
+kvamps1d;Как-то ночью, в один безбожно тёмный час, вы оказались в полном одиночестве, посреди мрачной улицы. Вы слышите шорох из тени, перед вами быстро мелькнул силуэт, и вы чувствуете острую боль в шее. Через мгновенье вы погружаетесь во мрак...;;;;;;;;;;;;;x
+kvamps1o;Ох!;;;;;;;;;;;;;x
+EKPlots80;Поездка в карете по сельской местности может быть такой мирной, такой расслабляющей ... и такой далекой от любопытных глаз городской стражи. Это открывает удивительные возможности для похитителей.;;;;;;;;;;;;;x
+EKPlots80Accept;Великолепно.;;;;;;;;;;;;;x
+EKPlots82;[From.GetFirstName] заключил сделку с местными бандитами, чтобы [plot_target.GetFirstName] похитил [plot_target.GetSheHe] во время следующего вояжа.;;;;;;;;;;;;;x
+EKPlots82Accept;Следующий шаг - подземелья [Root.Capital.GetName]!;;;;;;;;;;;;;x
+EKPlots83;Во время путешествия моя карета внезапно останавливается. Я смотрю на улицу, и вижу маленькую армию бандитов, убивающих моих стражников! Я выхожу из кареты и сражаюсь за свою жизнь ... но нападавшие оглушают меня! Они хватают меня, связывают и запихивают в огромный мешок. Удалившись от места битвы, главарь бандитов сообщает, что я теперь пленник [From.GetBestName]!;;;;;;;;;;;;;x
+EKPlots83Accept;Будь ты проклят, [From.GetFirstName]!;;;;;;;;;;;;;x
+EKPlots84;Во время путешествия моя карета внезапно останавливается. Я смотрю на улицу, и вижу маленькую армию бандитов, убивающих моих стражников! Я выхожу из кареты и сражаюсь за свою жизнь. Вместе с моими слугами, плечом к плечом, мы побеждаем каждого разбойника. Все враги мертвы.;;;;;;;;;;;;;x
+EKPlots84Accept;Это должно сделать дороги немного более безопасными ...;;;;;;;;;;;;;x
+EKPlots85;Во время путешествия моя карета внезапно останавливается. Я смотрю на улицу, и вижу маленькую армию бандитов, убивающих моих стражников! Я выхожу из кареты и сражаюсь за свою жизнь. Вместе с моими слугами, плечом к плечом, мы побеждаем разбойников. Мы допрашиваем одинокого, тяжело раненного бандита, оставшегося в живых. "Мы были отправлены [From.GetBestName], чтобы похитить вас", - утверждает он. "Клянусь, это была идея [From.GetHerHis] - не моя!";;;;;;;;;;;;;x
+EKPlots85Accept;[From.GetFirstName] заплатит за это!;;;;;;;;;;;;;x
+EKPlots86;Разбойники, нанятые для похищения [plot_target.GetFirstName], сообщили, что [plot_target.GetSheHe] теперь заперт в застенках моего дома!;;;;;;;;;;;;;x
+EKPlots86Accept;Чудесно!;;;;;;;;;;;;;x
+EKPlots87;Разбойники, нанятые для похищения [plot_target.GetFirstName], были найдены мертвыми, их трупы оставили падальщикам. К счастью, [plot_target.GetFirstName] не знает о моем участии.;;;;;;;;;;;;;x
+EKPlots87Accept;Увы!;;;;;;;;;;;;;x
+EKPlots88;Разбойники, нанятые для похищения [plot_target.GetFirstName], были побеждены, и один из них был достаточно труслив, чтобы раскрыть мою причастность к этому инциденту!;;;;;;;;;;;;;x
+EKPlots88Accept;Проклятье!;;;;;;;;;;;;;x
+do_not_hire_me;Отказать просьбам сеньора;;;;;;;;;;;;;x
+do_not_hire_me_desc;Откажитесь от всех запросов сюзерена. Это идеально подходит для тех, кто остался бы дома, не желая заниматься чем либо. Это также убирает у вашего сеньора  возможность поставить Вас во главе войска.;;;;;;;;;;;;;x
+please_hire_me;Принять просьбы сеньора;;;;;;;;;;;;;x
+please_hire_me_desc;Вы решили сделать себя доступным для просьб сюзерена. Теперь вы сможете получать запросы на работу и вести свои собственные войска.;;;;;;;;;;;;;x
+faction_houseless;Лишённый Дома;;;;;;;;;;;;;x
+faction_houseless_title;Лишённый Дома является изгнанником в обществе благородных данмеров.;;;;;;;;;;;;;x
+faction_veloth;Дом Велот;;;;;;;;;;;;;x
+faction_veloth_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_sul;Дом Сул;;;;;;;;;;;;;x
+faction_sul_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_sadras;Дом Садрас;;;;;;;;;;;;;x
+faction_sadras_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_telvanni;Дом Телванни;;;;;;;;;;;;;x
+faction_telvanni_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_redoran;Дом Редоран;;;;;;;;;;;;;x
+faction_redoran_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_indoril;Дом Индорил;;;;;;;;;;;;;x
+faction_indoril_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_hlaalu;Дом Хлаалу;;;;;;;;;;;;;x
+faction_hlaalu_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+faction_dres;Дом Дрес;;;;;;;;;;;;;x
+faction_dres_title;Благородный данмерский Дом;;;;;;;;;;;;;x
+kmane3d;Мой народ кланяется и раболепствует каждой прихоти, и я забочусь о них, как строгий отец заботится о своих своенравных детей. Это обязанность Гривы, далее вести своих людей, чтобы найти новые земли, чтобы работать без горечей и распространять нашу философию во всех четырёх сторонах Нирна.;;;;;;;;;;;;;x
+kmane3o;Я сильный, могучий Грива!;;;;;;;;;;;;;x
+kmane4d;Путь Гривы, это не путь господства. Он нужен, чтобы направлять своих людей и показать им путь Риддл'Тар, чтобы побудить их играть свободно в песках и джунглях родного дома... и защищать его от тех, кто принесёт вред. Чтобы сделать это, я должен объединить свой народ. Сделав шаг, переступив наши границы, мы станем причиной бед для меров и людей.;;;;;;;;;;;;;x
+kmane4o;Я придерживаюсь традиционных воззрений о смысле Гривы.;;;;;;;;;;;;;x
+kmane5d;Я не очень забочусь о делах политики, мог бы многое, но проще просто бездельничать и кормить слуг моих. Должность Гривы такая, такая утомительная...;;;;;;;;;;;;;x
+kmane5o;Даже если они называют меня слабым, я всё равно ГРИВА!;;;;;;;;;;;;;x
+flea_theft1d;Руководитель заговора сообщают, что у заговорщика есть шанс украсть артефакт, отправив воров, пока хозяин артефакта находится в отъезде.;;;;;;;;;;;;;x
+flea_theft10d;Лидер заговора  сообщает заговорщику, что существует шанс украсть артефакт, если подкупить прислугу.;;;;;;;;;;;;;x
+flea_theft2d;[From.GetBestName] (лидер заговорщиков) сообщает вам о том, что будет предпринята попытка похитить артефакт, наняв нескольких воров, пока хозяин артефакта находится в отъезде.;;;;;;;;;;;;;x
+flea_theft11d;[From.GetBestName] (лидер заговорщиков) сообщает вам о том, что будет предпринята попытка похитить артефакт, подкупив одного из слуг, пока хозяин артефакта находится в отъезде.;;;;;;;;;;;;;x
+flea_theft2o1;Сделать так.;;;;;;;;;;;;;x
+flea_theft2o2;Я не думаю, что это хорошая идея.;;;;;;;;;;;;;x
+flea_theft3d;С прискорбием сообщаем, что ваш артефакт был украден.;;;;;;;;;;;;;x
+flea_theft3o;О, нет!;;;;;;;;;;;;;x
+flea_theft2tt1;Кража прошла успешно.;;;;;;;;;;;;;x
+flea_theft2tt2;Кража не удалась.;;;;;;;;;;;;;x
+flea_theft2tt3;Кража не удалась, и наше участие было раскрыто.;;;;;;;;;;;;;x
+flea_theft4d;Потерпевший сообщает о неудачной попытке кражи, организатор неизвестен.;;;;;;;;;;;;;x
+flea_theft5d;Потерпевший сообщает о неудачной попытке кражи, и организатор известен.;;;;;;;;;;;;;x
+flea_theft6d;Запланированная вами кража прошла успешно!;;;;;;;;;;;;;x
+flea_theft7d;Попытка кражи не удалась, хотя мое участие осталось нераскрытым.;;;;;;;;;;;;;x
+flea_theft8d;Попытка кражи не удалась. К сожалению, один из негодяев, нанятых для выполнения этого задания, рассказал о моем участии!;;;;;;;;;;;;;x
+flea_theft8o;Это плохо.;;;;;;;;;;;;;x
+flea_theft30d;Какой артефакт вы хотите заполучить (путем кражи)?;;;;;;;;;;;;;x
+dov;Дов;;;;;;;;;;;;;x
+dovah;Дова;;;;;;;;;;;;;x
+culture_dovah;Дова;;;;;;;;;;;;;x
+cultureish_dovah;Дова;;;;;;;;;;;;;x
+dragon_paarthurnax;Партурнакс;;;;;;;;;;;;;x
+dragon_paarthurnax_desc;Некогда жестокий лейтенант Алдуина во время Войны Драконов и ответственный за неописуемые зверства и разрушения, Паартурнакс отвернулся от жестоких и разрушительных действий своего брата, обучая смертных использованию ту'ума таким образом позволив им изгнать Алдуина из времени и уничтожить его собственную расу. В конце Войны Драконов, Паартурнакс стал учеником Пути Голоса и, в конечном счете, стал Учителем Серобородых.;;;;;;;;;;;;;x
+dragon_alduin;Алдуин, Пожиратель Мира;;;;;;;;;;;;;x
+dragon_alduin_desc;Первенец и когда-то величайшее из творений Акатоша. В своей гордости он стремился покорить Мундус для себя и претендовать на божественность, что привело к восстанию среди его родственников против его правления. Как Пожиратель Мира, Алдуин рассматривается как злая сила, которая периодически разрушает мир, и его возвращение рассматривается Нордами как конец времен.;;;;;;;;;;;;;x
+dragon_3;Древний Дракон;;;;;;;;;;;;;x
+dragon_3_desc;Страшными и почти неудержимыми являются Древние Драконы, те немногие, которые пережили Войну Драконов и изгнание Алдуина, и дожившие до сумеречных лет Второй Эры и, возможно даже до более поздних времён. Чтобы победить такого врага, понадобится великая хитрость, магия или армия.;;;;;;;;;;;;;x
+dragon_2;Старший Дракон;;;;;;;;;;;;;x
+dragon_2_desc;Могущественные Драконы, которые видели столетия, взлеты и падения Королей и их Королевств, называются просто Старшими Драконами.;;;;;;;;;;;;;x
+dragon_1;Дракон;;;;;;;;;;;;;x
+dragon_1_desc;Крупное рептилойдное существо, способное летать, многие воспринимают как их, как немного больше, чем дикие существа и монстры, однако, на самом деле они мудры и способны на великие магические подвиги.;;;;;;;;;;;;;x

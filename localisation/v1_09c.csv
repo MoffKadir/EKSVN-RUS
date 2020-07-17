@@ -1,0 +1,64 @@
+#CODE;RUSSIAN;x
+seize_trade_post_desc;§Y$CLAIMANT$§! может объявить войну правителю, известному каки §Y$TARGET$§! за область §Y$TITLE$§!. Этот повод не действителен против более слабых соперников в пределах одной республики.;x
+opinion_rival_republic;Конкурирующая республика;x
+EVTDESC_REP_070;Торговцы одной из Ваших факторий, предали Вашу семью! Теперь они служат одной из патрицианских семей новорожденной Ганзы, утверждая, что новая торговая лига даст им больше возможностей получить прибыль.;x
+EVTOPTA_REP_070;Неблагодарные!;x
+PATRICIAN_DEMESNE_BONUS;Купеческий род;x
+CANT_BUILD_TRADEPOST_OTHERREP;Убедитесь, что округ НЕ принадлежит другой торговой республике;x
+opinion_royal_marriage;Узы брака;x
+AIREASON_REPUBLICS_REFUSE_REVOKE;Торговые республики не откажутся от титулов;x
+INTERACTION_CAN_AFFORD_THE_COST;Убедитесь, что можете позволить себе расходы в $COST$¤;x
+INTERACTION_RECIPIENT_NOT_EMBARGOING;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! НЕ поддерживает эмбарго, цель которого - §Y[ThirdPartyCharacter.GetTitledFirstName]§!;x
+INTERACTION_RECIPIENT_NOT_TRUCE;Убедитесь, что §Y[Recipient.GetTitledFirstName]§! и §Y[ThirdPartyCharacter.GetTitledFirstName]§! НЕ заключили перемирие;x
+INTERACTION_ACTOR_NOT_TRUCE;Убедитесь, что §Y[Actor.GetTitledFirstName]§! и §Y[ThirdPartyCharacter.GetTitledFirstName]§! НЕ заключили перемирие;x
+AIREASON_PRIMARY_IN_WARS;Основной участник в войне;x
+AIREASON_MINOR_IN_WARS;Второстепенный участник в войне;x
+ASK_TO_EMBARGO_INTERACTION_TITLE;Ввести эмбарго;x
+ASK_TO_EMBARGO_INTERACTION_DESC;Попросить, чтобы §Y[Recipient.GetBestName]§W ввел[Recipient.GetEndA] эмбарго против Вашего соперника (торговой республики).;x
+ASK_TO_EMBARGO_INTERACTION_LONG_DESC;Вы можете ослабить конкурирующую республику и открыть прибрежные округа для Ваших торговых представительств, убедив правителя ввести эмбарго. Деньги помогут убедить правителя. Однако, если Вы проиграете в войне, то §YВам§! придется выплатить репарации.;x
+ASK_TO_EMBARGO_INTERACTION_0;Выберите торговую республику для введения эмбарго.;x
+ASK_TO_EMBARGO_INTERACTION_1;Попросить, чтобы §Y[Recipient.GetTitledFirstName]§! ввел[Recipient.GetEndA] эмбарго против правителя (§Y[ThirdPartyCharacter.GetTitledFirstName]§!) и [ThirdPartyCharacter.GetHersHis] державы: §Y[ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName]§!. Предложить §Y$GOLD$§!¤ для закрепления сделки. §RЕсли Вы проиграете в войне, Вам придется заплатить репарации.§!;x
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_SETUP;Просьба о введении эмбарго удовлетворена.;x
+ASK_TO_EMBARGO_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetTitledName]§! и §Y[Actor.GetTitledName]§! ввели эмбарго против семьи §Y[ThirdPartyCharacter.GetDynName]§!;x
+ASK_TO_EMBARGO_INTERACTION_OFFER;[Actor.GetTitledName] предлагает нам $COST$¤ за введения эмбарго против правителя ([ThirdPartyCharacter.GetTitledFirstName]) и [ThirdPartyCharacter.GetHersHis] державы: [ThirdPartyCharacter.TopLiege.PrimaryTitle.GetName].;x
+ASK_TO_EMBARGO_INTERACTION_LETTER;Коварные [ThirdPartyCharacter.PrimaryTitle.GetAdjective]ские торговцы должны быть изгнаны с Ваших земель. Если Вы согласитесь ввести эмбарго против правителя ([ThirdPartyCharacter.GetTitledName]), мы не только присоединимся к войне на Вашей стороне, но и предложим Вам $COST$¤. Если мы потерпим поражение, [Actor.PrimaryTitle.GetName] выплатит все военные репарации.;x
+INTERACTION_REQUIRES_TARGET_IS_MERCHANT_REPUBLIC;Государство §Y[ThirdPartyCharacter.PrimaryTitle.GetName]§! должно быть торговой республикой.;x
+ANY_ATTACKER_STARTS;Любой атакующий;x
+ANY_DEFENDER_STARTS;Любой обороняющийся;x
+EVTDESC295;Я принимаю Ваше предложение. Вместе мы должны заставить [Root.PrimaryTitle.GetAdjective]ских торговцев убраться. Пусть [From.PrimaryTitle.GetName] очистится от них!\n\n[From.GetTitledFirstName];x
+EVTDESC296;Честно говоря, я нахожу смешным Ваше предложение о введении эмбарго против республики [Root.PrimaryTitle.GetName]. Чем одни барыги лучше других?\n\n[From.GetTitledFirstName];x
+CONQUEROR_HOME_CULTURE;Культурные связи;x
+AIREASON_SUPPORT_FOR_CONQUEROR;Местная поддержка завоевателю;x
+k_hansa;Ганза;x
+k_hansa_adj;Ганзей;x
+called_into_war;Призван к войне;x
+city_kingdom_of_german;Торговая лига;x
+city_kingdom_german;Торговая лига;x
+opinion_bribed_tp;Заплатил[___] мне за факторию;x #[From.GetEndA]`
+opinion_thwarted_tp_destruction;Предотвратил[___] сожжение фактории;x #[From.GetEndA]`
+TRADEPOST_COST_OP_EFFECT;Мнение сюзерена (§Y$LIEGE$§!) о Вас дает: $EFFECT$;x
+EVTDESC_REP_601;Деньги продолжают идти через [From.County.GetAdjective]скую факторию, но Ваши отношения с семьей, владеющей ей, испорчены. Чтобы преподать им урок, не ввязываясь войну, Вы могли бы поднять толпу, чтобы сжечь её дотла...;x
+EVTOPTA_REP_601;Да! Собрать толпу!;x
+EVTOPTB_REP_601;Нет, все может быстро выйти из-под контроля...;x
+tp_spare;Вы решаете не сжигать факторию.;x
+EVTTOOLTIP_REP_602;Разъяренная толпа направляется в сторону фактории.;x
+EVTDESC_REP_602;Вы и [From.GetTitledName] не в самых лучших отношениях, а теперь похоже, что [From.GetSheHe] призывает толпу сжечь Вашу факторию в округе [FromFrom.GetName]! Толпа окружила небольшой гарнизон, находящийся в этой конторе, и угрожает расправой, если Вы не закроете её.;x
+EVTOPTA_REP_602;Выбора нет. Придется закрыть контору.;x
+EVTOPTB_REP_602;Возможно, [From.GetFirstName] любит деньги. Подкупить [From.GetHersHis].;x
+EVTOPTC_REP_602;Напомнить, как [FromFrom.GetName] процветает за счет этой фактории.;x
+EVTOPTD_REP_602;Использовать дипломатию, чтобы успокоить толпу.;x
+EVTDESC_REP_603;Собранная Вами толпа успешно штурмовала факторию и сожгла ее дотла!;x
+EVTOPTA_REP_603;Всё идёт, как задумано.;x
+EVTTOOLTIP_REP_604;Предложена взятка.;x
+EVTDESC_REP_604;[FromFrom.GetTitledName] отправляет своих послов с крупной взяткой для Вас в надежде, что Вы воспользуетесь своим влиянием и пощадите [FromFrom.GetHersHis] факторию в округе [From.GetName].;x
+EVTOPTA_REP_604;Хорошо. Разгоните толпу.;x
+EVTOPTB_REP_604;Ха! Дурак, он потеряет и деньги и контору!;x
+EVTTOOLTIP_REP_605;Толпа рассеялась.;x
+EVTDESC_REP_605;[From.GetTitledName] оказался неплохим управляющим, [From.GetHerHim] каким-то образом удалось повлиять на толпу, рассказав о богатстве, которое приносит [From.GetHersHis] фактория. Толпа рассеялась и фактория осталась нетронутой.;x
+EVTOPTA_REP_605;Нда... Если хочешь что-то сделать хорошо...;x
+EVTDESC_REP_606;[From.GetTitledName] - блестящий дипломат, [From.GetHerHim] каким-то образом удалось уговорить толпу отступить! Фактория осталась нетронутой.;x
+EVTTOOLTIP_REP_607;Фактория уничтожена.;x
+EVTDESC_REP_607;Этот чертов ублюдок [From.GetTitledFirstName], взял деньги, предложенные Вами в качестве взятки, и ничего не предпринял для защиты фактории. Толпа перебила весь гарнизон. Когда горстка выживших добралась до города [Root.MercRepCapital.GetName], она рассказала леденящие душу подробности о штурме и зверствах, последовавших за ним.;x
+EVTOPTA_REP_607;Варвары! Выродки! Дикари!;x
+opinion_burned_tp;Уничтожил[___] мою факторию;x #[From.GetEndA]`
+opinion_burned_tp_despite_bribe;Уничтожил[___] мою факторию, несмотря на взятку;x #[From.GetEndA]`

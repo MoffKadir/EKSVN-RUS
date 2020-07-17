@@ -1,0 +1,72 @@
+create_standing_army;Поднять армию;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+change_composition_standing_army;Отправить оборудование;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_troops_standing_army;Отправить рекрутов;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dissolve_standing_army;Расформировать Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+make_general_standing_army_third_party;Заменить Генерала;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+maintain_army;Урегулировать проблемы с обслуживанием;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_archers_text;Отправить больше лучников.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+create_standing_army_desc;Поднять постоянную армию во главе с [Root.GetFullName];FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+change_composition_standing_army_desc;Переоборудование некоторых легкобронированных солдат в Легионе, чтобы сражаться в качестве тяжелой пехоты, пикинёров или тяжелой кавалерии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_troops_standing_army_desc;Отправить новых необработанных новобранцев, чтобы увеличить размер легиона;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dissolve_standing_army_desc;Расформировать легион и отправить солдат домой. Они могут стать бандитами оставшись без работы.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+make_general_standing_army_desc;Заменить одного из ваших текущих генералов на [Root.GetFullName].;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+maintain_army_desc;Потратить немного денег, чтобы изменить плохое управление генерала и вернуть легиону полную силу.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+legion_1_name;1-й [name_target.GetBaseName] Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+legion_2_name;2-й [name_target.GetBaseName] Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+legion_3_name;3-й [name_target.GetBaseName] Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+legion_4_name;4-й[name_target.GetBaseName] Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+legion_5_name;5-й [name_target.GetBaseName] Легион;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tagmata_1_name;1-й [name_target.GetBaseName] Батальон;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tagmata_2_name;2-й [name_target.GetBaseName] Батальон;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tagmata_3_name;3-й [name_target.GetBaseName] Батальон;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tagmata_4_name;4-й [name_target.GetBaseName] Батальон;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+tagmata_5_name;5-й [name_target.GetBaseName] Батальон;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+regiment_1_name;1-й [name_target.GetBaseName] Полк;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+regiment_2_name;2-й [name_target.GetBaseName] Полк;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+regiment_3_name;3-й [name_target.GetBaseName] Полк;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+regiment_4_name;4-й [name_target.GetBaseName] Полк;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+regiment_5_name;5-й [name_target.GetBaseName] Полк;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND2EVENTDESC;Бывшие солдаты в армии полагались на свою зарплату в качестве средства к существованию. Лишившись этого они перешли к бандитизму в провинциях.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND2EVENTRESULT;Разбойничьи банды будут сформированы в нескольких провинциях.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND2EVENTRESPONSE;Проклятье на этих неблагодарных крестьян!;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND6EVENTDESC;Армия нуждается в новом оборудовании, чтобы лучше использовать войска. Как мне их переоборудовать?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND8EVENTDESC;Армия нуждается в дополнительных новобранцах, чтобы пополнить свои ряды. Каких солдат я найму?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTDESC;Я сделаю [From.GetFullName] генералом одной из моих армий. Кого я должен заменить?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOP1;Замени генерала первого легиона.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOP2;Замени генерала второго легиона.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOP3;Замени генерала третьего легиона.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOP4;Замени генерала четвертого легиона.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOP5;Замени генерала пятого легиона.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND10EVENTOPx;Я хочу заменить другого генерала.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND16EVENTDESC;Я сделаю [From.Fet.GetFullName] генералом одной из моих армий. Кого я должен заменить?;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+opinion_army_general;Дать команду;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+opinion_army_revoke_general;Отозвать команду;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_horse_archers;Отправить больше конных лучников.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_camels;Пошлите больше верблюжьей кавалерии.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+send_elephants;Отправить больше слонов.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND17NEVERMIND;Я изменил свое мнение.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND8OP4;Я хотел бы отправить некоторые специальные войска. (Не используйте это, это не работает!);FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law;Военная организация;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_desc;Организационная структура военных в государстве.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_0;Отчисления;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_0_option;Обложение;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_0_desc;Государство опирается на сбор, чтобы заполнить ряды армии.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_1_option;Свита;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_1;Сердцевина свиты;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_1_desc;У лорда есть профессиональная свита, которая составляет ядро элитных войск в его армии. Для размещения этой свиты в столице необходимо будет построить новую штаб-квартиру.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_2_option;Армия;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_2;Профессиональная постоянная армия;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_law_2_desc;Армия состоит из профессиональных войск, которые формируют основную силу.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ct_recruitment_centre_1;Штаб армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+ca_recruitment_centre_1;Штаб армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+recruitment_centre_desc;Штаб элитного ядра основной армии.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND18EVENTDESC;В армии наступили не лучшие времена, и в последние годы за содержанием армии не следили. Чтобы вернуть армию в боевую форму, нужно будет вложить немного золота.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND18EVENTOP1;Оплатить содержание.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+STAND18EVENTOP2;Я не могу позволить себе это сейчас.;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size1;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size2;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size3;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size4;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size5;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+standing_army_recruiting_size6;Вербовка армии;FRENCH;GERMAN;;SPANISH;;;;;;;;;x

@@ -1,4 +1,4 @@
-name = "«имн€€ война"
+name = "«имн€€ ¬ойна"
 
 casus_belli = {
 	actor = 124502 # Kazedirica

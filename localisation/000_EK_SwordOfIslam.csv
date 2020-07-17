@@ -1,0 +1,4 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;
+EVTDESC30110;Со священниками не всегда легко договориться. Я должен убедиться, что у меня есть их одобрение и что и моя жена [Root.Spouse.GetFirstName] и [Root.GetLordSpiritualName] [Root.job_spiritual.GetFullName] дали мне совет, как добиться одобрения священнослужителя.;;;;;;;;;;;;;x
+EVTOPTA30110;[Root.Spouse.GetFirstName] советует мне, чтобы я предложил отремонтировать храм.;;;;;;;;;;;;;x
+EVTOPTB30110;[Root.job_spiritual.GetFullName] предлагает, чтобы я припугнул священника.;;;;;;;;;;;;;x

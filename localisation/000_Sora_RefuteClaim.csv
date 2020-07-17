@@ -1,0 +1,61 @@
+plot_refute_claim_desc;Заставить этого человека отказаться от претензий на ваши титулы.;;;;;;;;;;;;;x
+plot_refute_claim_short;Опровергнуть претензии;;;;;;;;;;;;;x
+plot_refute_claim_title;Опровергнуть претензии;;;;;;;;;;;;;x
+refute_Claim_Failed;Не удалось опровергнуть претензии на ваш титул;;;;;;;;;;;;;x
+refute_Claim_Stop_Plot;Остановить попытки опровергнуть претензии на титул;;;;;;;;;;;;;x
+refute_Claim_Continue_Plot;Продолжить опровергать претензии на титул.;;;;;;;;;;;;;x
+refute_Claim_Success_desc;Ваш заговор с целью опровергнуть претензию на титул удался.;;;;;;;;;;;;;x
+refute_Claim_Accept_desc;У меня нет выбора, кроме как принять ваши требования и отказаться от моей претензии на титул.;;;;;;;;;;;;;x
+refute_Claim_Success_opt;Прекрасно.;;;;;;;;;;;;;x
+refute_Claim_Accept_opt;Хорошо.;;;;;;;;;;;;;x
+refute_Claim_Request;У меня есть доказательства, опровергающие ваши претензии на один из моих титулов. Отказаться от них было бы в ваших интересах.;;;;;;;;;;;;;x
+refute_Claim_Refuse_Demand_opt;Я думаю, нет.;;;;;;;;;;;;;x
+refute_Claim_Refuse_Demand;Они отказались!;;;;;;;;;;;;;x
+Accept_Demand_opt;Я сделаю, так, как вы хотите;;;;;;;;;;;;;x
+plot_refute_claim_decision_desc;Отправить письмо с доказательствами, опровергающими претензии.;;;;;;;;;;;;;x
+plot_refute_claim_decision;Опровергнуть претензии;;;;;;;;;;;;;x
+Sent_Letter_Refute_Claim;Вам действительно стоит отказаться от этой претензии!;;;;;;;;;;;;;x
+refute_Claim_Backer_Revealed;Опровергнуть претензии на титул пока не удалось, претендент хочет сохранить их.;;;;;;;;;;;;;x
+refute_Claim_Continue_Support;Моя поддержка будет продолжаться. Это справедливо!;;;;;;;;;;;;;x
+refute_Claim_Stop_Support;Лучше будет больше не ввязываться в это дело.;;;;;;;;;;;;;x
+Sora_EK_Stayed_in_Plot_opinion;Поддержать раскрытие заговора;;;;;;;;;;;;;x
+Sora_EK_no_more_plots_opinion;Принял участие в провалившемся заговоре;;;;;;;;;;;;;x
+refute_Claim_Became_Depressed;Ваш знакомый мертв, и весь мир выглядит чёрным для вас.;;;;;;;;;;;;;x
+refute_Claim_depressed_ok;Может быть, я должен последовать за ним, в Этериус?;;;;;;;;;;;;;x
+refute_Claim_Request_After_Attack_Familiar;Знакомый вашей цели был ранен, возможно даже убит!;;;;;;;;;;;;;x
+refute_Claim_send_letter_again;Ну что же, стоит напомнить ему, что эти вещи могут случатся...;;;;;;;;;;;;;x
+refute_Claim_Ask_again;Отправьте ему ещё одно письмо с просьбой отказаться от своих требований!;;;;;;;;;;;;;x
+refute_Claim_Murdered_Familiar_dontcare_opt;Да, это донимало меня в любом случае.;;;;;;;;;;;;;x
+refute_Claim_Do_not_care;Ваш знакомый умер!;;;;;;;;;;;;x
+refute_Claim_Familiar_Survived;Ваш знакомый выжил!;;;;;;;;;;;;;x
+refute_Claim_Answer_Deadfamilar;Ваш знакомый умер!;;;;;;;;;;;;;x
+refute_Claim_Murdered_Familiar_horrible_opt;Нет. Дыхания. Жизни!;;;;;;;;;;;;;x
+refute_Claim_Attacked_Familiar;Когда вы гуляли утром по двору, то увидели ужасающее зрелище! Ваш лояльный знакомый лежал мёртвый в луже крови, рядом с его телом находился лист бумаги: "Эти вещи могут случится из-за амбициозности людей!".;;;;;;;;;;;;;x
+refute_Claim_put_on_pressure;Ну, может быть, если надавить на него ещё немного, мы сможем это сделать.;;;;;;;;;;;;;x
+sora_escaped_prison_death;Умер во время попытки сбежать из тюрьмы;;;;;;;;;;;;;x
+obj_EscapePrison_title;Сбежать из тюрьмы;;;;;;;;;;;;;x
+obj_EscapePrison_desc;Вы хотите избежать тюремного заключения. Для того, что бы это сделать, вам надо попытаться найти некоторые вещи, а потом ждать возможности сбежать!;;;;;;;;;;;;;x
+Sora_Escape_Prison_objective_dec;Попытаться сбежать из тюрьмы!;;;;;;;;;;;;;x
+Sora_Escape_Prison_objective_dec_desc;Искать возможность сбежать из тюремной камеры.;;;;;;;;;;;;;x
+sora_escapeprison_failed;Неудачная попытка побега;;;;;;;;;;;;;x
+sora_escapeprison_failed_desc;Вы совершили неудачную попытку побега, в процессе которой получили ранение и стражники вас заметили!.;;;;;;;;;;;;;x
+sora_escapeprison_freedom_title;Вы сбежали из тюрьмы!;;;;;;;;;;;;;x
+sora_escapeprison_freedom_desc;Ваша попытка сбежать из тюрьмы удалась!;;;;;;;;;;;;;x
+sora_escapeprison_freedom_opt;Наконец-то свобода!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_fightwayout_title;Узник сбежал!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_fightwayout_desc;Ваш узник [From.GetName] убил нескольких стражников и сбежал из тюрьмы!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_fightwayout_opt;Я убью ещё нескольких стражников, если такое повторится!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_prisonrevolt_title;Бунт в тюрьме;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_prisonrevolt_desc;В подземной тюрьме произошло восстание, во главе с [From.GetName]. [From.GetSheHe] сбежал, а остальные узники бегут к выходу!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_prisonrevolt_opt;Остановите их!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_digtunnel_title;Обнаружён подземный ход!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_digtunnel_desc;Ваши  стражники нашли подземный ход в [From.GetName] камере. [From.GetSheHe] не нашли...;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_digtunnel_opt;Засыпать дыру!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_sneakout_title;Узник исчез!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_sneakout_desc;[From.GetName] исчез из [From.GetHerHis] темницы и ваши стражники не смогли найти какие-либо следы [From.GetHerHim];;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_sneakout_opt;Продолжить поиск, пока он не упадет замертво!;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_Playeddead_title;Узник симулировал смерть;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_Playeddead_desc;Ваш  тайный советник сообщает, что [From.GetName] который, как считалось, умер вместе с охранниками. Но [From.GetHerHis] тело [From.GetHerHis] на самом деле не умерло, как мы думали...;;;;;;;;;;;;;x
+sora_escapeprison_FledPrisoner_Playeddead_opt;Вы даже не можете отличить мертвых от живых?!;;;;;;;;;;;;;x
+sora_escapeprison_wait_opt;Я буду ждать следующую возможность;;;;;;;;;;;;;x
+sora_escapeprison_canceldecision_opt;Возможно, не стоит бежать прямо сейчас. Ещё немного подготовки не повредит.;;;;;;;;;;;;;x

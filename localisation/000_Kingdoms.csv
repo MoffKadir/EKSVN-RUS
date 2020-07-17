@@ -1,0 +1,369 @@
+k_abbarbas;Аббарбас;;;;;;;;;;;;;x
+k_abbarbas_adj;Аббарбаск;;;;;;;;;;;;;x
+k_alikr;Храм Алик'р;;;;;;;;;;;;;x
+k_alikr_adj;Алик'рск;;;;;;;;;;;;;x
+k_alinor;Альтмерис;;;;;;;;;;;;;x
+k_alinor_adj;Альтмерийск;;;;;;;;;;;;;x
+k_balfiera;Балфиера;;;;;;;;;;;;;x
+k_balfiera_adj;Балфиерск;;;;;;;;;;;;;x
+k_hnas;Хефрем;;;;;;;;;;;;;x
+k_hnas_adj;Хефремск;;;;;;;;;;;;;x
+k_ravan;Раван;;;;;;;;;;;;;x
+k_ravan_adj;Раванск;;;;;;;;;;;;;x
+k_lainlyn;Лайнлин;;;;;;;;;;;;;x
+k_lainlyn_adj;Лайнлинск;;;;;;;;;;;;;x
+k_gideon;Гидеон;;;;;;;;;;;;;x
+k_gideon_adj;Гидеонск;;;;;;;;;;;;;x
+k_murkwood;Мрачнолесье;;;;;;;;;;;;;x
+k_bangkorai;Бангкорай;;;;;;;;;;;;;x
+k_bangkorai_adj;Бангкорайск;;;;;;;;;;;;;x
+k_akoskasaz;Акос Казас;;;;;;;;;;;;;x
+k_akoskasaz_adj;Акос Казасск;;;;;;;;;;;;;x
+k_thechain;Чейн;;;;;;;;;;;;;x
+k_thechain_adj;Чейнск;;;;;;;;;;;;;x
+k_meirvale;Мейрвейл;;;;;;;;;;;;;x
+k_meirvale_adj;Мейрвейлск;;;;;;;;;;;;;x
+k_khenarthi;Кенарти;;;;;;;;;;;;;x
+k_khenarthi_adj;Кенартск;;;;;;;;;;;;;x
+k_alabaster;Алабастр;;;;;;;;;;;;;x
+k_alabaster_adj;Алабастрск;;;;;;;;;;;;;x
+k_helkarn;Хелкарн;;;;;;;;;;;;;x
+k_helkarn_adj;Хелкарнск;;;;;;;;;;;;;x
+k_tenmar;Тенмар;;;;;;;;;;;;;x
+k_tenmar_adj;Тенмарск;;;;;;;;;;;;;x
+k_corinth;Коринт;;;;;;;;;;;;;x
+k_corinth_adj;Коринтск;;;;;;;;;;;;;x
+k_brukreich;Брукрейх;;;;;;;;;;;;;x
+k_brukreich_adj;Брукрейхск;;;;;;;;;;;;;x
+k_torval;Торвал;;;;;;;;;;;;;x
+k_torval_adj;Торвалск;;;;;;;;;;;;;x
+k_dune;Дюна;;;;;;;;;;;;;x
+k_dune_adj;Дюнск;;;;;;;;;;;;;x
+k_orcrest;Оркрест;;;;;;;;;;;;;x
+k_orcrest_adj;Оркрестск;;;;;;;;;;;;;x
+k_verkarth;Веркарт;;;;;;;;;;;;;x
+k_verkarth_adj;Веркартск;;;;;;;;;;;;;x
+k_systres;Сестрес;;;;;;;;;;;;;x
+k_systres_adj;Сестреск;;;;;;;;;;;;;x
+k_betony;Бетони;;;;;;;;;;;;;x
+k_betony_adj;Бетонск;;;;;;;;;;;;;x
+k_craglorn;Краглорн;;;;;;;;;;;;;x
+k_craglorn_adj;Краглорн;;;;;;;;;;;;;x
+k_vath;Ватхи;;;;;;;;;;;;;x
+k_vath_adj;Ватхийск;;;;;;;;;;;;;x
+k_murkwood_adj;Мрачнолеск;;;;;;;;;;;;;x
+k_helstrom;Хелстром;;;;;;;;;;;;;x
+k_helstrom_adj;Хелстромск;;;;;;;;;;;;;x
+k_blackrose;Блэкроуз;;;;;;;;;;;;;x
+k_blackrose_adj;Блэкроузск;;;;;;;;;;;;;x
+k_archon;Архон;;;;;;;;;;;;;x
+k_archon_adj;Архонск;;;;;;;;;;;;;x
+k_almisivi_adj;Трибунал;;;;;;;;;;;;;x
+k_almsivi;Храм Трибунала;;;;;;;;;;;;;x
+k_almsivi_adj;Трибунальск;;;;;;;;;;;;;x
+k_volkihar;Волкихар;;;;;;;;;;;;;x
+k_volkihar_adj;Волкихарск;;;;;;;;;;;;;x
+k_anequina;Анеквина;;;;;;;;;;;;;x
+k_anequina_adj;Анеквинск;;;;;;;;;;;;;x
+k_canulus;Канулус;;;;;;;;;;;;;x
+k_canulus_adj;Канулуск;;;;;;;;;;;;;x
+k_anvil;Анвил;;;;;;;;;;;;;x
+k_ashlands;Эшленд;;;;;;;;;;;;;x
+k_ashlands_desc;Эшлендерск;;;;;;;;;;;;;x
+k_necrom;Некром;;;;;;;;;;;;;x
+k_necrom_desc;Некромск;;;;;;;;;;;;;x
+k_blackwood;Чёрный Лес;;;;;;;;;;;;;x
+k_blackwood_desc;Чёрнолеск;;;;;;;;;;;;;x
+k_sadras;Великий Дом Садрас;;;;;;;;;;;;;x
+k_wrothgarian;Ротгар;;;;;;;;;;;;;x
+k_topalsea;Топал;;;;;;;;;;;;;x
+k_topalsea_adj;Топалск;;;;;;;;;;;;;x
+k_sul;Великий Дом Сул;;;;;;;;;;;;;x
+k_veloth;Великий Дом Велот;;;;;;;;;;;;;x
+k_dagoth;Великий Дом Дагот;;;;;;;;;;;;;x
+k_dagoth_adj;Даготск;;;;;;;;;;;;;x
+k_sadras_adj;Садраск;;;;;;;;;;;;;x
+k_sul_adj;Сульск;;;;;;;;;;;;;x
+k_veloth_adj;Велоти;;;;;;;;;;;;;x
+b_hall_of_orgnum;Зал Оргнума;;;;;;;;;;;;;x
+k_custom_house_1;Великий Дом CUSTOM_HOUSE_STRING1;;;;;;;;;;;;;x
+k_custom_house_2;Великий Дом CUSTOM_HOUSE_STRING2;;;;;;;;;;;;;x
+k_custom_house_3;Великий Дом CUSTOM_HOUSE_STRING3;;;;;;;;;;;;;x
+k_custom_house_1;CUSTOM_HOUSE_STRING1;;;;;;;;;;;;;x
+k_custom_house_2;CUSTOM_HOUSE_STRING2;;;;;;;;;;;;;x
+k_custom_house_3;CUSTOM_HOUSE_STRING3;;;;;;;;;;;;;x
+k_anvil_adj;Анвильск;;;;;;;;;;;;;x
+k_arenthia;Сильвенар;;;;;;;;;;;;;x
+k_arenthia_adj;Сильвенарск;;;;;;;;;;;;;x
+k_argonia;Аргония;;;;;;;;;;;;;x
+k_argonia_adj;Аргонианск;;;;;;;;;;;;;x
+k_atmora;Атмора;;;;;;;;;;;;;x
+k_atmora_adj;Атморск;;;;;;;;;;;;;x
+k_auridon;Ауридон;;;;;;;;;;;;;x
+k_auriel;Храм Ауриэля;;;;;;;;;;;;;x
+k_auriel_adj;Ауриэль;;;;;;;;;;;;;x
+k_ayleids;Неналата;;;;;;;;;;;;;x
+k_ayleids_adj;Неналате;;;;;;;;;;;;;x
+k_beidao;Бейдао;;;;;;;;;;;;;x
+k_beidao_adj;Бейдаоск;;;;;;;;;;;;;x
+k_beipotun;Бей По' Тун;;;;;;;;;;;;;x
+k_beupotun_adj;Бей По' Тунск;;;;;;;;;;;;;x
+k_blacklight;Блэклайт;;;;;;;;;;;;;x
+k_blacklight_adj;Блэклайтск;;;;;;;;;;;;;x
+k_blackmarsh;Чернотопье;;;;;;;;;;;;;x
+k_blackmarsh_adj;Чернотопьск;;;;;;;;;;;;;x
+k_bleakwind;Бликвинд;;;;;;;;;;;;;x
+k_bleakwind_adj;Бликвиндск;;;;;;;;;;;;;x
+k_camlorn;Камлорн;;;;;;;;;;;;;x
+k_camlorn_adj;Камлорнск;;;;;;;;;;;;;x
+k_cathnoquey;Катноквей;;;;;;;;;;;;;x
+k_cathnoquey_adj;Катноквейск;;;;;;;;;;;;;x
+k_cheydinhal;Чейдин;;;;;;;;;;;;;x
+k_cheydinhal_adj;Чейдинск;;;;;;;;;;;;;x
+k_chorrol;Коррол;;;;;;;;;;;;;x
+k_chorrol_adj;Корролск;;;;;;;;;;;;;x
+k_colovia;Коловианский Союз;;;;;;;;;;;;;x
+k_colovia_adj;Коловианск;;;;;;;;;;;;;x
+k_cyrodiil;Сиродиил;;;;;;;;;;;;;x
+k_cyrodiil_adj;Сиродиильск;;;;;;;;;;;;;x
+k_daggerfall;Даггерфолл;;;;;;;;;;;;;x
+k_daggerfall_adj;Даггерфолльск;;;;;;;;;;;;;x
+k_direnni;Гегемония Диренни;;;;;;;;;;;;;x
+k_dragontail;Драгонтейл;;;;;;;;;;;;;x
+k_dragontail_adj;Драгонтейлск;;;;;;;;;;;;;x
+k_dres;Великий Дом Дрес;;;;;;;;;;;;;x
+k_dres_adj;Дреск;;;;;;;;;;;;;x
+k_eastmarch;Истмарк;;;;;;;;;;;;;x
+k_eastmarch_adj;Истмаркск;;;;;;;;;;;;;x
+k_eastreach;Истрич;;;;;;;;;;;;;x
+k_eastreach_adj;Истричск;;;;;;;;;;;;;x
+k_ebonheart;Эбонхарт;;;;;;;;;;;;;x
+k_ebonheart_adj;Эбонхартск;;;;;;;;;;;;;x
+k_eightdivines;Храм Восьми Богов;;;;;;;;;;;;;x
+k_eightdivines_adj;Восьми;;;;;;;;;;;;;x
+k_eldenroot;Элденрут;;;;;;;;;;;;;x
+k_eldengrove;Вудхарт;;;;;;;;;;;;;x
+k_eldengrove_adj;Вудхартск;;;;;;;;;;;;;x
+k_cormount;Арчен;;;;;;;;;;;;;x
+k_cormount_adj;Кормаунтск;;;;;;;;;;;;;x
+k_silvenar;Сильвенар;;;;;;;;;;;;;x
+k_silvenar_adj;Сильвенарск;;;;;;;;;;;;;x
+k_eldenroot_adj;Элденрутск;;;;;;;;;;;;;x
+k_eldercouncil;Повстанцы Совета Старейшин;;;;;;;;;;;;;x
+k_eldercouncil_adj;Старейшинск;;;;;;;;;;;;;x
+k_elinhir;Элинхир;;;;;;;;;;;;;x
+k_elinhir_adj;Элинхирск;;;;;;;;;;;;;x
+k_elsweyr;Эльсвейр;;;;;;;;;;;;;x
+k_elsweyr_adj;Эльсвейрск;;;;;;;;;;;;;x
+k_esnoriet;Эснориэт;;;;;;;;;;;;;x
+k_esnoriet_adj;Эснориэтск;;;;;;;;;;;;;x
+k_esroniet;Эсрониэт;;;;;;;;;;;;;x
+k_esroniet_adj;Эсрониэтск;;;;;;;;;;;;;x
+k_evermore;Эвермор;;;;;;;;;;;;;x
+k_evermore_adj;Эверморск;;;;;;;;;;;;;x
+k_falinesti;Фалинести;;;;;;;;;;;;;x
+k_falinesti_adj;Фалинестийск;;;;;;;;;;;;;x
+k_falkreath;Фолкрит;;;;;;;;;;;;;x
+k_falkreath_adj;Фолкритск;;;;;;;;;;;;;x
+k_firstholk_adj;Ауридонск;;;;;;;;;;;;;x
+k_frostking;Ледяная Орда;;;;;;;;;;;;;x
+k_gilane;Гилан;;;;;;;;;;;;;x
+k_gilane_adj;Гиланск;;;;;;;;;;;;;x
+k_gorkota;Горкота;;;;;;;;;;;;;x
+k_gorkota_adj;Горкотск;;;;;;;;;;;;;x
+k_gorling;Горлинг;;;;;;;;;;;;;x
+k_gorling_adj;Горлингск;;;;;;;;;;;;;x
+k_gucun;Гакан;;;;;;;;;;;;;x
+k_gucun_adj;Гакан;;;;;;;;;;;;;x
+k_hammerfell;Хаммерфелл;;;;;;;;;;;;;x
+k_hammerfell_adj;Хаммерфелльск;;;;;;;;;;;;;x
+k_haven;Хевен;;;;;;;;;;;;;x
+k_haven_adj;Хейвенск;;;;;;;;;;;;;x
+k_heartlands;Хартленд;;;;;;;;;;;;;x
+k_heartlands_adj;Хартлендск;;;;;;;;;;;;;x
+k_hegathe;Хегат;;;;;;;;;;;;;x
+k_hegathe_adj;Хегатск;;;;;;;;;;;;;x
+k_heldorn;Хелдорн;;;;;;;;;;;;;x
+k_heldorn_adj;Хелдорнск;;;;;;;;;;;;;x
+k_highrock;Хай Рок;;;;;;;;;;;;;x
+k_highrock_adj;Хайрокск;;;;;;;;;;;;;x
+k_hjaalmarch;Хьялмарк;;;;;;;;;;;;;x
+k_hjaalmarch_adj;Хьялмаркск;;;;;;;;;;;;;x
+k_hlaalu;Великий Дом Хлаалу;;;;;;;;;;;;;x
+k_hlaalu_adj;Хлаалуск;;;;;;;;;;;;;x
+k_human_sun;Ианиил-Джо;;;;;;;;;;;;;x
+k_human_sun_adj;Ианиильск;;;;;;;;;;;;;x
+k_imperialcommune;Имперское Содружество;;;;;;;;;;;;;x
+k_imperialcommune_adj;Содружественск;;;;;;;;;;;;;x
+k_imperialestate;Имперский Союз;;;;;;;;;;;;;x
+k_imperialestate_adj;Имперск;;;;;;;;;;;;;x
+k_indoril;Великий Дом Индорил;;;;;;;;;;;;;x
+k_indoril_adj;Индорил;;;;;;;;;;;;;x
+k_islands;Острова;;;;;;;;;;;;;x
+k_islands_adj;Островн;;;;;;;;;;;;;x
+k_jehenna;Джеханна;;;;;;;;;;;;;x
+k_jehenna_adj;Джеханнск;;;;;;;;;;;;;x
+k_kamaleimirvuk;Камалей Мирвук;;;;;;;;;;;;;x
+k_kamaleimirvuk_adj;Камалей Мирвукск;;;;;;;;;;;;;x
+k_kamaleinaluk;Камалей Налук;;;;;;;;;;;;;x
+k_kamaleinaluk_adj;Камалей Налукск;;;;;;;;;;;;;x
+k_kamalettan;Камалеттан;;;;;;;;;;;;;x
+k_kamalettan_adj;Камалеттанск;;;;;;;;;;;;;x
+k_kamipara;Камипара;;;;;;;;;;;;;x
+k_kamipara_adj;Камипараск;;;;;;;;;;;;;x
+k_kazedirica;Казедирика;;;;;;;;;;;;;x
+k_kazedirica_adj;Казедирикск;;;;;;;;;;;;;x
+k_mehekbaz;Мехекбаз;;;;;;;;;;;;;x
+k_mehekbaz_adj;Мехекбазск;;;;;;;;;;;;;x
+k_ryzgaley;Ризгалей;;;;;;;;;;;;;x
+k_ryzgaley_adj;Ризгалейск;;;;;;;;;;;;;x
+k_karthspire;Картспайр;;;;;;;;;;;;;x
+k_karthspire_adj;Картспайрск;;;;;;;;;;;;;x
+k_kvatch;Кватч;;;;;;;;;;;;;x
+k_kvatch_adj;Кватчск;;;;;;;;;;;;;x
+k_langdin;Ланг Дин;;;;;;;;;;;;;x
+k_langdin_adj;Ланг Динск;;;;;;;;;;;;;x
+k_lilandril;Лилландрил;;;;;;;;;;;;;x
+k_lilandril_adj;Лилландрильск;;;;;;;;;;;;;x
+k_lillandril;Лилландрил;;;;;;;;;;;;;x
+k_lillandril_adj;Лилландрильск;;;;;;;;;;;;;x
+k_lilmoth;Лилмот;;;;;;;;;;;;;x
+k_lilmoth_adj;Лилмотск;;;;;;;;;;;;;x
+k_malak;Орден Малаката;;;;;;;;;;;;;x
+k_malak_adj;Малакатск;;;;;;;;;;;;;x
+k_markarth;Маркарт;;;;;;;;;;;;;x
+k_markarth_adj;Маркартск;;;;;;;;;;;;;x
+k_morrowind;Морровинд;;;;;;;;;;;;;x
+k_morrowink_adj;Морровиндск;;;;;;;;;;;;;x
+k_mournhold;Морнхолд;;;;;;;;;;;;;x
+k_mournholk_adj;Морнхолдск;;;;;;;;;;;;;x
+k_nanpotun;Нан По' Тун;;;;;;;;;;;;;x
+k_nanpotun_adj;Нан По' Тунск;;;;;;;;;;;;;x
+k_narsis;Нарсис;;;;;;;;;;;;;x
+k_narsis_adj;Нарсийск;;;;;;;;;;;;;x
+k_nibenay;Нибеней;;;;;;;;;;;;;x
+k_nibenay_adj;Нибенейск;;;;;;;;;;;;;x
+k_ninedivines;Храм Девяти Богов;;;;;;;;;;;;;x
+k_ninedivines_adj;Девяти;;;;;;;;;;;;;x
+k_northpoint;Нортпойнт;;;;;;;;;;;;;x
+k_northpoint_adj;Нортпойнтск;;;;;;;;;;;;;x
+k_nuku;Нуку;;;;;;;;;;;;;x
+k_nuku_adj;Нукуск;;;;;;;;;;;;;x
+k_orsinium;Орсиниум;;;;;;;;;;;;;x
+k_orsinium_adj;Орсиниумск;;;;;;;;;;;;;x
+k_panman;Панман;;;;;;;;;;;;;x
+k_panman_adj;Панманск;;;;;;;;;;;;;x
+k_pellitine;Пеллетин;;;;;;;;;;;;;x
+k_pellitine_adj;Пеллетинск;;;;;;;;;;;;;x
+k_phaedin;Фае Дин;;;;;;;;;;;;;x
+k_phaedin_adj;Фае Динск;;;;;;;;;;;;;x
+k_pontu;Понту;;;;;;;;;;;;;x
+k_pontu_adj;Понтуйск;;;;;;;;;;;;;x
+k_pyandonea;Пиандонея;;;;;;;;;;;;;x
+k_pyandonea_adj;Пиандонейск;;;;;;;;;;;;;x
+k_pyrrahn;Пирран;;;;;;;;;;;;;x
+k_pyrrahn_adj;Пирранск;;;;;;;;;;;;;x
+k_ravenhall;Рейвенхолл;;;;;;;;;;;;;x
+k_ravenhall_adj;Рейвенхолл;;;;;;;;;;;;;x
+k_redoran;Великий Дом Редоран;;;;;;;;;;;;;x
+k_redoran_adj;Редоранск;;;;;;;;;;;;;x
+k_riddle;Храм Риддл-Т'ар;;;;;;;;;;;;;x
+k_riddle_adj;Риддл-Т'арск;;;;;;;;;;;;;x
+k_rihad;Рихад;;;;;;;;;;;;;x
+k_rihak_adj;Рихадск;;;;;;;;;;;;;x
+k_rimmen;Риммен;;;;;;;;;;;;;x
+k_rimmen_adj;Римменск;;;;;;;;;;;;;x
+k_riverhold;Риверхолд;;;;;;;;;;;;;x
+k_riverholk_adj;Риверхолдск;;;;;;;;;;;;;x
+k_roscrea;Роскреа;;;;;;;;;;;;;x
+k_roscrea_adj;Роскреаск;;;;;;;;;;;;;x
+k_senchal;Сенчал;;;;;;;;;;;;;x
+k_senchal_adj;Сенчалск;;;;;;;;;;;;;x
+k_sentinel;Сентинель;;;;;;;;;;;;;x
+k_sentinel_adj;Сентинельск;;;;;;;;;;;;;x
+k_sharnhelm;Шорнхельм;;;;;;;;;;;;;x
+k_sharnhelm_adj;Шорнхельмск;;;;;;;;;;;;;x
+k_shimmerene;Шиммерин;;;;;;;;;;;;;x
+k_shimmerene_adj;Шиммеринск;;;;;;;;;;;;;x
+k_sigtari;Сигтари;;;;;;;;;;;;;x
+k_sigtari_adj;Сигтарийск;;;;;;;;;;;;;x
+k_skaven;Скавен;;;;;;;;;;;;;x
+k_skaven_adj;Скавенск;;;;;;;;;;;;;x
+k_skingrad;Скинград;;;;;;;;;;;;;x
+k_skingrak_adj;Скинградск;;;;;;;;;;;;;x
+k_skyrim;Скайрим;;;;;;;;;;;;;x
+k_skyrim_adj;Скайримск;;;;;;;;;;;;;x
+k_solitude;Солитьюд;;;;;;;;;;;;;x
+k_solitude_adj;Солитьюдск;;;;;;;;;;;;;x
+k_solstheim;Солстхейм;;;;;;;;;;;;;x
+k_solstheim_adj;Солстхеймск;;;;;;;;;;;;;x
+k_soulrest;Соулрест;;;;;;;;;;;;;x
+k_soulrest_adj;Соулрестск;;;;;;;;;;;;;x
+k_southpoint;Саутпойнт;;;;;;;;;;;;;x
+k_southpoint_adj;Саутпойнтск;;;;;;;;;;;;;x
+k_stormcloaks;Братья Бури;;;;;;;;;;;;;x
+k_stormcloaks_adj;Братья Бурийск;;;;;;;;;;;;;x
+k_stormcloaks_king;Ярл;;;;;;;;;;;;;x
+k_stormcloaks_queen;Ярл;;;;;;;;;;;;;x
+k_stormhold;Штормхолд;;;;;;;;;;;;;x
+k_stormholk_adj;Штормхолдск;;;;;;;;;;;;;x
+k_strosmkai;Строс М'Кай;;;;;;;;;;;;;x
+k_strosmkai_adj;Строс М'Кайск;;;;;;;;;;;;;x
+k_summerset;Остров Саммерсет;;;;;;;;;;;;;x
+k_summerset_adj;Саммерсетск;;;;;;;;;;;;;x
+k_sungkwa;Сунг Ква;;;;;;;;;;;;;x
+k_sungkwa_adj;Сунг Ква;;;;;;;;;;;;;x
+k_taneth;Танет;;;;;;;;;;;;;x
+k_taneth_adj;Танетск;;;;;;;;;;;;;x
+k_tangmo;Танг Мо;;;;;;;;;;;;;x
+k_tangmo_adj;Танг Мойск;;;;;;;;;;;;;x
+k_tear;Тир;;;;;;;;;;;;;x
+k_tear_adj;Тирск;;;;;;;;;;;;;x
+k_telvanni;Великий Дом Телванни;;;;;;;;;;;;;x
+k_telvanni_adj;Телваннийск;;;;;;;;;;;;;x
+k_thepale;Белый Берег;;;;;;;;;;;;;x
+k_thepale_adj;Белоберегск;;;;;;;;;;;;;x
+k_thereach;Предел;;;;;;;;;;;;;x
+k_thereach_adj;Предельск;;;;;;;;;;;;;x
+k_therift;Рифт;;;;;;;;;;;;;x
+k_therift_adj;Рифтск;;;;;;;;;;;;;x
+k_thorn;Торн;;;;;;;;;;;;;x
+k_thorn_adj;Торнск;;;;;;;;;;;;;x
+k_thras_embassy;Трассианское Посольство;;;;;;;;;;;;;x
+k_thras_embassy_desc;Трассиано Посольск;;;;;;;;;;;;;x
+k_tsaesci_autumn;Доурин-Джо;;;;;;;;;;;;;x
+k_tsaesci_autumn_adj;Доурин-Джойск;;;;;;;;;;;;;x
+k_tsaesci_elder;Аоки-Джо;;;;;;;;;;;;;x
+k_tsaesci_elder_adj;Аоки-Джойск;;;;;;;;;;;;;x
+k_tsaesci_spring;Ката-Всен-Джо;;;;;;;;;;;;;x
+k_tsaesci_spring_adj;Ката-Всен-Джойск;;;;;;;;;;;;;x
+k_tsaesci_summer;Джацио-Джо;;;;;;;;;;;;;x
+k_tsaesci_summer_adj;Джацио-Джойск;;;;;;;;;;;;;x
+k_tsaesci_winter;Орука-Джо;;;;;;;;;;;;;x
+k_tsaesci_winter_adj;Орука-Джойск;;;;;;;;;;;;;x
+k_valenwood;Валенвуд;;;;;;;;;;;;;x
+k_valenwook_adj;Валенвудск;;;;;;;;;;;;;x
+k_vvardenfell;Вварденфелл;;;;;;;;;;;;;x
+k_vvardenfell_adj;Вварденфеллск;;;;;;;;;;;;;x
+k_wayrest;Вэйрест;;;;;;;;;;;;;x
+k_wayrest_adj;Вэйрестск;;;;;;;;;;;;;x
+k_whiterun;Вайтран;;;;;;;;;;;;;x
+k_whiterun_adj;Вайтранск;;;;;;;;;;;;;x
+k_winterhold;Винтерхолд;;;;;;;;;;;;;x
+k_winterhold_adj;Винтерхолдск;;;;;;;;;;;;;x
+k_wrothgarian;Ротгар;;;;;;;;;;;;;x
+k_wrothgarian_adj;Ротгарианск;;;;;;;;;;;;;x
+k_xieyang;Кси Янг;;;;;;;;;;;;;x
+k_xieyang_adj;Кси Янгск;;;;;;;;;;;;;x
+k_yneslea;Инеслеа;;;;;;;;;;;;;x
+k_yneslea_adj;Инеслейск;;;;;;;;;;;;;x
+k_yokuda;Йокуда;;;;;;;;;;;;;x
+k_yokuda_adj;Йокуданск;;;;;;;;;;;;;x
+k_zasho;Зашо;;;;;;;;;;;;;x
+k_zasho_adj;Зашо;;;;;;;;;;;;;x
+k_leyawiin;Лейавин;;;;;;;;;;;;;x
+k_leyawiin_adj;Лейавинск;;;;;;;;;;;;;x
+k_bravil;Бравил;;;;;;;;;;;;;x
+k_bravil_adj;Бравильск;;;;;;;;;;;;;x
+k_bruma;Брума;;;;;;;;;;;;;x
+k_bruma_adj;Брумск;;;;;;;;;;;;;x
