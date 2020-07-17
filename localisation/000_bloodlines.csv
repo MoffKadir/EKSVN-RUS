@@ -116,6 +116,9 @@ bloodline_falmer_skyrim_desc;Спустя тысячи лет после того, как фалмеры уступили 
 # Dwemereth
 bloodline_dwemer_morrowind;Родословная [This.GetFirstName], Восстановителя;;;;;;;;;;;;;x
 bloodline_dwemer_morrowind_desc;[This.GetFirstName], предводитель давно потерянных двемеров, вернул Морровинд и провозгласил восстановление Двемерета.;;;;;;;;;;;;;x
+# Resdayn
+bloodline_chimer_morrowind;Родословная [This.GetFirstName], Восстановителя;;;;;;;;;;;;;x
+bloodline_chimer_morrowind_desc;Спустя тысячелетия после данмерского предательства, [This.GetFirstName] высадился на Ресдайн и вернул эти земли расе кимеров.;;;;;;;;;;;;;x
 # Reformed Imperial Commune
 bloodline_imperial_commune_reformer;Родословная [This.GetFirstName], Реформатора;;;;;;;;;;;;;x
 bloodline_imperial_commune_reformer_desc;[This.GetFirstName] принес мир, свободу, справедливость и безопасность в реформированную Имперскую коммуну.;;;;;;;;;;;;;x
@@ -129,6 +132,9 @@ bloodline_jorunn_alliance_war_winner_desc;Верховный король [This.GetFirstName] о
 # Ayrenn
 bloodline_ayrenn_alliance_war_winner;Родословная [This.GetFirstName], Победительницы Войны Трех Альянсов;;;;;;;;;;;;;x
 bloodline_ayrenn_alliance_war_winner_desc;[This.GetFirstNameWithNick], коронованная Орлиным Примархом Альдмерского Доминиона альтмерами, босмерами и каджитами, восстановила былую славу альтмеров в Войне Трех Альянсов.;;;;;;;;;;;;;x
+# Cyrodiil
+bloodline_cyrodiil_alliance_war_winner;Родословная [This.GetFirstName], Защитника Сиродиила;;;;;;;;;;;;;x
+bloodline_cyrodiil_alliance_war_winner_desc;Вопреки всем предсказаниям, [This.GetFirstNameWithNick] сумел защитить Сиродиил и нанес сокрушительное поражение фракциям, участвующим в Войне Трех Альянсов.;;;;;;;;;;;;;x
 ## World Saver
 # Azura
 bloodline_world_saver_azura;Родословная [This.GetFirstName], Спасителя мира;;;;;;;;;;;;;x

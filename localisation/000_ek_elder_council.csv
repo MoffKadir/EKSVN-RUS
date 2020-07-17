@@ -1424,6 +1424,50 @@ eldercouncil.2501.desc.tax_bureaucrat;[target_ec_bureaucrat.GetFirstName], квали
 eldercouncil.2501.desc.quartermaster;[target_ec_bureaucrat.GetFirstName], опытный квартирмейстер из [ec_random_province.GetName], прибыл в [Root.Capital.GetName] служить мне. Он начал изучение моей нынешней способности выставлять армию.;;;;;;;;;;;;;x
 eldercouncil.2501.desc.administrator;[target_ec_bureaucrat.GetFirstName], администратор из [ec_random_province.GetName], прибыл в [Root.Capital.GetName] служить мне. Чиновники уже начали рассылаться по всему моему Королевству, чтобы помочь решить любые вопросы, прежде чем недовольные станут слишком беспокойными.;;;;;;;;;;;;;x
 eldercouncil.2501.accept;Пусть работает.
+eldercouncil.2802.desc;Во время очередного заседания Совета Старейшин я услышал(а), как [From.GetElderCouncilFirstName] обсуждает тему, в которой не имеет никакого понятия. Другие советники также возмущены, с нетерпением ожидая возможности возразить. Настал мой черед взять речь.;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.normal;Я начну с [From.GetHerHim] обсуждение.;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.chancellor;Наши союзники не одобрят этого!;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.marshal;Легион не в состоянии отразить эту угрозу!;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.steward;Эти цифры нереальны!;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.spymaster;У меня есть доказательства обратного!;;;;;;;;;;;;;x
+eldercouncil.2802.challenge.lord_spiritual;Наши записи отличаются!;;;;;;;;;;;;;x
+eldercouncil.2802.ignore;Пусть все идет своим чередом.;;;;;;;;;;;;;x
+eldercouncil.2805.desc.placeholder;Следующие минуты я провожу, размышляя над обоснованием и неточностями аргументов, которые предоставил(а) [From.GetElderCouncilFirstName] и раздумывая свой ответ. Хотя [From.GetHerHis] позиция необоснованна, я не могу оставить это без ответа, и, по крайней мере, некоторые советники согласны со мной.;;;;;;;;;;;;;x
+eldercouncil.2805.accept;Я займу свое место.;;;;;;;;;;;;;x
+eldercouncil.2806.desc;As I take my seat, it seems that most councillors are muttering grumblings of agreement with my arguments. The debate has clearly gone in my favour.;;;;;;;;;;;;;x
+eldercouncil.2806.gain_currency;Я завоевал(а) уважение.;;;;;;;;;;;;;x
+eldercouncil.2806.gain_modifier;Я получил(а) бесценный опыт.;;;;;;;;;;;;;x
+eldercouncil.2807.desc;As I take my seat, most councillors are either silent or voicing vocal disagreements. It seems that [From.GetElderCouncilFirstName] has managed to win the support of most of the Council during our debate.;;;;;;;;;;;;;x
+eldercouncil.2807.nice;[From.GetSheHeCap] was very convincing.;;;;;;;;;;;;;x
+eldercouncil.2807.mean;I will not be humiliated!;;;;;;;;;;;;;x
+eldercouncil.2808.desc;As I take my seat, it doesn't look like many of the other councillors are invested in either of our arguments. After some brief murmurs, the meeting quickly gets back to business as if nothing happened.;;;;;;;;;;;;;x
+eldercouncil.2808.accept;A good effort.;;;;;;;;;;;;;x
+eldercouncil.2809.desc;[From.GetElderCouncilFirstName] approaches me discreetly after the meeting. "Well argued today," [From.GetSheHe] says to me, "I'm glad we have minds like yours in the Elder Council.";;;;;;;;;;;;;x
+eldercouncil.2809.accept;You were a gracious opponent.;;;;;;;;;;;;;x
+eldercouncil.2810.desc;[From.GetElderCouncilFirstName] has not stopped glaring at me since our debate earlier. I believe I may have upset [From.GetHerHim] by thoroughly trouncing them in front of the Council.;;;;;;;;;;;;;x
+eldercouncil.2810.accept;Very unbecoming.;;;;;;;;;;;;;x
+eldercouncil.2813.desc;[From.GetElderCouncilFirstName] seems to be having some difficulty in keeping up with [From.GetHerHis] administrative tasks. I have some spare time and may be able to help lend [From.GetHerHim] a hand with things.;;;;;;;;;;;;;x
+eldercouncil.2813.help;I'll see if [From.GetSheHe] wants help.;;;;;;;;;;;;;x
+eldercouncil.2813.dont_help;That sounds like [From.GetHerHis] problem.;;;;;;;;;;;;;x
+eldercouncil.2814.desc;The reports and requests assigned to me by senior members of the Elder Council have begun to pile up. Soon after a courier delivers the latest collection of documents, [From.GetElderCouncilFirstName] pokes [From.GetHerHis] head through the door. "I heard you could use some help.";;;;;;;;;;;;;x
+eldercouncil.2814.accept_help;Пожалуйста!;;;;;;;;;;;;;x
+eldercouncil.2814.refuse_help;I can handle it.;;;;;;;;;;;;;x
+eldercouncil.2815.desc;As I struggle to work through a growing number of reports for the Elder Council, [From.GetElderCouncilFirstName] passes the door of my study outside the Council chamber. It seems as if [From.GetSheHe] might step in to help for a moment but [From.GetSheHe] quickly continues on after a brief pause.;;;;;;;;;;;;;x
+eldercouncil.2815.accept;[GetFromRootInsultCap];;;;;;;;;;;;;x
+eldercouncil.2816.desc;Looking up at me from behind a mound of paperwork, [From.GetElderCouncilFirstName] seems appreciative of my offer of help. However, [From.GetSheHe] is adamant that [From.GetSheHe] can handle the great level of work left to do. Despite my protestations, [From.SheHe] does not budge.;;;;;;;;;;;;;x
+eldercouncil.2816.accept;Удачи.;;;;;;;;;;;;;x
+eldercouncil.2817.desc;[From.GetElderCouncilFirstName] и я работаем вместо до полуночи. После долгих часов усердного труда и доработок нам удалось разобраться в самых срочных отчетах. [From.GetSheHeCap] благодарит меня за оказанную помощь.;;;;;;;;;;;;;x
+eldercouncil.2817.accept;Не проблема!;;;;;;;;;;;;;x
+ec_debate_factionalism_disliked;Члены §Y[Root.GetElderCouncilOwnFaction]§! не одобрят ваши действия, разжигая фракционность.;;;;;;;;;;;;;x
+ec_debate_humiliated_me;Унизил(а) меня;;;;;;;;;;;;;x
+ec_debate_sore_loser;Не умеет достойно проигрывать;;;;;;;;;;;;;x
+ec_debate_diplomacy_gain;Известный ритор;;;;;;;;;;;;;x
+ec_debate_diplomacy_gain_desc;Этот персонаж доказал [GetHerHis] риторические способности в публичных обсуждениях.;;;;;;;;;;;;;x
+ec_debate_stewardship_gain;Известный грамматик;;;;;;;;;;;;;x
+ec_debate_stewardship_gain_desc;Этот персонаж доказал [GetHerHis] грамматические способности в публичных обсуждениях.;;;;;;;;;;;;;x
+ec_debate_learning_gain;Известный логик;;;;;;;;;;;;;x
+ec_debate_learning_gain_desc;Этот персонаж доказал [GetHerHis] логические способности в публичных обсуждениях.;;;;;;;;;;;;;x
+ec_imperial_councillor_tooltip;Эта опция доступна, так как вы являетесь [This.GetJobTitle]§! §Y[This.GetRubyThroneTitle];;;;;;;;;;;;;x
 request_elder_council_support;Повлиять на советника;;;;;;;;;;;;;x
 request_elder_council_support_desc;Если дать правильные стимулы, [Root.GetElderCouncilRank] [Root.GetFirstName] можно убедить увидеть преимущества в поддержке вашего законодательства.;;;;;;;;;;;;;x
 ec_sway_succeed_minor_tooltip;§Y[From.GetFirstName]§! будет немного более склонен поддержать ваше законодательство в течение следующих §Y10§! лет.;;;;;;;;;;;;;x
