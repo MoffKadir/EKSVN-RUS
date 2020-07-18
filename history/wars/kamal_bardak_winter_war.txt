@@ -1,4 +1,4 @@
-name = "The Winter War"
+name = "Вторжение Зимы"
 
 casus_belli = {
 	actor = 124502 # Kazedirica

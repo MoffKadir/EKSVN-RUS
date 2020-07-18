@@ -1,4 +1,4 @@
-name = "Gucun's Claim on Beidao War"
+name = "Война Гуцуна за претензию на Бейдао"
 
 casus_belli = {
     actor = 129747

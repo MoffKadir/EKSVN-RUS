@@ -1,4 +1,4 @@
-name = "Alinor Claim on Auridon War"
+name = "Алинорская война за Ауридон"
 
 casus_belli = {
 	actor = 36001 # Alinor

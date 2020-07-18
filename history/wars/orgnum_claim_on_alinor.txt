@@ -1,4 +1,4 @@
-name = "Orgnum's Claim on Alinor War"
+name = "Вторжение Оргнума в Алинор"
 
 casus_belli = {
 	actor = 39000 # Pyandonea
