@@ -1010,31 +1010,18 @@ claim_shadowmere_desc;Призовите таинственного скакуна Тенегрива, который будет с
 claim_shadowmere_power_desc;Слушатель Темного Братства может получить Тенегрива, таинственную лошадь.;;;;;;;;;;;;;x
 council_claim_house_title;Претендовать на титул Великого Дома;;;;;;;;;;;;;x;
 council_claim_house_title_desc;Глава Совета Великого Дома может получить сильные претензии на титул самого Великого Дома.;;;;;;;;;;;;;x;
-HireFightersTamriel;Наймите Бойцов, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireFightersAkavir;Наймите Железных Рукоятей, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireFightersAtmora;Наймите Медвежьих Ремесленников, чтобы разобраться с этим.;;;;;;;;;;;;;x
-HireMerchantsTamriel;Наймите Торговую Гильдию, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireMerchantsAkavir;Наймите Навигаторов Акавира, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireCompanionsTamriel;Наймите Соратников, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireThievesTamriel;Наймите Гильдию Воров, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireCamonnaTong;Наймите Каммона Тонг, чтобы разобраться с этим.;;;;;;;;;;;;;x;
-HireScenaristsTamriel;Наймите Гильдию Сценаристов, чтобы разобраться с этим.;;;;;;;;;;;;;x
-HireScenaristsAkavir;Наймите Эфемерных Стражей, чтобы разобраться с этим.;;;;;;;;;;;;;x
-HireFightersTamrielSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireFightersAkavirSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireFightersAtmoraSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x
-HireMerchantsTamrielSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireMerchantsAkavirSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireCompanionsTamrielSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireThievesTamrielSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireCamonnaTongSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x;
-HireScenaristsTamrielSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x
-HireScenaristsAkavirSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x
+jorrvaskr_active_power;Зал Йоррваскра;;;;;;;;;;;;;x
+jorrvaskr_active_power_power_desc;Йоррваскр будет активен для Предвестника до тех пор, пока находится внутри его владений.;;;;;;;;;;;;;x
+### Infestation events
 HireFightersTooltip;Гильдия посылает способного воина, чтобы устранить проблему.;;;;;;;;;;;;;x;
 HireMerchantsTooltip;Гильдия посылает умного торговца для решения проблемы.;;;;;;;;;;;;;x;
 HireMagesTooltip;Гильдия посылает мудрого мага, чтобы исправить ситуацию.;;;;;;;;;;;;;x;
 HireThievesTooltip;Гильдия посылает хитрого вора,чтобы разобраться с делами.;;;;;;;;;;;;;x;
 HireScenaristsTooltip;Гильдия посылает хорошего дипломата, чтобы разобраться.;;;;;;;;;;;;;x
+HireSelf;Я немедленно разберусь с этим.;;;;;;;;;;;;;x
+HireGenericGuild;Нанять [generic_guild.GetName], чтобы разобраться с этим.;;;;;;;;;;;;;x
+HireCulturalGuild;Нанять [cultural_guild.GetName], чтобы разобраться с этим.;;;;;;;;;;;;;x
+### Greybeards
 EKGreybeards1Ready;Присоединится к Седобородым - не простая задача. Единственный способ присоединиться к их Ордену - посетить Высокий Хротгар, это можно сделать, только если подняться на Семь Тысяч Ступеней. Путешествие длительное и трудное, но у меня есть время и ресурсы для этого, если я захочу его осуществить.;;;;;;;;;;;;;x;
 EKGreybeards1NotReady;Присоединится к Седобородым - не простая задача. Единственный способ присоединиться к их Ордену - посетить Высокий Хротгар, это можно сделать, только если подняться на Семь Тысяч Ступеней. К сожалению, у меня нет средств, чтобы сейчас отправиться в паломничество.;;;;;;;;;;;;;x;
 EKGreybeards1Accept;Затем я отправляюсь на Высокий Хротгар.;;;;;;;;;;;;;x;
@@ -1355,6 +1342,7 @@ EKGuildQuests192Accept;Замечательно!;;;;;;;;;;;;;x
 EKGuildQuests193;К сожалению, изгнать магические аномалии оказалось труднее, чем ожидалось. Их энергия была высвобождена, но мы боимся, что вскоре они снова будут связаны с Мундусом.;;;;;;;;;;;;;x
 EKGuildQuests193Accept;Наверное, могло быть и хуже.;;;;;;;;;;;;;x
 EKGuildQuests195;Магические аномалии были изгнаны. Посланник Гильдии Магов был послан, чтобы забрать награду.;;;;;;;;;;;;;x
+EKGuildQuests195Accept;Отлично.;;;;;;;;;;;;;x
 quest_magical_anomalies_self;Магические Аномалии.;;;;;;;;;;;;;x
 EKGuildQuests196;Магические аномалии были замечены в [From.GetName]. Я должен разобраться с этим немедленно.;;;;;;;;;;;;;x
 EKGuildQuests197;Меня направили к последнему месту, где были замечены магические аномалии, и я вижу их так же хорошо, как и магов, погибших во время неудачного эксперимента. Мне нужно будет связать их, а затем изгнать магию, высвободив энергию, которая отчаянно пыталась уйти.;;;;;;;;;;;;;x
@@ -1383,18 +1371,18 @@ EKGuildQuests209;Хотя моих усилий, по-видимому, было достаточно, большинство кре
 EKGuildQuests209Accept;Могло быть и хуже.;;;;;;;;;;;;;x
 EKSecretive1A;"Поиски Тёмного Братства привели меня к унылой таверне в сельской местности, где, как утверждается, можно получить знания о подпольной организации. Трактирщик, заметив моё появление, двинулся к небольшой комнате позади него. Как только я вхожу внутрь, дверь закрывается позади меня, и повернувшись я вижу человека с закрытым лицом.\n\nТак,"" начинает фигура в тени, ""Я слышал, ты ищешь информацию о Тёмном Братстве. У тебя есть золото? Если это так, то тебе повезло.""";;;;;;;;;;;;;x;
 EKSecretive1B;"Поиски Мораг Тонг привели меня к унылой таверне в сельской местности, где, как утверждается, можно получить знания о подпольной организации. Трактирщик, заметив моё появление, двинулся к небольшой комнате позади него. Как только я вхожу внутрь, дверь закрывается позади меня, и повернувшись я вижу человека с закрытым лицом.\n\nТак,"" начинает фигура в тени, ""Я слышал, ты ищешь информацию о Мораг Тонг. У тебя есть золото? Если это так, то тебе повезло.""";;;;;;;;;;;;;x;
+EKSecretive1C;Поиски Ордена Бледного Тумана привели меня к унылой таверне в сельской местности, где, как утверждается, можно получить знания о подпольной организации. Трактирщик, заметив моё появление, двинулся к небольшой комнате позади него. Как только я вхожу внутрь, дверь закрывается позади меня, и повернувшись я вижу человека с закрытым лицом.\n\nТак,"" начинает фигура в тени, ""Я слышал, ты ищешь информацию об Ордене Бледного Тумана. У тебя есть золото? Если это так, то тебе повезло.";;;;;;;;;;;;;x
 EKSecretive1Accept;Я действительно ищу.;;;;;;;;;;;;;x;
 EKSecretive1AcceptInfo;Вы отдаёте мешочек, наполненный золотыми монетами.;;;;;;;;;;;;;x;
 EKSecretive1Decline;Я думаю, что нет.;;;;;;;;;;;;;x;
 EKSecretive1DeclineInfo;Ваше путешествие завершилось и поиски прекращены. Вам нужно будет отменить свой запрос и снова проявить интерес, если надеетесь вернутся сюда в ближайшее время.;;;;;;;;;;;;;x;
 EKSecretive5A;"Этого будет достаточно, отвечает фигура взвешивая мешочек в одной руке. Хорошо, начнём. Я знаю, что вы не нашли Тёмное Братство. Оно само найдет вас. Однако есть способы заставить их появиться. Я слышал, что Аргониане, рожденные под знаком Тени, часто оказываются в их рядах. И люди, поклоняющиеся Ситису или следуют его заповедям, тоже связаны с ними. Но какой путь самый верный? Если вы кого-то убьете, то покажете свой потенциал и один из членов братства подойдёт к вам во время сна. Независимо от того, куда вы отправитесь. И независимо от того, сколько замков установлено на ваших дверях. Вот, что я знаю. Удачи в делах.\n\nЗатем я попрощался и вернулся домой.""";;;;;;;;;;;;;x;
 EKSecretive5B;"Этого будет достаточно, отвечает фигура взвешивая мешочек в одной руке. Хорошо, начнём. Я знаю, что вы не нашли Мораг Тонг. Они любят интриги. Уважайте их тоже. Все в их рядах - убийцы, это так, но я слышал, что убийство кого-либо не впечатляет их вербовщиков. Им нравятся тёмные личности. Сообразительные люди смогут выяснить, где их грандмастер раздает свои ордера. К счастью для вас, я знаю нескольких людей, которые живут там, где они должны находится.\n\nФигура передаёт вам сложенный лист бумаги. ""Следуйте этим инструкциям и ищите перечисленные здесь имена. Они могут что-то знать.""\n\nЗатем я попрощался и вернулся домой.""";;;;;;;;;;;;;x;
+EKSecretive5C;"Этого будет достаточно, - отвечает фигура взвешивая мешочек в одной руке. - Хорошо, начнём. Орден Бледного Тумана не просто найти. Они не простые убийцы. Они считают себя служителями искусства. Они презирают жестокие убийства. Нет, они ищут людей с художественным подходом. Тех, кто способен узреть красоту в смерти. Сделай это, и они свяжутся с тобой." \n\nПосле этого я выхожу и направляюсь домой.;;;;;;;;;;;;;x
 EKSecretive5Acknowledge;Всё же я могу присоединиться к ним....;;;;;;;;;;;;;x;
-EKSecretive10A;Я договорился о найме родственника одного неизвестного в Темное Братство. Этот человек  не похож на профессионала, но в будущем он может раскрыть свой огромный потенциал.;;;;;;;;;;;;;x;
-EKSecretive10B;Я договорился о найме родственника одного неизвестного в Мораг Тонг. Этот человек  не похож на профессионала, но в будущем он может раскрыть свой огромный потенциал.;;;;;;;;;;;;;x;
+EKSecretive10;Я договорился о найме родственника одного неизвестного в [assassin_guild.GetName]. Этот человек  не похож на профессионала, но в будущем он может раскрыть свой огромный потенциал.;;;;;;;;;;;;;x;
 EKSecretive10Accept;Поживём - увидим.;;;;;;;;;;;;;x;
-EKSecretive15A;Я договорился о найме родственника одного неизвестного в Гильдию Воров. У этого карманника нет опыта, но его необработанный потенциал очевиден. Со временем он может стать знаменем для криминалитета в наших рядах.;;;;;;;;;;;;;x;
-EKSecretive15B;Я договорился о найме родственника одного неизвестного в Каммона Тонг. У этого громилы нет опыта, но его необработанный потенциал очевиден. Со временем он может стать знаменем для криминалитета в наших рядах.;;;;;;;;;;;;;x;
+EKSecretive15;Я договорился о найме родственника одного неизвестного в Гильдию Воров. У этого карманника нет опыта, но его необработанный потенциал очевиден. Со временем он может стать знаменем для криминалитета в наших рядах.;;;;;;;;;;;;;x;
 EKSecretive15Accept;Поживём - увидим.;;;;;;;;;;;;;x;
 EKSecretive35A;"Спокойный ночной сон прерывается голосом, приветствующим меня. Я открываю глаза и смотрю вверх, чтобы увидеть, как [dark_brotherhood_recruiter.GetFirstName] глядит на меня.\n\nТы спишь очень крепко для убийцы,"" [dark_brotherhood_recruiter.GetSheHe] говорит, улыбаясь. ""Возможно, ты хочешь чего-то большего? Я здесь от имени Матери Ночи. Она была рада наблюдать за твоим творчеством. Но она ещё больше возрадуется, если ты присоединишься к нашей замечательной семье. Что ты скажешь?""";;;;;;;;;;;;;x;
 EKSecretive35AcceptA;Продолжай. Я слушаю.;;;;;;;;;;;;;x;
@@ -1419,6 +1407,7 @@ EKSecretive46;Мой отказ вступить в Тёмное Братство был замечен. По-видимому, в б
 EKSecretive46Acknowledge;Я вижу.;;;;;;;;;;;;;x;
 quest_db_initiation;Посвящение в Убийцы;;;;;;;;;;;;;x;
 quest_mt_initiation;В поисках Мораг Тонг;;;;;;;;;;;;;x;
+quest_opm_initiation;В поисках Ордена Бледного Тумана;;;;;;;;;;;;;x
 EKSecretive50A;Следуя указаниям, я прибыл(а) в живописную деревушку, страдающую от ужасной музыки флейты. Несколько человек ворчали на деревенской площади. Я подхожу к резиденции, из которой, по-видимому доносится музыка. Дверь дома приоткрыта.;;;;;;;;;;;;;x;
 EKSecretive50B;Предоставленные указания отправили меня в неопрятное место захоронения, рядом со святыней и несколькими лачугами. С наступлением сумерек в ночи открывается одна из лачуг, и, толкая тачку с лопатой и фонарем, появляется моя добыча.;;;;;;;;;;;;;x;
 EKSecretive50C;Следуя своим указаниям, я оказываюсь у скромного загородного дома. В одном из окон дома горит свет. Это - дом моей цели. Я подхожу к двери.;;;;;;;;;;;;;x;
@@ -1500,6 +1489,7 @@ EKSecretive70;"Я просыпаюсь, и вижу как [dark_brotherhood_recruiter.GetFirstName
 EKSecretive70OptA;Моя жизнь принадлежит Братству!;;;;;;;;;;;;;x;
 EKSecretive70OptB;Очень хорошо.;;;;;;;;;;;;;x;
 EKSecretive70OptC;(Сохранять молчание);;;;;;;;;;;;;x;
+# Morag Tong
 EKSecretive105;Следуя инструкциям, предоставленным мне знакомым, я оказался в [hiding_morag_gm.Capital.GetName]. Здесь якобы прячется загадочный грандмастер гильдии Мораг Тонг. Мне просто надо поговорить с нужными людьми и следовать их указаниям.;;;;;;;;;;;;;x;
 EKSecretive105Accept;Пойдем.;;;;;;;;;;;;;x;
 EKSecretive105Decline;Я устал(а) от этой беготни.;;;;;;;;;;;;;x;
@@ -1519,6 +1509,45 @@ EKSecretive120OptB;Как прикажете.;;;;;;;;;;;;;x;
 EKSecretive120OptC;Очень хорошо.;;;;;;;;;;;;;x;
 EKSecretive121;[From.GetFirstName] принимает мое предложение, и я даю необходимые клятвы. [From.GetSheHeCap] официально является членом Мораг Тонг.;;;;;;;;;;;;;x;
 EKSecretive121Acknowledge;Может быть, [From.GetSheHe] хорошо нам послужит.;;;;;;;;;;;;;x;
+# Order of the Pale Mist
+EKSecretive130;I have pondered on what the contact told me, and thought about how I could impress the Order of the Pale Mist so they would contact me. Mindless murder is not what interest them, I need to bring an artistic touch... Whatever that means. And I may have some ideas.;;;;;;;;;;;;;x
+EKSecretive130Accept;I just need some... Supplies.;;;;;;;;;;;;;x
+EKSecretive130Decline;I tire of this chase.;;;;;;;;;;;;;x
+EKSecretive135;There are several people in [Location.GetName] that nobody would miss. This could be the perfect opportunity to impress the Order of the Pale Mist. I have gathered a few supplies, and I just need to decide how to approach it...;;;;;;;;;;;;;x
+EKSecretive135OptA;This fisherman...;;;;;;;;;;;;;x
+EKSecretive135OptATooltip;What if this fisherman was eaten alive by the same animals he spends several hours each days fishing?\n\nWhile not very difficult, the Order might not be impressed.;;;;;;;;;;;;;x
+EKSecretive135OptB;I remember that shopkeeper having a painting in his shop...;;;;;;;;;;;;;x
+EKSecretive135OptBTooltip;Surely the Order would be impressed by this recreation of this famous painting, right?\n\nThe Order might see the artist within you, but that may not be enough to interest them.;;;;;;;;;;;;;x
+EKSecretive135OptC;Hmm... All these nobles are in the same mansion for a couple of days...;;;;;;;;;;;;;x
+EKSecretive135OptCTooltip;A murder house! Surely that will impress the Order.\n\nWhile very difficult to pull it off, the Order will surely contact you.;;;;;;;;;;;;;x
+EKSecretive140FailureTooltip;The Order will refuse any contact with you for at least a year, maybe two.;;;;;;;;;;;;;x
+EKSecretive140MildFailureTooltip;The Order will refuse any contact with you for a handful of months.;;;;;;;;;;;;;x
+EKSecretive140SuccessTooltip;You will be able to seek out the Mist Walker, and hopefully join the Order of the Pale Mist...;;;;;;;;;;;;;x
+EKSecretive140TotalFailure;Curses! This should have been an easy task, but I wasn't even able to kill the fisherman! How am I supposed to impress the Order if I can't even kill a simple commoner?;;;;;;;;;;;;;x
+EKSecretive140MildFailure;The locals are all talking the fisherman, eviscerated and eaten alive in the same lake he spent so much time fishing. Most are disgusted by how he died, but some found it almost poetic. And yet, the Order did not contact me... Why?;;;;;;;;;;;;;x
+EKSecretive140Success;To my surprise, it seems to murder of the fisherman was enough to attract the Order of the Pale Mist... They left me a letter, congratulating me on my artistic touch, and want me to meet them in [opm_master.Location.GetName].;;;;;;;;;;;;;x
+EKSecretive140Acknowledge;So be it...;;;;;;;;;;;;;x
+EKSecretive141TotalFailure;Curses! This should have been an easy task, but I wasn't even able to kill the shopkeeper! How am I supposed to impress the Order if I can't even kill a simple commoner?;;;;;;;;;;;;;x
+EKSecretive141MildFailure;The locals are all talking the shopkeeper, and how his body was forcefully teared apart to resemble the painting just above it. It seems the guard who discovered the body threw up at the mere sight of it, and yet no news of the Order... Was it not enough?;;;;;;;;;;;;;x
+EKSecretive141Success;The body of the shopkeeper was recently discovered, and it has made a great impression on the town's inhabitants. And it seems that the Order was also impressed. They left me a letter, congratulating me on my artistic touch, and want me to meet them in [opm_master.Location.GetName].;;;;;;;;;;;;;x
+EKSecretive141Acknowledge;So be it...;;;;;;;;;;;;;x
+EKSecretive142TotalFailure;Curses! I wasn't able to kill the first target in the mansion, and had to flee before the guards caught me. How am I supposed to impress the Order if I can't kill a single noble?;;;;;;;;;;;;;x
+EKSecretive142MildFailure;The news of the murder mansion echoed in the whole province! Everyone was shocked to learn that they all turned on themselves and slaughtered each other. But still, nothing from the Order...;;;;;;;;;;;;;x
+EKSecretive142Success;It seems I have made a huge impression on the province. All these nobles, trapped in the mansion, and having to tear each other apart thinking their victim was the cause of all the other dead bodies... And nobody will ever know who did this. Nobody, except the Order. They left me a letter, congratulating me on my artistic touch, and want me to meet them in [opm_master.Location.GetName].;;;;;;;;;;;;;x
+EKSecretive142Acknowledge;So be it...;;;;;;;;;;;;;x
+EKSecretive145;I finally arrived in [opm_master.Location.GetName]. While most people seem unaware of the presence of the greatest assassin in Akavir, I was able to locate some of their goons, who made me follow them to an abandoned house. In it, I can see [opm_master.GetHerHim]. The Mist Walker.;;;;;;;;;;;;;x
+EKSecretive145Acknowledge;Stay silent.;;;;;;;;;;;;;x
+EKSecretive150;I hear some of my goons open the main door, and I instantly know why. They brought [From.GetFirstName] with them, who seems to have made quite the impression recently. [From.GetSheHeCap] could be a nice addition to our ranks.;;;;;;;;;;;;;x
+EKSecretive150Acknowledge;So be it.;;;;;;;;;;;;;x
+EKSecretive155;"Congratulations, [Root.GetFirstName]. Our Order is not easily impressed, and yet you managed to catch the attention of some of our members. We are always looking for assassins with a certain poetic sense, and we think you could be a great asset.\n\nAre you ready to officially join us?";;;;;;;;;;;;;x
+EKSecretive155Acknowledge;Yes.;;;;;;;;;;;;;x;
+EKSecretive160;"Then welcome to the Order of the Pale Mist. You will find that most of your new brothers and sisters share a similar artistic taste, but each with their own unique flavour. We hope that over time, you will develop your own. Remember. We are not brutes. We are artists.";;;;;;;;;;;;;x
+EKSecretive160OptA;Death has a unique beauty.;;;;;;;;;;;;;x
+EKSecretive160OptB;"One, two, three, four...";;;;;;;;;;;;;x
+EKSecretive160OptC;Stay silent.;;;;;;;;;;;;;x
+EKSecretive165;[From.GetFirstName] accepts my offer and I administer the oaths. [From.GetSheHeCap] is officially a member of the Order of the Pale Mist.;;;;;;;;;;;;;x
+EKSecretive165Acknowledge;May [From.GetSheHe] serve us well.;;;;;;;;;;;;;x
+### Thieves
 EKSecretive210;"Я говорил(а) с несколькими предполагаемыми контактами Гильдии Воров, и их советы привели меня к уединенному месту, где я встречаю [thieves_guild_recruiter.GetBestName]. Я прошу о вступлении, и [thieves_guild_recruiter.GetSheHe] объясняет [thieves_guild_recruiter.GetHerHis] цели группы.\n\nПомните - наше имя говорит всё,"" [thieves_guild_recruiter.GetFirstName] заявил(а). ""Мы воры. Мы можем быть преступниками, но мы крадем, а не убиваем. И мы - Гильдия. Это означает, что мы прикрываем спины друг у друга, и никогда не предаем ближнего. Итак, вы хотите присоединиться?""";;;;;;;;;;;;;x;
 EKSecretive210Accept;Я присоединюсь.;;;;;;;;;;;;;x;
 EKSecretive210Decline;Быть может, это не для меня.;;;;;;;;;;;;;x;
@@ -1715,8 +1744,8 @@ strengthen_body_fighter_power_desc;Члены общества могут укреплять свои тела, улу
 strengthen_body_fighter_desc;Те, кто входит в [Root.Society.GetName], могут тренировать свое тело, становясь при этом сильнее.;;;;;;;;;;;;;x
 NOT_USE_STRENGTHEN_BODY_2_YEARS_CT;Не использовал это решение последние §Yдва года§!.;;;;;;;;;;;;;x
 STRENGTHEN_BODY_EFFECT_CT;Ваше физическое состояние улучшится;;;;;;;;;;;;;x
-used_strenghten_body;Недавняя физическая подготовка;;;;;;;;;;;;;x
-used_strenghten_body_desc;[Root.GetFirstName] тренировал и укреплял [Root.GetHerHis] тело с другими [Root.GetHerHis] членами гильдии.;;;;;;;;;;;;;x
+used_strengthen_body;Недавняя физическая подготовка;;;;;;;;;;;;;x
+used_strengthen_body_desc;[Root.GetFirstName] тренировал и укреплял [Root.GetHerHis] тело с другими [Root.GetHerHis] членами гильдии.;;;;;;;;;;;;;x
 eksocieties.260.feeble;Мое тело отказывало мне с самого детства. Я никогда не мог долго бегать, а большинство видов оружия слишком тяжелы для меня. Но я не собираюсь сдаваться. Мои друзья в [Root.Society.GetName] готовы помочь мне, и вместе мы преодолеем эту физическую слабость.;;;;;;;;;;;;;x
 eksocieties.260.sturdy;В детстве я всегда был в хорошей форме , а когда приходило время устраивать какие-нибудь припадки, я почти всегда падал последним. Но я знаю, что могу толкнуть свое тело еще дальше... Мне просто нужна помощь моих друзей из [Root.Society.GetName].;;;;;;;;;;;;;x
 eksocieties.260.nothing;Хотя мне повезло, что я не проклят слабым телом, я все еще обязан как член [Root.Society.GetName] тренировать и укреплять свое тело, поскольку мы никогда не знаем, какие угрозы и миссии ожидают. С некоторыми друзьями из Гильдии мы решили провести некоторое время вместе, тренируясь и расширяя границы своего тела.;;;;;;;;;;;;;x
