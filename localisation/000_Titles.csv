@@ -15,7 +15,13 @@ archmagister_emeritus;Архимаг;;;;;;;;;;;;;x
 hegemon;Гегемон;;;;;;;;;;;;;x;
 primate;Примас;;;;;;;;;;;;;x;
 ulema;Улема;;;;;;;;;;;;;x
-alimah;Алимах;;;;;;;;;;;;;x
+despot;Деспот;;;;;;;;;;;;;x
+headmaestro;Главный маэстро;;;;;;;;;;;;;x
+tyrant;Тиран;;;;;;;;;;;;;x
+overseer;Надзиратель;;;;;;;;;;;;;x
+maestro;Маэстро;;;;;;;;;;;;;x
+maestra;Маэстра;;;;;;;;;;;;;x
+alimah;Алима;;;;;;;;;;;;;x
 adept;Адепт;;;;;;;;;;;;;x
 first_sword;Первый Клинок;;;;;;;;;;;;;x;
 sister;Сестра;;;;;;;;;;;;;x
@@ -105,7 +111,7 @@ prior;Приор;;;;;;;;;;;;;x;
 prioress;Приоресса;;;;;;;;;;;;;x;
 jarl;Ярл;;;;;;;;;;;;;x;
 rootwarden;Хранитель Корня;;;;;;;;;;;;;x;
-rootwardess;Хранительница Корня;;;;;;;;;;;;;x;
+rootwardress;Хранительница Корня;;;;;;;;;;;;;x;
 overlord;Военачальник;;;;;;;;;;;;;x;
 overlady;Военачальница;;;;;;;;;;;;;x;
 nightmare;Насылающий Кошмары;;;;;;;;;;;;;x;
@@ -137,6 +143,8 @@ head_warden;Head-Warden;;;;;;;;;;;;;x;
 head_wardress;Head-Wardress;;;;;;;;;;;;;x;
 empress_regent;Императрица-регент;;;;;;;;;;;;;x;
 nisswo;Ниссво;;;;;;;;;;;;;x;
+solar_prelate;Cолнечный прелат;;;;;;;;;;;;;x
+grand_athelan;Верховный ателан;;;;;;;;;;;;;x
 CULT_LEADER;Лидер;;;;;;;;;;;;;x;
 CULT_LEADER_FOA;Мой лидер;;;;;;;;;;;;;x;
 NEDIC_GENERIC_TITLES;NEDIC_GENERIC_TITLES;NEDIC_GENERIC_TITLES;NEDIC_GENERIC_TITLES;;NEDIC_GENERIC_TITLES;;;;;;;;;x;
@@ -832,7 +840,7 @@ temple_emperor_khajiit_pantheon;Рид-Т'ар;;;;;;;;;;;;;x;
 temple_emperor_female_khajiit_pantheon;Рид-Т'ара;;;;;;;;;;;;;x;
 temple_empire_of_khajiit_pantheon;Унут;;;;;;;;;;;;;x;
 job_spiritual_riddlethar;Шир-Фадо;;;;;;;;;;;;;x;
-temple_baron_riddlethars;Чеми;;;;;;;;;;;;;x;
+temple_baron_riddlethar;Чеми;;;;;;;;;;;;;x;
 Realm_temple_baron_riddlethars;Чеми государства;;;;;;;;;;;;;x;
 Realm_temple_baron_alkoshs;Чеми государства;;;;;;;;;;;;;x;
 temple_baron_alkoshs;Чеми;;;;;;;;;;;;;x;
