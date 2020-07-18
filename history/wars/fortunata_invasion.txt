@@ -1,4 +1,4 @@
-name = "Вторжение Фортунаты в Анвил"
+name = "Fortunata's Invasion of Anvil"
 
 casus_belli = {
 	actor = 8050 #Fortunata of Stirk

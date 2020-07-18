@@ -1,4 +1,4 @@
-name = "Эбонхартская война за роспуск Империи"
+name = "Ebonheart War to Dissolve the Empire"
 
 casus_belli = {
 	actor = 9115 # Jorunn Flame-Hair

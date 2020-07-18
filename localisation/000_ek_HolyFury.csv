@@ -9,7 +9,7 @@ tooltip_nordic_traditional_jarls_score;[From.GetSheHeCap] — традиционный ярл Ска
 tooltip_nordic_other_jarls_score;[From.GetSheHeCap] — ярл;;;;;;;;;;x;
 tooltip_nordic_not_jarl_score;[From.GetSheHeCap] даже не ярл!;;;;;;;;;;x;
 tooltip_nordic_commander_score;[From.GetSheHeCap] возглавляет войска;;;;;;;;;;x;
-tooltip_nordic_housecarl_score[From.GetSheHeCap] - §YХускарл§!;;;;;;;;;;x
+tooltip_nordic_housecarl_score;[From.GetSheHeCap] - §YХускарл§!;;;;;;;;;;x
 tooltip_master_of_the_meadery;[From.GetSheHeCap] - §YМастер медовар§!;;;;;;;;;;x
 tooltip_nordic_bloodline_score;[From.GetSheHeCap] имеет §Yкровь§! Нордского героя!;;;;;;;;;;x;
 tooltip_nordic_society_score;[From.GetSheHeCap] — высокопоставленный член нордского общества!;;;;;;;;;;x;
@@ -33,6 +33,7 @@ tooltip_feudal_elector_vote_dragonborn;[From.GetSheHeCap] -  §Yдраконорожденный§
 tooltip_feudal_elector_vote_dragonblood;§YДраконья Кровь§! течет по венам [From.GetHerHis]!;;;;;;;;;;x;
 tooltip_feudal_elector_vote_hero;[From.GetSheHeCap] - §YГерой§!;;;;;;;;;;x
 tooltip_feudal_elector_vote_no_dragonblood;[From.GetSheHeCap] не хватает §YДраконьей Крови§!;;;;;;;;;;x;
+tooltip_feudal_elector_vote_no_dragonblood;[From.GetSheHeCap] не хватает §YДраконьей Крови§!;;;;;;;;;;x
 tooltip_feudal_elector_vote_melodious_voice;[From.GetSheHeCap] имеет §Yмелодичный голос§!;;;;;;;;;;x;
 tooltip_great_house_vote_houseless;[From.GetSheHeCap] не член нашего §YДома§!;;;;;;;;;;x;
 tooltip_great_house_vote_not_council;[From.GetSheHeCap] не член §YСовета Дома§!;;;;;;;;;;x;

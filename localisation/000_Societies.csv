@@ -188,6 +188,7 @@ secret_alikr_community;Старое редгардское посольство;;;;;;;;;;;;;x;
 secret_reclamationist_community;Тайная община Истребований;;;;;;;;;;;;;x;
 secret_almsivi_community;Тайная община АЛЬМСИВИ;;;;;;;;;;;;;x;
 secret_sixth_house_community;Тайная община Шестого Дома;;;;;;;;;;;;;x;
+secret_blacksap_community;Тайное сообщество Черного Корня;;;;;;;;;;;;;x
 secret_green_pact_community;Община, скрытая в листве;;;;;;;;;;;;;x;
 secret_almsivi_old_velothi_community;Зал собраний велотийцев;;;;;;;;;;;;;x;
 secret_nerevarine_community;Грот Святого Неревара;;;;;;;;;;;;;x;
@@ -441,8 +442,7 @@ title_roll_68;Очерк по археологии, истории и исторической географии;;;;;;;;;;;;;
 title_roll_69;Картографическая иллюзия;;;;;;;;;;;;;x;
 title_roll_70;Историческая география Имперского Острова: пояснительный очерк;;;;;;;;;;;;;x;
 title_roll_71;Вино и Виноградная Лоза: очерк по истории торговли вином;;;;;;;;;;;;;x;
-title_roll_72;;;;;;;;;;;;;;;
-Лунный Сахар: исследовательский очерк;;;;;;;;;;;;;x;;
+title_roll_72;Лунный Сахар: исследовательский очерк;;;;;;;;;;;;;x;;
 title_roll_73;Противостояние прошлому: археологический и исторический очерк;;;;;;;;;;;;;x;
 imperial_geographical_society_leader_desc;Президент Императорского Географического Общества.;;;;;;;;;;;;;x;
 learned_society_currency_name;Научная Известность;;;;;;;;;;;;;x;
@@ -478,37 +478,23 @@ igs.28.d;[From.GetBestName], казначей общества, отказался принять мой вклад в Им
 igs.28.o1;Ну хорошо, никакой воды с моей спины.;;;;;;;;;;;;;x;
 published_book;Автор Публикации;;;;;;;;;;;;;x;
 published_book_desc;[Root.GetName] недавно опубликовал(а) книгу.;;;;;;;;;;;;;x;
+request_to_rank_up_within_society_wrong_rank_tt;Члены, имеюшие ранг [Root.GetSocietyRank] не могут запросить повышения.;;;;;;;;;;;;;x
 must_have_not_failed_companions;Не так давно удалось получить поощрение.;;;;;;;;;;;;;x;
-GetSocietyRankUpTooltip1_GreatHouse_Rank1_ShortLived;§Y1750§!;§Y1750§!;§Y1750§!;;§Y1750§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_GreatHouse_Rank1_LongLived;§Y5000§!;§Y5000§!;§Y5000§!;;§Y5000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Standard_Rank1_ShortLived;§Y1000§!;§Y1000§!;§Y1000§!;;§Y1000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Standard_Rank1_LongLived;§Y3000§!;§Y3000§!;§Y3000§!;;§Y3000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Standard_Rank2_ShortLived;§Y1500§!;§Y1500§!;§Y1500§!;;§Y1500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Standard_Rank2_LongLived;§Y4500§!;§Y4500§!;§Y4500§!;;§Y4500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank1_ShortLived;§Y750§!;§Y750§!;§Y750§!;;§Y750§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank1_LongLived;§Y2250§!;§Y2250§!;§Y2250§!;;§Y2250§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank2_ShortLived;§Y1000§!;§Y1000§!;§Y1000§!;;§Y1000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank2_LongLived;§Y3000§!;§Y3000§!;§Y3000§!;;§Y3000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank3_ShortLived;§Y1500§!;§Y1500§!;§Y1500§!;;§Y1500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Extra_Rank3_LongLived;§Y4500§!;§Y4500§!;§Y4500§!;;§Y4500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank1_ShortLived;§Y500§!;§Y500§!;§Y500§!;;§Y500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank1_LongLived;§Y1500§!;§Y1500§!;§Y1500§!;;§Y1500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank2_ShortLived;§Y750§!;§Y750§!;§Y750§!;;§Y750§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank2_LongLived;§Y2250§!;§Y2250§!;§Y2250§!;;§Y2250§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank3_ShortLived;§Y1000§!;§Y1000§!;§Y1000§!;;§Y1000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank3_LongLived;§Y3000§!;§Y3000§!;§Y3000§!;;§Y3000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank4_ShortLived;§Y1500§!;§Y1500§!;§Y1500§!;;§Y1500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Mages_Rank4_LongLived;§Y4500§!;§Y4500§!;§Y4500§!;;§Y4500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank1_ShortLived;§Y250§!;§Y250§!;§Y250§!;;§Y250§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank1_LongLived;§Y750§!;§Y750§!;§Y750§!;;§Y750§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank2_ShortLived;§Y400§!;§Y400§!;§Y400§!;;§Y400§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank2_LongLived;§Y1200§!;§Y1200§!;§Y1200§!;;§Y1200§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank3_ShortLived;§Y750§!;§Y750§!;§Y750§!;;§Y750§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank3_LongLived;§Y2250§!;§Y2250§!;§Y2250§!;;§Y2250§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank4_ShortLived;§Y1000§!;§Y1000§!;§Y1000§!;;§Y1000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank4_LongLived;§Y3000§!;§Y3000§!;§Y3000§!;;§Y3000§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank5_ShortLived;§Y1500§!;§Y1500§!;§Y1500§!;;§Y1500§!;;;;;;;;;x;
-GetSocietyRankUpTooltip1_Fighters_Rank5_LongLived;§Y4500§!;§Y4500§!;§Y4500§!;;§Y4500§!;;;;;;;;;x;
+GetSocietyRankUpTooltip1_2RankOff_ShortLived;§Y1500§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_2RankOff_LongLived;§Y4500§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_2RankOff_Immortal;§Y7500§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_3RankOff_ShortLived;§Y1000§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_3RankOff_LongLived;§Y3000§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_3RankOff_Immortal;§Y5000§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_4RankOff_ShortLived;§Y750§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_4RankOff_LongLived;§Y2250§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_4RankOff_Immortal;§Y3750§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_5RankOff_ShortLived;§Y500§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_5RankOff_LongLived;§Y1500§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_5RankOff_Immortal;§Y2250§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_6RankOff_ShortLived;§Y250§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_6RankOff_LongLived;§Y750§!;;;;;;;;;;;;;x
+GetSocietyRankUpTooltip1_6RankOff_Immortal;§Y1250§!;;;;;;;;;;;;;x
 join_the_fighters_guild_tamriel;Вступить в Гильдию Бойцов;;;;;;;;;;;;;x;
 join_the_fighters_guild_tamriel_desc;Прикажите [Root.GetFirstName] вступить в Гильдию Бойцов. [Root.GetFirstName] получит начальный ранг и сможет сразу же начать выполнение заданий, а также приступить к изучению специализаций, доступных [Root.GetHerHim].;;;;;;;;;;;;;x;
 join_the_fighters_guild_akavir;Прийти к Железным Рукояткам.;;;;;;;;;;;;;x;
@@ -608,8 +594,12 @@ fighters_guild_atmora_rank_3_male;Ветеран;;;;;;;;;;;;;x
 fighters_guild_atmora_rank_3_female;Ветеран;;;;;;;;;;;;;x
 fighters_guild_atmora_rank_4_male;Герой;;;;;;;;;;;;;x
 fighters_guild_atmora_rank_4_female;Героиня;;;;;;;;;;;;;x
-fighters_guild_atmora_rank_5_male;Избранный Медведь;;;;;;;;;;;;;x
-fighters_guild_atmora_rank_5_female;Избранная Медведица;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_5_male;Седеющий;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_5_female;Седеющая;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_6_male;Чемпион;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_6_female;Чемпион;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_7_male;Избранник Медведя;;;;;;;;;;;;;x
+fighters_guild_atmora_rank_7_female;Избранница Медведя;;;;;;;;;;;;;x
 fighters_guild_atmora_leader_desc;Лидер среди Залов Медведя, окровавленный и покрытый шрамами, но всегда побеждающий.;;;;;;;;;;;;;x
 currency_name_fighters_guild_atmora;Репутация;;;;;;;;;;;;;x
 fighters_guild_yokuda;Гильдия Стражей Йокуды;;;;;;;;;;;;;x;
@@ -768,6 +758,18 @@ camonna_tong_tamriel_rank_4_male;Главарь;;;;;;;;;;;;;x;
 camonna_tong_tamriel_rank_4_female;Главарь;;;;;;;;;;;;;x;
 camonna_tong_tamriel_leader_desc;Главарь Камонна Тонг.;;;;;;;;;;;;;x;
 currency_name_camonna_tong_tamriel;Устрашение;;;;;;;;;;;;;x;
+thieves_guild_akavir;Тихие Луны;;;;;;;;;;;;;x
+thieves_guild_akavir_desc;WIP;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_1_male;Карманник;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_1_female;Карманница;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_2_male;Вор;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_2_female;Вор;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_3_male;Ходящий-в-тени;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_3_female;Ходящая-в-тени;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_4_male;Мастер-вор;;;;;;;;;;;;;x
+thieves_guild_akavir_rank_4_female;Мастер-вор;;;;;;;;;;;;;x
+thieves_guild_akavir_leader_desc;Мастер-вор Тихих Лун.;;;;;;;;;;;;;x
+currency_name_thieves_guild_akavir;Удача;;;;;;;;;;;;;x
 dark_brotherhood_tamriel;Тёмное Братство;;;;;;;;;;;;;x;
 dark_brotherhood_tamriel_desc;Одна из главных гильдий убийц Тамриэля, Тёмное Братство печально известно своими секретными методами вербовки, своей преданностью Ситису - самому олицетворению хаоса, и устрашающей  эффективностью по устранении любой цели, независимо от того,  насколько она сильная или хитрая. Большинство лидеров Тамриэля формально призирают Тёмное Братство, и объявляют его вне закона, но многие из этих людей, являются теми, кто часто призывают Мать Ночи, дабы избавиться от своих врагов.;;;;;;;;;;;;;x;
 dark_brotherhood_tamriel_rank_1_male;Убийца;;;;;;;;;;;;;x;
@@ -794,6 +796,18 @@ morag_tong_tamriel_rank_4_male;Грандмастер;;;;;;;;;;;;;x;
 morag_tong_tamriel_rank_4_female;Грандмастер;;;;;;;;;;;;;x;
 morag_tong_tamriel_leader_desc;Грандмастер Мораг Тонг.;;;;;;;;;;;;;x;
 currency_name_morag_tong_tamriel;Преданность;;;;;;;;;;;;;x;
+assassin_guild_akavir;Орден Бледного Тумана;;;;;;;;;;;;;x
+assassin_guild_akavir_desc;Таинственная группа убийц, которая ассимилировала или уничтожила прочие группы, потворствуя всем пожеланиям своих клиентов. В то время, как прочие убийцы довольствуются бездумной бойней, Орден Бледного Тумана гордятся своим "Искусством" убийств.;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_1_male;Душегуб;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_1_female;Душегуб;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_2_male;Убийца;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_2_female;Убийца;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_3_male;Тень;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_3_female;Тень;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_4_male;Ходящий-в-тумане;;;;;;;;;;;;;x
+assassin_guild_akavir_rank_4_female;Ходящая-в-тумане;;;;;;;;;;;;;x
+assassin_guild_akavir_leader_desc;Ходящий-в-тумане ордена Бледного Тумана.;;;;;;;;;;;;;x
+currency_name_assassin_guild_akavir;Преданность;;;;;;;;;;;;;x
 greybeards_tamriel;Седобородые;;;;;;;;;;;;;x;
 greybeards_tamriel_desc;Седобородые были основаны Юргеном Призывателем Ветра в начале Первой Эры, в результате катастрофического поражения армии нордов, владеющих ту'умом, в сражении у Красной Горы.Юрген создал Путь Голоса, который использует ту'ум только для поклонения богам и стремится сохранить гармонию в душе и поступках.Те, кто посвящают себя Пути Голоса, могут использовать свою внутреннюю силу для создания могучего Крика.;;;;;;;;;;;;;x;
 greybeards_tamriel_rank_1_male;Послушник;;;;;;;;;;;;;x;

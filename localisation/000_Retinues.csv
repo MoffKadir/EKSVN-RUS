@@ -98,3 +98,5 @@ RETTYPE_HORSEARCHERS;Полк Конных Лучников;;;;;;;;;;;;;x
 RETTYPE_MAGES;Полк Магов;;;;;;;;;;;;;x
 RETTYPE_CAMEL;Верблюжий полк;;;;;;;;;;;;;x
 RETTYPE_WARWOOLIES;Мамонтовый полк;;;;;;;;;;;;;x
+RETTYPE_UNDEAD;Воины-скелеты;;;;;;;;;;;;;x
+RETTYPE_TONGUES;Полк Языков;;;;;;;;;;;;;x

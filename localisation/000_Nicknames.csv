@@ -12,6 +12,8 @@ nick_the_pirate_queen;Королева Пиратов;;;;;;;;;;;;;x
 nick_hew;Разрубающий;;;;;;;;;;;;;x
 nick_blackcaster;Чёрный Заклинатель;;;;;;;;;;;;;x
 nick_the_fang;Ядовитый Клык;;;;;;;;;;;;;x
+nick_wolf_sister;Сестра Волка;;;;;;;;;;;;;x
+nick_wolf_brother;Брат Волка;;;;;;;;;;;;;x
 nick_the_distrait;Рассеянный;;;;;;;;;;;;;x
 nick_of_the_river;Речной;;;;;;;;;;;;;x
 nick_the_witch_of_azurah;Ведьма Азуры;;;;;;;;;;;;;x
@@ -20,6 +22,8 @@ nick_the_merkin;Меркин;;;;;;;;;;;;;x
 nick_the_beard;Бородатый;;;;;;;;;;;;;x
 nick_the_rake;Грабля;;;;;;;;;;;;;x
 nick_bravillius;Бравиллиус;;;;;;;;;;;;;x
+nick_the_brash;Дерзкий;;;;;;;;;;;;;x
+nick_the_middling;Среднерукий;;;;;;;;;;;;;x
 nick_the_acrobat;Акробат;;;;;;;;;;;;;x
 nick_the_crusader;Защитник Веры;;;;;;;;;;;;;x
 nick_the_diplomat;Дипломат;;;;;;;;;;;;;x
@@ -29,6 +33,7 @@ nick_the_savant;Гений;;;;;;;;;;;;;x
 nick_the_reborn;Возрождённый;;;;;;;;;;;;;x
 nick_the_brief_queen;Краткая Королева;;;;;;;;;;;;;x
 nick_the_scout;Разведчик;;;;;;;;;;;;;x
+nick_the_golden_knight;Золотой Рыцарь;;;;;;;;;;;;;x
 nick_the_signifier;Означатель;;;;;;;;;;;;;x
 nick_the_snow_prince;Снежный [Root.GetPrincessPrince];;;;;;;;;;;;;x
 nick_the_sorcerer;Чародей;;;;;;;;;;;;;x
@@ -36,7 +41,9 @@ nick_the_spellsword;Магический клинок;;;;;;;;;;;;;x
 nick_the_wayfarer;Путник;;;;;;;;;;;;;x
 nick_the_witch_hunter;Охотник на ведьм;;;;;;;;;;;;;x
 nick_the_unliving;Нежить;;;;;;;;;;;;;x
+nick_the_insane;Безумный;;;;;;;;;;;;;x
 nick_eagle_eye;Орлиный Глаз;;;;;;;;;;;;;x
+nick_toad_eye;Жабий Глаз;;;;;;;;;;;;;x
 nick_orcthane;Тан Орков;;;;;;;;;;;;;x
 nick_farseer;Предсказатель;;;;;;;;;;;;;x
 nick_highlander;Горец;;;;;;;;;;;;;x
@@ -215,6 +222,7 @@ nick_the_barbarian;Варвар;;;;;;;;;;;;;x
 nick_the_mad;Безумный;;;;;;;;;;;;;x
 nick_the_battlemage;Боевой Маг;;;;;;;;;;;;;x
 nick_the_bear;Медведь;;;;;;;;;;;;;x
+nick_bearclaw;Медвежий Коготь;;;;;;;;;;;;;x
 nick_bear_slayer;Убийца Медведей;;;;;;;;;;;;;x
 nick_the_deceiver;Обманщик;;;;;;;;;;;;;x
 nick_the_impatient;Нетерпеливый;;;;;;;;;;;;;x
@@ -423,3 +431,6 @@ nick_the_dank;Холодный;;;;;;;;;;;;;x
 nick_the_malodorous;Зловонный;;;;;;;;;;;;;x
 nick_the_biteless;Безрезультатный;;;;;;;;;;;;;x
 nick_the_presentable;Презентабельный;;;;;;;;;;;;;x
+nick_head_rolling;Крутящий Голову;;;;;;;;;;;;;x
+nick_the_impassive;Бесстрастный;;;;;;;;;;;;;x
+nick_the_ghostmaker;Создающий Призраков;;;;;;;;;;;;;x

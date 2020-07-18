@@ -54,3 +54,11 @@ opinion_res_murdered_my_people;Убил моих людей;;;;;;;;;;;;;x
 opinion_res_exiled_my_people;Изгнал мой народ;;;;;;;;;;;;;x
 opinion_res_assimilated_my_people;Подавил мою культуру;;;;;;;;;;;;;x
 opinion_res_sheltered_my_emigrants;Укрывал моих беженцев;;;;;;;;;;;;;x
+hedonist_0_lover;Мало любовников\любовниц;;;;;;;;;;;;;x
+hedonist_0_lover_desc;Несмотря на учения гедонистической религии, у [Root.GetFirstName] нет любовника\любовницы.;;;;;;;;;;;;;x
+hedonist_1_lover;Гедонист - один любовник;;;;;;;;;;;;;x
+hedonist_1_lover_desc;У [Root.GetFirstName] есть любовник, следуя учениям [Root.Religion.GetName].;;;;;;;;;;;;;x
+hedonist_2_lover;Гедонист - два любовник;;;;;;;;;;;;;x
+hedonist_2_lover_desc;У [Root.GetFirstName] есть два любовника, следуя учениям [Root.Religion.GetName].;;;;;;;;;;;;;x
+hedonist_3_lover;Гедонист - множество любовников;;;;;;;;;;;;;x
+hedonist_3_lover_desc;У [Root.GetFirstName] есть множество любовников, следуя учениям [Root.Religion.GetName].;;;;;;;;;;;;;x

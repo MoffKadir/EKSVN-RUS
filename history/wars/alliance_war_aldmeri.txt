@@ -1,4 +1,4 @@
-name = "Альдмерская война за восстановление Империи"
+name = "Aldmeri War to Reclaim the Empire"
 
 casus_belli = {
 	actor = 36007 # Ayrenn Arana

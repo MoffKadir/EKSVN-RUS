@@ -1,4 +1,4 @@
-name = "Ричменское вторжение в Эвермор"
+name = "Reachman Invasion of Evermore"
 
 casus_belli = {
 	actor = 18040

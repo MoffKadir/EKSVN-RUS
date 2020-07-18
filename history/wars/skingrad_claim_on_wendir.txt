@@ -1,4 +1,4 @@
-name = "Скинградское завоевание Вендира"
+name = "Skingrad Conquest of Wendir"
 
 casus_belli = {
     actor = 6061 # Rislav II

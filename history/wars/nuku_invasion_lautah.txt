@@ -1,4 +1,4 @@
-name = "Война Нуку за покорение Коту"
+name = "Nuku Subjugation of Cotu"
 
 casus_belli = {
 	actor = 120410 # Nuku

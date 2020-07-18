@@ -1,4 +1,4 @@
-name = "Даггерфоллская война за освобождение Империи"
+name = "Daggerfall War to Liberate the Empire"
 
 casus_belli = {
 	actor = 15123 # Emeric Cumberland

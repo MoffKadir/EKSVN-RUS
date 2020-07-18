@@ -1,4 +1,4 @@
-name = "Вторжение Камаль в Морровинд"
+name = "Kamal Invasion of Morrowind"
 
 casus_belli = {
 	actor = 123093 # Ada'Soom Dir-Kamal

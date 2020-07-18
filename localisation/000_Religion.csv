@@ -1462,6 +1462,7 @@ FEATURE_PATRONS;\n§Y*§! Не циничные персонажи могут выбрать божество-покровителя
 FEATURE_ANTI_SLAVERY;\n§Y*§! Нельзя практиковать рабство;;;;;;;;;;;;;x
 FEATURE_ANTI_UNDEAD;\n§Y*§! Можно предпринять агрессивные действия против нежити;;;;;;;;;;;;;x
 FEATURE_PRO_UNDEAD;\n§Y*§! Персонажи гораздо более восприимчивы к нежити;;;;;;;;;;;;;x
+FEATURE_PRO_LYCAN;\n§Y*§! К ликантропии относятся терпимо, или даже считают благословением;;;;;;;;;;;;;x
 FEATURE_MOTH_PRIESTS;\n§Y*§! Может присоединиться к Жрецам Мотылька;;;;;;;;;;;;;x
 FEATURE_MANE;\n§Y*§! Когда Грива умирает, среди котов Эльсвейра появляется новый;;;;;;;;;;;;;x
 FEATURE_SOULLESS_WARRIORS;\n§Y*§! Благочестивые и могущественные персонажи могут обменять свою душу на темные силы;;;;;;;;;;;;;x
@@ -1474,6 +1475,7 @@ FEATURE_DYNAMIC;\n§Y*§! Религиозный лидер может изменить основные принципы веры;
 FEATURE_FEWER_INFESTATIONS;\n§Y*§! Правители и провинции менее подвержены заражению;;;;;;;;;;;;;x
 FEATURE_COLLEGE_CARDINALS;\n§Y*§! Благочестивые персонажи могут стать выборщиками и выбрать религиозного руководителя после его смерти;;;;;;;;;;;;;x
 FEATURE_RITUAL_CANNIBALISM;\n§Y*§! Персонажи могут есть мясо своих пленников и врагов;;;;;;;;;;;;;x
+FEATURE_CARNAL_EXALTATION;\n§Y*§! Персонажам предлагается взять множество любовников и наслаждаются удовольствиями плоти;;;;;;;;;;;;;x
 #
 getfeatures_list;§YОсобые возможности§!:[This.GetFringe][This.GetPatrons][This.GetAntiSlavery][This.GetAntiUndead][This.GetMothPriests][This.GetMane][This.GetSoullessWarriors][This.GetHistSymbioticBound][This.GetHistRefocusConnection][This.GetPilgrimage][This.GetCanSummonDragons][This.GetDynamicFaith];;;;;;;;;;;;;x
 ##
@@ -1506,9 +1508,11 @@ pyandoneaic_FEATURES;§YОсобые возможности§!:[This.GetFringe][This.GetPatrons][Th
 postorgnumic_FEATURES;§YОсобые возможности§!:[This.GetFringe][This.GetPatrons];;;;;;;;;;;;;x
 # Tsaesci Pantheon
 five_courts_FEATURES;§YОсобые возможности§!:[This.GetPatrons];;;;;;;;;;;;;x
+sun_court_FEATURES;§YОсобые возможности§!:[This.GetCollegeCardinals];;;;;;;;;;;;;x
 # Tang Mo Pantheon
 tangmo_pantheon_FEATURES;§YОсобые возможности§!:[This.GetPatrons][This.GetAntiUndead];;;;;;;;;;;;;x
 bhut_cult_FEATURES;§YОсобые возможности§!:[This.GetAntiUndead];;;;;;;;;;;;;x
+shani_cult_FEATURES;§YОсобые возможности§!:[This.GetHedonistic];;;;;;;;;;;;;x
 # Kamal Pantheon
 kamal_pantheon_FEATURES;§YОсобые возможности§!:[This.GetAntiUndead][This.GetPilgrimage];;;;;;;;;;;;;x
 winter_wind_FEATURES;§YОсобые возможности§!:[This.GetPilgrimage][This.GetProUndead];;;;;;;;;;;;;x

@@ -1,4 +1,4 @@
-name = "Cиродильское вторжение в Pиммен"
+name = "Cyrodilic Invasion of the Rim"
 
 casus_belli = {
     actor = 6629 # Attrebus

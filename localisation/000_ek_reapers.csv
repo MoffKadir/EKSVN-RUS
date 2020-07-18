@@ -15,7 +15,8 @@ DEATH_EXECUTION_SHOUTED_TO_PIECES_NO_KILLER;разорван(а) на куски криком;;;;;;;;;
 DEATH_MURDER_VAMPIRE;стал(а) пищей для вампира, $KILLER$;;;;;;;;;x
 DEATH_MURDER_VAMPIRE_UNKNOWN;стал(а) пищей для вампира;;;;;;;;;x
 DEATH_MURDER_LYCAN;был(а) растерзан(а) и убит(а) оборотнем, $KILLER$;;;;;;;;;x
-DEATH_MURDER_LYCAN_NO_UNKNOWN;был(а) растерзан(а) и убит(а) оборотнем;;;;;;;;;x
+DEATH_MURDER_LYCAN_UNKNOWN;был(а) растерзан(а) и убит(а) оборотнем;;;;;;;;;x
+DEATH_MURDER_LYCAN_UNKNOWN_NO_KILLER;был(а) растерзан(а) и убит(а) оборотнем;;;;;;;;;x
 DEATH_BASKING_SHARK;был(а) раздавлен(а) гигантской акулой;;;;;;;;;x
 DEATH_BASKING_SHARK_NO_KILLER;был(а) раздавлен(а) гигантской акулой;;;;;;;;;x
 DEATH_HORNETS;был(а) ужален(а) до смерти шершнями;;;;;;;;;x

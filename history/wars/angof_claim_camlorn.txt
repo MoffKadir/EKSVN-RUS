@@ -1,4 +1,4 @@
-name = "Война Ангофа за Гленумбру"
+name = "Angof's War for Dwynnen"
 
 casus_belli = {
 	actor = 18145 # Angof
