@@ -3,7 +3,7 @@
 #Heartlands Republic Families
 #Lex Dynasty
 100 = {
-	name = "Каиус"
+	name = "Кай"
 	dna = "fdgqradaaaa"
 	properties="dk0lod000000"
 	dynasty = 20239
@@ -45,7 +45,7 @@
 	3406.1.1 = { death = yes }
 }
 102 = {
-	name = "Клагиус"
+	name = "Клагий"
 	dynasty = 20239
 	religion = "eight_divines"
 	add_trait = imbecile
@@ -68,7 +68,7 @@
 	3411.1.1 = { death = yes }
 }
 104 = {
-	name = "Гергиус"
+	name = "Гергий"
 	dynasty = 20239
 	religion = "eight_divines"
 	culture = "imperial"
@@ -79,7 +79,7 @@
 	3430.1.1 = { death = yes }
 }
 105 = {
-	name = "Каиус"
+	name = "Кай"
 	dynasty = 20239
 	religion = "eight_divines"
 	culture = "imperial"
@@ -90,7 +90,7 @@
 	3450.1.1 = { death = yes }
 }
 106 = {
-	name = "Авгуриус"
+	name = "Авгурий"
 	dynasty = 20239
 	religion = "eight_divines"
 	culture = "imperial"
@@ -107,7 +107,7 @@
 	3500.1.1 = { death = yes }
 }
 107 = {
-	name = "Долцеттус"
+	name = "Долцеттий"
 	dynasty = 20239
 	religion = "eight_divines"
 	culture = "imperial"
@@ -118,7 +118,7 @@
 	3530.1.1 = { death = yes }
 }
 108 = {
-	name = "Лутериус"
+	name = "Лютерий"
 	dynasty = 20239
 	religion = "eight_divines"
 	culture = "imperial"
@@ -131,7 +131,7 @@
 
 #Vitellius Dynasty
 125 = {
-	name = "Леииус"
+	name = "Леий"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -141,7 +141,7 @@
 	3400.1.1 = { death = yes }
 }
 126 = {
-	name = "Гумилис"
+	name = "Гумилий"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -162,7 +162,7 @@
 	3400.1.1 = { death = yes }
 }
 128 = {
-	name = "Гиованниус"
+	name = "Джованний"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -172,7 +172,7 @@
 	3440.1.1 = { death = yes }
 }
 129 = {
-	name = "Клеценциус"
+	name = "Клеценций"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -183,7 +183,7 @@
 	3475.1.1 = { death = yes }
 }
 130 = {
-	name = "Яриус"
+	name = "Ярий"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -206,7 +206,7 @@
 	3556.1.1 = { death = yes }
 }
 132 = {
-	name = "Корпулус"
+	name = "Корпул"
 	dynasty = 20451
 	religion = "eight_divines"
 	culture = "imperial"
@@ -217,7 +217,7 @@
 	3599.1.1 = { death = yes }
 }
 133 = {
-	name = Ярециус
+	name = Ареций
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -227,7 +227,7 @@
 	3604.1.1 = { death = yes }
 }
 134 = {
-	name = Терциа
+	name = Терция
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -238,7 +238,7 @@
 	3628.1.1 = { death = yes }
 }
 135 = {
-	name = Сергиус
+	name = Сергий
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -259,7 +259,7 @@
 	3678.1.1 = { death = yes }
 }
 137 = {
-	name = Орбициус
+	name = Орбиций
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -291,7 +291,7 @@
 	3763.1.1 = { death = yes }
 }
 140 = {
-	name = Аррияна
+	name = Арриана
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -302,7 +302,7 @@
 	3807.1.1 = { death = yes }
 }
 141 = {
-	name = Ациа
+	name = Ация
 	dynasty = 20451
 	culture = imperial
 	religion = eight_divines
@@ -359,7 +359,7 @@
 
 #Allectus Dynasty
 150 = {
-	name = "Марциус"
+	name = "Марций"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -368,7 +368,7 @@
 	3384.1.1 = { death = yes }
 }
 151 = {
-	name = "Риус"
+	name = "Рий"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -378,7 +378,7 @@
 	3422.1.1 = { death = yes }
 }
 152 = {
-	name = "Денелиус"
+	name = "Денелий"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -389,7 +389,7 @@
 	3465.1.1 = { death = yes }
 }
 153 = {
-	name = "Лутериус"
+	name = "Лютерий"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -400,7 +400,7 @@
 	3498.1.1 = { death = yes }
 }
 154 = {
-	name = "Ирлавиус"
+	name = "Ирлавий"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -411,7 +411,7 @@
 	3545.1.1 = { death = yes }
 }
 155 = {
-	name = "Процессус"
+	name = "Процесс"
 	dynasty = 20029
 	religion = "eight_divines"
 	culture = "imperial"
@@ -424,7 +424,7 @@
 
 #Sextus Dynasty
 175 = {
-	name = "Силиус"
+	name = "Силий"
 	dynasty = 20374
 	religion = "eight_divines"
 	culture = "imperial"
@@ -433,7 +433,7 @@
 	3404.1.1 = { death = yes }
 }
 176 = {
-	name = "Юлияна"
+	name = "Юлиана"
 	dynasty = 20374
 	religion = "eight_divines"
 	culture = "imperial"
@@ -444,7 +444,7 @@
 	3465.1.1 = { death = yes }
 }
 177 = {
-	name = "Паратус"
+	name = "Парат"
 	dynasty = 20374
 	religion = "eight_divines"
 	culture = "imperial"
@@ -455,7 +455,7 @@
 	3470.1.1 = { death = yes }
 }
 178 = {
-	name = "Леонидас"
+	name = "Леонид"
 	dynasty = 20374
 	religion = "eight_divines"
 	culture = "imperial"
@@ -466,7 +466,7 @@
 	3490.1.1 = { death = yes }
 }
 179 = {
-	name = "Космус"
+	name = "Косм"
 	dynasty = 20374
 	religion = "eight_divines"
 	culture = "imperial"
@@ -503,7 +503,7 @@
 
 #Petorrium Dynasty
 200 = {
-	name = "Геребанус"
+	name = "Геребан"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -512,7 +512,7 @@
 	3401.1.1 = { death = yes }
 }
 201 = {
-	name = "Вандораллус"
+	name = "Вандоралл"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -523,7 +523,7 @@
 	3432.1.1 = { death = yes }
 }
 202 = {
-	name = "Стриллиус"
+	name = "Стриллий"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -534,7 +534,7 @@
 	3460.1.1 = { death = yes }
 }
 203 = {
-	name = "Тицемиус"
+	name = "Тицемий"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -545,7 +545,7 @@
 	3496.1.1 = { death = yes }
 }
 204 = {
-	name = "Гадерус"
+	name = "Гадер"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -556,7 +556,7 @@
 	3540.1.1 = { death = yes }
 }
 205 = {
-	name = "Синнолиус"
+	name = "Синнолий"
 	dynasty = 20321
 	religion = "eight_divines"
 	culture = "imperial"
@@ -569,7 +569,7 @@
 
 #Osician Dynasty
 225 = {
-	name = "Белизариус" #Prehistory Duke of Pell's Gate
+	name = "Велизарий" #Prehistory Duke of Pell's Gate
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -584,7 +584,7 @@
 	}
 }
 226 = {
-	name = "Калвариус" #Count of Culotte (Interregnum)
+	name = "Галварий" #Count of Culotte (Interregnum)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -596,7 +596,7 @@
 	3400.1.1 = { death = yes }
 }
 227 = {
-	name = "Космус"
+	name = "Косм"
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -608,7 +608,7 @@
 	3398.1.1 = { death = yes }
 }
 228 = {
-	name = "Теранус" #Count of Alessia (Interregnum)
+	name = "Теран" #Count of Alessia (Interregnum)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -631,7 +631,7 @@
 	3421.1.1 = { death = yes }
 }
 230 = {
-	name = "Ксандериус" #Count of Culotte
+	name = "Зандерий" #Count of Culotte
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -642,7 +642,7 @@
 	3460.1.1 = { death = yes }
 }
 231 = {
-	name = "Паратус" #Duke of Sejanus (Reachmen)/(Kamal)
+	name = "Парат" #Duke of Sejanus (Reachmen)/(Kamal)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -653,7 +653,7 @@
 	3510.1.1 = { death = yes }
 }
 232 = {
-	name = "Веспазиус" #Count of Alessia
+	name = "Веспасий" #Count of Alessia
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -677,7 +677,7 @@
 	3490.1.1 = { death = yes }
 }
 234 = {
-	name = "Юстиниус" #Heir to Sejanus(d_heartlands) (Kamal)
+	name = "Юстиний" #Heir to Sejanus(d_heartlands) (Kamal)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -689,7 +689,7 @@
 	3547.1.1 = { death = yes }
 }
 235 = {
-	name = "Илендиус" #Heir to Sejanus(d_heartlands)
+	name = "Илендий" #Heir to Sejanus(d_heartlands)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -701,7 +701,7 @@
 	3551.1.1 = { death = yes }
 }
 236 = {
-	name = "Терциа" #Heir to Sejanus(d_heartlands)
+	name = "Терция" #Heir to Sejanus(d_heartlands)
 	dynasty = 20303
 	female = yes
 	religion = "eight_divines"
@@ -714,7 +714,7 @@
 	3572.1.1 = { death = yes }
 }
 237 = {
-	name = "Постумиус" #Heir to Sejanus(d_heartlands)
+	name = "Постумий" #Heir to Sejanus(d_heartlands)
 	dynasty = 20303
 	religion = "eight_divines"
 	culture = "imperial"
@@ -748,7 +748,7 @@
 	3631.1.1 = { death = yes }
 }
 240 = {
-	name = Санкциус
+	name = Санкций
 	dynasty = 20303
 	culture = imperial
 	religion = eight_divines
@@ -769,7 +769,7 @@
 	3695.1.1 = { death = yes }
 }
 242 = {
-	name = Халинус
+	name = Халин
 	dynasty = 20303
 	culture = imperial
 	religion = eight_divines
@@ -790,7 +790,7 @@
 	3754.1.1 = { death = yes }
 }
 244 = {
-	name = Эмилиус
+	name = Эмилий
 	dynasty = 20303
 	culture = imperial
 	religion = eight_divines
@@ -811,7 +811,7 @@
 	3812.1.1 = { death = yes }
 }
 246 = {
-	name = Ена
+	name = Эна
 	dynasty = 20303
 	culture = imperial
 	religion = eight_divines
@@ -822,7 +822,7 @@
 	3830.1.1 = { death = yes }
 }
 247 = {
-	name = Етциене
+	name = Этьенн
 	dynasty = 20303
 	culture = imperial
 	religion = eight_divines
@@ -844,7 +844,7 @@
 }
 #Ottus Dynasty
 250 = {
-	name = "Мариус"
+	name = "Марий"
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -855,7 +855,7 @@
 	3340.1.1 = { death = { death_reason = death_duel } }
 }
 251 = {
-	name = "Манилиус" #Duke of Pell's Gate (Interregnum)
+	name = "Манилий" #Duke of Pell's Gate (Interregnum)
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -874,7 +874,7 @@
 	3373.1.1 = { death = yes }
 }
 252 = {
-	name = "Коллатинус" #Duke of Pell's Gate
+	name = "Коллатин" #Duke of Pell's Gate
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -885,7 +885,7 @@
 	3420.1.1 = { death = yes }
 }
 253 = {
-	name = "Мавеус"
+	name = "Мавей"
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -896,7 +896,7 @@
 	3397.1.1 = { death = yes }
 }
 254 = {
-	name = "Салвиянус"
+	name = "Салвиян"
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -909,7 +909,7 @@
 	3373.1.1 = { death = yes }
 }
 255 = {
-	name = "Лувениус" #Count of Pell's Gate
+	name = "Лувений" #Count of Pell's Gate
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -920,7 +920,7 @@
 	3460.1.1 = { death = yes }
 }
 256 = {
-	name = "Манилиус" #Count of Pell's Gate (Reachmen)
+	name = "Манилий" #Count of Pell's Gate (Reachmen)
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -931,7 +931,7 @@
 	3490.1.1 = { death = yes }
 }
 257 = {
-	name = "Реглиус" #Count of Pell's Gate (Kamal)
+	name = "Реглий" #Count of Pell's Gate (Kamal)
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -942,7 +942,7 @@
 	3515.1.1 = { death = yes }
 }
 258 = {
-	name = "Зедриус" #Count of Pell's Gate
+	name = "Зедрий" #Count of Pell's Gate
 	dynasty = 20310
 	religion = "eight_divines"
 	culture = "imperial"
@@ -953,7 +953,7 @@
 	3547.1.1 = { death = yes }
 }
 259 = {
-	name = "Водияка" #Countess of Pell's Gate
+	name = "Водиака" #Countess of Pell's Gate
 	female = yes
 	dynasty = 20310
 	religion = "eight_divines"
@@ -1032,7 +1032,7 @@
 	3758.1.1 = { death = yes }
 }
 266 = {
-	name = Фуфициус
+	name = Фуфиций
 	dynasty = 20310
 	culture = imperial
 	religion = eight_divines
@@ -1053,7 +1053,7 @@
 	3808.1.1 = { death = yes }
 }
 268 = {
-	name = Калидорус
+	name = Калидор
 	dynasty = 20310
 	culture = imperial
 	religion = eight_divines
@@ -1074,7 +1074,7 @@
 	3862.1.1 = { death = yes }
 }
 270 = {
-	name = Етциене
+	name = Этьенн
 	dynasty = 20310
 	culture = imperial
 	religion = eight_divines
@@ -1086,7 +1086,7 @@
 }
 #Aerius Dynasty
 275 = {
-	name = "Маринус" #Duke of Urasek (Interregnum)
+	name = "Марин" #Duke of Urasek (Interregnum)
 	dynasty = 20009
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1097,7 +1097,7 @@
 }
 
 276 = {
-	name = "Ерциус" #Duke of Urasek
+	name = "Эрций" #Duke of Urasek
 	dynasty = 20009
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1109,7 +1109,7 @@
 }
 
 277 = {
-	name = "Раллус" #Duke of Urasek (Reachmen)
+	name = "Ралл" #Duke of Urasek (Reachmen)
 	dynasty = 20009
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1121,7 +1121,7 @@
 }
 
 278 = {
-	name = "Клибергус" #Duke of Urasek (Kamal)
+	name = "Клиберг" #Duke of Urasek (Kamal)
 	dynasty = 20009
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1144,7 +1144,7 @@
 	3546.1.1 = { death = yes }
 }
 280 = {
-	name = "Епонис" #Heir to Urasek
+	name = "Эпонис" #Heir to Urasek
 	dynasty = 20009
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1157,7 +1157,7 @@
 }
 
 281 = {
-	name = Матциус
+	name = Матций
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1178,7 +1178,7 @@
 	3632.1.1 = { death = yes }
 }
 283 = {
-	name = Гавденциус
+	name = Гауденций
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1188,7 +1188,7 @@
 	3646.1.1 = { death = yes }
 }
 284 = {
-	name = Норбанус
+	name = Норбан
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1198,7 +1198,7 @@
 	3675.1.1 = { death = yes }
 }
 285 = {
-	name = Плавциус
+	name = Плавций
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1260,7 +1260,7 @@
 	3836.1.1 = { death = yes }
 }
 291 = {
-	name = Саланиус
+	name = Саланий
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1270,7 +1270,7 @@
 	3866.1.1 = { death = yes }
 }
 292 = {
-	name = Вулиус
+	name = Вулий
 	dynasty = 20009
 	culture = imperial
 	religion = eight_divines
@@ -1281,7 +1281,7 @@
 }
 #Antonius Dynasty
 300 = {
-	name = "Руфинус" #Count of Chalman (Interregnum)
+	name = "Руфин" #Count of Chalman (Interregnum)
 	dynasty = 20056
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1292,7 +1292,7 @@
 }
 
 301 = {
-	name = "Фазилус" #Count of Chalman
+	name = "Фазил" #Count of Chalman
 	dynasty = 20056
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1328,7 +1328,7 @@
 	3505.1.1 = { death = yes }
 }
 304 = {
-	name = "Сурус"
+	name = "Сур"
 	dynasty = 20056
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1339,7 +1339,7 @@
 	3510.1.1 = { death = yes }
 }
 305 = {
-	name = "Галлус"
+	name = "Галл"
 	dynasty = 20056
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1377,7 +1377,7 @@
 	3436.1.1 = { death = yes }
 }
 352 = {
-	name = "Брускус" #Duke of Virtue (Reachmen)
+	name = "Бруск" #Duke of Virtue (Reachmen)
 	dynasty = 20351
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1388,7 +1388,7 @@
 	3470.1.1 = { death = yes }
 }
 353 = {
-	name = "Глабриус" #Duke of Virtue (Kamal)
+	name = "Глабрий" #Duke of Virtue (Kamal)
 	dynasty = 20351
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1435,7 +1435,7 @@
 	3595.1.1 = { death = yes }
 }
 357 = {
-	name = Еураксия
+	name = Эвраксия
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1446,7 +1446,7 @@
 	3634.1.1 = { death = yes }
 }
 358 = {
-	name = Плиниус
+	name = Плиний
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1456,7 +1456,7 @@
 	3663.1.1 = { death = yes }
 }
 359 = {
-	name = Гуалциерус
+	name = Гвалцерус
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1466,7 +1466,7 @@
 	3683.1.1 = { death = yes }
 }
 360 = {
-	name = Адриян
+	name = Адриан
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1486,7 +1486,7 @@
 	3723.1.1 = { death = yes }
 }
 362 = {
-	name = Карфуленус
+	name = Карфулен
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1496,7 +1496,7 @@
 	3767.1.1 = { death = yes }
 }
 363 = {
-	name = Розенциа
+	name = Розенция
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1507,7 +1507,7 @@
 	3788.1.1 = { death = yes }
 }
 364 = {
-	name = Туллус
+	name = Тулл
 	dynasty = 20351
 	culture = imperial
 	religion = eight_divines
@@ -1539,7 +1539,7 @@
 }
 # Umbranox Dynasty
 400 = {
-	name = "Веланиус" # Count of Nikel (Interregnum)
+	name = "Веланий" # Count of Nikel (Interregnum)
 	dynasty = 20411
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1562,7 +1562,7 @@
 	3417.1.1 = { death = yes }
 }
 402 = {
-	name = "Капитониус" #Count of Nikel
+	name = "Капитоний" #Count of Nikel
 	dynasty = 20411
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1573,7 +1573,7 @@
 	3455.1.1 = { death = yes }
 }
 403 = {
-	name = "Адонациус" #Count of Nikel (Reachmen)
+	name = "Адонаций" #Count of Nikel (Reachmen)
 	dynasty = 20411
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1584,7 +1584,7 @@
 	3490.1.1 = { death = yes }
 }
 404 = {
-	name = "Флавиус" #Duke of Rumare (Kamal)
+	name = "Флавий" #Duke of Rumare (Kamal)
 	dynasty = 20411
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1599,7 +1599,7 @@
 	3515.1.1 = { death = yes }
 }
 405 = {
-	name = "Флавиус" #Duke of Rumare (Kamal)
+	name = "Флавий" #Duke of Rumare (Kamal)
 	dynasty = 20411
 	religion = "eight_divines"
 	culture = "imperial"
@@ -1668,7 +1668,7 @@
 	3698.1.1 = { death = yes }
 }
 411 = {
-	name = Галлиниус
+	name = Галлиний
 	dynasty = 20411
 	culture = imperial
 	religion = eight_divines
@@ -1689,7 +1689,7 @@
 	3763.1.1 = { death = yes }
 }
 413 = {
-	name = Едвина
+	name = Эдвина
 	dynasty = 20411
 	culture = imperial
 	religion = eight_divines
@@ -1700,7 +1700,7 @@
 	3787.1.1 = { death = yes }
 }
 414 = {
-	name = Плавциа
+	name = Плавция
 	dynasty = 20411
 	culture = imperial
 	religion = eight_divines
@@ -1721,7 +1721,7 @@
 	3855.1.1 = { death = yes }
 }
 416 = {
-	name = Розенциа
+	name = Розенция
 	dynasty = 20411
 	culture = imperial
 	religion = eight_divines
@@ -1790,7 +1790,7 @@
 	3674.1.1 = { death = yes }
 }
 455 = {
-	name = Елигиус
+	name = Элигий
 	dynasty = 20396
 	culture = imperial
 	religion = eight_divines
@@ -1841,7 +1841,7 @@
 	3833.1.1 = { death = yes }
 }
 460 = {
-	name = Велиус
+	name = Велий
 	dynasty = 20396
 	culture = imperial
 	religion = eight_divines
@@ -1917,7 +1917,7 @@
 
 #Mayors of Aleswell
 2000 = {
-	name = "Клазомиус"
+	name = "Клазомий"
 	religion = "eight_divines"
 	culture = "imperial"
 	add_trait = imperial
@@ -1926,7 +1926,7 @@
 	3482.1.1 = { death = yes }
 }
 2001 = {
-	name = "Игнациус"
+	name = "Игнаций"
 	religion = "eight_divines"
 	culture = "imperial"
 	add_trait = imperial
@@ -1935,7 +1935,7 @@
 	3507.1.1 = { death = yes }
 }
 2002 = {
-	name = "Немиус"
+	name = "Немий"
 	religion = "eight_divines"
 	culture = "imperial"
 	add_trait = imperial
@@ -1998,7 +1998,7 @@
 	3728.1.1 = { death = yes }
 }
 2009 = {
-	name = Гаргониус
+	name = Гаргоний
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial
@@ -2023,7 +2023,7 @@
 	3817.1.1 = { death = yes }
 }
 2012 = {
-	name = Нумициус
+	name = Нумиций
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial
@@ -2031,7 +2031,7 @@
 	3852.1.1 = { death = yes }
 }
 2013 = {
-	name = Албациус
+	name = Албаций
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial
@@ -2049,7 +2049,7 @@
 	3493.1.1 = { death = yes }
 }
 2051 = {
-	name = "Дионус"
+	name = "Дион"
 	religion = "eight_divines"
 	culture = "imperial"
 	add_trait = imperial
@@ -2060,7 +2060,7 @@
 
 #Invokers of Magia
 2100 = {
-	name = "Брускус"
+	name = "Бруск"
 	religion = eight_divines
 	culture = "imperial"
 	add_trait = imperial
@@ -2068,7 +2068,7 @@
 	3388.1.1 = { death = yes }
 }
 2101 = {
-	name = "Яриус"
+	name = "Ярий"
 	religion = eight_divines
 	culture = "imperial"
 	add_trait = imperial
@@ -2084,7 +2084,7 @@
 	3442.1.1 = { death = yes }
 }
 2103 = {
-	name = "Алетиус"
+	name = "Алетий"
 	religion = eight_divines
 	culture = "imperial"
 	add_trait = imperial
@@ -2198,7 +2198,7 @@
 	3650.1.1 = { death = yes }
 }
 2160 = {
-	name = Едана
+	name = Эдана
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial
@@ -2240,7 +2240,7 @@
 	3805.1.1 = { death = yes }
 }
 2165 = {
-	name = Корфидиус
+	name = Корфидий
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial
@@ -2248,7 +2248,7 @@
 	3831.1.1 = { death = yes }
 }
 2166 = {
-	name = Вителлиус
+	name = Вителлий
 	culture = imperial
 	religion = eight_divines
 	add_trait = imperial

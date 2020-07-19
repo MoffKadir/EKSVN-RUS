@@ -976,12 +976,12 @@
 }
 
 20195 = {
-	name="Гравиус"
+	name="Гравий"
 	culture = imperial
 }
 
 20196 = {
-	name="Гриниус"
+	name="Гриний"
 	culture = imperial
 }
 
@@ -1021,7 +1021,7 @@
 }
 
 20204 = {
-	name="Горатиус"
+	name="Гораций"
 	culture = imperial
 }
 
@@ -1231,7 +1231,7 @@
 }
 
 20246 = {
-	name="Люсиус"
+	name="Люций"
 	culture = imperial
 }
 
@@ -1761,7 +1761,7 @@
 }
 
 20352 = {
-	name="Квинтиллиус"
+	name="Квинтиллий"
 	culture = imperial
 }
 
@@ -2357,10 +2357,10 @@
 	culture = imperial
 }
 20473 = { #Intentional Duplicate
-	name = "Терентиус"
+	name = "Теренций"
 	culture = imperial
 }
 20474 = {
-	name = "Каереллиус"
+	name = "Каереллий"
 	culture = imperial
 }
