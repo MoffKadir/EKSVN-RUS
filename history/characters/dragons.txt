@@ -121,7 +121,7 @@
 # #
 # #}
 # 352004 = {
-	# name = "Нахфахлаар"
+	# name = "Нафалар"
 	# dna = "eeeeeeeeeee"
 	# properties = "00000000000000"
 	# culture = dovah

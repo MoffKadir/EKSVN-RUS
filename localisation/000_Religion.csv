@@ -1457,7 +1457,7 @@ convert_to_dragon_cult_desc;Драконы правили человечеством тысячелетия назад. С т
 convert_to_pyandoneaic;Почтить Оргнума;;;;;;;;;;;;;x
 convert_to_pyandoneaic_desc;Для некоторых Оргнум умер, но истинные верующие знают, что его смертная сущность должна была быть принесена в жертву, чтобы он занял свое место среди звезд и привел нас к славе, которой мы заслуживаем.;;;;;;;;;;;;;x
 ### Religious features
-FEATURE_FRINGE;\n§Y*§! Считается незначительной религией;;;;;;;;;;;;;x
+FEATURE_FRINGE;\n§Y*§! Считается крайне радикальной религией;;;;;;;;;;;;;x
 FEATURE_PATRONS;\n§Y*§! Не циничные персонажи могут выбрать божество-покровителя;;;;;;;;;;;;;x
 FEATURE_ANTI_SLAVERY;\n§Y*§! Нельзя практиковать рабство;;;;;;;;;;;;;x
 FEATURE_ANTI_UNDEAD;\n§Y*§! Можно предпринять агрессивные действия против нежити;;;;;;;;;;;;;x
@@ -1502,7 +1502,7 @@ almsivi_FEATURES;§YОсобые возможности§!:[This.GetPatrons][This.GetAntiUndead][Th
 reclamationist_FEATURES;§YОсобые возможности§!:[This.GetPatrons][This.GetAntiUndead];;;;;;;;;;;;;x
 almsivi_old_velothi_FEATURES;§YОсобые возможности§!:[This.GetPatrons][This.GetAntiUndead];;;;;;;;;;;;;x
 nerevarine_FEATURES;§YОсобые возможности§!:[This.GetPatrons][This.GetAntiUndead];;;;;;;;;;;;;x
-sixth_house_FEATURES;§YОсобые возможности§!:[This.GetAntiUndead];;;;;;;;;;;;;x
+sixth_house_FEATURES;§YОсобые возможности§!:[This.GetFringe][This.GetAntiUndead];;;;;;;;;;;;;x
 # Pyandoneaic Pantheon
 pyandoneaic_FEATURES;§YОсобые возможности§!:[This.GetFringe][This.GetPatrons][This.GetDynamicFaith][GetPyandoneaicAntiUndead][GetPyandoneaicSummonDragons];;;;;;;;;;;;;x
 postorgnumic_FEATURES;§YОсобые возможности§!:[This.GetFringe][This.GetPatrons];;;;;;;;;;;;;x
