@@ -1434,18 +1434,18 @@ eldercouncil.2802.challenge.lord_spiritual;Ќаши записи отличаютс€!;;;;;;;;;;;;;x
 eldercouncil.2802.ignore;ѕусть все идет своим чередом.;;;;;;;;;;;;;x
 eldercouncil.2805.desc.placeholder;—ледующие минуты € провожу, размышл€€ над обоснованием и неточност€ми аргументов, которые предоставил(а) [From.GetElderCouncilFirstName] и раздумыва€ свой ответ. ’от€ [From.GetHerHis] позици€ необоснованна, € не могу оставить это без ответа, и, по крайней мере, некоторые советники согласны со мной.;;;;;;;;;;;;;x
 eldercouncil.2805.accept;я займу свое место.;;;;;;;;;;;;;x
-eldercouncil.2806.desc;As I take my seat, it seems that most councillors are muttering grumblings of agreement with my arguments. The debate has clearly gone in my favour.;;;;;;;;;;;;;x
+eldercouncil.2806.desc; огда € занимаю свое место, кажетс€, что большинство советников одобрили мои аргументы. ƒебаты €вно прошли в мою пользу.;;;;;;;;;;;;;x
 eldercouncil.2806.gain_currency;я завоевал(а) уважение.;;;;;;;;;;;;;x
 eldercouncil.2806.gain_modifier;я получил(а) бесценный опыт.;;;;;;;;;;;;;x
-eldercouncil.2807.desc;As I take my seat, most councillors are either silent or voicing vocal disagreements. It seems that [From.GetElderCouncilFirstName] has managed to win the support of most of the Council during our debate.;;;;;;;;;;;;;x
-eldercouncil.2807.nice;[From.GetSheHeCap] was very convincing.;;;;;;;;;;;;;x
-eldercouncil.2807.mean;I will not be humiliated!;;;;;;;;;;;;;x
-eldercouncil.2808.desc;As I take my seat, it doesn't look like many of the other councillors are invested in either of our arguments. After some brief murmurs, the meeting quickly gets back to business as if nothing happened.;;;;;;;;;;;;;x
-eldercouncil.2808.accept;A good effort.;;;;;;;;;;;;;x
-eldercouncil.2809.desc;[From.GetElderCouncilFirstName] approaches me discreetly after the meeting. "Well argued today," [From.GetSheHe] says to me, "I'm glad we have minds like yours in the Elder Council.";;;;;;;;;;;;;x
-eldercouncil.2809.accept;You were a gracious opponent.;;;;;;;;;;;;;x
+eldercouncil.2807.desc; огда € занимаю свое место, большинство советников либо молчат, либо озвучивают свои возражени€. ѕохоже, что [From.GetElderCouncilFirstName] удалось заручитьс€ поддержкой большинства членов —овета во врем€ заседани€.;;;;;;;;;;;;;x
+eldercouncil.2807.nice;[From.GetSheHeCap] был[From.GetEndA] очень убедительным.;;;;;;;;;;;;;x
+eldercouncil.2807.mean;я не буду унижатьс€!;;;;;;;;;;;;;x
+eldercouncil.2808.desc; огда € занимаю свое место, похоже, что многих советников не убедили ни один из наших аргументов. ѕосле небольшой паузы заседание продолжилось, словно ничего не происходило.;;;;;;;;;;;;;x
+eldercouncil.2808.accept;’орошие усили€.;;;;;;;;;;;;;x
+eldercouncil.2809.desc;[From.GetElderCouncilFirstName] незаметно подходит ко мне после заседани€. "’орошее выступление," говорит мне [From.GetSheHe], "я рад[From.GetEndA], что в —овете —тарейшин есть такие разумные личности, как вы.";;;;;;;;;;;;;x
+eldercouncil.2809.accept;¬ы были достойным оппонентом.;;;;;;;;;;;;;x
 eldercouncil.2810.desc;[From.GetElderCouncilFirstName] has not stopped glaring at me since our debate earlier. I believe I may have upset [From.GetHerHim] by thoroughly trouncing them in front of the Council.;;;;;;;;;;;;;x
-eldercouncil.2810.accept;Very unbecoming.;;;;;;;;;;;;;x
+eldercouncil.2810.accept;ќчень недостойно.;;;;;;;;;;;;;x
 eldercouncil.2813.desc;[From.GetElderCouncilFirstName] seems to be having some difficulty in keeping up with [From.GetHerHis] administrative tasks. I have some spare time and may be able to help lend [From.GetHerHim] a hand with things.;;;;;;;;;;;;;x
 eldercouncil.2813.help;I'll see if [From.GetSheHe] wants help.;;;;;;;;;;;;;x
 eldercouncil.2813.dont_help;That sounds like [From.GetHerHis] problem.;;;;;;;;;;;;;x
